@@ -14,5 +14,7 @@
       "followed": null,
       "status": "below-bar"
     }
-  ]
+  ],
+  "hidden": true,
+  "hidden_note": "Hidden: Dan kept the Original Macclesfield (002). Delete these two lines to show it again."
 }

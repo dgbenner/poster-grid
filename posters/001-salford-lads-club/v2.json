@@ -1,0 +1,893 @@
+{
+  "pin_id": "salford-lads-club",
+  "number": 1,
+  "series": "serif",
+  "created_at": "2026-10-11T22:59:37.625Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "closer",
+    "sentence": "Visitors come for one doorway, so the club is seen three times, each view larger and nearer, climbing a stair from a common floor until the green doors fill the last square."
+  },
+  "title": "Salford Lads Club",
+  "place": {
+    "town": "Salford",
+    "locality": "Lower Broughton",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4793&lon=-2.2649&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Blackfriars, Lower Broughton, Salford, Greater Manchester, England, M3 6JH, United Kingdom"
+  },
+  "pairing": "serif-newsreader",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#6F3F31",
+      "role": "headline"
+    },
+    {
+      "hex": "#353D20",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#C46F5C",
+      "source": "photo 0",
+      "light": 3,
+      "dark": 5
+    },
+    {
+      "hex": "#6F3F31",
+      "source": "photo 3",
+      "light": 7.2,
+      "dark": 2.1
+    },
+    {
+      "hex": "#D16722",
+      "source": "photo 1",
+      "light": 3.1,
+      "dark": 4.9
+    },
+    {
+      "hex": "#93815D",
+      "source": "photo 4",
+      "light": 3.1,
+      "dark": 4.8
+    },
+    {
+      "hex": "#353D20",
+      "source": "photo 3",
+      "light": 9.5,
+      "dark": 1.6
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Salford\nLads Club"
+    },
+    {
+      "element": "county",
+      "text": "Ordsall · Salford\nGreater Manchester"
+    },
+    {
+      "element": "lead",
+      "text": "On the corner of St Ignatius Walk and Coronation Street, in the Ordsall area of Salford."
+    },
+    {
+      "element": "body",
+      "text": "Established in 1903 as a purpose-built club for boys, it now welcomes people of both sexes. Visitors from around the world come on dedicated open days."
+    },
+    {
+      "element": "doorway-cue",
+      "text": "The doorway"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Salford_Lads'_Club"
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/salford-lads-club/commons-3.jpg",
+      "title": "File:Club, St Ignatius Way, Salford - geograph.org.uk - 7866478.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Club,_St_Ignatius_Way,_Salford_-_geograph.org.uk_-_7866478.jpg",
+      "author": "Stephen Richards",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 687,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fbfbfb",
+            "share": 0.291
+          },
+          {
+            "hex": "#6f3f31",
+            "share": 0.277
+          },
+          {
+            "hex": "#606460",
+            "share": 0.211
+          },
+          {
+            "hex": "#353d20",
+            "share": 0.191
+          },
+          {
+            "hex": "#96999b",
+            "share": 0.03
+          }
+        ],
+        "strongest": "#6f3f31"
+      },
+      "credit": "Stephen Richards, CC BY-SA 2.0"
+    },
+    {
+      "kind": "personal",
+      "file": "data/images/salford-lads-club/own-salford-lads-club.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/salford-lads-club.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#875852",
+            "share": 0.33
+          },
+          {
+            "hex": "#c46f5c",
+            "share": 0.312
+          },
+          {
+            "hex": "#3f4238",
+            "share": 0.131
+          },
+          {
+            "hex": "#f9f8fa",
+            "share": 0.126
+          },
+          {
+            "hex": "#9e9397",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#c46f5c"
+      },
+      "credit": "Waypoints photo, personal use"
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/salford-lads-club/commons-1.jpg",
+      "title": "File:Salford Lads Club (6).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salford_Lads_Club_(6).jpg",
+      "author": "Rept0n1x",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d8dbdb",
+            "share": 0.416
+          },
+          {
+            "hex": "#3e2f28",
+            "share": 0.317
+          },
+          {
+            "hex": "#78412c",
+            "share": 0.147
+          },
+          {
+            "hex": "#d16722",
+            "share": 0.087
+          },
+          {
+            "hex": "#9e9186",
+            "share": 0.033
+          }
+        ],
+        "strongest": "#d16722"
+      },
+      "credit": "Rept0n1x, CC BY-SA 2.0"
+    }
+  ],
+  "images_used": [
+    "data/images/salford-lads-club/commons-3.jpg",
+    "data/images/salford-lads-club/own-salford-lads-club.jpg",
+    "data/images/salford-lads-club/commons-1.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 8,
+      "row": 2,
+      "row_span": 3,
+      "text": "Salford\nLads Club",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 2,
+      "row_span": 1,
+      "text": "Ordsall · Salford\nGreater Manchester",
+      "style": null,
+      "color": "muted",
+      "align": "right",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 5,
+      "row": 5,
+      "row_span": 2,
+      "text": "On the corner of St Ignatius Walk and Coronation Street, in the Ordsall area of Salford.",
+      "style": "lead",
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 5,
+      "row": 7,
+      "row_span": 2,
+      "text": "Established in 1903 as a purpose-built club for boys, it now welcomes people of both sexes. Visitors from around the world come on dedicated open days.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "doorway-cue",
+      "kind": "label",
+      "col": 7,
+      "col_span": 2,
+      "row": 6,
+      "row_span": 1,
+      "text": "The doorway",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-1-street",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 2,
+      "row": 11,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 3,
+      "zoom": 1.2,
+      "focus_x": 0.4,
+      "focus_y": 0.5,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-2-corner",
+      "kind": "photo",
+      "col": 3,
+      "col_span": 4,
+      "row": 9,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.4,
+      "focus_x": 0.62,
+      "focus_y": 0.62,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-3-doorway",
+      "kind": "photo",
+      "col": 7,
+      "col_span": 6,
+      "row": 7,
+      "row_span": 6,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 3.2,
+      "focus_x": 0.39,
+      "focus_y": 0.78,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 7,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The stair works: three views share a floor at the bottom of row 12, and they climb 2, 4 and 6 rows across columns 1–2, 3–6 and 7–12. The last step does not make the green doors fill the square, though. In view-3 the doors take only the lower third of rows 7–12, and the top two rows are wall and window. Crop view-3 tighter, about 4.5× and anchored low, so the doors and fanlight fill rows 8–12.",
+      "View-2 (columns 3–6, rows 9–12) and view-3 show almost the same framing of the same doorway, so the 'nearer' step reads as a repeat. Pull view-2 back to the whole corner, roof to pavement, so each step is a clear jump in distance.",
+      "View-1 is 2 columns by 2 rows, but its image fills only part of that cell, leaving a pale strip above it in row 11. Either fill columns 1–2 across rows 11–12 completely, or make it a true 2×2 square, so its top edge sits on a row line like the other two.",
+      "The doorway-cue label sits in row 6 above columns 7–8, a full row above view-3, which starts at row 7. It floats away from what it labels. Drop it to the last baseline of row 6, touching the top of view-3, or move it inside the photo's top-left module.",
+      "The lead sets four lines across columns 1–5 at a size close to the headline's counterweight, and the rag breaks awkwardly at 'St / Ignatius'. Rebreak it so 'St Ignatius Walk' stays on one line, or narrow it to columns 1–4 for a calmer rag.",
+      "The body ends in row 8. Rows 9–10 over columns 1–2 are empty above view-1, and that gap is good because it marks the bottom of the stair. Keep it empty, but align the body's last baseline to the bottom of row 8.",
+      "The headline spans columns 1–8 over rows 2–4, and the county label in columns 9–12 of row 2 balances it well. Columns 9–12 in rows 3–5 are left empty; that is fine and should stay.",
+      "Colour: the brown headline (#6F3F31) echoes the brick, and the olive lead (#353D20) is meant to echo the green doors. The olive reads near-black, though. Shift the accent toward the door green so the lead and the final doors connect."
+    ],
+    "summary": "The three views form a clear stair from a shared floor in row 12, and the headline block is confident. The payoff is weak: the last view does not fill with the green doors, view-2 nearly repeats view-3, and the doorway-cue floats a row above its photo. Recrop the last two views and seat the label on view-3.",
+    "mean": 6.8
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "closer",
+      "mean": 6.6,
+      "scores": {
+        "idea": 6,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.8,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "serif-newsreader",
+      "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+      "serif": true,
+      "headline": {
+        "family": "Newsreader",
+        "weight": 400,
+        "tracking": -0.015
+      },
+      "text": {
+        "family": "IBM Plex Sans",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Newsreader:opsz,wght@6..72,300..600",
+        "IBM+Plex+Sans:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#6F3F31",
+      "accent": "#353D20",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Salford Lads Club",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater Manchester",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "01 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Salford Lads Club"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater Manchester"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Personal"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Credits below"
+      },
+      {
+        "id": "credits",
+        "name": "Footer: credits",
+        "kind": "credits",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1,
+        "text": "\n\n\nPhotos: Stephen Richards, CC BY-SA 2.0; Waypoints photo, personal use; Rept0n1x, CC BY-SA 2.0"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 8,
+        "r": 2,
+        "rs": 3,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Salford\nLads Club"
+      },
+      {
+        "id": "el-2",
+        "name": "county",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 2,
+        "rs": 1,
+        "color": "muted",
+        "align": "right",
+        "over": false,
+        "text": "Ordsall · Salford\nGreater Manchester"
+      },
+      {
+        "id": "el-3",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 5,
+        "r": 5,
+        "rs": 2,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "On the corner of St Ignatius Walk and Coronation Street, in the Ordsall area of Salford.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 5,
+        "r": 7,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Established in 1903 as a purpose-built club for boys, it now welcomes people of both sexes. Visitors from around the world come on dedicated open days.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "doorway-cue",
+        "kind": "label",
+        "c": 7,
+        "cs": 2,
+        "r": 6,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "The doorway"
+      },
+      {
+        "id": "el-6",
+        "name": "view-1-street",
+        "kind": "photo",
+        "c": 1,
+        "cs": 2,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 3,
+        "src": "../data/images/salford-lads-club/commons-3.jpg",
+        "zoom": 1.2,
+        "focus": [
+          0.4,
+          0.5
+        ]
+      },
+      {
+        "id": "el-7",
+        "name": "view-2-corner",
+        "kind": "photo",
+        "c": 3,
+        "cs": 4,
+        "r": 9,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/salford-lads-club/own-salford-lads-club.jpg",
+        "zoom": 1.4,
+        "focus": [
+          0.62,
+          0.62
+        ]
+      },
+      {
+        "id": "el-8",
+        "name": "view-3-doorway",
+        "kind": "photo",
+        "c": 7,
+        "cs": 6,
+        "r": 7,
+        "rs": 6,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/salford-lads-club/commons-1.jpg",
+        "zoom": 3.2,
+        "focus": [
+          0.39,
+          0.78
+        ]
+      }
+    ]
+  },
+  "version": 2,
+  "image": "posters/001-salford-lads-club/v2.png",
+  "swapped_from": "serif-002-salford-lads-club v1"
+}

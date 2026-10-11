@@ -1,0 +1,661 @@
+{
+  "pin_id": "battersea-power-station",
+  "number": 3,
+  "series": "serif",
+  "created_at": "2026-10-11T22:45:49.643Z",
+  "model": "claude-opus-5-5",
+  "status": "pass",
+  "feedback": "Move the title to the bottom half of the page and use a different photo",
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "The station takes its name from Battersea, so the district's name spans the page beneath it, set just below the night-time Thames."
+  },
+  "title": "Battersea Power Station",
+  "place": {
+    "town": "London",
+    "locality": "Nine Elms",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Wandsworth",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4817738&lon=-0.1445821&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Nine Elms, London Borough of Wandsworth, Greater London, England, SW8 5EE, United Kingdom"
+  },
+  "pairing": "serif-garamond",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#814824",
+      "role": "headline"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#2B679C",
+      "source": "photo 1",
+      "light": 4.9,
+      "dark": 3
+    },
+    {
+      "hex": "#9FC2F6",
+      "source": "photo 4",
+      "light": 1.5,
+      "dark": 9.9
+    },
+    {
+      "hex": "#442418",
+      "source": "photo 3",
+      "light": 11.5,
+      "dark": 1.3
+    },
+    {
+      "hex": "#814824",
+      "source": "photo 3",
+      "light": 6,
+      "dark": 2.5
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "kicker",
+      "text": "Nine Elms · Wandsworth"
+    },
+    {
+      "element": "location",
+      "text": "Preserved coal-fired power station on the south bank of the Thames."
+    },
+    {
+      "element": "headline",
+      "text": "Battersea"
+    },
+    {
+      "element": "lead",
+      "text": "One of the world's largest brick buildings, with architects J. Theo Halliday and Giles Gilbert Scott."
+    }
+  ],
+  "facts_used": [
+    "Battersea Power Station is a preserved coal-fired power station located on the south bank of the River Thames in Nine Elms in the London Borough of Wandsworth.",
+    "The architects were J. Theo Halliday and Giles Gilbert Scott.",
+    "The station is one of the world's largest brick buildings."
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/battersea-power-station/commons-3.jpg",
+      "title": "File:Battersea Power Station, Nine Elms, London.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station,_Nine_Elms,_London.jpg",
+      "author": "David Samuel, User:Hellodavey1902",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5432,
+      "height": 3716,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#444853",
+            "share": 0.342
+          },
+          {
+            "hex": "#442418",
+            "share": 0.261
+          },
+          {
+            "hex": "#180604",
+            "share": 0.155
+          },
+          {
+            "hex": "#6a6f72",
+            "share": 0.152
+          },
+          {
+            "hex": "#814824",
+            "share": 0.091
+          }
+        ],
+        "strongest": "#442418"
+      },
+      "credit": "David Samuel, User:Hellodavey1902, CC BY-SA 3.0"
+    }
+  ],
+  "images_used": [
+    "data/images/battersea-power-station/commons-3.jpg"
+  ],
+  "elements": [
+    {
+      "name": "kicker",
+      "kind": "label",
+      "col": 1,
+      "col_span": 3,
+      "row": 2,
+      "row_span": 1,
+      "text": "Nine Elms · Wandsworth",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 4,
+      "col_span": 9,
+      "row": 2,
+      "row_span": 7,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 3,
+      "zoom": 1,
+      "focus_x": 0.6,
+      "focus_y": 0.5,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "location",
+      "kind": "text",
+      "col": 1,
+      "col_span": 3,
+      "row": 7,
+      "row_span": 2,
+      "text": "Preserved coal-fired power station on the south bank of the Thames.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 9,
+      "row_span": 2,
+      "text": "Battersea",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 8,
+      "row": 11,
+      "row_span": 2,
+      "text": "One of the world's largest brick buildings, with architects J. Theo Halliday and Giles Gilbert Scott.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 7,
+      "hierarchy": 7,
+      "type": 7,
+      "color": 8,
+      "followed": 8
+    },
+    "notes": [
+      "Followed: the headline now sits in rows 9–10, in the bottom half beneath the photo, and the night-time Thames image is new. I can't confirm it differs from the earlier photo choice, but it reads as a fresh image. The request is done, so followed scores high.",
+      "The headline spans all 12 columns, and that carries the 'name spans the page' idea. Its descender-free baseline sits tight under the photo's bottom edge at row 8. Keep the full span, but hang the cap B optically so its stem aligns with the column 1 edge; it currently overhangs slightly to the left of the lead text.",
+      "The lead spans columns 1–8 in rows 11–12 at a large size, so each line breaks at only about 30 characters and the rag is uneven ('Theo' / 'Halliday'). Either narrow it to columns 1–6 at one size smaller, or keep 8 columns and reduce the size so the rag settles. Leave columns 9–12 of rows 11–12 empty as they are now.",
+      "The location caption in columns 1–3 sits at rows 7–8, but its first line floats mid-row. Drop it so its last baseline lands on the photo's bottom edge at row 8, and its foot shares a line with the image.",
+      "The kicker in column 1–3, row 2 aligns its cap height with the photo top, which is good. Rows 3–6 of columns 1–3 stay empty, an intentional void that lets the photo lean right. Keep it.",
+      "Color: #814824 picks up the brick and sodium lights in the photo, so the accent, the photo and the warm-grey paper work as one. No change needed."
+    ],
+    "summary": "This version follows Dan: the title moves to the bottom half and the photo is new. The 12-column headline under a 9-column photo makes the idea legible. Remaining fixes are small: tighten the lead's measure and rag in columns 1–8, align the caption's foot to the bottom of row 8, and optically align the B to column 1.",
+    "mean": 7.3
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 7.3,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 8,
+        "followed": 8
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "serif-garamond",
+      "name": "EB Garamond / Inter / IBM Plex Mono",
+      "serif": true,
+      "headline": {
+        "family": "EB Garamond",
+        "weight": 400,
+        "tracking": -0.015
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "EB+Garamond:wght@400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#814824",
+      "accent": "#1D1D1B",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Battersea Power Station",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater London · Wandsworth",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "03 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Battersea Power Station"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater London · Wandsworth"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Modern"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "David Samuel, User:Hellodavey1902, CC BY-SA 3.0"
+      },
+      {
+        "id": "el-1",
+        "name": "kicker",
+        "kind": "label",
+        "c": 1,
+        "cs": 3,
+        "r": 2,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Nine Elms · Wandsworth"
+      },
+      {
+        "id": "el-2",
+        "name": "photo",
+        "kind": "photo",
+        "c": 4,
+        "cs": 9,
+        "r": 2,
+        "rs": 7,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 3,
+        "src": "../data/images/battersea-power-station/commons-3.jpg",
+        "zoom": 1,
+        "focus": [
+          0.6,
+          0.5
+        ]
+      },
+      {
+        "id": "el-3",
+        "name": "location",
+        "kind": "text",
+        "c": 1,
+        "cs": 3,
+        "r": 7,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Preserved coal-fired power station on the south bank of the Thames.",
+        "style": "body"
+      },
+      {
+        "id": "el-4",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 9,
+        "rs": 2,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Battersea"
+      },
+      {
+        "id": "el-5",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 8,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "One of the world's largest brick buildings, with architects J. Theo Halliday and Giles Gilbert Scott.",
+        "style": "lead"
+      }
+    ]
+  },
+  "version": 2,
+  "image": "posters/003-battersea-power-station/v2.png",
+  "swapped_from": "serif-001-battersea-power-station v2"
+}

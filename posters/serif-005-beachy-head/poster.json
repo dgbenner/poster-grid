@@ -14,5 +14,7 @@
       "followed": null,
       "status": "below-bar"
     }
-  ]
+  ],
+  "hidden": true,
+  "hidden_note": "Swapped into 005-beachy-head as v2. Delete these two lines to show it again."
 }

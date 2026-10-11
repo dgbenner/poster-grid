@@ -23,5 +23,7 @@
       "followed": 8,
       "status": "pass"
     }
-  ]
+  ],
+  "hidden": true,
+  "hidden_note": "Swapped into 003-battersea-power-station as v2. Delete these two lines to show it again."
 }
