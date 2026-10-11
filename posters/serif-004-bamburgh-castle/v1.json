@@ -1,0 +1,651 @@
+{
+  "pin_id": "bamburgh-castle",
+  "number": 4,
+  "series": "serif",
+  "created_at": "2026-10-11T23:04:35.285Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "Bamburgh sits on the far northeast coast of England, so the photo and its county caption form one block in the top-right modules, and the open field to the left stands for the country below it."
+  },
+  "title": "Bamburgh",
+  "place": {
+    "town": "Bamburgh",
+    "locality": null,
+    "county": "Northumberland",
+    "adminArea": "Northumberland",
+    "region": "North East",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.6089&lon=-1.7096&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bamburgh, Northumberland, North East, England, United Kingdom"
+  },
+  "pairing": "serif-garamond",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#364314",
+      "role": "headline"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#7196BB",
+      "source": "photo 3",
+      "light": 2.6,
+      "dark": 5.8
+    },
+    {
+      "hex": "#60712E",
+      "source": "photo 3",
+      "light": 4.5,
+      "dark": 3.4
+    },
+    {
+      "hex": "#6A6A4A",
+      "source": "photo 4",
+      "light": 4.6,
+      "dark": 3.3
+    },
+    {
+      "hex": "#364314",
+      "source": "photo 3",
+      "light": 8.9,
+      "dark": 1.7
+    },
+    {
+      "hex": "#C3946E",
+      "source": "photo 2",
+      "light": 2.2,
+      "dark": 6.7
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "county",
+      "text": "NORTHUMBERLAND · NORTHEAST COAST · ENGLAND"
+    },
+    {
+      "element": "headline",
+      "text": "Bamburgh"
+    },
+    {
+      "element": "body",
+      "text": "Bamburgh Castle stands by the village of Bamburgh in Northumberland, on the northeast coast of England. It is a Grade I listed building; the village had a population of 414 at the 2011 census."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Bamburgh_Castle",
+    "https://en.wikipedia.org/wiki/Bamburgh"
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/bamburgh-castle/commons-1.jpg",
+      "title": "File:Bamburgh Castle, beautiful day.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bamburgh_Castle,_beautiful_day.jpg",
+      "author": "Matthew Hartley",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4043,
+      "height": 3036,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e6c31",
+            "share": 0.246
+          },
+          {
+            "hex": "#99a9cb",
+            "share": 0.23
+          },
+          {
+            "hex": "#434711",
+            "share": 0.228
+          },
+          {
+            "hex": "#6685ba",
+            "share": 0.194
+          },
+          {
+            "hex": "#c3946e",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#434711"
+      },
+      "credit": "Matthew Hartley, CC BY-SA 2.0"
+    }
+  ],
+  "images_used": [
+    "data/images/bamburgh-castle/commons-1.jpg"
+  ],
+  "elements": [
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 7,
+      "col_span": 6,
+      "row": 2,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 2,
+      "zoom": 1.35,
+      "focus_x": 0.55,
+      "focus_y": 0.45,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 7,
+      "col_span": 6,
+      "row": 7,
+      "row_span": 1,
+      "text": "NORTHUMBERLAND · NORTHEAST COAST · ENGLAND",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 8,
+      "row_span": 2,
+      "text": "Bamburgh",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 7,
+      "col_span": 5,
+      "row": 11,
+      "row_span": 2,
+      "text": "Bamburgh Castle stands by the village of Bamburgh in Northumberland, on the northeast coast of England. It is a Grade I listed building; the village had a population of 414 at the 2011 census.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 7,
+      "hierarchy": 7,
+      "type": 7,
+      "color": 7
+    },
+    "notes": [
+      "Idea: the top-right block of photo plus caption reads as 'northeast corner', but the empty field in columns 1–6, rows 2–7 does not register as 'the country' because nothing anchors it. Either drop a small locator (a map tick or the word ENGLAND) at column 1, row 7, or restate the idea as pure placement and keep the field empty with conviction.",
+      "Grid: the photo spans columns 7–12 and rows 2–6, and the caption hangs one row below it on column 7. That is a clean, intentional corner block; keep it.",
+      "Grid: the body sits at columns 7–11 in rows 11–12 and repeats the column-7 axis. Row 10 is left as a single empty row between the headline descender and the body, which feels like leftover rather than chosen space. Move the body up to start at row 10 so it locks under the 'g' descender, and leave rows 11–12 open as a deliberate bottom field.",
+      "Grid: the headline spans all 12 columns in rows 8–9, and the 'g' descender drops into row 10. Set the baseline of 'Bamburgh' on the bottom line of row 8 so the descender lands inside row 9 and does not crowd the body.",
+      "Hierarchy: the order is headline, then photo, then body, and it works. The caption in row 7 is too close in weight and size to the header row, though, so it reads as header furniture. Give it one step more size or tracking, or tie it tighter to the photo by placing it in the baseline directly under the image edge.",
+      "Type: the body measure across columns 7–11 gives about 40 characters, which is good. The rag is uneven, with a short 'the' line ending line 2. Rebreak so that line 2 does not end on an orphaned short word, or widen the body to column 12 to match the photo edge.",
+      "Type: the serif headline against the mono labels and the sans body is three voices. That is acceptable, but the mono caption and the sans body compete. Consider setting the caption in the same mono as the header and keeping the sans only for the body, which is what you have now, so keep that split consistent.",
+      "Colour: the #364314 headline echoes the grass in the bottom of the photo, which is a good link. Add the same green to one small element in the top-right block, such as the caption or a rule above it, so the accent ties the two blocks across rows 7–8."
+    ],
+    "summary": "A disciplined two-axis layout: the column-7 spine carries the photo, caption and body, and a full-width serif headline crosses it. The corner-block idea reads, but the open left field does not yet say 'England'. Tighten the vertical rhythm around the headline descender, decide what rows 10–12 are for, and give the caption more presence. It is close to keepable.",
+    "mean": 6.8
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.8,
+      "scores": {
+        "idea": 7,
+        "grid": 5,
+        "hierarchy": 6,
+        "type": 4,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.8,
+      "scores": {
+        "idea": 6,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "serif-garamond",
+      "name": "EB Garamond / Inter / IBM Plex Mono",
+      "serif": true,
+      "headline": {
+        "family": "EB Garamond",
+        "weight": 400,
+        "tracking": -0.015
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "EB+Garamond:wght@400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#364314",
+      "accent": "#1D1D1B",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Bamburgh",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Northumberland",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "SERIF · 04 / 06",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Bamburgh Castle"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Northumberland"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Matthew Hartley, CC BY-SA 2.0"
+      },
+      {
+        "id": "el-1",
+        "name": "photo",
+        "kind": "photo",
+        "c": 7,
+        "cs": 6,
+        "r": 2,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 2,
+        "src": "../data/images/bamburgh-castle/commons-1.jpg",
+        "zoom": 1.35,
+        "focus": [
+          0.55,
+          0.45
+        ]
+      },
+      {
+        "id": "el-2",
+        "name": "county",
+        "kind": "label",
+        "c": 7,
+        "cs": 6,
+        "r": 7,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "NORTHUMBERLAND · NORTHEAST COAST · ENGLAND"
+      },
+      {
+        "id": "el-3",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 8,
+        "rs": 2,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Bamburgh"
+      },
+      {
+        "id": "el-4",
+        "name": "body",
+        "kind": "text",
+        "c": 7,
+        "cs": 5,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Bamburgh Castle stands by the village of Bamburgh in Northumberland, on the northeast coast of England. It is a Grade I listed building; the village had a population of 414 at the 2011 census.",
+        "style": "body"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/serif-004-bamburgh-castle/v1.png"
+}

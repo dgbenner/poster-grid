@@ -1,33 +1,35 @@
 // The poster pipeline. Per poster: idea, copy and layout (model), checks (code),
 // critic (model), render (code). Below 7, or failing checks, it goes back to the idea,
-// up to 2 retries.
+// up to 2 retries. Each poster belongs to a series (series/<slug>.json), which sets its
+// font pairings, colour limit and ideas.
 //
-//   node scripts/make-posters.mjs                10 English pins, chosen by code
-//   node scripts/make-posters.mjs --pins a,b     these pins, in this order
-//   node scripts/make-posters.mjs --count 1      just the first of the selection
-//   node scripts/make-posters.mjs --redo 2,4     remake these poster numbers in place
-//   node scripts/make-posters.mjs --skip a,b     leave these pins out of the selection
-import { appendFile, mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
+//   node scripts/make-posters.mjs                    10 English pins, series Original
+//   node scripts/make-posters.mjs --series serif     make or extend the Serif series
+//   node scripts/make-posters.mjs --count 20         how many to make
+//   node scripts/make-posters.mjs --pins a,b         these pins, in this order
+//   node scripts/make-posters.mjs --skip a,b         leave these pins out of the selection
+//   node scripts/make-posters.mjs --redo 2,4         a new, published version of these numbers
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { ROOT } from './lib/http.mjs';
 
 process.loadEnvFile(join(ROOT, '.env.local'));
-const { IDEAS, accentOptions, buildSpec, checkSpec, describeLayout, photoCredit } = await import('./lib/poster.mjs');
-const { MODEL, designer, designBrief, critique, factText } = await import('./lib/designer.mjs');
+const { IDEAS, colorCandidates } = await import('./lib/poster.mjs');
+const { designBrief } = await import('./lib/designer.mjs');
 const { openRenderer } = await import('./lib/renderer.mjs');
+const { loadContext, loadSeries, runDesign, versionRecord, logRun } = await import('./lib/pipeline.mjs');
+const { listPosters, loadPoster, loadVersion, createPoster, addVersion, imagesUsedFor } = await import('./lib/store.mjs');
 const { buildIndex } = await import('./build-index.mjs');
 
 const args = process.argv.slice(2);
 const opt = f => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : null; };
-const PASS = 7;
-const RETRIES = 2;
-const FIX_ROUNDS = 2;
+const TMP = join(ROOT, 'posters/.attempts');
 
 // ---------- Selection ----------
 
-// The first run: 10 English pins over at least 5 counties, at least 3 in London.
-// Later runs: English pins without a poster, each county at most twice across the
-// whole collection, so a run widens the map before it repeats a county.
+// A series' first run: 10 English pins over at least 5 counties, at least 3 in London.
+// Later runs: English pins without a poster in this series, each county at most twice in
+// the series, so a run widens the map before it repeats a county.
 const MAX_PER_COUNTY = 2;
 
 function selectPins(all, count, posters) {
@@ -40,7 +42,10 @@ function selectPins(all, count, posters) {
     .sort((a, b) => score(b) - score(a) || a.id.localeCompare(b.id));
   const picked = [];
   const perCounty = {};
-  for (const p of posters) perCounty[p.place.county] = (perCounty[p.place.county] || 0) + 1;
+  for (const p of posters) {
+    const county = all.find(e => e.id === p.pin_id)?.place.county;
+    perCounty[county] = (perCounty[county] || 0) + 1;
+  }
   const take = e => { picked.push(e); names.add(e.facts.pin?.title); perCounty[e.place.county] = (perCounty[e.place.county] || 0) + 1; };
 
   if (!posters.length) {
@@ -50,11 +55,11 @@ function selectPins(all, count, posters) {
       if (!boroughs.has(e.place.borough)) { boroughs.add(e.place.borough); take(e); }
     }
   }
-  // First pass: counties not yet on any poster; second pass: up to the cap.
-  for (const limit of [posters.length ? 1 : 1, MAX_PER_COUNTY]) {
+  // First pass: counties not yet in the series; second pass: up to the cap.
+  for (const limit of [1, MAX_PER_COUNTY]) {
     for (const e of eligible) {
       if (picked.length >= count) break;
-      if (picked.includes(e) || names.has(e.facts.pin?.title) && e.facts.pin) continue;
+      if (picked.includes(e) || (e.facts.pin && names.has(e.facts.pin.title))) continue;
       if ((perCounty[e.place.county] || 0) >= limit) continue;
       take(e);
     }
@@ -69,187 +74,115 @@ function selectPins(all, count, posters) {
   return out.slice(0, count);
 }
 
-// Ideas: never the same as either neighbour, and all four appear across the run. Any
-// idea not yet used that this pin can support comes first, so coverage never depends
-// on the last few pins.
-function allowedIdeas({ neighbours, used, enrich }) {
-  let ok = Object.keys(IDEAS).filter(k => !neighbours.includes(k));
+// Ideas: never the same as either neighbour, all four across a run, and only those the
+// series allows. Any allowed idea not yet used that this pin can support comes first.
+function allowedIdeas({ neighbours, used, enrich, series }) {
+  const pool = series.ideas.includes('all') ? Object.keys(IDEAS) : series.ideas.filter(k => IDEAS[k]);
+  let ok = pool.filter(k => !neighbours.includes(k));
   const hasNearby = enrich.nearby.within5km.length + enrich.nearby.sameCounty.length >= 2;
   if (!hasNearby) ok = ok.filter(k => k !== 'nearby');
+  if (!ok.length) ok = pool;
   const unused = ok.filter(k => !used.has(k));
   return unused.length ? unused : ok;
 }
 
-// ---------- One poster ----------
+const posterId = (series, number, pinId) => `${series.slug === 'original' ? '' : series.slug + '-'}${String(number).padStart(3, '0')}-${pinId}`;
+const progress = e => console.log(`    ${e.msg}`);
 
-async function makePoster({ enrich, pin, gridCfg, all, number, total, ideas, renderer, tmpDir }) {
-  const started = Date.now();
-  const usage = { tokens_in: 0, tokens_out: 0 };
-  const accents = accentOptions(enrich);
-  const facts = factText(enrich);
-  const d = designer({ usage });
-  const attempts = [];
-  let design = await d.first(await designBrief({ enrich, pin, gridCfg, allowedIdeas: ideas, accents }));
+// ---------- Make ----------
 
-  for (let attempt = 0; attempt <= RETRIES; attempt++) {
-    let spec, report, problems, png;
-    for (let fix = 0; ; fix++) {
-      spec = buildSpec({ design, gridCfg, enrich, pin, allEnrich: all, number, total });
-      const pngPath = join(tmpDir, `${pin.id}-${attempt}-${fix}.png`);
-      ({ report, png } = await renderer.render(spec, pngPath));
-      problems = checkSpec(spec, { design, enrich, report, factText: facts });
-      if (!ideas.includes(design.idea)) problems.push({ check: 'idea', msg: `idea ${design.idea} is not allowed here; use one of ${ideas.join(', ')}` });
-      const acc = accents.find(a => a.hex.toUpperCase() === design.accent.toUpperCase());
-      if (!acc) problems.push({ check: 'accent', msg: `accent ${design.accent} is not one of the options` });
-      else if (acc[design.paper] < 4.5) problems.push({ check: 'accent', msg: `accent ${design.accent} is ${acc[design.paper]}:1 on ${design.paper} paper; needs 4.5` });
-      if (!gridCfg.fonts.pairings.some(p => p.id === design.pairing)) problems.push({ check: 'pairing', msg: `pairing ${design.pairing} does not exist` });
-      console.log(`    attempt ${attempt + 1}${fix ? ` fix ${fix}` : ''}: ${design.idea}, ${problems.length ? `${problems.length} check${problems.length > 1 ? 's' : ''} failed` : 'checks pass'}`);
-      if (!problems.length || fix >= FIX_ROUNDS) break;
-      design = await d.revise(`Code checks failed:\n${problems.map(p => `- [${p.check}] ${p.msg}`).join('\n')}\n\nFix these and return the whole design again.`);
-    }
-
-    const layout = describeLayout(spec);
-    let crit = null;
-    if (!problems.length) {
-      crit = await critique({ png, gridCfg, layout, design, usage });
-      console.log(`    critic: ${crit.mean} (${Object.entries(crit.scores).map(([k, v]) => `${k} ${v}`).join(', ')})`);
-    }
-    attempts.push({ design, spec, problems, crit, png });
-    if (crit && crit.mean >= PASS) break;
-    if (attempt === RETRIES) break;
-    design = await d.revise(crit
-      ? `The critic scored this ${crit.mean} (${Object.entries(crit.scores).map(([k, v]) => `${k} ${v}`).join(', ')}); it needs ${PASS}. Notes:\n${crit.notes.map(n => `- ${n}`).join('\n')}\n\nGo back to the idea. Keep it or choose another allowed idea, then redo copy and layout. Return the whole design.`
-      : `The design still fails code checks:\n${problems.map(p => `- [${p.check}] ${p.msg}`).join('\n')}\n\nGo back to the idea and start a fresh layout that avoids these problems. Return the whole design.`);
+async function make({ enrich, pin, ctx, number, total, ideas, series, renderer, publish = false, existingId = null }) {
+  const usedImages = await imagesUsedFor(enrich.id);
+  const candidates = colorCandidates(enrich);
+  const first = await designBrief({ enrich, gridCfg: ctx.gridCfg, allowedIdeas: ideas, candidates, series, usedImages });
+  let result;
+  try {
+    result = await runDesign({ enrich, pin, gridCfg: ctx.gridCfg, all: ctx.all, number, total, ideas, series, renderer, tmpDir: TMP, first, log: progress });
+  } catch (err) {
+    console.log(`    FAILED: ${err.message}`);
+    return null;
   }
-
-  const passing = attempts.filter(a => a.crit && !a.problems.length);
-  const best = passing.sort((a, b) => b.crit.mean - a.crit.mean)[0] || attempts[attempts.length - 1];
-  return {
-    best,
-    attempts,
-    log: { retries: attempts.length - 1, ms: Date.now() - started, ...usage },
-    status: best.crit && best.crit.mean >= PASS && !best.problems.length ? 'pass' : best.problems.length ? 'failed-checks' : 'below-bar',
-  };
+  const id = existingId || posterId(series, number, enrich.id);
+  if (!existingId) await createPoster({ id, number, series: series.slug, pin_id: enrich.id });
+  const record = versionRecord({ result, enrich, series, number });
+  const v = await addVersion(id, record, result.best.png, { publish, from: existingId ? 'redo' : null });
+  await logRun({ result, enrich, id, version: v });
+  const { tokens_in, tokens_out } = result.usage;
+  console.log(`    saved ${id} v${v} · ${result.status} · ${result.best.crit?.mean ?? '—'} · ${tokens_in} in / ${tokens_out} out · ${Math.round(result.ms / 1000)} s`);
+  return { idea: result.best.design.idea };
 }
 
-// ---------- Run ----------
-
-async function main() {
-  const gridCfg = JSON.parse(await readFile(join(ROOT, 'grid/grid.json'), 'utf8'));
-  const pins = JSON.parse(await readFile(join(ROOT, 'data/pins.json'), 'utf8'));
-  const all = await Promise.all((await readdir(join(ROOT, 'data/enrich'))).filter(f => f.endsWith('.json'))
-    .map(async f => JSON.parse(await readFile(join(ROOT, 'data/enrich', f), 'utf8'))));
-  await mkdir(join(ROOT, 'posters/img'), { recursive: true });
-  const tmpDir = join(ROOT, 'posters/.attempts');
-  await mkdir(tmpDir, { recursive: true });
-  const existing = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json') && f !== 'index.json');
-  const posters = await Promise.all(existing.map(async f => JSON.parse(await readFile(join(ROOT, 'posters', f), 'utf8'))));
-
-  if (opt('--redo')) return redo({ gridCfg, pins, all, numbers: opt('--redo').split(',').map(Number) });
-
-  const only = opt('--pins')?.split(',');
-  const skip = new Set(opt('--skip')?.split(',') || []);
-  let chosen = only ? only.map(id => all.find(e => e.id === id)).filter(Boolean)
-    : selectPins(all.filter(e => !skip.has(e.id)), Number(opt('--count')) || 10, posters);
-  const total = existing.length + chosen.length;
-  console.log(`making ${chosen.length} posters with ${MODEL}: ${chosen.map(e => `${e.id} (${e.place.county})`).join(', ')}`);
-
+async function run() {
+  const ctx = await loadContext();
+  const series = await loadSeries(opt('--series') || 'original');
+  await mkdir(TMP, { recursive: true });
   const renderer = await openRenderer();
-  // Each run covers all four ideas itself, and never repeats the idea of the poster before.
-  const used = new Set();
-  let previous = posters.sort((a, b) => b.number - a.number)[0]?.idea.key ?? null;
   try {
+    if (opt('--redo')) return await redo({ ctx, series, renderer, numbers: opt('--redo').split(',').map(Number) });
+
+    const posters = (await listPosters()).filter(p => p.series === series.slug);
+    const skip = new Set(opt('--skip')?.split(',') || []);
+    const only = opt('--pins')?.split(',');
+    const chosen = only ? only.map(id => ctx.all.find(e => e.id === id)).filter(Boolean)
+      : selectPins(ctx.all.filter(e => !skip.has(e.id)), Number(opt('--count')) || 10, posters);
+    const total = posters.length + chosen.length;
+    console.log(`series ${series.name}: making ${chosen.length} posters: ${chosen.map(e => `${e.id} (${e.place.county})`).join(', ')}`);
+
+    // Each run covers the series' ideas itself, and never repeats the idea of the poster before.
+    const used = new Set();
+    const last = posters.sort((a, b) => b.number - a.number)[0];
+    let previous = last ? (await loadVersion(last.id, last.published)).idea.key : null;
     for (const [i, enrich] of chosen.entries()) {
-      const number = existing.length + i + 1;
-      const pin = pins.find(p => p.id === enrich.id);
-      const ideas = allowedIdeas({ neighbours: [previous], used, enrich });
+      const number = posters.length + i + 1;
+      const pin = ctx.pins.find(p => p.id === enrich.id);
+      const ideas = allowedIdeas({ neighbours: [previous], used, enrich, series });
       console.log(`\n${String(number).padStart(2, '0')} ${enrich.id} · ${enrich.place.county} · ideas ${ideas.join(', ')}`);
-      const saved = await makeAndSave({ enrich, pin, gridCfg, all, number, total, ideas, renderer, tmpDir });
+      const saved = await make({ enrich, pin, ctx, number, total, ideas, series, renderer });
       if (!saved) continue;
       used.add(saved.idea);
       previous = saved.idea;
     }
-    await renumber(renderer);
+    await renumber(renderer, series);
   } finally {
     await renderer.close();
   }
 }
 
-// Brings every poster's "NN / total" header up to the current total and redraws its
-// PNG from the saved render spec. No model calls.
-async function renumber(renderer) {
-  const files = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json') && f !== 'index.json');
-  const total = files.length;
-  for (const f of files) {
-    const poster = JSON.parse(await readFile(join(ROOT, 'posters', f), 'utf8'));
-    const head = poster.render.elements.find(e => e.id === 'header-4');
-    const want = `${String(poster.number).padStart(2, '0')} / ${String(total).padStart(2, '0')}`;
-    if (!head || head.text === want) continue;
-    head.text = want;
-    await renderer.render(poster.render, join(ROOT, poster.image));
-    await writeFile(join(ROOT, 'posters', f), JSON.stringify(poster, null, 2) + '\n');
-    console.log(`    renumbered ${poster.id} → ${want}`);
+// A new version of each numbered poster in the series, published in place of the old.
+async function redo({ ctx, series, renderer, numbers }) {
+  for (const number of numbers) {
+    const posters = (await listPosters()).filter(p => p.series === series.slug);
+    const target = posters.find(p => p.number === number);
+    if (!target) { console.log(`no poster ${number} in ${series.name}`); continue; }
+    const enrich = ctx.all.find(e => e.id === target.pin_id);
+    const pin = ctx.pins.find(p => p.id === target.pin_id);
+    const neighbours = [];
+    for (const p of posters.filter(p => Math.abs(p.number - number) === 1)) neighbours.push((await loadVersion(p.id, p.published)).idea.key);
+    const ideas = allowedIdeas({ neighbours, used: new Set(), enrich, series });
+    console.log(`\nredo ${String(number).padStart(2, '0')} ${enrich.id} · ideas ${ideas.join(', ')}`);
+    await make({ enrich, pin, ctx, number, total: posters.length, ideas, series, renderer, publish: true, existingId: target.id });
   }
 }
 
-// Remakes posters in place: same number and pin, ideas chosen around their neighbours.
-async function redo({ gridCfg, pins, all, numbers }) {
-  const tmpDir = join(ROOT, 'posters/.attempts');
-  await mkdir(tmpDir, { recursive: true });
-  const renderer = await openRenderer();
-  try {
-    for (const number of numbers) {
-      const files = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json') && f !== 'index.json');
-      const posters = await Promise.all(files.map(async f => JSON.parse(await readFile(join(ROOT, 'posters', f), 'utf8'))));
-      const target = posters.find(p => p.number === number);
-      if (!target) { console.log(`no poster ${number}`); continue; }
-      const enrich = all.find(e => e.id === target.pin_id);
-      const pin = pins.find(p => p.id === target.pin_id);
-      const neighbours = posters.filter(p => Math.abs(p.number - number) === 1).map(p => p.idea.key);
-      const used = new Set(posters.filter(p => p.number !== number).map(p => p.idea.key));
-      const ideas = allowedIdeas({ neighbours, used, enrich });
-      console.log(`\nredo ${String(number).padStart(2, '0')} ${enrich.id} · ideas ${ideas.join(', ')}`);
-      await makeAndSave({ enrich, pin, gridCfg, all, number, total: posters.length, ideas, renderer, tmpDir });
+// Brings every version's "NN / total" header up to its series' total and redraws its PNG
+// from the saved render spec. No model calls.
+export async function renumber(renderer, series) {
+  const posters = (await listPosters()).filter(p => p.series === series.slug);
+  const total = posters.length;
+  for (const meta of posters) {
+    for (const { v } of meta.versions) {
+      const file = join(ROOT, 'posters', meta.id, `v${v}.json`);
+      const rec = JSON.parse(await readFile(file, 'utf8'));
+      const head = rec.render.elements.find(e => e.id === 'header-4');
+      const tag = series.slug === 'original' ? '' : `${series.name.toUpperCase()} · `;
+      const want = `${tag}${String(meta.number).padStart(2, '0')} / ${String(total).padStart(2, '0')}`;
+      if (!head || head.text === want) continue;
+      head.text = want;
+      await renderer.render(rec.render, join(ROOT, rec.image));
+      await writeFile(file, JSON.stringify(rec, null, 2) + '\n');
+      console.log(`    renumbered ${meta.id} v${v} → ${want}`);
     }
-  } finally {
-    await renderer.close();
   }
 }
 
-async function makeAndSave({ enrich, pin, gridCfg, all, number, total, ideas, renderer, tmpDir }) {
-      let result;
-      try {
-        result = await makePoster({ enrich, pin, gridCfg, all, number, total, ideas, renderer, tmpDir });
-      } catch (err) {
-        console.log(`    FAILED: ${err.message}`);
-        return null;
-      }
-      const { best, attempts, log, status } = result;
-      const id = `${String(number).padStart(3, '0')}-${enrich.id}`;
-      const photo = best.spec.elements.find(e => e.kind === 'photo');
-      await writeFile(join(ROOT, 'posters/img', id + '.png'), best.png);
-      await writeFile(join(ROOT, 'posters', id + '.json'), JSON.stringify({
-        id, number, pin_id: enrich.id, created_at: new Date().toISOString(), model: MODEL, status,
-        idea: { key: best.design.idea, sentence: best.design.idea_sentence },
-        title: best.design.poster_title,
-        place: enrich.place,
-        pairing: best.design.pairing, paper: best.design.paper, accent: best.design.accent,
-        copy: best.spec.elements.filter(e => e.text && !e.frame).map(e => ({ element: e.name, text: e.text })),
-        facts_used: best.design.facts_used,
-        photo: photo ? { ...enrich.images[photo.image], credit: photoCredit(enrich.images[photo.image]) } : null,
-        elements: best.design.elements,
-        critic: best.crit,
-        checks: best.problems,
-        attempts: attempts.map(a => ({ idea: a.design.idea, mean: a.crit?.mean ?? null, scores: a.crit?.scores ?? null, problems: a.problems.length })),
-        render: best.spec,
-        image: `posters/img/${id}.png`,
-      }, null, 2) + '\n');
-      await appendFile(join(ROOT, 'runs.jsonl'), JSON.stringify({
-        at: new Date().toISOString(), pin_id: enrich.id, idea: best.design.idea, retries: log.retries,
-        scores: best.crit?.scores ?? null, tokens_in: log.tokens_in, tokens_out: log.tokens_out, ms: log.ms,
-      }) + '\n');
-      console.log(`    saved ${id} · ${status} · ${best.crit?.mean ?? '—'} · ${log.tokens_in} in / ${log.tokens_out} out · ${Math.round(log.ms / 1000)} s`);
-      return { idea: best.design.idea };
-}
-
-main().then(() => buildIndex()).then(n => n && console.log(`${n} posters → posters/index.json`));
+run().then(() => buildIndex()).then(n => n && console.log(`${n} posters → posters/index.json`));

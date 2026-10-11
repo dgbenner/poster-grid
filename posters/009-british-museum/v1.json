@@ -1,0 +1,595 @@
+{
+  "id": "009-british-museum",
+  "number": 9,
+  "pin_id": "british-museum",
+  "created_at": "2026-10-11T02:03:50.378Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "The page stands for England, so Dan's Rosetta Stone photo sits low and to the right, in the cells where London lies."
+  },
+  "title": "British Museum",
+  "place": {
+    "town": "London",
+    "locality": "Bloomsbury",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Camden",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.5194&lon=-0.127&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bloomsbury, London Borough of Camden, Greater London, England, WC1E 7HU, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "accent": "#874315",
+  "copy": [
+    {
+      "element": "headline",
+      "text": "British\nMuseum"
+    },
+    {
+      "element": "place-label",
+      "text": "Bloomsbury · Camden · Inner London"
+    },
+    {
+      "element": "lead",
+      "text": "Established in 1753, the world's first public national museum."
+    },
+    {
+      "element": "body",
+      "text": "Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present."
+    },
+    {
+      "element": "caption",
+      "text": "Rosetta Stone · Greater London"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/British_Museum",
+    "https://en.wikipedia.org/wiki/London_Borough_of_Camden"
+  ],
+  "photo": {
+    "kind": "personal",
+    "file": "data/images/british-museum/own-british-museum-rosetta.png",
+    "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/british-museum-rosetta.png",
+    "author": null,
+    "license": "personal",
+    "licenseUrl": null,
+    "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+    "colors": {
+      "palette": [
+        {
+          "hex": "#010101",
+          "share": 0.312
+        },
+        {
+          "hex": "#404337",
+          "share": 0.264
+        },
+        {
+          "hex": "#333626",
+          "share": 0.187
+        },
+        {
+          "hex": "#535342",
+          "share": 0.134
+        },
+        {
+          "hex": "#212317",
+          "share": 0.104
+        }
+      ],
+      "strongest": null
+    },
+    "credit": "Waypoints photo, personal use"
+  },
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 7,
+      "row": 2,
+      "row_span": 3,
+      "text": "British\nMuseum",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "place-label",
+      "kind": "label",
+      "col": 8,
+      "col_span": 5,
+      "row": 2,
+      "row_span": 1,
+      "text": "Bloomsbury · Camden · Inner London",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 5,
+      "row": 5,
+      "row_span": 2,
+      "text": "Established in 1753, the world's first public national museum.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 5,
+      "row": 7,
+      "row_span": 2,
+      "text": "Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 8,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.4,
+      "focus_x": 0.32,
+      "focus_y": 0.3,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "caption",
+      "kind": "label",
+      "col": 8,
+      "col_span": 4,
+      "row": 12,
+      "row_span": 1,
+      "text": "Rosetta Stone · Greater London",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 5,
+      "grid": 6,
+      "hierarchy": 6,
+      "type": 7,
+      "color": 6
+    },
+    "notes": [
+      "Idea: placing the photo low-right 'where London lies' on a map of England is a reasonable conceit, but nothing on the page signals the map. Either add a faint outline or locator dot in columns 8–12, rows 8–11, or let the photo's position be the only map cue and say so in the place-label in row 2.",
+      "The photo spans columns 8–11 and stops one column short of the right margin, while the place-label above runs 8–12. Extend the photo to columns 8–12 so both share the right edge, or pull the label back to 8–11. As it is, the right side has two different edges.",
+      "The photo occupies rows 8–11 and leaves rows 3–7 in columns 8–12 completely empty under a lone label. That 5×5 module void reads as accidental. Raise the photo to rows 6–11, a 6-row span, so it holds the right half. Or keep it at rows 8–11 and move the place-label down to row 7 so it heads the image.",
+      "The headline spans columns 1–7 and rows 2–4, but 'Museum' visibly overruns into column 8 toward the label's column. Set it a step smaller so it closes inside column 7, or let it run fully to column 8 and push the label to columns 9–12.",
+      "Lead (rows 5–6) and body (rows 7–8) stack directly, but the body starts one module lower than the lead's natural end, leaving a half-row gap. Start the body at row 7's top baseline, or move it to row 8 so the gap equals one full module.",
+      "Body ends in row 8 just as the photo begins in row 8, so the left column dies where the right one starts. Columns 1–7 in rows 9–12 are empty. Move the body down to rows 9–10 so the left text sits beside the photo and the two halves interlock diagonally.",
+      "The caption sits in row 12, one row below the photo's base in row 11. Move it to the first baseline under the photo, still within row 11 or at the top of 12, so it reads as attached.",
+      "Type: the lead at 5 columns gives a good 25–30 character measure and a clean rag. The body at the same 5 columns is fine. Keep the serif/grotesque pairing.",
+      "Color: the rust accent on the label and caption picks up the stone's ochre edge well. The photo is dark and low-contrast against the pale paper, though. Either crop tighter onto the inscribed face or brighten it a stop so it holds weight against the black headline."
+    ],
+    "summary": "A clean, competent page whose map idea isn't legible. The right half is mostly an unexplained void above a photo that misses the right margin by one column. To fix it, align the photo to columns 8–12, raise it or move the label down, and shift the body beside the photo so the left and right halves interlock.",
+    "mean": 6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "closer",
+      "mean": 5.6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 5
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.8,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#874315"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "British Museum",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater London · Camden",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "09 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "British Museum"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater London · Camden"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 7,
+        "r": 2,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "British\nMuseum"
+      },
+      {
+        "id": "el-2",
+        "name": "place-label",
+        "kind": "label",
+        "c": 8,
+        "cs": 5,
+        "r": 2,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Bloomsbury · Camden · Inner London"
+      },
+      {
+        "id": "el-3",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 5,
+        "r": 5,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Established in 1753, the world's first public national museum.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 5,
+        "r": 7,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "photo",
+        "kind": "photo",
+        "c": 8,
+        "cs": 4,
+        "r": 8,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/british-museum/own-british-museum-rosetta.png",
+        "zoom": 1.4,
+        "focus": [
+          0.32,
+          0.3
+        ]
+      },
+      {
+        "id": "el-6",
+        "name": "caption",
+        "kind": "label",
+        "c": 8,
+        "cs": 4,
+        "r": 12,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Rosetta Stone · Greater London"
+      }
+    ]
+  },
+  "image": "posters/009-british-museum/v1.png",
+  "series": "original",
+  "version": 1,
+  "images_used": [
+    "data/images/british-museum/own-british-museum-rosetta.png"
+  ]
+}

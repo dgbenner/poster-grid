@@ -1,0 +1,14 @@
+{
+  "name": "Serif",
+  "slug": "serif",
+  "fonts": [
+    "serif-garamond",
+    "serif-bodoni",
+    "serif-newsreader"
+  ],
+  "maxColors": 3,
+  "ideas": [
+    "all"
+  ],
+  "note": "Serif titles; text and labels stay sans and mono. All three serif pairings rotate, as the sans ones do in Original."
+}

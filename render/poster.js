@@ -26,6 +26,7 @@ function typeFor(el, B, p) {
   const lead = B * Math.max(1, Math.round(12 / B));
   switch (el.kind) {
     case 'label':
+    case 'credits':
     case 'foot': return { font: p.label, size: Math.min(lead * 0.6, 7.2), lh: lead };
     case 'mono': return { font: p.label, size: Math.min(lead * 0.62, 7.5), lh: lead };
     case 'list': return { font: p.text, size: Math.min(lead * 0.8, 10), lh: lead };
@@ -50,7 +51,9 @@ function build(el, rect) {
 
   if (el.kind === 'photo') {
     const fx = (el.focus?.[0] ?? 0.5) * 100, fy = (el.focus?.[1] ?? 0.5) * 100;
-    node.innerHTML = `<img alt="" src="${esc(el.src)}" style="object-position:${fx}% ${fy}%;transform-origin:${fx}% ${fy}%;transform:scale(${el.zoom || 1})">`
+    // A panel is a block of colour filling the cells, with the photo inset by one baseline.
+    if (el.panel) node.classList.add('has-panel');
+    node.innerHTML = `<div class="frame"><img alt="" src="${esc(el.src)}" style="object-position:${fx}% ${fy}%;transform-origin:${fx}% ${fy}%;transform:scale(${el.zoom || 1})"></div>`
       + (el.tag ? `<span class="tag">${esc(el.tag)}</span>` : '');
   } else if (el.kind === 'pinfield') {
     node.innerHTML = pinfield(el, rect);
@@ -111,6 +114,7 @@ function setType(el, node, rect, B, p, scale) {
   const t = typeFor(el, B, p);
   txt.style.fontFamily = `"${t.font.family}"`;
   txt.style.fontWeight = t.font.weight;
+  if (el.kind === 'headline' && p.headline.tracking != null) txt.style.letterSpacing = p.headline.tracking + 'em';
   if (el.kind === 'foot') txt.querySelector('.val').style.fontFamily = `"${p.text.family}"`;
   if (el.kind === 'list') txt.querySelectorAll('.n, .km').forEach(n => { n.style.fontFamily = `"${p.label.family}"`; n.style.fontSize = '0.75em'; });
 
@@ -149,7 +153,10 @@ export async function renderPoster(spec, { scale = 1 } = {}) {
   await loadFonts(p);
   const root = document.getElementById('poster');
   Object.assign(root.style, { width: g.page.width + 'px', height: g.page.height + 'px' });
-  for (const [k, v] of Object.entries(spec.theme)) root.style.setProperty('--' + k, v);
+  for (const [k, v] of Object.entries(spec.theme)) if (v) root.style.setProperty('--' + k, v);
+  // Older specs have no headline colour; their headlines are ink.
+  if (!spec.theme.headline) root.style.setProperty('--headline', spec.theme.ink);
+  root.style.setProperty('--B', B + 'px');
   root.replaceChildren();
 
   const fonts = [p.headline, p.text, p.label, { ...p.text, weight: 500 }];

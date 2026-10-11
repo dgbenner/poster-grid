@@ -1,0 +1,634 @@
+{
+  "id": "029-museum-of-witchcraft-and-magic",
+  "number": 29,
+  "pin_id": "museum-of-witchcraft-and-magic",
+  "created_at": "2026-10-11T03:35:09.928Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "Boscastle lies at the far south-western corner of England, so the photo drops to the bottom-left of the grid, just where Cornwall sits on the map, and the rest of the page stays open like the country to the north and east."
+  },
+  "title": "Museum of Witchcraft and Magic",
+  "place": {
+    "town": "Boscastle",
+    "locality": "Forrabury and Minster",
+    "county": "Cornwall",
+    "adminArea": "Cornwall",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.6905948&lon=-4.6949915&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Polrunny Farm Cottages, Forrabury and Minster, Boscastle, Cornwall, England, PL35 0EL, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "accent": "#925A50",
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Boscastle"
+    },
+    {
+      "element": "county-label",
+      "text": "Cornwall · South-west England"
+    },
+    {
+      "element": "lead",
+      "text": "A museum of European witchcraft and magic in a fishing port on the north coast of Cornwall."
+    },
+    {
+      "element": "photo-label",
+      "text": "1 · Witch door, Boscastle"
+    },
+    {
+      "element": "body",
+      "text": "Its exhibits cover folk magic, ceremonial magic, Freemasonry and Wicca. The collection has been described as the largest in the world."
+    },
+    {
+      "element": "harbour-label",
+      "text": "Harbour walls · 1584 · Sir Richard Grenville"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Museum_of_Witchcraft_and_Magic",
+    "https://en.wikipedia.org/wiki/Boscastle"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/museum-of-witchcraft-and-magic/commons-3.jpg",
+    "title": "File:Witch door, The Museum of Witchcraft and Magic - geograph.org.uk - 7414790.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Witch_door,_The_Museum_of_Witchcraft_and_Magic_-_geograph.org.uk_-_7414790.jpg",
+    "author": "Bryn Holmes",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 3456,
+    "height": 4608,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#2c2c21",
+          "share": 0.257
+        },
+        {
+          "hex": "#0f100e",
+          "share": 0.219
+        },
+        {
+          "hex": "#4f4934",
+          "share": 0.202
+        },
+        {
+          "hex": "#8c928f",
+          "share": 0.198
+        },
+        {
+          "hex": "#626258",
+          "share": 0.124
+        }
+      ],
+      "strongest": "#4f4934"
+    },
+    "credit": "Bryn Holmes, CC BY-SA 2.0"
+  },
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 3,
+      "text": "Boscastle",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 6,
+      "row_span": 1,
+      "text": "Cornwall · South-west England",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 7,
+      "col_span": 6,
+      "row": 6,
+      "row_span": 2,
+      "text": "A museum of European witchcraft and magic in a fishing port on the north coast of Cornwall.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 3,
+      "zoom": 1.1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo-label",
+      "kind": "label",
+      "col": 5,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 1,
+      "text": "1 · Witch door, Boscastle",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 5,
+      "col_span": 3,
+      "row": 9,
+      "row_span": 2,
+      "text": "Its exhibits cover folk magic, ceremonial magic, Freemasonry and Wicca. The collection has been described as the largest in the world.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "harbour-label",
+      "kind": "label",
+      "col": 5,
+      "col_span": 4,
+      "row": 12,
+      "row_span": 1,
+      "text": "Harbour walls · 1584 · Sir Richard Grenville",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The map idea only half-reads: the photo in columns 1–4, rows 8–12 sits bottom-left, but the 12-column headline across rows 2–4 fills the 'north' and the lead in columns 7–12 fills the 'east'. To make the page read as open country, pull the lead down so its top aligns with row 8 and leave columns 5–12 of rows 5–7 empty.",
+      "Row 5 is an empty band between the headline and the label/lead pair. It looks like leftover space rather than a chosen gap. Either commit to the openness by moving the label and lead down one row, or start them in row 5.",
+      "The county label in columns 1–4, row 6 floats alone over five empty rows. Hang it from the top of row 8 directly above the photo, so it captions Cornwall's corner rather than drifting in the field.",
+      "The lead spans 6 columns at a large size and sets four lines across rows 6–7, about 35 characters per line. That is fine. But its first baseline sits lower than the cap height of the county label beside it. Align the label's cap height to the lead's first line, or separate the two by a full row.",
+      "The body spans only 3 columns (5–7) and gives a choppy rag of about 22 characters per line ('folk / magic, ceremonial / magic'). Widen it to 4 columns (5–8) to match the photo-label and harbour-label above and below it. That gives one consistent text column.",
+      "The body starts mid-row 9, leaving a visible gap under the photo-label in row 8. Snap the body's first baseline to the top of row 9, or tuck it directly under the label in row 8, so the column reads as one stack.",
+      "The harbour-label in row 12 breaks after 'Sir', orphaning 'Richard Grenville'. Widen it to columns 5–9, or break it after '1584' so the name stays whole. Keep its last baseline on the photo's bottom edge.",
+      "Columns 9–12 of rows 8–12 are empty. That is good for the idea, but the photo at 4 columns is modest. Try widening it to columns 1–5, with the text column shifted to 6–9, so the southwestern 'weight' is stronger against the open northeast.",
+      "Colour works: the brick-red headline picks up the stone arch, and the red photo-label ties back to it. Keep the red to those two uses only."
+    ],
+    "summary": "A calm, competent page whose map metaphor is undercut by the headline and lead filling the north and east. Tighten the text column to one 4-column width aligned to the photo, resolve the dead row 5, and drop the lead lower so the open field is genuinely open.",
+    "mean": 6.4
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.2,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#925A50"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Museum of Witchcraft and Magic",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Cornwall",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "29 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Museum of Witchcraft and Magic"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Cornwall"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Bryn Holmes, CC BY-SA 2.0"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 3,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Boscastle"
+      },
+      {
+        "id": "el-2",
+        "name": "county-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 6,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Cornwall · South-west England"
+      },
+      {
+        "id": "el-3",
+        "name": "lead",
+        "kind": "text",
+        "c": 7,
+        "cs": 6,
+        "r": 6,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A museum of European witchcraft and magic in a fishing port on the north coast of Cornwall.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "photo",
+        "kind": "photo",
+        "c": 1,
+        "cs": 4,
+        "r": 8,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 3,
+        "src": "../data/images/museum-of-witchcraft-and-magic/commons-3.jpg",
+        "zoom": 1.1,
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-5",
+        "name": "photo-label",
+        "kind": "label",
+        "c": 5,
+        "cs": 4,
+        "r": 8,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "1 · Witch door, Boscastle"
+      },
+      {
+        "id": "el-6",
+        "name": "body",
+        "kind": "text",
+        "c": 5,
+        "cs": 3,
+        "r": 9,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Its exhibits cover folk magic, ceremonial magic, Freemasonry and Wicca. The collection has been described as the largest in the world.",
+        "style": "body"
+      },
+      {
+        "id": "el-7",
+        "name": "harbour-label",
+        "kind": "label",
+        "c": 5,
+        "cs": 4,
+        "r": 12,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Harbour walls · 1584 · Sir Richard Grenville"
+      }
+    ]
+  },
+  "image": "posters/029-museum-of-witchcraft-and-magic/v1.png",
+  "series": "original",
+  "version": 1,
+  "images_used": [
+    "data/images/museum-of-witchcraft-and-magic/commons-3.jpg"
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "id": "006-black-friar-pub",
+  "number": 6,
+  "pin_id": "black-friar-pub",
+  "created_at": "2026-10-11T01:57:42.077Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "The City is the historic centre of London and the pub is one narrow wedge within it, so the City's name fills the page and The Black Friar sits beneath it."
+  },
+  "title": "The Black Friar, City of London",
+  "place": {
+    "town": "London",
+    "locality": "Blackfriars",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "City of London",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.5121&lon=-0.1037&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Blackfriars, City of London, Greater London, England, EC4V 6BJ, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "accent": "#642408",
+  "copy": [
+    {
+      "element": "city-name",
+      "text": "CITY OF\nLONDON"
+    },
+    {
+      "element": "locator",
+      "text": "Blackfriars · Greater London"
+    },
+    {
+      "element": "place-name",
+      "text": "The Black\nFriar"
+    },
+    {
+      "element": "body",
+      "text": "A Grade II* listed public house on Queen Victoria Street. The City, founded by the Romans as Londinium, is the historic centre of London."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/The_Black_Friar%2C_Blackfriars",
+    "https://en.wikipedia.org/wiki/City_of_London"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/black-friar-pub/commons-1.jpg",
+    "title": "File:Black-Friar-Pub-Londres-230819.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Black-Friar-Pub-Londres-230819.jpg",
+    "author": "FDV",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 2965,
+    "height": 2965,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#82939d",
+          "share": 0.277
+        },
+        {
+          "hex": "#5a6464",
+          "share": 0.225
+        },
+        {
+          "hex": "#2d3b3b",
+          "share": 0.173
+        },
+        {
+          "hex": "#aedaef",
+          "share": 0.165
+        },
+        {
+          "hex": "#bca78f",
+          "share": 0.161
+        }
+      ],
+      "strongest": "#aedaef"
+    },
+    "credit": "FDV, CC BY-SA 4.0"
+  },
+  "elements": [
+    {
+      "name": "city-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 5,
+      "text": "CITY OF\nLONDON",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "locator",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 7,
+      "row_span": 1,
+      "text": "Blackfriars · Greater London",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "place-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 2,
+      "text": "The Black\nFriar",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 2,
+      "text": "A Grade II* listed public house on Queen Victoria Street. The City, founded by the Romans as Londinium, is the historic centre of London.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "pub-photo",
+      "kind": "photo",
+      "col": 6,
+      "col_span": 7,
+      "row": 7,
+      "row_span": 6,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 1.25,
+      "focus_x": 0.42,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The city-name spans all 12 columns over rows 2–6, but LONDON runs nearly flush to the right margin while CITY OF stops short at about column 11. Track or size the headline so LONDON lands exactly on the column 12 edge. Leave CITY OF ragged short deliberately, so the two-line block reads as one measured slab.",
+      "The idea says the pub is 'one narrow wedge' within the City, yet the photo takes 7 of 12 columns and 6 rows. Wedge and slab end up competing. Cut the photo to columns 8–12 (5 columns) over rows 7–12. That leaves columns 5–7 as an empty channel, so the pub really reads as a sliver beneath the name.",
+      "Column 5 is the only empty column between text and photo, so the gutter reads as a gap rather than a decision. Widen it to two empty columns (5–6) or close it entirely. One lone module looks accidental.",
+      "Place-name 'The Black / Friar' at 4 columns sets two words per line with a heavy rag on line two. Extend it to columns 1–5, or drop one size so 'The Black Friar' breaks with a fuller second line. Keep its cap height on the row 8 hangline.",
+      "Body sits on rows 10–11 at columns 1–4 with five short lines and a ragged 'of London.' widow. Rebreak it to avoid the two-word last line. Align its last baseline to the bottom of row 11, or its first baseline to the top of row 10, so the text is anchored to a grid line rather than floating.",
+      "Row 12 in columns 1–5 is empty below the body while the photo runs to the bottom of row 12. That is fine as deliberate silence, but end the photo on row 11 or anchor the body to row 12 so the two columns share a common bottom edge.",
+      "The locator label in brown on row 7 matches the photo top, which is good. The rust accent on locator and place-name picks up the brick in the photo well. Keep it, but don't add the accent anywhere else."
+    ],
+    "summary": "A clear scale contrast that mostly delivers the idea: the full-width CITY OF LONDON slab dominates and the pub sits below. The photo is too large for a 'narrow wedge', and the single empty column 5 feels unresolved. Narrow the photo to about 5 columns, make the gap intentional, and tighten the rag in the place-name and body to bring this to a keeper.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.4,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#642408"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "The Black Friar, City of London",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater London · City of London",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "06 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "The Black Friar"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater London · City of London"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "FDV, CC BY-SA 4.0"
+      },
+      {
+        "id": "el-1",
+        "name": "city-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "CITY OF\nLONDON"
+      },
+      {
+        "id": "el-2",
+        "name": "locator",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 7,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Blackfriars · Greater London"
+      },
+      {
+        "id": "el-3",
+        "name": "place-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 4,
+        "r": 8,
+        "rs": 2,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "The Black\nFriar"
+      },
+      {
+        "id": "el-4",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 4,
+        "r": 10,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A Grade II* listed public house on Queen Victoria Street. The City, founded by the Romans as Londinium, is the historic centre of London.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "pub-photo",
+        "kind": "photo",
+        "c": 6,
+        "cs": 7,
+        "r": 7,
+        "rs": 6,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/black-friar-pub/commons-1.jpg",
+        "zoom": 1.25,
+        "focus": [
+          0.42,
+          0.5
+        ],
+        "tag": "1"
+      }
+    ]
+  },
+  "image": "posters/006-black-friar-pub/v1.png",
+  "series": "original",
+  "version": 1,
+  "images_used": [
+    "data/images/black-friar-pub/commons-1.jpg"
+  ]
+}

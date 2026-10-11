@@ -1,0 +1,20 @@
+{
+  "id": "003-battersea-power-station",
+  "number": 3,
+  "series": "original",
+  "pin_id": "battersea-power-station",
+  "hidden": true,
+  "hidden_note": "Replaced in the viewer by the Serif version (serif-001). Delete these two lines to show it again.",
+  "published": 1,
+  "versions": [
+    {
+      "v": 1,
+      "created_at": "2026-10-11T01:53:02.903Z",
+      "feedback": null,
+      "from": null,
+      "mean": 6,
+      "followed": null,
+      "status": "below-bar"
+    }
+  ]
+}

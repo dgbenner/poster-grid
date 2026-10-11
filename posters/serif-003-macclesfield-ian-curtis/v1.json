@@ -1,0 +1,718 @@
+{
+  "pin_id": "macclesfield-ian-curtis",
+  "number": 3,
+  "series": "serif",
+  "created_at": "2026-10-11T23:03:06.538Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "The town and its county are large on the page and the memorial is a small square within them, so Macclesfield, Cheshire fills the sheet and the stone sits quietly in one corner."
+  },
+  "title": "Macclesfield — Ian Curtis",
+  "place": {
+    "town": "Macclesfield",
+    "locality": null,
+    "county": "Cheshire",
+    "adminArea": "Cheshire East",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.2587&lon=-2.125&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Macclesfield, Cheshire East, England, United Kingdom"
+  },
+  "pairing": "serif-bodoni",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#C8102E",
+      "role": "headline"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#138FE0",
+      "source": "photo 2",
+      "light": 2.9,
+      "dark": 5.2
+    },
+    {
+      "hex": "#6D4F3C",
+      "source": "photo 5",
+      "light": 6.2,
+      "dark": 2.4
+    },
+    {
+      "hex": "#6CA0CC",
+      "source": "photo 3",
+      "light": 2.3,
+      "dark": 6.5
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "town-name",
+      "text": "Macclesfield\nCheshire"
+    },
+    {
+      "element": "authority",
+      "text": "Cheshire East · England"
+    },
+    {
+      "element": "lead",
+      "text": "A market town on the River Bollin, at the edge of the Cheshire Plain."
+    },
+    {
+      "element": "body",
+      "text": "Macclesfield Forest lies to its east. Manchester is 16 miles (26 km) to the north."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Macclesfield"
+  ],
+  "photos": [
+    {
+      "kind": "personal",
+      "file": "data/images/macclesfield-ian-curtis/own-ian-curtis-memorial-1.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/ian-curtis-memorial-1.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.312
+          },
+          {
+            "hex": "#312a28",
+            "share": 0.257
+          },
+          {
+            "hex": "#dacdc5",
+            "share": 0.166
+          },
+          {
+            "hex": "#60514c",
+            "share": 0.137
+          },
+          {
+            "hex": "#a58782",
+            "share": 0.13
+          }
+        ],
+        "strongest": "#dacdc5"
+      },
+      "credit": "Waypoints photo, personal use"
+    }
+  ],
+  "images_used": [
+    "data/images/macclesfield-ian-curtis/own-ian-curtis-memorial-1.png"
+  ],
+  "elements": [
+    {
+      "name": "town-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 4,
+      "text": "Macclesfield\nCheshire",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "authority",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 7,
+      "row_span": 1,
+      "text": "Cheshire East · England",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 2,
+      "text": "A market town on the River Bollin, at the edge of the Cheshire Plain.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 2,
+      "text": "Macclesfield Forest lies to its east. Manchester is 16 miles (26 km) to the north.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "stone",
+      "kind": "photo",
+      "col": 9,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.8,
+      "focus_x": 0.5,
+      "focus_y": 0.55,
+      "tag": "1",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "caption",
+      "kind": "list",
+      "col": 9,
+      "col_span": 4,
+      "row": 12,
+      "row_span": 1,
+      "text": null,
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": [
+        "ian-curtis-memorial-stone"
+      ],
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "Idea: the headline spanning 12 of 12 columns over rows 2–5 against a 4-column photo does read as 'the town is large, the stone is small'. The photo is not a square, though. At columns 9–12 by rows 8–11 it is portrait. Either crop it to a true square (4 columns by about 3 rows, rows 9–11) or change the stated idea.",
+      "Grid: row 6 is completely empty and row 7 holds only the small authority label in columns 1–4, so the band between headline and text reads as leftover rather than intent. Either pull the authority label up to the top of row 6, directly under 'Cheshire', or drop the whole lower block one row so rows 6–7 become a deliberate empty field.",
+      "Grid: the lead's top does not align with the photo's top in row 8; the lead's cap height sits roughly half a baseline below the image edge. Hang the lead's first cap line on the same baseline as the photo's top edge in row 8.",
+      "Grid: body text ends in the first third of row 11, while the photo runs to the bottom of row 11. Columns 1–4 of row 11 and columns 5–8 of rows 8–12 are empty. That empty field is good, so keep columns 5–8 open. Move the body down so its last line sits on the row 11 baseline, aligned with the photo bottom, or start the body in row 10 directly under the lead with a one-baseline gap.",
+      "Hierarchy: the headline wins, then the lead, then the photo, which is correct. The caption in row 12 sits a full baseline-plus below the photo, which detaches it. Raise the caption so its first line is one baseline under the photo's bottom edge, still within columns 9–12.",
+      "Type: 'Cheshire' spans only about 8 of 12 columns while 'Macclesfield' runs to column 12. The ragged right edge is fine, but the 'fi' ligature and the 'ld' terminal run slightly past the column 12 edge. Track or size the headline down a step so 'Macclesfield' stops on the column 12 edge exactly.",
+      "Type: the lead at 4 columns gives roughly 20 characters per line and a choppy rag ('on / at / the / Plain.'). Widen the lead to columns 1–5 (5 of 12) for about 25–28 characters, or reduce it one size so it sets in 4 lines with a smoother rag.",
+      "Type: the caption title 'Ian Curtis Memorial Stone' breaks to two lines inside columns 9–12 because the 1.2 km sits in the same row. Let the title run across columns 9–11 and right-align the distance at column 12, or shorten the indent after '01' so it sets on one line.",
+      "Color: the red headline on warm paper is strong. The pink roses and the red petal in the photo echo #C8102E, which ties the corner to the title. Keep this. Do not add red anywhere else; the authority label and caption numerals should stay grey."
+    ],
+    "summary": "A clear, worthwhile idea executed with a confident full-width headline and a quiet 4-column photo in the corner. It falls just short of keepable for three reasons: the photo isn't the square the idea promises, rows 6–7 feel like leftover space, and the lead, body and caption don't lock to the photo's top and bottom edges. Square the image, align the text block to rows 8–11, and tighten the caption under the photo.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "serif-bodoni",
+      "name": "Bodoni Moda / Inter / JetBrains Mono",
+      "serif": true,
+      "headline": {
+        "family": "Bodoni Moda",
+        "weight": 400,
+        "tracking": -0.01
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Bodoni+Moda:opsz,wght@6..96,400..700",
+        "Inter:wght@400;500;600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#C8102E",
+      "accent": "#1D1D1B",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Macclesfield — Ian Curtis",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Cheshire",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "SERIF · 03 / 06",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Macclesfield"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Cheshire"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Personal"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "town-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 4,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Macclesfield\nCheshire"
+      },
+      {
+        "id": "el-2",
+        "name": "authority",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 7,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Cheshire East · England"
+      },
+      {
+        "id": "el-3",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 4,
+        "r": 8,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A market town on the River Bollin, at the edge of the Cheshire Plain.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 4,
+        "r": 10,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Macclesfield Forest lies to its east. Manchester is 16 miles (26 km) to the north.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "stone",
+        "kind": "photo",
+        "c": 9,
+        "cs": 4,
+        "r": 8,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/macclesfield-ian-curtis/own-ian-curtis-memorial-1.png",
+        "zoom": 1.8,
+        "focus": [
+          0.5,
+          0.55
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-6",
+        "name": "caption",
+        "kind": "list",
+        "c": 9,
+        "cs": 4,
+        "r": 12,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "items": [
+          {
+            "id": "ian-curtis-memorial-stone",
+            "n": "01",
+            "name": "Ian Curtis Memorial Stone",
+            "km": "1.2 km"
+          }
+        ]
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/serif-003-macclesfield-ian-curtis/v1.png"
+}

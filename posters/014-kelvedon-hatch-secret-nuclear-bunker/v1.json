@@ -1,0 +1,835 @@
+{
+  "id": "014-kelvedon-hatch-secret-nuclear-bunker",
+  "number": 14,
+  "pin_id": "kelvedon-hatch-secret-nuclear-bunker",
+  "created_at": "2026-10-11T02:58:09.012Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "The bunker hides beneath a modest bungalow while the county around it is large, so ESSEX fills the page and the place sits small inside it."
+  },
+  "title": "Kelvedon Hatch Secret Nuclear Bunker",
+  "place": {
+    "town": "Brentwood",
+    "locality": "Kelvedon Hatch",
+    "county": "Essex",
+    "adminArea": "Essex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.6725&lon=0.2611&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Kelvedon Hatch, Brentwood, Essex, England, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "dark",
+  "accent": "#AEA608",
+  "copy": [
+    {
+      "element": "county",
+      "text": "ESSEX"
+    },
+    {
+      "element": "place-label",
+      "text": "KELVEDON HATCH, BOROUGH OF BRENTWOOD"
+    },
+    {
+      "element": "lead",
+      "text": "A large underground Cold War bunker."
+    },
+    {
+      "element": "body",
+      "text": "Maintained as a potential regional government headquarters, it was decommissioned in 1992. It is now open to the public, with a museum on its Cold War history."
+    },
+    {
+      "element": "distance-label",
+      "text": "BRENTWOOD: 20 MILES NE OF CHARING CROSS"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Kelvedon_Hatch_Secret_Nuclear_Bunker",
+    "https://en.wikipedia.org/wiki/Brentwood%2C_Essex"
+  ],
+  "photo": {
+    "kind": "personal",
+    "file": "data/images/kelvedon-hatch-secret-nuclear-bunker/own-kelvedon-hatch-secret-nuclear-bunker.jpg",
+    "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/kelvedon-hatch-secret-nuclear-bunker.jpg",
+    "author": null,
+    "license": "personal",
+    "licenseUrl": null,
+    "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+    "colors": {
+      "palette": [
+        {
+          "hex": "#596662",
+          "share": 0.301
+        },
+        {
+          "hex": "#83876b",
+          "share": 0.204
+        },
+        {
+          "hex": "#32423f",
+          "share": 0.197
+        },
+        {
+          "hex": "#9198a6",
+          "share": 0.194
+        },
+        {
+          "hex": "#b9c2d5",
+          "share": 0.104
+        }
+      ],
+      "strongest": "#b9c2d5"
+    },
+    "credit": "Waypoints photo, personal use"
+  },
+  "elements": [
+    {
+      "name": "county",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 3,
+      "text": "ESSEX",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "above",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 4,
+      "row": 5,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.3,
+      "focus_x": 0.45,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "place-label",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 5,
+      "row_span": 1,
+      "text": "KELVEDON HATCH, BOROUGH OF BRENTWOOD",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 6,
+      "row_span": 2,
+      "text": "A large underground Cold War bunker.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 4,
+      "row": 9,
+      "row_span": 2,
+      "text": "Maintained as a potential regional government headquarters, it was decommissioned in 1992. It is now open to the public, with a museum on its Cold War history.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "distance-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 11,
+      "row_span": 1,
+      "text": "BRENTWOOD: 20 MILES NE OF CHARING CROSS",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "where",
+      "kind": "pinfield",
+      "col": 5,
+      "col_span": 8,
+      "row": 9,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 6,
+      "hierarchy": 6,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The idea says the place sits small inside a large county, but ESSEX only spans rows 2–4 while the photo, lead and pinfield compete below it. To make the county feel like it holds the place, either push ESSEX to rows 2–5 or set the photo smaller (columns 1–3, rows 6–8) so the size contrast is the message.",
+      "The pinfield is assigned columns 5–12, rows 9–12, but the dots cluster in columns 8–10 with a stray pair drifting into columns 7–8 at row 12. Either scale the map to really fill its 8-column field or reassign it to columns 7–12 so the empty modules in columns 5–6 read as intent rather than leftover.",
+      "Columns 5–8 sit empty from row 5 to row 8 between the photo and the lead. That is a good empty field, but nothing answers it. Keep it open and align the pinfield's left edge to column 5 so the void has a firm boundary below.",
+      "The lead in columns 9–12, rows 6–7 is the second voice, yet it starts a full row below the place-label and floats. Snap the label to the top of row 5 to match the photo top, and start the lead on the first baseline of row 6 so the right stack hangs from the same line as the photo.",
+      "The body in columns 1–4, rows 9–10 runs about 40 characters per line with a ragged right that is fine. However, it sits directly under the photo with no gap module. Start it one baseline lower inside row 9 so the caption relationship is clear.",
+      "The distance-label in row 11, columns 1–4, is orphaned between the body and the footer. Move it to row 12 so it aligns with the pinfield's bottom and reads as the map's caption, or move it into columns 5–8 at row 12 next to the dots.",
+      "The ESSEX headline overshoots column 12 on the X and starts left of column 1 on the E's optical edge. Track or scale it so the stems sit exactly on the column 1 and column 12 edges.",
+      "Olive on near-black works, and the single accent dot ties the map to the headline. Keep the place-label in the accent, but drop the photo's saturation slightly so its greens don't fight the olive."
+    ],
+    "summary": "A bold, legible poster: the 12-column ESSEX and the olive accent dot carry the idea. The middle band and the lower right are loose, though. The pinfield underuses its 8-column field, the lead floats a row below its label, and the distance-label is orphaned in row 11. Tighten the alignments to rows 5 and 12, and sharpen the size contrast between county and place.",
+    "mean": 6.2
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#161615",
+      "ink": "#EDECE7",
+      "muted": "#A3A29B",
+      "rule": "#3A3A37",
+      "accent": "#AEA608"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Kelvedon Hatch Secret Nuclear Bunker",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Essex",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "14 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Kelvedon Hatch Secret Nuclear Bunker"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Essex"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Modern"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "county",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 3,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "ESSEX"
+      },
+      {
+        "id": "el-2",
+        "name": "above",
+        "kind": "photo",
+        "c": 1,
+        "cs": 4,
+        "r": 5,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/kelvedon-hatch-secret-nuclear-bunker/own-kelvedon-hatch-secret-nuclear-bunker.jpg",
+        "zoom": 1.3,
+        "focus": [
+          0.45,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-3",
+        "name": "place-label",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 5,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "KELVEDON HATCH, BOROUGH OF BRENTWOOD"
+      },
+      {
+        "id": "el-4",
+        "name": "lead",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 6,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A large underground Cold War bunker.",
+        "style": "lead"
+      },
+      {
+        "id": "el-5",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 4,
+        "r": 9,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Maintained as a potential regional government headquarters, it was decommissioned in 1992. It is now open to the public, with a museum on its Cold War history.",
+        "style": "body"
+      },
+      {
+        "id": "el-6",
+        "name": "distance-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 11,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "BRENTWOOD: 20 MILES NE OF CHARING CROSS"
+      },
+      {
+        "id": "el-7",
+        "name": "where",
+        "kind": "pinfield",
+        "c": 5,
+        "cs": 8,
+        "r": 9,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            51.6725,
+            0.2611
+          ],
+          "ring": []
+        }
+      }
+    ]
+  },
+  "image": "posters/014-kelvedon-hatch-secret-nuclear-bunker/v1.png",
+  "series": "original",
+  "version": 1,
+  "images_used": [
+    "data/images/kelvedon-hatch-secret-nuclear-bunker/own-kelvedon-hatch-secret-nuclear-bunker.jpg"
+  ]
+}

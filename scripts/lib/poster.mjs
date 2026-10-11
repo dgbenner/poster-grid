@@ -5,22 +5,27 @@ import { computeGrid, distribute } from '../../grid/grid.js';
 export const IDEAS = {
   'place-name-at-scale': 'Place name at scale: the city or county name fills the page; the place sits inside it.',
   'location-decides-layout': 'Location decides layout: the photo sits in the grid cell matching where the place is in the country.',
-  'closer': 'Closer: one photo three times, each larger, stepping across the grid.',
+  'closer': 'Closer: the place seen three times, each larger, stepping across the grid; one photo cropped closer each time, or different photos moving in.',
   'nearby': 'Nearby: the place plus its nearby pins, listed with distances.',
 };
 
 export const UNION_JACK = { red: '#C8102E', blue: '#012169' };
+export const ROLES = ['background', 'headline', 'accent', 'panel'];
 
+// The neutral base. These never count toward a poster's colour limit.
 const PAPERS = {
   light: { paper: '#EBEAE5', ink: '#1D1D1B', muted: '#5F5E58', rule: '#B9B8B1' },
   dark: { paper: '#161615', ink: '#EDECE7', muted: '#A3A29B', rule: '#3A3A37' },
 };
+const NEUTRALS = new Set(Object.values(PAPERS).flatMap(p => Object.values(p)));
 
 // ---------- Colour ----------
 
+const rgb = hex => hex.replace('#', '').match(/../g).map(h => parseInt(h, 16));
+const toHex = c => '#' + c.map(v => Math.round(Math.min(255, Math.max(0, v))).toString(16).padStart(2, '0')).join('').toUpperCase();
+
 function luminance(hex) {
-  const v = hex.replace('#', '').match(/../g).map(h => parseInt(h, 16) / 255)
-    .map(c => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
+  const v = rgb(hex).map(c => c / 255).map(c => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
   return 0.2126 * v[0] + 0.7152 * v[1] + 0.0722 * v[2];
 }
 export function contrast(a, b) {
@@ -28,27 +33,63 @@ export function contrast(a, b) {
   return (x + 0.05) / (y + 0.05);
 }
 
-// Accent options for a poster: each photo's strongest colour plus the Union Jack red and
-// blue for UK places, kept only where it reads at 4.5:1 on that paper.
-export function accentOptions(enrich) {
-  const out = [];
-  const seen = new Set();
-  const add = (hex, source) => {
-    hex = hex.toUpperCase();
-    if (seen.has(hex)) return;
-    seen.add(hex);
-    out.push({
-      hex, source,
-      light: Math.round(contrast(hex, PAPERS.light.paper) * 10) / 10,
-      dark: Math.round(contrast(hex, PAPERS.dark.paper) * 10) / 10,
-    });
-  };
-  enrich.images.forEach((im, i) => im.colors?.strongest && add(im.colors.strongest, `photo ${i}`));
-  if (enrich.place?.sovereign === 'United Kingdom') {
-    add(UNION_JACK.red, 'Union Jack red');
-    add(UNION_JACK.blue, 'Union Jack blue');
+// CIE Lab (D65), for judging how different two colours look.
+export function lab(hex) {
+  const [r, g, b] = rgb(hex).map(c => c / 255).map(c => (c <= 0.04045 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
+  const f = t => (t > 0.008856 ? Math.cbrt(t) : 7.787 * t + 16 / 116);
+  const x = f((0.4124 * r + 0.3576 * g + 0.1805 * b) / 0.95047);
+  const y = f(0.2126 * r + 0.7152 * g + 0.0722 * b);
+  const z = f((0.0193 * r + 0.1192 * g + 0.9505 * b) / 1.08883);
+  return [116 * y - 16, 500 * (x - y), 200 * (y - z)];
+}
+const deltaE = (a, b) => Math.hypot(...lab(a).map((v, i) => v - lab(b)[i]));
+const chroma = hex => { const [, a, b] = lab(hex); return Math.hypot(a, b); };
+const mix = (a, b, t) => toHex(rgb(a).map((v, i) => v + (rgb(b)[i] - v) * t));
+
+// Up to 6 colour candidates from a place's photos: each photo's palette, weighted by how
+// much of the photo a colour covers and how vivid it is, minus near-greys and colours
+// within 20 (Lab) of one already chosen. Union Jack red and blue are added for UK places.
+export function colorCandidates(enrich, imageIdx = null) {
+  const pool = [];
+  enrich.images.forEach((im, i) => {
+    if (imageIdx && !imageIdx.includes(i)) return;
+    for (const c of im.colors?.palette || []) pool.push({ hex: c.hex.toUpperCase(), source: `photo ${i}`, weight: c.share * chroma(c.hex) });
+  });
+  const picked = [];
+  for (const c of pool.filter(c => chroma(c.hex) >= 15).sort((a, b) => b.weight - a.weight)) {
+    if (picked.length === 6) break;
+    if (picked.every(p => deltaE(p.hex, c.hex) >= 20)) picked.push(c);
   }
-  return out.filter(o => o.light >= 4.5 || o.dark >= 4.5);
+  const out = picked.map(({ hex, source }) => ({ hex, source }));
+  if (enrich.place?.sovereign === 'United Kingdom') {
+    out.push({ hex: UNION_JACK.red, source: 'Union Jack red' }, { hex: UNION_JACK.blue, source: 'Union Jack blue' });
+  }
+  return out.map(c => ({
+    ...c,
+    light: Math.round(contrast(c.hex, PAPERS.light.paper) * 10) / 10,
+    dark: Math.round(contrast(c.hex, PAPERS.dark.paper) * 10) / 10,
+  }));
+}
+
+// The poster's palette: the neutral base, adjusted to a coloured background when one is
+// chosen, plus the designer's colours in their roles. Ink is whichever of the two neutral
+// inks reads better on the background.
+export function themeFor(design) {
+  const base = PAPERS[design.paper] || PAPERS.light;
+  const role = r => (design.colors || []).find(c => c.role === r)?.hex?.toUpperCase();
+  const theme = { ...base };
+  const bg = role('background');
+  if (bg) {
+    theme.paper = bg;
+    theme.ink = contrast(PAPERS.light.ink, bg) >= contrast(PAPERS.dark.ink, bg) ? PAPERS.light.ink : PAPERS.dark.ink;
+    const muted = mix(theme.ink, bg, 0.3);
+    theme.muted = contrast(muted, bg) >= 4.5 ? muted : theme.ink;
+    theme.rule = mix(theme.ink, bg, 0.7);
+  }
+  theme.headline = role('headline') || theme.ink;
+  theme.accent = role('accent') || theme.ink;
+  theme.panel = role('panel') || null;
+  return theme;
 }
 
 // ---------- Frame ----------
@@ -66,20 +107,23 @@ export function photoCredit(image) {
   return [image.author, image.license].filter(Boolean).join(', ');
 }
 
-function frame(g, { title, enrich, pin, number, total, image }) {
+export const photoCredits = images => images.length ? images.map(photoCredit).join('; ') : 'No photo';
+
+function frame(g, { title, enrich, pin, number, total, images, creditsLine, series }) {
   const C = g.columns.length, R = g.rows.length;
   const { footRows } = middleRows(g);
   const place = enrich.place;
   const county = place.borough ? `${place.county} · ${place.borough}` : place.county;
   const els = [];
   let c = 1;
-  const head = [['WAYPOINTS'], [title], [county], [`${String(number).padStart(2, '0')} / ${String(total).padStart(2, '0')}`]];
+  const tag = series && series !== 'Original' ? `${series.toUpperCase()} · ` : '';
+  const head = [['WAYPOINTS'], [title], [county], [`${tag}${String(number).padStart(2, '0')} / ${String(total).padStart(2, '0')}`]];
   distribute(C, [1, 2, 2, 1]).forEach((cs, i) => {
     els.push({ id: `header-${i + 1}`, name: ['Header: series', 'Header: title', 'Header: county', 'Header: number'][i], kind: 'label', frame: true, c, cs, r: 1, rs: 1, text: head[i][0], align: i === 3 ? 'right' : 'left', color: 'ink' });
     c += cs;
   });
   const cat = pin.category ? pin.category[0].toUpperCase() + pin.category.slice(1) : '';
-  const foot = [['Place', cleanName(pin.name)], ['County', county], ['Country', place.country], ['Category', cat], ['Photo', photoCredit(image)]];
+  const foot = [['Place', cleanName(pin.name)], ['County', county], ['Country', place.country], ['Category', cat], ['Photo', creditsLine ? 'Credits below' : photoCredits(images)]];
   const fr = R - footRows + 1;
   els.push({ id: 'footer-rule', name: 'Footer: rule', kind: 'rule', frame: true, c: 1, cs: C, r: fr, rs: footRows });
   if (C >= 5) {
@@ -92,6 +136,11 @@ function frame(g, { title, enrich, pin, number, total, image }) {
     foot.slice(0, 4).forEach((f, i) => els.push({ id: `footer-${i + 1}`, name: `Footer: ${f[0].toLowerCase()}`, kind: 'foot', frame: true, c: i + 1, cs: 1, r: fr, rs: 1, label: f[0], value: f[1] }));
     els.push({ id: 'footer-5', name: 'Footer: photo', kind: 'foot', frame: true, c: 1, cs: C, r: fr + 1, rs: 1, label: foot[4][0], value: foot[4][1] });
   }
+  // Credits that don't fit the PHOTO cell run along the footer's last baseline, full width.
+  if (creditsLine) {
+    const L = g.linesPerModule;
+    els.push({ id: 'credits', name: 'Footer: credits', kind: 'credits', frame: true, c: 1, cs: C, r: R, rs: 1, text: '\n'.repeat(Math.max(0, L - 1)) + `Photos: ${photoCredits(images)}` });
+  }
   return els;
 }
 
@@ -99,20 +148,18 @@ function frame(g, { title, enrich, pin, number, total, image }) {
 
 const round = (n, d = 1) => Math.round(n * 10 ** d) / 10 ** d;
 
-export function buildSpec({ design, gridCfg, enrich, pin, allEnrich, number, total }) {
+export function buildSpec({ design, gridCfg, enrich, pin, allEnrich, number, total, series, creditsLine = false }) {
   const g = computeGrid(gridCfg);
   const pairing = gridCfg.fonts.pairings.find(p => p.id === design.pairing) || gridCfg.fonts.pairings[0];
-  const paper = PAPERS[design.paper] || PAPERS.light;
-  const theme = { ...paper, accent: design.accent };
-
-  const firstPhoto = design.elements.find(e => e.kind === 'photo');
-  const image = firstPhoto ? enrich.images[firstPhoto.image] : null;
+  const theme = themeFor(design);
+  const used = imagesUsed(design);
+  const images = used.map(i => enrich.images[i]).filter(Boolean);
 
   const middle = design.elements.map((e, i) => {
     const el = {
       id: `el-${i + 1}`, name: e.name || `${e.kind} ${i + 1}`, kind: e.kind,
       c: e.col, cs: e.col_span, r: e.row, rs: e.row_span,
-      color: e.color || 'ink', align: e.align || 'left', over: !!e.over,
+      color: e.color || (e.kind === 'headline' ? 'headline' : 'ink'), align: e.align || 'left', over: !!e.over,
     };
     if (e.kind === 'headline' || e.kind === 'text' || e.kind === 'label') { el.text = e.text || ''; if (e.kind === 'text') el.style = e.style || 'body'; }
     if (e.kind === 'photo') {
@@ -122,6 +169,7 @@ export function buildSpec({ design, gridCfg, enrich, pin, allEnrich, number, tot
       el.zoom = e.zoom || 1;
       el.focus = [e.focus_x ?? 0.5, e.focus_y ?? 0.5];
       if (e.tag) el.tag = e.tag;
+      if (e.panel) el.panel = true;
     }
     if (e.kind === 'list') {
       const near = [...enrich.nearby.within5km, ...enrich.nearby.sameCounty];
@@ -142,9 +190,12 @@ export function buildSpec({ design, gridCfg, enrich, pin, allEnrich, number, tot
     return el;
   });
 
-  const elements = [...frame(g, { title: design.poster_title, enrich, pin, number, total, image }), ...middle];
+  const elements = [...frame(g, { title: design.poster_title, enrich, pin, number, total, images, creditsLine, series }), ...middle];
   return { grid: gridCfg, pairing, theme, elements };
 }
+
+// Distinct images a design uses, in order of first use.
+export const imagesUsed = design => [...new Set(design.elements.filter(e => e.kind === 'photo' && Number.isInteger(e.image)).map(e => e.image))];
 
 // ---------- Checks (code, not model) ----------
 
@@ -172,7 +223,7 @@ export function unsourcedNumbers(s, sources) {
   return nums.map(n => n.replace(/,(\d{3})/g, '$1').replace(/\.$/, '')).filter(n => !hay.includes(n));
 }
 
-export function checkSpec(spec, { design, enrich, report, factText }) {
+export function checkSpec(spec, { design, enrich, report, factText, candidates, maxColors }) {
   const g = computeGrid(spec.grid);
   const C = g.columns.length, R = g.rows.length;
   const { first, last } = middleRows(g);
@@ -209,19 +260,39 @@ export function checkSpec(spec, { design, enrich, report, factText }) {
     }
   }
 
-  // 4. Contrast at least 4.5:1, against the paper or, for text over a photo, the photo's main colour.
-  for (const e of mid) {
-    if (!['headline', 'text', 'label', 'list'].includes(e.kind)) continue;
-    const fg = spec.theme[e.color] || spec.theme.ink;
-    let bg = spec.theme.paper;
-    if (e.over) {
-      const photo = mid.find(p => p.kind === 'photo' && hit(box(p), box(e)));
-      const main = photo && enrich.images[photo.image]?.colors?.palette?.[0]?.hex;
-      if (main) bg = main;
-    }
+  // 4. Contrast: 4.5:1 for text, 3:1 for text set at 24 pt or larger. Against the paper
+  // or, for text over a photo, the photo's main colour. Frame text included.
+  const bgOf = e => {
+    if (!e.over) return spec.theme.paper;
+    const photo = mid.find(p => p.kind === 'photo' && hit(box(p), box(e)));
+    return (photo && enrich.images[photo.image]?.colors?.palette?.[0]?.hex) || spec.theme.paper;
+  };
+  for (const e of spec.elements) {
+    if (!['headline', 'text', 'label', 'list', 'foot', 'credits'].includes(e.kind)) continue;
+    const fg = e.kind === 'foot' || e.kind === 'credits' ? spec.theme.ink : spec.theme[e.color] || spec.theme.ink;
+    const bg = bgOf(e);
+    const size = report?.[e.id]?.size ?? 0;
+    const need = size >= 24 ? 3 : 4.5;
     const ratio = contrast(fg, bg);
-    if (ratio < 4.5) problems.push({ check: 'contrast', msg: `${where(e)}: ${e.color} ${fg} on ${bg} is ${ratio.toFixed(1)}:1, needs 4.5:1` });
+    if (ratio < need) problems.push({ check: 'contrast', msg: `${where(e)}: ${e.color || 'ink'} ${fg} on ${bg} is ${ratio.toFixed(1)}:1, needs ${need}:1${size >= 24 ? ' (large text)' : ''}` });
   }
+  if (spec.theme.muted !== spec.theme.ink && contrast(spec.theme.muted, spec.theme.paper) < 4.5) {
+    problems.push({ check: 'contrast', msg: `muted ${spec.theme.muted} on ${spec.theme.paper} is below 4.5:1` });
+  }
+
+  // 4b. Colours: at most the series limit (never more than 3) beyond the neutral base, each
+  // taken from the candidates or the national colours, one role each.
+  const colors = design.colors || [];
+  const allowed = new Set((candidates || []).map(c => c.hex.toUpperCase()));
+  const limit = Math.min(3, maxColors ?? 3);
+  if (colors.length > limit) problems.push({ check: 'colors', msg: `${colors.length} colours; this series allows ${limit} beyond paper, ink and grey` });
+  for (const c of colors) {
+    const hex = (c.hex || '').toUpperCase();
+    if (!allowed.has(hex) && !NEUTRALS.has(hex)) problems.push({ check: 'colors', msg: `${hex} (${c.role}) is not one of the candidate colours` });
+  }
+  const roles = colors.map(c => c.role);
+  if (new Set(roles).size !== roles.length) problems.push({ check: 'colors', msg: `each role takes one colour; got ${roles.join(', ')}` });
+  if (mid.some(e => e.panel) && !spec.theme.panel) problems.push({ check: 'colors', msg: 'a photo asks for a panel but no colour has the panel role' });
 
   // 5. Clean copy: no stray punctuation, no numbers without a saved source.
   const strings = [design.poster_title, ...mid.filter(e => e.text).map(e => e.text)];
@@ -253,6 +324,7 @@ export function checkSpec(spec, { design, enrich, report, factText }) {
 
   // 8. References resolve.
   for (const e of mid) {
+    if (e.color && !['ink', 'muted', 'accent', 'headline'].includes(e.color)) problems.push({ check: 'colors', msg: `${where(e)}: unknown colour ${e.color}` });
     if (e.kind === 'photo' && !enrich.images[e.image]) problems.push({ check: 'image', msg: `${where(e)}: no image ${e.image}` });
     if (e.kind === 'list' && (e.items || []).some(it => it.missing)) problems.push({ check: 'list', msg: `${where(e)}: list names a pin that is not nearby` });
   }

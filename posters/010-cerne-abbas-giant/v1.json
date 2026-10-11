@@ -1,0 +1,676 @@
+{
+  "id": "010-cerne-abbas-giant",
+  "number": 10,
+  "pin_id": "cerne-abbas-giant",
+  "created_at": "2026-10-11T02:06:08.254Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "closer",
+    "sentence": "A 55-metre figure is best understood by approaching it, so one aerial photo climbs a staircase of square-stepped frames, 2, 4 and 6 modules, standing on a shared bottom edge until the Giant fills the last."
+  },
+  "title": "Cerne Abbas Giant",
+  "place": {
+    "town": "Cerne Abbas",
+    "locality": "Cerne Abbas",
+    "county": "Dorset",
+    "adminArea": "Dorset",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.8136679&lon=-2.4748234&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cerne Abbas, Dorset, England, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "accent": "#164133",
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Cerne Abbas\nGiant"
+    },
+    {
+      "element": "status-label",
+      "text": "National Trust · Scheduled monument"
+    },
+    {
+      "element": "body",
+      "text": "Shallow trenches cut into the turf and backfilled with chalk rubble."
+    },
+    {
+      "element": "location-label",
+      "text": "10 km north of Dorchester"
+    },
+    {
+      "element": "lead",
+      "text": "A hill figure 55 metres long, near the village of Cerne Abbas in the Cerne Valley, Dorset Downs."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Cerne_Abbas_Giant",
+    "https://en.wikipedia.org/wiki/Cerne_Abbas"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/cerne-abbas-giant/commons-1.jpg",
+    "title": "File:The Cerne Abbas Giant - 004.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cerne_Abbas_Giant_-_004.jpg",
+    "author": "PeteHarlow",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1408,
+    "height": 928,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#94a292",
+          "share": 0.334
+        },
+        {
+          "hex": "#728b78",
+          "share": 0.256
+        },
+        {
+          "hex": "#aac3ad",
+          "share": 0.189
+        },
+        {
+          "hex": "#406e60",
+          "share": 0.128
+        },
+        {
+          "hex": "#113f42",
+          "share": 0.093
+        }
+      ],
+      "strongest": "#113f42"
+    },
+    "credit": "PeteHarlow, CC BY-SA 3.0"
+  },
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 2,
+      "text": "Cerne Abbas\nGiant",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "status-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 4,
+      "row_span": 1,
+      "text": "National Trust · Scheduled monument",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 4,
+      "row": 5,
+      "row_span": 2,
+      "text": "Shallow trenches cut into the turf and backfilled with chalk rubble.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "location-label",
+      "kind": "label",
+      "col": 7,
+      "col_span": 6,
+      "row": 4,
+      "row_span": 1,
+      "text": "10 km north of Dorchester",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 7,
+      "col_span": 6,
+      "row": 5,
+      "row_span": 2,
+      "text": "A hill figure 55 metres long, near the village of Cerne Abbas in the Cerne Valley, Dorset Downs.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo-far",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 2,
+      "row": 11,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo-nearer",
+      "kind": "photo",
+      "col": 3,
+      "col_span": 4,
+      "row": 9,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 1.4,
+      "focus_x": 0.49,
+      "focus_y": 0.5,
+      "tag": "2",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo-closest",
+      "kind": "photo",
+      "col": 7,
+      "col_span": 6,
+      "row": 7,
+      "row_span": 6,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 2,
+      "focus_x": 0.49,
+      "focus_y": 0.5,
+      "tag": "3",
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 6,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The idea is clear and the staircase reads at a glance. But the frames are not square: a 2-column by 2-row module is about 77 pt wide and 108 pt tall, so all three frames are portrait. Either drop 'square' from the idea, or keep the steps at 2, 4 and 6 columns and let the height follow the photo's ratio rather than the row count.",
+      "The magnifications (1×, 1.4×, 2×) do not track the frame spans (2, 4, 6 columns, which would be 1×, 2×, 3×). The Giant grows less than the frame does, so the approach feels uneven. Scale the crops 1×, 2× and 3× so the figure fills more of each step, as the idea promises.",
+      "The stepped void is the best grid move here: columns 1–6 rows 7–8 and columns 1–2 rows 9–10 stay empty and give the climb its shape. Keep it, and keep the shared bottom edge on row 12.",
+      "The status label sits in columns 1–4 and wraps, leaving 'MONUMENT' alone on a second line one baseline lower. The location label sits on a single line in columns 7–12. Widen the status label to columns 1–6 so both labels are one line on the same baseline in row 4.",
+      "The body (columns 1–4) and the lead (columns 7–12) are set at the same size. The left block is read first, but the right block is the real introduction. Swap them so the lead sits in columns 1–6 rows 5–6, or set the lead one step larger, so it is clear where reading starts after the headline.",
+      "The body measure in columns 1–4 is short, and columns 5–6 of rows 5–6 sit empty with no purpose. Extend the body to columns 1–5, or align its right edge to column 6 to echo photo-nearer below.",
+      "The headline spans 12 columns but its longest line ends near column 8. Either state the span as 1–8, or set it larger so 'Cerne Abbas' reaches column 10 or 11 and the top of the page carries more weight against the large photo in rows 7–12.",
+      "The number badges in the photo corners use a serif face, which clashes with the sans and mono pairing. Set them in the mono used for the labels, at label size, and inset them one baseline from the frame corners.",
+      "Colour works: the dark green mono labels pick up the turf, and the warm grey paper lets the photo carry the only saturated area. Keep it."
+    ],
+    "summary": "A clear, worthwhile idea with a strong stepped void and a shared baseline for the photos. To reach a keepable 7, fix three things: the frames are not square as claimed, the zoom levels lag behind the frame spans, and the text blocks above are flat in hierarchy with unequal label spans.",
+    "mean": 6.4
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "closer",
+      "mean": 6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 5,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.2,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.4,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#164133"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Cerne Abbas Giant",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Dorset",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "10 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Cerne Abbas Giant"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Dorset"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "PeteHarlow, CC BY-SA 3.0"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Cerne Abbas\nGiant"
+      },
+      {
+        "id": "el-2",
+        "name": "status-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 4,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "National Trust · Scheduled monument"
+      },
+      {
+        "id": "el-3",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 4,
+        "r": 5,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Shallow trenches cut into the turf and backfilled with chalk rubble.",
+        "style": "body"
+      },
+      {
+        "id": "el-4",
+        "name": "location-label",
+        "kind": "label",
+        "c": 7,
+        "cs": 6,
+        "r": 4,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "10 km north of Dorchester"
+      },
+      {
+        "id": "el-5",
+        "name": "lead",
+        "kind": "text",
+        "c": 7,
+        "cs": 6,
+        "r": 5,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A hill figure 55 metres long, near the village of Cerne Abbas in the Cerne Valley, Dorset Downs.",
+        "style": "body"
+      },
+      {
+        "id": "el-6",
+        "name": "photo-far",
+        "kind": "photo",
+        "c": 1,
+        "cs": 2,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/cerne-abbas-giant/commons-1.jpg",
+        "zoom": 1,
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-7",
+        "name": "photo-nearer",
+        "kind": "photo",
+        "c": 3,
+        "cs": 4,
+        "r": 9,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/cerne-abbas-giant/commons-1.jpg",
+        "zoom": 1.4,
+        "focus": [
+          0.49,
+          0.5
+        ],
+        "tag": "2"
+      },
+      {
+        "id": "el-8",
+        "name": "photo-closest",
+        "kind": "photo",
+        "c": 7,
+        "cs": 6,
+        "r": 7,
+        "rs": 6,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/cerne-abbas-giant/commons-1.jpg",
+        "zoom": 2,
+        "focus": [
+          0.49,
+          0.5
+        ],
+        "tag": "3"
+      }
+    ]
+  },
+  "image": "posters/010-cerne-abbas-giant/v1.png",
+  "series": "original",
+  "version": 1,
+  "images_used": [
+    "data/images/cerne-abbas-giant/commons-1.jpg"
+  ]
+}

@@ -1,5 +1,8 @@
-// Local server for the lab (and later the gallery). Serves the project folder and
-// accepts PUT /grid/grid.json so the lab can save grid settings. No dependencies.
+// Local server for the viewer and the lab. Serves the project folder, accepts
+// PUT /grid/grid.json from the lab, and runs the two local-only poster actions:
+//   POST /api/revise   { id, version, feedback }  makes a new version; streams progress
+//   POST /api/publish  { id, version }            chooses the version the site shows
+// Those need the Anthropic key in .env.local, so they exist only here, never on Pages.
 import { createServer } from 'node:http';
 import { readFile, writeFile } from 'node:fs/promises';
 import { extname, join, normalize, sep } from 'node:path';
@@ -12,6 +15,55 @@ const TYPES = {
   '.css': 'text/css; charset=utf-8', '.json': 'application/json; charset=utf-8', '.png': 'image/png',
   '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.svg': 'image/svg+xml', '.webp': 'image/webp',
 };
+
+let revising = null;   // one revision at a time: they share the renderer's port
+
+async function readJSON(req) {
+  let body = '';
+  for await (const chunk of req) body += chunk;
+  return JSON.parse(body || '{}');
+}
+
+async function api(req, res, path) {
+  const send = (status, data) => { res.writeHead(status, { 'content-type': 'application/json' }); res.end(JSON.stringify(data)); };
+  let body;
+  try { body = await readJSON(req); } catch { return send(400, { error: 'Not JSON' }); }
+  if (!/^[a-z0-9-]+$/.test(body.id || '')) return send(400, { error: 'Bad poster id' });
+  const { buildIndex } = await import('./build-index.mjs');
+
+  if (path === '/api/publish') {
+    try {
+      const { publish } = await import('./lib/store.mjs');
+      await publish(body.id, Number(body.version));
+      await buildIndex();
+      return send(200, { ok: true, published: Number(body.version) });
+    } catch (err) { return send(400, { error: err.message }); }
+  }
+
+  if (path === '/api/revise') {
+    const feedback = String(body.feedback || '').trim();
+    if (!feedback) return send(400, { error: 'Say what should change' });
+    if (revising) return send(409, { error: `Already making a version of ${revising}` });
+    try { process.loadEnvFile(join(root, '.env.local')); } catch { return send(500, { error: 'No .env.local with ANTHROPIC_API_KEY' }); }
+    // Progress streams as one JSON object per line; the last line has done or error.
+    res.writeHead(200, { 'content-type': 'application/x-ndjson', 'cache-control': 'no-store' });
+    const line = o => res.write(JSON.stringify(o) + '\n');
+    revising = body.id;
+    try {
+      const { revise } = await import('./lib/revise.mjs');
+      const out = await revise({ id: body.id, version: body.version ? Number(body.version) : null, feedback, onProgress: line });
+      await buildIndex();
+      line({ done: true, ...out });
+    } catch (err) {
+      line({ error: err.message });
+    } finally {
+      revising = null;
+      res.end();
+    }
+    return;
+  }
+  send(404, { error: 'Unknown action' });
+}
 
 const between = (v, lo, hi) => typeof v === 'number' && v >= lo && v <= hi;
 function validGrid(o) {
@@ -35,6 +87,7 @@ createServer(async (req, res) => {
     res.writeHead(204).end();
     return;
   }
+  if (req.method === 'POST' && path.startsWith('/api/')) return api(req, res, path);
   if (req.method !== 'GET' && req.method !== 'HEAD') { res.writeHead(405).end(); return; }
 
   const file = normalize(join(root, path.endsWith('/') ? path + 'index.html' : path));

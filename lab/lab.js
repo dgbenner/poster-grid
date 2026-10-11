@@ -406,6 +406,7 @@ function setType(item) {
   const t = typeFor(item.kind), B = cfg.baseline;
   txt.style.fontFamily = `"${t.font.family}"`;
   txt.style.fontWeight = t.font.weight;
+  if (item.kind === 'headline' && t.font.tracking != null) txt.style.letterSpacing = t.font.tracking + 'em';
   if (t.nowrap) txt.style.whiteSpace = 'nowrap';
   if (item.kind === 'foot') txt.querySelector('.val').style.fontFamily = `"${pairing().text.family}"`;
 

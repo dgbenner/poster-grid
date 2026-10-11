@@ -1,0 +1,806 @@
+{
+  "pin_id": "beachy-head",
+  "number": 5,
+  "series": "serif",
+  "created_at": "2026-10-11T23:07:07.855Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "closer",
+    "sentence": "Beachy Head is best understood by walking towards it, so three views step down and across the grid, each larger and closer, until the chalk face and lighthouse fill the lower right."
+  },
+  "title": "Beachy Head",
+  "place": {
+    "town": "Eastbourne",
+    "locality": "Holywell",
+    "county": "East Sussex",
+    "adminArea": "East Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.738185&lon=0.2494669&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Holywell, Eastbourne, East Sussex, England, BN20 7RT, United Kingdom"
+  },
+  "pairing": "serif-bodoni",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#012169",
+      "role": "headline"
+    },
+    {
+      "hex": "#C8102E",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#8DADC7",
+      "source": "photo 4",
+      "light": 2,
+      "dark": 7.7
+    },
+    {
+      "hex": "#4A3423",
+      "source": "photo 3",
+      "light": 9.6,
+      "dark": 1.6
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "lead",
+      "text": "A chalk headland in East Sussex, immediately east of the Seven Sisters."
+    },
+    {
+      "element": "headline",
+      "text": "Beachy\nHead"
+    },
+    {
+      "element": "body",
+      "text": "Eastbourne lies immediately east. Beachy Head is the highest chalk sea cliff in Great Britain."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Beachy_Head",
+    "https://en.wikipedia.org/wiki/Eastbourne"
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/beachy-head/commons-2.jpg",
+      "title": "File:Beachy Head, Eastbourne, United Kingdom (Unsplash).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head,_Eastbourne,_United_Kingdom_(Unsplash).jpg",
+      "author": "Michal Dzierza midz",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3200,
+      "height": 2134,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1a2429",
+            "share": 0.233
+          },
+          {
+            "hex": "#d2d5d6",
+            "share": 0.233
+          },
+          {
+            "hex": "#62808d",
+            "share": 0.202
+          },
+          {
+            "hex": "#9cafb5",
+            "share": 0.177
+          },
+          {
+            "hex": "#395968",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#395968"
+      },
+      "credit": "Michal Dzierza midz, CC0"
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/beachy-head/commons-4.jpg",
+      "title": "File:Beachy Head and Lighthouse, East Sussex, England - April 2010 crop horizon corrected.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head_and_Lighthouse,_East_Sussex,_England_-_April_2010_crop_horizon_corrected.jpg",
+      "author": "Diliff, Papa Lima Whiskey (edit)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2584,
+      "height": 1544,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#545b46",
+            "share": 0.28
+          },
+          {
+            "hex": "#82939d",
+            "share": 0.267
+          },
+          {
+            "hex": "#8dadc7",
+            "share": 0.248
+          },
+          {
+            "hex": "#6d7064",
+            "share": 0.13
+          },
+          {
+            "hex": "#e7e7e3",
+            "share": 0.076
+          }
+        ],
+        "strongest": "#8dadc7"
+      },
+      "credit": "Diliff, Papa Lima Whiskey (edit), CC BY-SA 3.0"
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/beachy-head/commons-3.jpg",
+      "title": "File:Beachy Head Lighthouse under the cliff.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head_Lighthouse_under_the_cliff.jpg",
+      "author": "Arndt Helge Finkenrath",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "width": 1488,
+      "height": 1984,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a3423",
+            "share": 0.252
+          },
+          {
+            "hex": "#8e8f95",
+            "share": 0.22
+          },
+          {
+            "hex": "#b1afb7",
+            "share": 0.195
+          },
+          {
+            "hex": "#c9ccda",
+            "share": 0.188
+          },
+          {
+            "hex": "#7a736c",
+            "share": 0.145
+          }
+        ],
+        "strongest": "#4a3423"
+      },
+      "credit": "Arndt Helge Finkenrath, CC BY-SA 2.5"
+    }
+  ],
+  "images_used": [
+    "data/images/beachy-head/commons-2.jpg",
+    "data/images/beachy-head/commons-4.jpg",
+    "data/images/beachy-head/commons-3.jpg"
+  ],
+  "elements": [
+    {
+      "name": "view-far",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 2,
+      "row": 2,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 2,
+      "zoom": 1,
+      "focus_x": 0.45,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 7,
+      "col_span": 6,
+      "row": 2,
+      "row_span": 2,
+      "text": "A chalk headland in East Sussex, immediately east of the Seven Sisters.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-middle",
+      "kind": "photo",
+      "col": 3,
+      "col_span": 4,
+      "row": 4,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 4,
+      "zoom": 1.3,
+      "focus_x": 0.6,
+      "focus_y": 0.5,
+      "tag": "2",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 6,
+      "row": 7,
+      "row_span": 4,
+      "text": "Beachy\nHead",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-close",
+      "kind": "photo",
+      "col": 7,
+      "col_span": 6,
+      "row": 7,
+      "row_span": 6,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 3,
+      "zoom": 1.6,
+      "focus_x": 0.4,
+      "focus_y": 0.45,
+      "tag": "3",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 5,
+      "row": 11,
+      "row_span": 2,
+      "text": "Eastbourne lies immediately east. Beachy Head is the highest chalk sea cliff in Great Britain.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 7,
+      "hierarchy": 6,
+      "type": 6,
+      "color": 5
+    },
+    "notes": [
+      "The staircase reads: view-far spans 2 columns × 2 rows, view-middle 4 × 3, view-close 6 × 6. Each step moves right by exactly its own width (cols 1–2, 3–6, 7–12), so the walk is legible. Keep this progression. Tighten the middle step so the growth is even, for example 2×2 → 4×4 → 6×6, by extending view-middle to rows 4–7 and starting view-close at row 8.",
+      "View-middle (cols 3–6, rows 4–6) and the headline (cols 1–6, rows 7–10) share column 6 with only a baseline between them. The ascender of 'h' and the 'y' tail crowd the photo edge. Either start the headline one row lower, at rows 8–11, or end view-middle at row 5, so the photo and the headline do not collide.",
+      "Columns 7–12 in rows 4–6 are an empty block of 6 × 3 modules beside view-middle. This is good intentional air for the walk, but the lead in rows 2–3 then floats with nothing tying it down. Hang the lead from the top of row 2, aligned with the top edge of view-far. It currently starts about a baseline lower; correct that so the two share a hanging line.",
+      "Hierarchy: the headline at cols 1–6, rows 7–10 competes with view-close, which spans 6 × 6 on the right. The eye goes to the photo first, which suits the idea. However, the headline should then end the walk rather than interrupt it. Consider moving 'Beachy Head' to rows 2–4 across cols 7–12 in place of the lead, and dropping the lead to cols 1–5, rows 9–10, so the reading starts with the name and ends with the cliff.",
+      "Body text in cols 1–5, rows 11–12 has a rag that ends in the single orphan word 'Britain.' Set the measure to 4 columns (cols 1–4) or adjust the wrap so the last line carries at least two words. Also align the body baseline to the bottom of row 12 so it sits on the same line as the bottom of view-close.",
+      "Type: the lead is set too large and too close in size to body. Its three lines at roughly 2× body size in a 6-column measure feel like a second headline. Reduce it to about 1.5× body, or keep the size and narrow it to cols 7–11, so it reads as a step between the headline and the body.",
+      "Colour: the #C8102E accent appears only as the number frames on the three photos. Those frames are tiny, about a third of a column, and the red goes unnoticed. Either enlarge the numerals to a full 1-column module aligned to the bottom-left corner of each photo, or use the red once in type, for example on the lighthouse reference in the body. That way it echoes the red band of the lighthouse in view-middle and view-close.",
+      "Navy #012169 on the warm grey paper works with the cold sea tones in view-close. The far photo, however, is warmer and more saturated than the other two. Match its grade so the three steps read as one walk in one light."
+    ],
+    "summary": "A clear, worthwhile idea executed with a real stepped grid: 2-, 4- and 6-column photos marching down and right. The weak points are the headline colliding with view-middle at column 6 and a lead that competes with the body. The red accent is almost invisible, and the body rag ends in an orphan. Fix the vertical spacing between rows 6 and 7 and give the accent a real role, and this becomes a keeper.",
+    "mean": 6.2
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "closer",
+      "mean": 6.2,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 5
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "serif-bodoni",
+      "name": "Bodoni Moda / Inter / JetBrains Mono",
+      "serif": true,
+      "headline": {
+        "family": "Bodoni Moda",
+        "weight": 400,
+        "tracking": -0.01
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Bodoni+Moda:opsz,wght@6..96,400..700",
+        "Inter:wght@400;500;600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#012169",
+      "accent": "#C8102E",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Beachy Head",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "East Sussex",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "SERIF · 05 / 06",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Beachy Head"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "East Sussex"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Nature"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Credits below"
+      },
+      {
+        "id": "credits",
+        "name": "Footer: credits",
+        "kind": "credits",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1,
+        "text": "\n\n\nPhotos: Michal Dzierza midz, CC0; Diliff, Papa Lima Whiskey (edit), CC BY-SA 3.0; Arndt Helge Finkenrath, CC BY-SA 2.5"
+      },
+      {
+        "id": "el-1",
+        "name": "view-far",
+        "kind": "photo",
+        "c": 1,
+        "cs": 2,
+        "r": 2,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 2,
+        "src": "../data/images/beachy-head/commons-2.jpg",
+        "zoom": 1,
+        "focus": [
+          0.45,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-2",
+        "name": "lead",
+        "kind": "text",
+        "c": 7,
+        "cs": 6,
+        "r": 2,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A chalk headland in East Sussex, immediately east of the Seven Sisters.",
+        "style": "lead"
+      },
+      {
+        "id": "el-3",
+        "name": "view-middle",
+        "kind": "photo",
+        "c": 3,
+        "cs": 4,
+        "r": 4,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 4,
+        "src": "../data/images/beachy-head/commons-4.jpg",
+        "zoom": 1.3,
+        "focus": [
+          0.6,
+          0.5
+        ],
+        "tag": "2"
+      },
+      {
+        "id": "el-4",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 6,
+        "r": 7,
+        "rs": 4,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Beachy\nHead"
+      },
+      {
+        "id": "el-5",
+        "name": "view-close",
+        "kind": "photo",
+        "c": 7,
+        "cs": 6,
+        "r": 7,
+        "rs": 6,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 3,
+        "src": "../data/images/beachy-head/commons-3.jpg",
+        "zoom": 1.6,
+        "focus": [
+          0.4,
+          0.45
+        ],
+        "tag": "3"
+      },
+      {
+        "id": "el-6",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 5,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Eastbourne lies immediately east. Beachy Head is the highest chalk sea cliff in Great Britain.",
+        "style": "body"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/serif-005-beachy-head/v1.png"
+}

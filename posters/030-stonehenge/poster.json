@@ -1,0 +1,18 @@
+{
+  "id": "030-stonehenge",
+  "number": 30,
+  "series": "original",
+  "pin_id": "stonehenge",
+  "published": 1,
+  "versions": [
+    {
+      "v": 1,
+      "created_at": "2026-10-11T03:37:12.203Z",
+      "feedback": null,
+      "from": null,
+      "mean": 6.6,
+      "followed": null,
+      "status": "below-bar"
+    }
+  ]
+}

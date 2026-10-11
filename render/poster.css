@@ -13,6 +13,7 @@ html, body { margin: 0; background: #888; }
 .c-ink { color: var(--ink); }
 .c-muted { color: var(--muted); }
 .c-accent { color: var(--accent); }
+.c-headline { color: var(--headline); }
 .al-right .txt { text-align: right; }
 
 .k-label .txt, .k-foot .lbl, .k-mono .txt { text-transform: uppercase; letter-spacing: .08em; }
@@ -22,15 +23,20 @@ html, body { margin: 0; background: #888; }
 .k-rule::before { content: ""; position: absolute; left: 0; right: 0; top: 0; border-top: .75px solid var(--rule); }
 
 .k-photo { overflow: hidden; background: var(--rule); }
+.k-photo .frame { position: absolute; inset: 0; overflow: hidden; }
+.k-photo.has-panel { background: var(--panel); }
+.k-photo.has-panel .frame { inset: var(--B); }
 .k-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
 .k-photo .tag {
   position: absolute; left: 10px; bottom: 10px; min-width: 16px; height: 16px; padding: 0 4px;
-  border: .75px solid rgba(255,255,255,.85); color: #fff; background: rgba(0,0,0,.25);
+  border: .75px solid var(--accent); color: #fff; background: rgba(0,0,0,.3);
   display: grid; place-items: center; font-size: 7px; letter-spacing: .04em;
 }
 
 .k-list .row { display: grid; grid-template-columns: auto 1fr auto; column-gap: 8px; }
-.k-list .n, .k-list .km { letter-spacing: .06em; color: var(--muted); }
+.k-list .n { letter-spacing: .06em; color: var(--accent); }
+.k-list .km { letter-spacing: .06em; color: var(--muted); }
+.k-credits .txt { color: var(--muted); }
 
 .k-pinfield svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
 .k-pinfield .dot { fill: var(--muted); }

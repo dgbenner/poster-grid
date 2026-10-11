@@ -8,7 +8,7 @@ import { z } from 'zod';
 import sharp from 'sharp';
 import { computeGrid } from '../../grid/grid.js';
 import { ROOT } from './http.mjs';
-import { IDEAS, middleRows } from './poster.mjs';
+import { IDEAS, ROLES, middleRows } from './poster.mjs';
 
 export const MODEL = 'claude-opus-5-5';
 const client = new Anthropic();
@@ -22,13 +22,14 @@ const Element = z.object({
   col: z.number().int(), col_span: z.number().int(), row: z.number().int(), row_span: z.number().int(),
   text: z.string().nullable(),
   style: z.enum(['lead', 'body']).nullable(),
-  color: z.enum(['ink', 'muted', 'accent']).nullable(),
+  color: z.enum(['ink', 'muted', 'accent', 'headline']).nullable(),
   align: z.enum(['left', 'right']).nullable(),
   image: z.number().int().nullable(),
   zoom: z.number().nullable(), focus_x: z.number().nullable(), focus_y: z.number().nullable(),
   tag: z.string().nullable(),
   items: z.array(z.string()).nullable(),
   over: z.boolean(),
+  panel: z.boolean(),
 });
 
 const Design = z.object({
@@ -37,16 +38,15 @@ const Design = z.object({
   poster_title: z.string(),
   pairing: z.string(),
   paper: z.enum(['light', 'dark']),
-  accent: z.string(),
+  colors: z.array(z.object({ hex: z.string(), role: z.enum(ROLES) })),
   elements: z.array(Element),
   facts_used: z.array(z.string()),
 });
 
-const Critique = z.object({
-  scores: z.object({ idea: z.number().int(), grid: z.number().int(), hierarchy: z.number().int(), type: z.number().int(), color: z.number().int() }),
-  notes: z.array(z.string()),
-  summary: z.string(),
-});
+const Scores = { idea: z.number().int(), grid: z.number().int(), hierarchy: z.number().int(), type: z.number().int(), color: z.number().int() };
+const Critique = z.object({ scores: z.object(Scores), notes: z.array(z.string()), summary: z.string() });
+// With Dan's feedback, the critic also scores how well the new version followed it.
+const CritiqueFeedback = z.object({ scores: z.object({ ...Scores, followed: z.number().int() }), notes: z.array(z.string()), summary: z.string() });
 
 const DESIGN_SYSTEM = `You design posters for Dan's Waypoints: places he has saved and wants to remember before a trip. Each poster sits on a strict typographic grid, in the Swiss tradition of Müller-Brockmann, and is viewed on screen. Dan is learning grid systems from these posters, so the grid should be legible in the result: clear alignments, deliberate spans, generous empty modules.
 
@@ -56,15 +56,16 @@ Hard rules:
 - State only facts found in the saved facts you are given. Never add a date, number, name or claim that is not in them. Dan's note is his own words, not a fact source.
 - Copy is short: a headline, then one or two sentences. Plain, precise British English. No exclamation marks.
 - Big place names and county names help Dan learn English geography; use them where the idea allows.
-- Choose the accent from the options given, and only on a paper where its contrast is at least 4.5.
+- Colour: paper, ink and grey are the neutral base. On top of it choose 0 to 3 colours from the candidates given, each with one role: background (replaces the paper; ink flips to suit it), headline (the headline's colour), accent (rules, list numbers, index tags, the pin marker) or panel (a block of colour behind a photo, with the photo inset by one baseline; set panel=true on that photo). Restraint is fine: one colour, or none, is often strongest. Text needs 4.5:1 contrast, or 3:1 when set at 24 pt or more.
 
 Element kinds:
 - headline: one or a few words, scaled by code to fill the width of its cells. Use "\\n" for a line break. Give it enough rows for its lines.
 - text: style "lead" (larger, a sentence) or "body" (smaller, up to two sentences).
 - label: a short mono uppercase label.
-- photo: one of the numbered images. zoom (1 to 4) and focus_x, focus_y (0 to 1) set the crop. tag is an optional small marker such as "1".
+- photo: one of the numbered images. zoom (1 to 4) and focus_x, focus_y (0 to 1) set the crop. tag is an optional small marker such as "1". A poster may use 1 to 3 different images; prefer images marked as not used before.
 - list: pin ids from the nearby lists; code adds names and distances.
 - pinfield: a dot plot of all of Dan's pins in the country, with this one in the accent colour and pins in the same county ringed. Useful for showing where a place is.
+Colours on elements: ink, muted, accent or headline (the headline role's colour).
 
 Text needs room: at body size a single column holds about 3 words per line, so a two-sentence body wants at least 3 or 4 columns and enough rows. Code measures every element and will tell you if text overflows its cells.`;
 
@@ -105,15 +106,18 @@ async function imageBlock(file) {
   return { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: buf.toString('base64') } };
 }
 
-export async function designBrief({ enrich, pin, gridCfg, allowedIdeas, accents }) {
+export async function designBrief({ enrich, gridCfg, allowedIdeas, candidates, series, usedImages = new Set() }) {
   const { g, first, last, text: grid } = gridBrief(gridCfg);
   const f = enrich.facts;
   const p = enrich.place;
   const loc = locationCell(enrich, g, first, last);
-  const imgs = enrich.images.slice(0, 5);
+  const imgs = enrich.images;
+  const pairings = gridCfg.fonts.pairings.filter(x => series.fonts.includes(x.id));
   const content = [];
   const lines = [
     grid,
+    '',
+    `Series: ${series.name}. Font pairings for this series (pick one): ${pairings.map(x => `${x.id} = ${x.name}`).join('; ')}. At most ${series.maxColors} colours beyond the neutral base.`,
     '',
     `Ideas you may use for this poster (pick one): ${allowedIdeas.map(k => `\n- ${k}: ${IDEAS[k]}`).join('')}`,
     allowedIdeas.includes('location-decides-layout') ? `For location-decides-layout, this place's position in England falls at about column ${loc.col}, row ${loc.row}.` : '',
@@ -130,11 +134,10 @@ export async function designBrief({ enrich, pin, gridCfg, allowedIdeas, accents 
     `Nearby pins within 5 km: ${enrich.nearby.within5km.map(n => `${n.id} "${n.name}" ${n.km} km`).join('; ') || 'none'}`,
     `Other pins in ${p.county}: ${enrich.nearby.sameCounty.map(n => `${n.id} "${n.name}" ${n.km} km`).join('; ') || 'none'}`,
     '',
-    `Accent options (contrast on light paper / dark paper): ${accents.map(a => `${a.hex} from ${a.source} (${a.light} / ${a.dark})`).join('; ')}`,
-    `Font pairings: ${gridCfg.fonts.pairings.map(x => `${x.id} = ${x.name}`).join('; ')}`,
+    `Colour candidates (contrast on light paper / dark paper): ${candidates.map(c => `${c.hex} from ${c.source} (${c.light} / ${c.dark})`).join('; ')}`,
     '',
-    `Images (attached below in this order; index, kind, size):`,
-    ...imgs.map((im, i) => `${i}: ${im.kind === 'personal' ? "Dan's own Waypoints photo" : `Commons, ${im.title?.replace(/^File:/, '')}`}${im.width ? `, ${im.width}×${im.height}` : ''}`),
+    `Images (attached below in this order; index, kind, size, whether a poster of this place has used it):`,
+    ...imgs.map((im, i) => `${i}: ${im.kind === 'personal' ? "Dan's own Waypoints photo" : `Commons, ${im.title?.replace(/^File:/, '')}`}${im.width ? `, ${im.width}×${im.height}` : ''}, ${usedImages.has(im.file) ? 'used before' : 'not used yet'}`),
   ];
   content.push({ type: 'text', text: lines.filter(l => l !== '').join('\n').replace(/\n{3,}/g, '\n\n') });
   for (const [i, im] of imgs.entries()) {
@@ -143,6 +146,21 @@ export async function designBrief({ enrich, pin, gridCfg, allowedIdeas, accents 
   }
   content.push({ type: 'text', text: 'Design the poster. State the idea in one sentence, as in "The club is small; its fame is large, so the name fills the page." List the URLs of the facts you used.' });
   return content;
+}
+
+// A new version from Dan's words: the same brief, plus the current version as data and
+// as an image, the critic's notes on it, and the feedback.
+export async function reviseBrief({ brief, current, png, feedback }) {
+  const data = (await sharp(png).resize(1000, 1414, { fit: 'inside' }).png().toBuffer()).toString('base64');
+  const { idea, title, pairing, paper, colors, elements } = current;
+  return [
+    ...brief.slice(0, -1),
+    { type: 'text', text: `The current version of this poster, as designed:\n${JSON.stringify({ idea: idea.key, idea_sentence: idea.sentence, poster_title: title, pairing, paper, colors, elements })}` },
+    { type: 'text', text: 'The current version, rendered:' },
+    { type: 'image', source: { type: 'base64', media_type: 'image/png', data } },
+    { type: 'text', text: `The critic's notes on it:\n${(current.critic?.notes || []).map(n => `- ${n}`).join('\n') || '(none)'}` },
+    { type: 'text', text: `Dan's feedback, which this version must follow:\n"${feedback}"\n\nMake a new version that does what Dan asks. Keep what he did not ask to change unless it must move to make room. Facts, image licences and grid rules are unchanged. Return the whole design.` },
+  ];
 }
 
 function addUsage(total, u) {
@@ -187,21 +205,23 @@ export function designer({ usage }) {
 
 const CRITIC_SYSTEM = `You are a strict critic of Swiss-style typographic posters, teaching a designer who is new to grid systems. Score each poster from 1 to 10 on: idea (is the stated idea clear and worth it), grid (are elements placed with intent on the grid, with meaningful spans and empty modules), hierarchy (does the eye know where to go), type (sizes, line lengths, rag, pairing), color (paper, accent, photo working together). 7 means good enough to keep without changes.
 
-Write every note in grid terms, naming columns, rows, spans and modules, for example: "the headline spans 9 of 12 columns; the caption sits one module too low." Each note should say what to change. Do not comment on facts or the fixed header and footer text.`;
+Write every note in grid terms, naming columns, rows, spans and modules, for example: "the headline spans 9 of 12 columns; the caption sits one module too low." Each note should say what to change. Do not comment on facts or the fixed header and footer text.
 
-export async function critique({ png, gridCfg, layout, design, usage }) {
+When Dan's feedback is given, also score followed (1 to 10): how fully this version does what he asked, and say in a note what it did or missed.`;
+
+export async function critique({ png, gridCfg, layout, design, usage, feedback = null }) {
   const { text: grid } = gridBrief(gridCfg);
   const data = (await sharp(png).resize(1000, 1414, { fit: 'inside' }).png().toBuffer()).toString('base64');
   const res = await call({
     system: CRITIC_SYSTEM,
-    schema: Critique,
+    schema: feedback ? CritiqueFeedback : Critique,
     effort: 'medium',
     usage,
     messages: [{
       role: 'user',
       content: [
         { type: 'image', source: { type: 'base64', media_type: 'image/png', data } },
-        { type: 'text', text: `${grid}\n\nStated idea: ${design.idea_sentence}\n\nElements, in grid terms:\n${layout}\n\nScore this poster and give your notes.` },
+        { type: 'text', text: `${grid}\n\nStated idea: ${design.idea_sentence}\n\nColours: ${(design.colors || []).map(c => `${c.hex} as ${c.role}`).join(', ') || 'neutral base only'}\n\nElements, in grid terms:\n${layout}${feedback ? `\n\nDan's feedback this version was made to follow: "${feedback}"` : ''}\n\nScore this poster and give your notes.` },
       ],
     }],
   });

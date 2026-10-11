@@ -10,24 +10,31 @@
   <style>
     :root {
       --bg: #121212; --panel: #1a1a1a; --line: #2a2a2a; --ink: #ececea; --muted: #9a9a96; --dim: #6a6a66;
-      --good: #6fd6a5; --warn: #e8b44c;
+      --good: #6fd6a5; --warn: #e8b44c; --bad: #ff7b7b;
       --sans: "Inter", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, monospace;
       color-scheme: dark;
     }
     * { box-sizing: border-box; }
     body { margin: 0; background: var(--bg); color: var(--ink); font: 14px/1.5 var(--sans); -webkit-font-smoothing: antialiased; }
     a { color: inherit; }
+    button { font: inherit; color: inherit; }
     .wrap { max-width: 1240px; margin: 0 auto; padding: 32px 16px 64px; }
     .kicker { font: 500 10.5px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0; }
     h1 { font: 300 44px/1.05 "Inter Tight", var(--sans); letter-spacing: -.03em; margin: 10px 0 12px; }
     .lede { color: var(--muted); max-width: 640px; margin: 0; }
     .links { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 8px; }
-    .btn { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 7px; text-decoration: none; font-weight: 500; font-size: 13px; }
+    .btn { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 7px; text-decoration: none; font-weight: 500; font-size: 13px; background: none; cursor: pointer; }
     .btn:hover { border-color: #555; }
     .btn.primary { background: var(--ink); color: #111; border-color: var(--ink); }
-    .stats { display: flex; flex-wrap: wrap; gap: 28px; margin: 28px 0 24px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .btn:disabled { opacity: .45; cursor: default; }
+    .btn:focus-visible, .chip:focus-visible, .tab:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+    .stats { display: flex; flex-wrap: wrap; gap: 28px; margin: 28px 0 18px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
     .stat b { display: block; font: 300 28px/1.1 "Inter Tight", var(--sans); }
     .stat span { font: 500 10.5px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+    .filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 22px; }
+    .filters .kicker { margin-right: 4px; }
+    .chip { border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; font: 500 12px var(--mono); background: none; cursor: pointer; color: var(--muted); }
+    .chip[aria-pressed="true"] { background: var(--ink); color: #111; border-color: var(--ink); }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 24px 18px; }
     .card { text-decoration: none; display: block; }
     .card img { width: 100%; aspect-ratio: 595 / 842; object-fit: cover; display: block; border-radius: 2px; background: #222; box-shadow: 0 10px 30px rgba(0,0,0,.4); transition: transform .15s; }
@@ -42,21 +49,40 @@
 
     .detail { display: none; }
     .detail.open { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 36px; align-items: start; }
-    .detail img { width: 100%; display: block; box-shadow: 0 18px 50px rgba(0,0,0,.5); }
+    .detail .poster img { width: 100%; display: block; box-shadow: 0 18px 50px rgba(0,0,0,.5); }
     .detail h2 { font: 300 36px/1.1 "Inter Tight", var(--sans); letter-spacing: -.02em; margin: 6px 0 4px; }
     .detail .sub { color: var(--muted); margin: 0 0 20px; }
     .sec { border-top: 1px solid var(--line); padding: 14px 0 16px; }
     .sec h4 { margin: 0 0 8px; font: 500 10.5px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
     .sec p { margin: 0 0 6px; }
-    .scores { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; }
+    .scores { display: grid; grid-template-columns: repeat(auto-fit, minmax(64px, 1fr)); gap: 8px; }
     .scores div { border: 1px solid var(--line); border-radius: 6px; padding: 8px; text-align: center; }
     .scores b { display: block; font: 300 22px/1 "Inter Tight", var(--sans); }
     .scores span { font: 500 9.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
     ul.notes { margin: 0; padding-left: 18px; }
     ul.notes li { margin-bottom: 8px; color: #d4d4d0; }
-    .nav { display: flex; gap: 8px; margin-bottom: 18px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
     .small { font-size: 12.5px; color: var(--muted); }
     .small a { color: var(--muted); }
+    .swatches { display: flex; flex-wrap: wrap; gap: 14px; }
+    .swatch { display: flex; align-items: center; gap: 8px; font: 500 11.5px var(--mono); }
+    .swatch i { width: 26px; height: 26px; border-radius: 4px; border: 1px solid rgba(255,255,255,.15); display: block; }
+    .swatch span { color: var(--muted); display: block; font-size: 10px; text-transform: uppercase; letter-spacing: .06em; }
+
+    .local { display: none; }
+    body.is-local .local { display: block; }
+    .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 12px; }
+    .tab { border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; background: none; cursor: pointer; font: 500 12px var(--mono); color: var(--muted); text-align: left; }
+    .tab[aria-selected="true"] { border-color: var(--ink); color: var(--ink); }
+    .tab .pub { color: var(--good); }
+    .vinfo { margin: 0 0 12px; }
+    textarea { width: 100%; min-height: 76px; resize: vertical; background: #181818; color: var(--ink); border: 1px solid var(--line); border-radius: 7px; padding: 10px 12px; font: 14px/1.45 var(--sans); }
+    textarea:focus-visible { outline: 2px solid #fff; outline-offset: 1px; }
+    label.fl { display: block; font-weight: 600; margin: 0 0 8px; }
+    .quick { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 12px; }
+    .row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+    .status { font: 12px var(--mono); color: var(--muted); }
+    .status.err { color: var(--bad); }
     @media (max-width: 860px) { .detail.open { grid-template-columns: 1fr; } }
   </style>
 </head>
@@ -74,6 +100,7 @@
 
     <section id="list">
       <div class="stats" id="stats"></div>
+      <div class="filters" id="filters" role="group" aria-label="Series"></div>
       <div class="grid" id="grid"></div>
     </section>
 
@@ -81,69 +108,208 @@
   </div>
 
   <script>
+    // Making and choosing versions needs the local server (and its Anthropic key);
+    // on the published site only each poster's chosen version shows.
+    const LOCAL = ['localhost', '127.0.0.1'].includes(location.hostname);
+    if (LOCAL) document.body.classList.add('is-local');
+
     const $ = s => document.querySelector(s);
     const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
     const IDEA = { 'place-name-at-scale': 'Place name at scale', 'location-decides-layout': 'Location decides layout', 'closer': 'Closer', 'nearby': 'Nearby' };
+    const ROLE = { background: 'Background', headline: 'Headline', accent: 'Accent', panel: 'Panel' };
+    const QUICK = ['Bigger title', 'Different photo', 'Fewer colors', 'Try a serif title', 'More empty space'];
     const nn = n => String(n).padStart(2, '0');
     const county = p => p.place.borough ? `${p.place.county} · ${p.place.borough}` : p.place.county;
-    let data;
+    const key = p => `${p.series}/${nn(p.number)}`;
+    let data, filter = 'all', view = null;
+    try { filter = localStorage.getItem('pg-series') || 'all'; } catch {}
 
-    fetch('posters/index.json', { cache: 'no-store' }).then(r => r.json()).then(d => { data = d; renderList(); route(); });
+    async function load() {
+      data = await (await fetch('posters/index.json', { cache: 'no-store' })).json();
+      if (filter !== 'all' && !data.series[filter]) filter = 'all';
+      renderList();
+      route();
+    }
+    load();
     window.addEventListener('hashchange', route);
     $('#toAll').addEventListener('click', e => { e.preventDefault(); location.hash = ''; });
 
     function renderList() {
-      const ps = data.posters;
+      const ps = data.posters.filter(p => filter === 'all' || p.series === filter);
       const pass = ps.filter(p => p.status === 'pass').length;
       const counties = new Set(ps.map(p => p.place.county)).size;
-      const mean = ps.reduce((s, p) => s + (p.critic?.mean || 0), 0) / ps.length;
+      const mean = ps.reduce((s, p) => s + (p.critic?.mean || 0), 0) / (ps.length || 1);
       $('#stats').innerHTML = [
         [ps.length, 'posters'], [counties, 'counties'], [new Set(ps.map(p => p.idea.key)).size + ' of 4', 'ideas used'],
         [mean.toFixed(1), 'mean critic score'], [`${pass} of ${ps.length}`, 'scored 7 or more'],
       ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join('');
-      $('#grid').innerHTML = [...ps].sort((a, b) => a.number - b.number).map(p => `
-        <a class="card" href="#${nn(p.number)}">
+      const chips = [['all', 'All', data.total], ...Object.entries(data.series).map(([k, n]) => [k, n, data.totals[k]])];
+      $('#filters').innerHTML = '<span class="kicker">Series</span>' + chips.map(([k, n, c]) =>
+        `<button class="chip" type="button" data-series="${esc(k)}" aria-pressed="${k === filter}">${esc(n)} ${c}</button>`).join('');
+      $('#filters').querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
+        filter = b.dataset.series;
+        try { localStorage.setItem('pg-series', filter); } catch {}
+        renderList();
+      }));
+      $('#grid').innerHTML = [...ps].sort((a, b) => a.series.localeCompare(b.series) || a.number - b.number).map(p => `
+        <a class="card" href="#${esc(key(p))}">
           <img src="${esc(p.image)}" alt="Poster ${nn(p.number)}: ${esc(p.title)}" loading="lazy">
-          <div class="meta"><span>${nn(p.number)} / ${nn(data.total)} · ${esc(IDEA[p.idea.key])}</span>
+          <div class="meta"><span>${esc(data.series[p.series])} ${nn(p.number)} · ${esc(IDEA[p.idea.key])}</span>
             <span class="score ${p.status === 'pass' ? 'pass' : 'below'}">${p.critic ? p.critic.mean.toFixed(1) : '—'}</span></div>
           <h3>${esc(p.title)}</h3>
           <div class="county">${esc(county(p))}</div>
         </a>`).join('');
     }
 
-    function route() {
+    // #original/02 opens a poster; the old #02 form still works for Original.
+    function findPoster() {
+      const h = decodeURIComponent(location.hash.slice(1));
+      if (!h) return null;
+      const [s, n] = h.includes('/') ? h.split('/') : ['original', h];
+      return data.posters.find(x => x.series === s && x.number === Number(n));
+    }
+
+    async function route() {
       if (!data) return;
-      const n = Number(location.hash.slice(1));
-      const p = data.posters.find(x => x.number === n);
+      const p = findPoster();
       $('#list').style.display = p ? 'none' : '';
       $('#detail').classList.toggle('open', !!p);
       if (!p) return;
-      const sorted = [...data.posters].sort((a, b) => a.number - b.number);
-      const i = sorted.indexOf(p);
-      const prev = sorted[i - 1], next = sorted[i + 1];
-      const c = p.critic;
+      view = { p, v: p.version };
+      await showVersion();
+      window.scrollTo(0, 0);
+    }
+
+    async function versionData(p, v) {
+      if (v === p.version) return p;
+      const rec = await (await fetch(`posters/${p.id}/v${v}.json`, { cache: 'no-store' })).json();
+      return { ...p, ...rec, colors: rec.colors || [], photos: rec.photos || [], critic: rec.critic, image: rec.image };
+    }
+
+    async function showVersion() {
+      const { p, v } = view;
+      const d = await versionData(p, v);
+      const inSeries = data.posters.filter(x => x.series === p.series).sort((a, b) => a.number - b.number);
+      const i = inSeries.indexOf(p);
+      const prev = inSeries[i - 1], next = inSeries[i + 1];
+      const c = d.critic;
+      const meta = p.versions.find(x => x.v === v) || {};
       $('#detail').innerHTML = `
-        <div><img src="${esc(p.image)}" alt="Poster ${nn(p.number)}: ${esc(p.title)}"></div>
+        <div class="poster"><img src="${esc(d.image)}" alt="Poster ${nn(p.number)}, version ${v}: ${esc(d.title)}"></div>
         <div>
           <div class="nav">
             <a class="btn" href="#">All posters</a>
-            ${prev ? `<a class="btn" href="#${nn(prev.number)}">← ${nn(prev.number)}</a>` : ''}
-            ${next ? `<a class="btn" href="#${nn(next.number)}">${nn(next.number)} →</a>` : ''}
+            ${prev ? `<a class="btn" href="#${esc(key(prev))}">← ${nn(prev.number)}</a>` : ''}
+            ${next ? `<a class="btn" href="#${esc(key(next))}">${nn(next.number)} →</a>` : ''}
           </div>
-          <p class="kicker">${nn(p.number)} / ${nn(data.total)} · ${esc(IDEA[p.idea.key])}</p>
-          <h2>${esc(p.title)}</h2>
+          <p class="kicker">${esc(data.series[p.series])} · ${nn(p.number)} / ${nn(data.totals[p.series])} · ${esc(IDEA[d.idea.key])}</p>
+          <h2>${esc(d.title)}</h2>
           <p class="sub">${esc(county(p))} · ${esc(p.place.country)}</p>
-          <div class="sec"><h4>Idea</h4><p>${esc(p.idea.sentence)}</p></div>
-          ${c ? `<div class="sec"><h4>Critic · ${c.mean.toFixed(1)} ${p.status === 'pass' ? '· passed' : '· below 7'}${p.attempts?.length > 1 ? ` · ${p.attempts.length} attempts` : ''}</h4>
-            <div class="scores">${Object.entries(c.scores).map(([k, v]) => `<div><b>${v}</b><span>${k}</span></div>`).join('')}</div></div>
+
+          <div class="sec local" id="versions">
+            <h4>Versions</h4>
+            <div class="tabs" role="tablist">${p.versions.map(x => `
+              <button class="tab" role="tab" type="button" data-v="${x.v}" aria-selected="${x.v === v}">
+                v${x.v}${x.v === p.version ? ' <span class="pub">· published</span>' : ''}<br>
+                <span class="small">${x.mean != null ? x.mean.toFixed(1) : '—'}${x.followed != null ? ` · followed ${x.followed}` : ''}</span>
+              </button>`).join('')}</div>
+            <p class="vinfo small">${meta.feedback ? `Made from: “${esc(meta.feedback)}”${meta.from ? ` (on v${meta.from})` : ''}` : v === 1 ? 'The first version.' : meta.from === 'redo' ? 'A remake.' : ''}</p>
+            <div class="row">
+              <button class="btn" type="button" id="useVersion" ${v === p.version ? 'disabled' : ''}>${v === p.version ? 'Published version' : 'Use this version'}</button>
+              <span class="status" id="pubStatus"></span>
+            </div>
+          </div>
+
+          <div class="sec local">
+            <label class="fl" for="feedback">What should change?</label>
+            <textarea id="feedback" placeholder="In your words, for example: move the title to the bottom half and use a different photo"></textarea>
+            <div class="quick">${QUICK.map(q => `<button class="chip" type="button" data-q="${esc(q)}">${esc(q)}</button>`).join('')}</div>
+            <div class="row">
+              <button class="btn primary" type="button" id="make">Make new version</button>
+              <span class="status" id="makeStatus" aria-live="polite"></span>
+            </div>
+            <p class="small">Starts from v${v}. Takes a few minutes; the new version appears as a tab when done.</p>
+          </div>
+
+          <div class="sec"><h4>Idea</h4><p>${esc(d.idea.sentence)}</p></div>
+          ${c ? `<div class="sec"><h4>Critic · ${c.mean.toFixed(1)}${d.status === 'pass' ? ' · passed' : ' · below 7'}${d.attempts?.length > 1 ? ` · ${d.attempts.length} attempts` : ''}</h4>
+            <div class="scores">${Object.entries(c.scores).map(([k, val]) => `<div><b>${val}</b><span>${k}</span></div>`).join('')}</div></div>
           <div class="sec"><h4>Notes, in grid terms</h4><ul class="notes">${c.notes.map(x => `<li>${esc(x)}</li>`).join('')}</ul><p class="small">${esc(c.summary)}</p></div>` : ''}
+          <div class="sec"><h4>Colours</h4>
+            ${d.colors?.length ? `<div class="swatches">${d.colors.map(x => `<div class="swatch"><i style="background:${esc(x.hex)}"></i><div>${esc(x.hex.toUpperCase())}<span>${esc(ROLE[x.role] || x.role)}</span></div></div>`).join('')}</div>`
+              : '<p class="small">Neutral base only: paper, ink and grey.</p>'}
+            <p class="small" style="margin-top:10px">Paper: ${esc(d.paper)} · type: ${esc(d.pairing)}</p>
+          </div>
           <div class="sec"><h4>Sources</h4>
-            ${(p.facts_used || []).map(u => `<p class="small"><a href="${esc(u)}" rel="noopener">${esc(decodeURIComponent(u.replace(/^https?:\/\//, '')))}</a></p>`).join('')}
-            ${p.photo ? `<p class="small">Photo: ${p.photo.kind === 'personal' ? esc(p.photo.credit) : `<a href="${esc(p.photo.source)}" rel="noopener">${esc(p.photo.credit)}</a>`}</p>` : ''}
-            <p class="small">Type: ${esc(p.pairing)} · paper: ${esc(p.paper)} · accent ${esc(p.accent)}</p>
+            ${(d.facts_used || []).map(u => `<p class="small"><a href="${esc(u)}" rel="noopener">${esc(decodeURIComponent(u.replace(/^https?:\/\//, '')))}</a></p>`).join('')}
+            ${(d.photos || []).map(x => `<p class="small">Photo: ${x.kind === 'personal' || !x.source ? esc(x.credit) : `<a href="${esc(x.source)}" rel="noopener">${esc(x.credit)}</a>`}</p>`).join('')}
           </div>
         </div>`;
-      window.scrollTo(0, 0);
+      if (!LOCAL) return;
+      $('#detail').querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => { view.v = Number(t.dataset.v); showVersion(); }));
+      $('#detail').querySelectorAll('[data-q]').forEach(b => b.addEventListener('click', () => {
+        const f = $('#feedback');
+        f.value = f.value.trim() ? `${f.value.trim()}. ${b.dataset.q}` : b.dataset.q;
+        f.focus();
+      }));
+      $('#useVersion').addEventListener('click', usePublished);
+      $('#make').addEventListener('click', makeVersion);
+    }
+
+    async function usePublished() {
+      const { p, v } = view;
+      const status = $('#pubStatus');
+      status.textContent = 'Saving…';
+      const res = await fetch('api/publish', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ id: p.id, version: v }) });
+      const out = await res.json();
+      if (!res.ok) { status.textContent = out.error; status.classList.add('err'); return; }
+      await reload(p.id, v);
+    }
+
+    async function makeVersion() {
+      const { p, v } = view;
+      const feedback = $('#feedback').value.trim();
+      const btn = $('#make'), status = $('#makeStatus');
+      if (!feedback) { status.textContent = 'Say what should change first.'; status.classList.add('err'); return; }
+      btn.disabled = true;
+      status.classList.remove('err');
+      btn.textContent = 'Starting…';
+      try {
+        const res = await fetch('api/revise', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ id: p.id, version: v, feedback }) });
+        if (!res.ok && !res.body) throw new Error((await res.json()).error);
+        if (res.headers.get('content-type')?.includes('application/json')) throw new Error((await res.json()).error);
+        const reader = res.body.getReader();
+        const dec = new TextDecoder();
+        let buf = '', done = null;
+        for (;;) {
+          const { value, done: end } = await reader.read();
+          if (end) break;
+          buf += dec.decode(value, { stream: true });
+          let nl;
+          while ((nl = buf.indexOf('\n')) >= 0) {
+            const msg = JSON.parse(buf.slice(0, nl));
+            buf = buf.slice(nl + 1);
+            if (msg.error) throw new Error(msg.error);
+            if (msg.done) done = msg;
+            else btn.textContent = `Attempt ${msg.attempt}: ${msg.msg}…`;
+          }
+        }
+        if (!done) throw new Error('The server stopped without a result.');
+        status.textContent = `v${done.version} made · critic ${done.mean ?? '—'}${done.followed != null ? ` · followed ${done.followed}` : ''}`;
+        await reload(p.id, done.version);
+      } catch (err) {
+        status.textContent = err.message;
+        status.classList.add('err');
+        btn.disabled = false;
+        btn.textContent = 'Make new version';
+      }
+    }
+
+    async function reload(id, v) {
+      data = await (await fetch('posters/index.json', { cache: 'no-store' })).json();
+      const p = data.posters.find(x => x.id === id);
+      view = { p, v };
+      await showVersion();
     }
   </script>
 </body>

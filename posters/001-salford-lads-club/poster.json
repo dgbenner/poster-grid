@@ -1,0 +1,18 @@
+{
+  "id": "001-salford-lads-club",
+  "number": 1,
+  "series": "original",
+  "pin_id": "salford-lads-club",
+  "published": 1,
+  "versions": [
+    {
+      "v": 1,
+      "created_at": "2026-10-11T01:49:27.507Z",
+      "feedback": null,
+      "from": null,
+      "mean": 7.2,
+      "followed": null,
+      "status": "pass"
+    }
+  ]
+}
