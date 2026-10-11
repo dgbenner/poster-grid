@@ -53,11 +53,15 @@ async function init() {
     return;
   }
   cfg = clone(saved);
+  // Saving needs the local server (npm run lab); on the published site the file is read-only.
+  if (!['localhost', '127.0.0.1'].includes(location.hostname)) {
+    $('.block.file').innerHTML = '<h2 class="block-title">grid/grid.json</h2><p class="hint">Read-only here. Changes are live in the lab but are only saved when it runs locally.</p>';
+  }
   loadFonts(cfg.fonts.pairings);
   buildPanel();
   $('#play').addEventListener('click', playBuild);
-  $('#save').addEventListener('click', save);
-  $('#revert').addEventListener('click', () => { cfg = clone(saved); syncPanel(); render(); });
+  $('#save')?.addEventListener('click', save);
+  $('#revert')?.addEventListener('click', () => { cfg = clone(saved); syncPanel(); render(); });
   $('#overlayAll').addEventListener('click', toggleAll);
   $('#zoom').addEventListener('click', e => {
     const b = e.target.closest('button'); if (!b) return;
@@ -185,6 +189,7 @@ function updateReadout() {
 }
 
 function updateDirty() {
+  if (!$('#save')) return;
   const dirty = JSON.stringify(cfg) !== JSON.stringify(saved);
   $('#save').disabled = !dirty;
   $('#revert').disabled = !dirty;

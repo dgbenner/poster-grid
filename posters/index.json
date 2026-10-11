@@ -1,0 +1,1102 @@
+{
+  "total": 10,
+  "posters": [
+    {
+      "id": "010-cerne-abbas-giant",
+      "number": 10,
+      "title": "Cerne Abbas Giant",
+      "status": "below-bar",
+      "place": {
+        "town": "Cerne Abbas",
+        "county": "Dorset",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "closer",
+        "sentence": "A 55-metre figure is best understood by approaching it, so one aerial photo climbs a staircase of square-stepped frames, 2, 4 and 6 modules, standing on a shared bottom edge until the Giant fills the last."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "accent": "#164133",
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 6,
+          "hierarchy": 6,
+          "type": 6,
+          "color": 7
+        },
+        "mean": 6.4,
+        "notes": [
+          "The idea is clear and the staircase reads at a glance. But the frames are not square: a 2-column by 2-row module is about 77 pt wide and 108 pt tall, so all three frames are portrait. Either drop 'square' from the idea, or keep the steps at 2, 4 and 6 columns and let the height follow the photo's ratio rather than the row count.",
+          "The magnifications (1×, 1.4×, 2×) do not track the frame spans (2, 4, 6 columns, which would be 1×, 2×, 3×). The Giant grows less than the frame does, so the approach feels uneven. Scale the crops 1×, 2× and 3× so the figure fills more of each step, as the idea promises.",
+          "The stepped void is the best grid move here: columns 1–6 rows 7–8 and columns 1–2 rows 9–10 stay empty and give the climb its shape. Keep it, and keep the shared bottom edge on row 12.",
+          "The status label sits in columns 1–4 and wraps, leaving 'MONUMENT' alone on a second line one baseline lower. The location label sits on a single line in columns 7–12. Widen the status label to columns 1–6 so both labels are one line on the same baseline in row 4.",
+          "The body (columns 1–4) and the lead (columns 7–12) are set at the same size. The left block is read first, but the right block is the real introduction. Swap them so the lead sits in columns 1–6 rows 5–6, or set the lead one step larger, so it is clear where reading starts after the headline.",
+          "The body measure in columns 1–4 is short, and columns 5–6 of rows 5–6 sit empty with no purpose. Extend the body to columns 1–5, or align its right edge to column 6 to echo photo-nearer below.",
+          "The headline spans 12 columns but its longest line ends near column 8. Either state the span as 1–8, or set it larger so 'Cerne Abbas' reaches column 10 or 11 and the top of the page carries more weight against the large photo in rows 7–12.",
+          "The number badges in the photo corners use a serif face, which clashes with the sans and mono pairing. Set them in the mono used for the labels, at label size, and inset them one baseline from the frame corners.",
+          "Colour works: the dark green mono labels pick up the turf, and the warm grey paper lets the photo carry the only saturated area. Keep it."
+        ],
+        "summary": "A clear, worthwhile idea with a strong stepped void and a shared baseline for the photos. To reach a keepable 7, fix three things: the frames are not square as claimed, the zoom levels lag behind the frame spans, and the text blocks above are flat in hierarchy with unequal label spans."
+      },
+      "attempts": [
+        {
+          "idea": "closer",
+          "mean": 6,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 5,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.2,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.4,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Cerne Abbas\nGiant"
+        },
+        {
+          "element": "status-label",
+          "text": "National Trust · Scheduled monument"
+        },
+        {
+          "element": "body",
+          "text": "Shallow trenches cut into the turf and backfilled with chalk rubble."
+        },
+        {
+          "element": "location-label",
+          "text": "10 km north of Dorchester"
+        },
+        {
+          "element": "lead",
+          "text": "A hill figure 55 metres long, near the village of Cerne Abbas in the Cerne Valley, Dorset Downs."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Cerne_Abbas_Giant",
+        "https://en.wikipedia.org/wiki/Cerne_Abbas"
+      ],
+      "photo": {
+        "credit": "PeteHarlow, CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Cerne_Abbas_Giant_-_004.jpg",
+        "kind": "commons"
+      },
+      "image": "posters/img/010-cerne-abbas-giant.png",
+      "created_at": "2026-10-11T02:06:08.254Z"
+    },
+    {
+      "id": "009-british-museum",
+      "number": 9,
+      "title": "British Museum",
+      "status": "below-bar",
+      "place": {
+        "town": "London",
+        "county": "Greater London",
+        "borough": "Camden",
+        "country": "England"
+      },
+      "idea": {
+        "key": "location-decides-layout",
+        "sentence": "The page stands for England, so Dan's Rosetta Stone photo sits low and to the right, in the cells where London lies."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "accent": "#874315",
+      "critic": {
+        "scores": {
+          "idea": 5,
+          "grid": 6,
+          "hierarchy": 6,
+          "type": 7,
+          "color": 6
+        },
+        "mean": 6,
+        "notes": [
+          "Idea: placing the photo low-right 'where London lies' on a map of England is a reasonable conceit, but nothing on the page signals the map. Either add a faint outline or locator dot in columns 8–12, rows 8–11, or let the photo's position be the only map cue and say so in the place-label in row 2.",
+          "The photo spans columns 8–11 and stops one column short of the right margin, while the place-label above runs 8–12. Extend the photo to columns 8–12 so both share the right edge, or pull the label back to 8–11. As it is, the right side has two different edges.",
+          "The photo occupies rows 8–11 and leaves rows 3–7 in columns 8–12 completely empty under a lone label. That 5×5 module void reads as accidental. Raise the photo to rows 6–11, a 6-row span, so it holds the right half. Or keep it at rows 8–11 and move the place-label down to row 7 so it heads the image.",
+          "The headline spans columns 1–7 and rows 2–4, but 'Museum' visibly overruns into column 8 toward the label's column. Set it a step smaller so it closes inside column 7, or let it run fully to column 8 and push the label to columns 9–12.",
+          "Lead (rows 5–6) and body (rows 7–8) stack directly, but the body starts one module lower than the lead's natural end, leaving a half-row gap. Start the body at row 7's top baseline, or move it to row 8 so the gap equals one full module.",
+          "Body ends in row 8 just as the photo begins in row 8, so the left column dies where the right one starts. Columns 1–7 in rows 9–12 are empty. Move the body down to rows 9–10 so the left text sits beside the photo and the two halves interlock diagonally.",
+          "The caption sits in row 12, one row below the photo's base in row 11. Move it to the first baseline under the photo, still within row 11 or at the top of 12, so it reads as attached.",
+          "Type: the lead at 5 columns gives a good 25–30 character measure and a clean rag. The body at the same 5 columns is fine. Keep the serif/grotesque pairing.",
+          "Color: the rust accent on the label and caption picks up the stone's ochre edge well. The photo is dark and low-contrast against the pale paper, though. Either crop tighter onto the inscribed face or brighten it a stop so it holds weight against the black headline."
+        ],
+        "summary": "A clean, competent page whose map idea isn't legible. The right half is mostly an unexplained void above a photo that misses the right margin by one column. To fix it, align the photo to columns 8–12, raise it or move the label down, and shift the body beside the photo so the left and right halves interlock."
+      },
+      "attempts": [
+        {
+          "idea": "closer",
+          "mean": 5.6,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.8,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 7,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "British\nMuseum"
+        },
+        {
+          "element": "place-label",
+          "text": "Bloomsbury · Camden · Inner London"
+        },
+        {
+          "element": "lead",
+          "text": "Established in 1753, the world's first public national museum."
+        },
+        {
+          "element": "body",
+          "text": "Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present."
+        },
+        {
+          "element": "caption",
+          "text": "Rosetta Stone · Greater London"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/British_Museum",
+        "https://en.wikipedia.org/wiki/London_Borough_of_Camden"
+      ],
+      "photo": {
+        "credit": "Waypoints photo, personal use",
+        "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/british-museum-rosetta.png",
+        "kind": "personal"
+      },
+      "image": "posters/img/009-british-museum.png",
+      "created_at": "2026-10-11T02:03:50.378Z"
+    },
+    {
+      "id": "008-castle-combe",
+      "number": 8,
+      "title": "Castle Combe, Wiltshire",
+      "status": "below-bar",
+      "place": {
+        "town": "Castle Combe",
+        "county": "Wiltshire",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "place-name-at-scale",
+        "sentence": "The village is small and its county is large, so WILTSHIRE fills the width of the page while Castle Combe is a single small line and a single brown dot inside it."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "accent": "#3F311A",
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 6,
+          "hierarchy": 6,
+          "type": 6,
+          "color": 7
+        },
+        "mean": 6.2,
+        "notes": [
+          "The idea depends on one brown dot, but in the pinfield (columns 7–12, rows 5–9) it sits beside three ringed markers at about column 9, row 8, and reads as one of four. Remove the rings, or turn them into plain grey dots, so the brown dot is the only accented mark in the field.",
+          "Nothing links CASTLE COMBE (columns 1–4, row 10) to its dot (column 9, row 8). Move the place-name to columns 7–10 in row 10, directly under the dot's column. Alternatively, run a hairline from the dot down to the top of row 10, so 'small line' and 'small dot' read as one statement.",
+          "The scattered dots at the bottom-left of the pinfield drift down into the gap between rows 9 and 10, near column 7, and crowd the top of the lead. Clip the pinfield to end at row 9 as specified, or drop those outliers.",
+          "WILTSHIRE spanning all 12 columns across rows 3–4 is correct and carries the idea. Keep it. Row 2, holding only the 3-column label, leaves a full empty row above it. Either keep that row as deliberate air or move the label onto the top baseline of row 3 and lift the headline by one row.",
+          "The lead in columns 7–12 (rows 10–11) is a large serif that visually outweighs CASTLE COMBE in columns 1–4. The hierarchy now runs WILTSHIRE → lead → place-name. Drop the lead one size step, to about 1.5× body, so the place-name becomes the second read after the county.",
+          "The body line sits alone in row 12, a full empty row below the lead and tight against the footer rule. Move it up to row 11, directly under the lead's last baseline. That frees row 12 as clean air above the footer.",
+          "The lead at 6 columns breaks at about 30 characters with a decent rag, but 'north-west of' hangs on line 1. Set the lead to columns 7–11 (5 of 12) so it breaks after 'miles', giving a tighter rag and one empty column at the right.",
+          "The parish caption in row 9 spans 6 columns but is only about 3 columns long. Set it to columns 1–3 so the caption's span matches its length; the remainder of row 9 under the photo then reads as an intentional empty module.",
+          "Colour works: the warm grey paper, the brown headline and dot matching the Cotswold stone, and the photo's blue sky as the only cool note. Keep the dot exactly in the headline brown."
+        ],
+        "summary": "A sound structure: a full-width county name over a half-and-half photo and pinfield, with text below. The core idea is undercut because the brown dot is not singular and has no visual tie to the CASTLE COMBE line. Rebalance the lead and the place-name, tighten rows 11–12, and clean up the pinfield so one dot carries the meaning."
+      },
+      "attempts": [
+        {
+          "idea": "place-name-at-scale",
+          "mean": 5.6,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 5,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 5.8,
+          "scores": {
+            "idea": 6,
+            "grid": 5,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "county-label",
+          "text": "County · England"
+        },
+        {
+          "element": "county-name",
+          "text": "WILTSHIRE"
+        },
+        {
+          "element": "parish-label",
+          "text": "1 · Village and civil parish"
+        },
+        {
+          "element": "place-name",
+          "text": "CASTLE COMBE"
+        },
+        {
+          "element": "lead",
+          "text": "Around 5 miles north‑west of Chippenham and 10 miles north‑east of Bath."
+        },
+        {
+          "element": "body",
+          "text": "At the 2021 census, the parish had a population of 356."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Castle_Combe"
+      ],
+      "photo": {
+        "credit": "Saffron Blaze, CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Castle_combe_river.jpg",
+        "kind": "commons"
+      },
+      "image": "posters/img/008-castle-combe.png",
+      "created_at": "2026-10-11T02:13:05.418Z"
+    },
+    {
+      "id": "007-bletchley-park",
+      "number": 7,
+      "title": "Bletchley Park",
+      "status": "below-bar",
+      "place": {
+        "town": "Milton Keynes",
+        "county": "Buckinghamshire",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "closer",
+        "sentence": "Bletchley Park hid its work behind an ordinary country house, so one photograph of the mansion steps across the grid three times, each larger, until the front door fills the frame."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "accent": "#C8102E",
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 7,
+          "color": 7
+        },
+        "mean": 6.8,
+        "notes": [
+          "Photo-1 (columns 1–2, row 7) has no '1' marker while photo-2 and photo-3 carry '2' and '3'. Add the same boxed numeral in its lower-left corner so the three steps read as one numbered sequence.",
+          "The steps grow unevenly in height: photo-1 is 1 row, photo-2 is 2 rows, photo-3 is 5 rows. The 2-to-5 jump breaks the rhythm. Either make the heights 1, 2, 4 rows and end photo-3 at row 10, or make them 1, 3, 5 rows so each step adds two rows.",
+          "Photo-3's crop does not deliver the idea that 'the front door fills the frame'. The arch sits only in the bottom third of columns 7–12, and the bay window dominates. Re-crop so the doorway fills rows 8–11, with the arch top near row 8.",
+          "Rows 9–10 hold the lead, but its third line ends early in row 10, leaving a dead strip above the body in row 11. Either start the body at row 10 with one empty baseline after the lead, or keep it in row 11 and add a short rule or numeral so the gap reads as intended.",
+          "The body bottom (row 12) overshoots photo-3's bottom edge (row 11). Align the body so its last baseline sits on the row-11 bottom line, level with photo-3. Then the caption in row 12 stands alone as the closing element of columns 7–12.",
+          "Photo-1 is so small at 2 columns that it reads as a thumbnail, not as step one of a zoom. Consider starting it at 3 columns (1–3), with photo-2 at 4 columns (4–7) and photo-3 at 5 columns (8–12), so the steps scale visibly.",
+          "The body rag breaks 'Mavis / Lever' across lines 4–5. Rebreak by widening the body to the full 6 columns (1–6), matching the lead's span, or tighten the tracking so the name stays on one line.",
+          "The red is used only once, in the step-label at column 7, row 6. Repeat it on the three photo numerals so the accent connects the label to the sequence it describes."
+        ],
+        "summary": "A clear, worthwhile idea with a strong 12-column headline and a sensible left and right split. The zoom sequence is under-built, though. Photo-1 is unnumbered and too small, the row steps grow unevenly (1, 2, 5), and photo-3 does not actually end on the door. Tighten the step proportions, align the body and photo-3 bottoms on row 11, and carry the red into the numerals."
+      },
+      "attempts": [
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.2,
+          "scores": {
+            "idea": 4,
+            "grid": 5,
+            "hierarchy": 5,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.6,
+          "scores": {
+            "idea": 5,
+            "grid": 5,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.8,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Bletchley\nPark"
+        },
+        {
+          "element": "place-label",
+          "text": "Milton Keynes · Buckinghamshire"
+        },
+        {
+          "element": "step-label",
+          "text": "One house · three steps closer"
+        },
+        {
+          "element": "lead",
+          "text": "The principal centre of Allied code-breaking during the Second World War."
+        },
+        {
+          "element": "body",
+          "text": "The estate housed the Government Code and Cypher School, which broke the German Enigma and Lorenz ciphers. Its codebreakers included Alan Turing, Dilwyn Knox, Mavis Lever and Gordon Welchman."
+        },
+        {
+          "element": "photo-caption",
+          "text": "3 · The mansion entrance"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Bletchley_Park"
+      ],
+      "photo": {
+        "credit": "DeFacto, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion.jpg",
+        "kind": "commons"
+      },
+      "image": "posters/img/007-bletchley-park.png",
+      "created_at": "2026-10-11T02:00:12.506Z"
+    },
+    {
+      "id": "006-black-friar-pub",
+      "number": 6,
+      "title": "The Black Friar, City of London",
+      "status": "below-bar",
+      "place": {
+        "town": "London",
+        "county": "Greater London",
+        "borough": "City of London",
+        "country": "England"
+      },
+      "idea": {
+        "key": "place-name-at-scale",
+        "sentence": "The City is the historic centre of London and the pub is one narrow wedge within it, so the City's name fills the page and The Black Friar sits beneath it."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "accent": "#642408",
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 6,
+          "color": 7
+        },
+        "mean": 6.6,
+        "notes": [
+          "The city-name spans all 12 columns over rows 2–6, but LONDON runs nearly flush to the right margin while CITY OF stops short at about column 11. Track or size the headline so LONDON lands exactly on the column 12 edge. Leave CITY OF ragged short deliberately, so the two-line block reads as one measured slab.",
+          "The idea says the pub is 'one narrow wedge' within the City, yet the photo takes 7 of 12 columns and 6 rows. Wedge and slab end up competing. Cut the photo to columns 8–12 (5 columns) over rows 7–12. That leaves columns 5–7 as an empty channel, so the pub really reads as a sliver beneath the name.",
+          "Column 5 is the only empty column between text and photo, so the gutter reads as a gap rather than a decision. Widen it to two empty columns (5–6) or close it entirely. One lone module looks accidental.",
+          "Place-name 'The Black / Friar' at 4 columns sets two words per line with a heavy rag on line two. Extend it to columns 1–5, or drop one size so 'The Black Friar' breaks with a fuller second line. Keep its cap height on the row 8 hangline.",
+          "Body sits on rows 10–11 at columns 1–4 with five short lines and a ragged 'of London.' widow. Rebreak it to avoid the two-word last line. Align its last baseline to the bottom of row 11, or its first baseline to the top of row 10, so the text is anchored to a grid line rather than floating.",
+          "Row 12 in columns 1–5 is empty below the body while the photo runs to the bottom of row 12. That is fine as deliberate silence, but end the photo on row 11 or anchor the body to row 12 so the two columns share a common bottom edge.",
+          "The locator label in brown on row 7 matches the photo top, which is good. The rust accent on locator and place-name picks up the brick in the photo well. Keep it, but don't add the accent anywhere else."
+        ],
+        "summary": "A clear scale contrast that mostly delivers the idea: the full-width CITY OF LONDON slab dominates and the pub sits below. The photo is too large for a 'narrow wedge', and the single empty column 5 feels unresolved. Narrow the photo to about 5 columns, make the gap intentional, and tighten the rag in the place-name and body to bring this to a keeper."
+      },
+      "attempts": [
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.6,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 7,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.4,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "city-name",
+          "text": "CITY OF\nLONDON"
+        },
+        {
+          "element": "locator",
+          "text": "Blackfriars · Greater London"
+        },
+        {
+          "element": "place-name",
+          "text": "The Black\nFriar"
+        },
+        {
+          "element": "body",
+          "text": "A Grade II* listed public house on Queen Victoria Street. The City, founded by the Romans as Londinium, is the historic centre of London."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/The_Black_Friar%2C_Blackfriars",
+        "https://en.wikipedia.org/wiki/City_of_London"
+      ],
+      "photo": {
+        "credit": "FDV, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Black-Friar-Pub-Londres-230819.jpg",
+        "kind": "commons"
+      },
+      "image": "posters/img/006-black-friar-pub.png",
+      "created_at": "2026-10-11T01:57:42.077Z"
+    },
+    {
+      "id": "005-beachy-head",
+      "number": 5,
+      "title": "Beachy Head",
+      "status": "below-bar",
+      "place": {
+        "town": "Eastbourne",
+        "county": "East Sussex",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "location-decides-layout",
+        "sentence": "Beachy Head lies at the south-east edge of England, so its photo takes the lower right corner of the grid outright, where the place sits on the map."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "accent": "#C8102E",
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 7,
+          "hierarchy": 7,
+          "type": 6,
+          "color": 6
+        },
+        "mean": 6.4,
+        "notes": [
+          "Idea: the photo sits in columns 6–12, rows 8–12, but stops at the margins and the footer rule, so it reads as a normal right-hand image, not as the south-east corner taken outright. Widen it to columns 5–12 so it runs to the right margin and down onto the footer rule, then make it the only element in that quadrant.",
+          "Headline: 'Beachy' fills all 12 columns while 'Head' ends at about column 9. That leaves an unplanned empty block of columns 10–12 in rows 5–6. Either let that empty block mirror the photo's corner as a deliberate empty module, or reduce the size slightly so 'Beachy' ends at column 11 and the right edge reads as intentional.",
+          "Spacing: the labels in row 7 sit almost on the baseline of 'Head', with very little air, then a full empty band follows before row 8. Move the labels down half a row, or push the lead and photo up so the gap above and below row 7 is equal.",
+          "Lead: at this size in 4 columns, rows 8–10, the lead breaks into six short lines with a jagged rag ('close to' / 'Eastbourne,'). Widen it to columns 1–5, which makes column 5 the gutter to the photo at column 6, or drop one size step to get four or five even lines.",
+          "Body: the body hangs at the top of row 11 and stops about two-thirds of the way down. That leaves the bottom of row 12 empty next to the photo's lower edge. Bottom-align the body's last baseline with the photo's bottom edge at the end of row 12 so the left column locks to the corner the idea is about.",
+          "Lead and body share columns 1–4 with no change of measure. Keep the lead on 1–4 and set the body on columns 1–3 for a shorter measure at text size. This also tightens its rag.",
+          "Color: the red is used only on the small row-7 label above the photo, in columns 6–12. It points to the corner but is too weak to carry the idea. Repeat the accent once more, for example as a rule on the photo's top edge across columns 6–12, or remove it and let the photo's blue and white carry the color against the warm paper."
+        ],
+        "summary": "This is a competent, clean layout. The 12-column headline is strong and the photo is clearly anchored at lower right, aligned to the red label on column 6. The map-corner idea is only half delivered, though: the photo is boxed in by the margins, and the left text column floats instead of locking to the photo's bottom edge. Tighten the row-7 spacing, re-measure the lead, and bottom-align the body to row 12 to reach a keepable 7."
+      },
+      "attempts": [
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 7,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.4,
+          "scores": {
+            "idea": 6,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Beachy\nHead"
+        },
+        {
+          "element": "county",
+          "text": "East Sussex"
+        },
+        {
+          "element": "region",
+          "text": "South East England"
+        },
+        {
+          "element": "lead",
+          "text": "A chalk headland close to Eastbourne, immediately east of the Seven Sisters."
+        },
+        {
+          "element": "body",
+          "text": "The highest chalk sea cliff in Great Britain, part of the Eastbourne Downland Estate."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Beachy_Head",
+        "https://en.wikipedia.org/wiki/Eastbourne"
+      ],
+      "photo": {
+        "credit": "Ian Stannard from Southsea, England, CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head,_East_Sussex,_England-2Oct2011_(1).jpg",
+        "kind": "commons"
+      },
+      "image": "posters/img/005-beachy-head.png",
+      "created_at": "2026-10-11T01:56:12.915Z"
+    },
+    {
+      "id": "004-bamburgh-castle",
+      "number": 4,
+      "title": "Bamburgh Castle",
+      "status": "below-bar",
+      "place": {
+        "town": "Bamburgh",
+        "county": "Northumberland",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "place-name-at-scale",
+        "sentence": "The village is small and the castle is vast, so the name Bamburgh fills the page and the castle sits beneath it on its crag."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "accent": "#012169",
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 7,
+          "color": 6
+        },
+        "mean": 6.4,
+        "notes": [
+          "The idea is only half delivered. 'Bamburgh' does fill columns 1–12 across rows 2–4, but the photo also spans the full 12 columns, so the castle reads as wide as the name. The contrast between a small village and a vast castle is lost. Crop the photo tighter around the castle and crag so the castle fills more of its frame, and keep the village houses small at the bottom edge.",
+          "Row 4 is mostly empty. The headline's descender 'g' dips into it, but the space between the baseline of 'Bamburgh' and the top of the photo at row 5 is close to a full module and looks accidental. Either pull the photo up to start in row 4 so the castle sits directly beneath the name, as the idea says, or let the headline grow to fill rows 2–4.",
+          "The photo spans rows 5–9 (5 rows) at full width, so it becomes a flat landscape band. The castle occupies only about columns 4–9 inside it, and the upper sky takes nearly half the frame. Crop out most of the sky so the crag rises toward row 5. One option: set the photo to columns 1–12 in rows 4–9 with the castle top just under the headline.",
+          "The lead starts at column 4 and runs through column 12, a 9-column measure. At this size that gives roughly 50 characters per line, which is fine. Its first baseline aligns with the county label in row 10. Keep both.",
+          "The body text in columns 4–8, row 12, is cut off from the lead by an empty row 11. This reads as a hole, not a deliberate empty module. Move the body up to row 11 directly under the lead, so the empty space falls into row 12 above the footer. Or keep it in row 12 and widen it to columns 4–9 so it aligns with the footer's 'Country' column.",
+          "The pinfield in columns 1–3, rows 11–12, is too small and faint to read as a map. The highlighted Bamburgh pin sits in the top-left corner of the module and the scatter drifts toward the footer. Either enlarge it to fill both rows fully, with the highlight pin aligned to the lead's first line, or drop it so columns 1–3 of rows 11–12 become a clean empty module.",
+          "The vertical rhythm is uneven. The gaps between header, headline, photo and text are all different. Lock each element's top to a row line: headline cap height on the row 2 top, photo top on a row start, lead cap height on the row 10 top.",
+          "On color, the blue of the county label and the pin picks up the sky and sea, which is good. But the saturated green field across the lower third of the photo is the loudest area on the page and pulls the eye down. Crop the foreground field so the lower edge of the photo sits closer to the village. The warm stone of the castle then becomes the colour focus under the black headline."
+        ],
+        "summary": "This is a clean, competent layout with a strong full-width headline and a sensible text block. But the stated contrast between a small village and a vast castle doesn't come through. The full-width landscape photo has too much sky and field, so it flattens the castle. Fix the gap in rows 4 and 11 and crop the photo vertically toward the crag, and this becomes a keeper."
+      },
+      "attempts": [
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.4,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 7,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Bamburgh"
+        },
+        {
+          "element": "county",
+          "text": "Northumberland, England"
+        },
+        {
+          "element": "lead",
+          "text": "A Grade I listed castle on the northeast coast of England, by the village of Bamburgh."
+        },
+        {
+          "element": "body",
+          "text": "The village had a population of 414 at the 2011 census."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Bamburgh_Castle",
+        "https://en.wikipedia.org/wiki/Bamburgh"
+      ],
+      "photo": {
+        "credit": "Sean Arble, CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:17_Bamburgh_Castle_(4).jpg",
+        "kind": "commons"
+      },
+      "image": "posters/img/004-bamburgh-castle.png",
+      "created_at": "2026-10-11T02:11:13.860Z"
+    },
+    {
+      "id": "003-battersea-power-station",
+      "number": 3,
+      "title": "Battersea Power Station",
+      "status": "below-bar",
+      "place": {
+        "town": "London",
+        "county": "Greater London",
+        "borough": "Wandsworth",
+        "country": "England"
+      },
+      "idea": {
+        "key": "location-decides-layout",
+        "sentence": "London lies low and to the right of England, so the photo meets the bottom-right margin and the empty grid above and to its left stands for the rest of the country."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "accent": "#2A669B",
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 5,
+          "hierarchy": 6,
+          "type": 6,
+          "color": 7
+        },
+        "mean": 6,
+        "notes": [
+          "The photo starts at column 8 while the place-label, lead and body all start at column 9, so the right zone has two left edges about one column apart. Either move the photo to columns 9–12, or move the whole text stack to columns 8–12, so one vertical edge runs from row 5 to row 12.",
+          "The idea needs the photo to be the only thing pinned to the bottom-right, with empty grid above and to its left. Right now the text stack fills columns 9–12 in rows 5–9, directly above the photo. That makes the right edge read as a full column of content rather than a 'London' corner. Move lead and body down so they sit beside the photo, in columns 4–7, rows 10–11, ending just above the position-label. Rows 5–9 then stay empty across columns 1–12 below the headline.",
+          "The headline spans all 12 columns across rows 2–4, and that span fights the 'empty country' reading. 'Power Station' runs nearly to the right margin. It fills the top band that should belong to the rest of England. Try ranging the headline to columns 1–9, or let it stay full width but drop it into rows 2–3 so more empty modules open above the photo.",
+          "The photo is small for the anchor of the idea: 5 columns × 3 rows. Enlarge it to columns 7–12 (6 of 12) and rows 9–12, bleeding to the bottom and right margins. The 'low and to the right' weight then becomes unmistakable, and the photo outranks the lead as the second read after the headline.",
+          "The place-label in row 5 wraps 'GREATER / LONDON', leaving a one-word second line. Shorten it to fit one line within 4 columns, or widen it to columns 8–12 so it sets on a single line hanging from the top of row 5.",
+          "The lead in rows 6–7 breaks 'coal- / fired' at the end of the first line. Rebreak it as 'A preserved coal-fired / power station / on the Thames.' or let it run to 5 columns.",
+          "The lead (rows 6–7) and body (rows 8–9) leave almost a full empty row between them. Tighten that gap: if they stay in columns 9–12, set the body to start on the first baseline of row 8 directly under the lead. This would let the stack read as one unit.",
+          "The position-label sits in columns 4–7 at the bottom of row 12, flush right against the photo, and that placement works. Align its baseline to the bottom edge of the photo exactly. Consider placing it at the top of the empty field, in column 1 of row 5, pointing into the space it describes. The label would then annotate the empty modules rather than the photo.",
+          "Color: the warm grey paper, near-black type and the blue accent in both labels pick up the sky in the photo. Keep it. Use the blue only on the two labels, as now; do not add it elsewhere."
+        ],
+        "summary": "A clean, readable poster with good paper and accent color. The idea is undercut by the layout. The text stack fills the same right-hand columns above the photo, and the full-width headline fills the top band. As a result, the photo is not the lone bottom-right weight and the empty field is not clearly 'the rest of England'. To fix this, align the photo's left edge with the text column, enlarge the photo into the corner, and move the lead and body out of columns 9–12 above it. That would let rows 5–9 read as deliberate empty modules."
+      },
+      "attempts": [
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.4,
+          "scores": {
+            "idea": 4,
+            "grid": 5,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6,
+          "scores": {
+            "idea": 6,
+            "grid": 5,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.8,
+          "scores": {
+            "idea": 5,
+            "grid": 5,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Battersea\nPower Station"
+        },
+        {
+          "element": "place-label",
+          "text": "Nine Elms · Wandsworth · Greater London"
+        },
+        {
+          "element": "lead",
+          "text": "A preserved coal-fired power station on the Thames."
+        },
+        {
+          "element": "body",
+          "text": "On the south bank, it is one of the world's largest brick buildings. The architects were J. Theo Halliday and Giles Gilbert Scott."
+        },
+        {
+          "element": "position-label",
+          "text": "Its place in England"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Battersea_Power_Station"
+      ],
+      "photo": {
+        "credit": "Waypoints photo, personal use",
+        "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/battersea-power-station.jpg",
+        "kind": "personal"
+      },
+      "image": "posters/img/003-battersea-power-station.png",
+      "created_at": "2026-10-11T01:53:02.903Z"
+    },
+    {
+      "id": "002-macclesfield-ian-curtis",
+      "number": 2,
+      "title": "Macclesfield — Ian Curtis",
+      "status": "below-bar",
+      "place": {
+        "town": "Macclesfield",
+        "county": "Cheshire",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "nearby",
+        "sentence": "The memorial stone lies 1.21 km from the town centre, so the town's name sits over the photograph and the nearby Cheshire pins share its grid with their distances."
+      },
+      "pairing": "inter",
+      "paper": "dark",
+      "accent": "#DACDC5",
+      "critic": {
+        "scores": {
+          "idea": 5,
+          "grid": 6,
+          "hierarchy": 6,
+          "type": 6,
+          "color": 6
+        },
+        "mean": 5.8,
+        "notes": [
+          "The stated idea says the town's name sits over the photograph, but the headline occupies rows 2–3 and the photo starts at row 5, with the county label alone in row 4. Either pull the photo up to begin at row 4 and drop the county label onto row 11 beside the lead, or restate the idea so it matches the layout.",
+          "Row 4 holds only a 1-line label spanning columns 1–6, leaving a near-empty band between headline and photo. Move the county label up to sit tight under the headline at the bottom of row 3, and let the photo start at row 4. It can then span rows 4–10 at 7 rows tall.",
+          "The nearby list sits in rows 6–7, but its two entries occupy only the top half of row 6. That leaves a dead gap between the label in row 5 and the list. Put the list directly under the label at the top of row 6, and give row 7 to the map so the pinfield spans rows 7–10.",
+          "In the list, 'Ian Curtis Memorial Stone' and 'Jodrell Bank Observatory' wrap to two lines in a 4-column measure. That breaks the row rhythm with the right-aligned km figures. Either set the names one size smaller so each fits on one line within columns 9–11, with distances in column 12, or let each entry occupy a full baseline pair consistently.",
+          "The map pinfield drifts in the middle of columns 9–12 with no frame and no marked town centre. The 1.21 km relationship that the idea rests on is not legible. Anchor the pinfield to the column 9 left edge and the row 10 bottom edge, and label the town pin and the stone pin with their list numbers 01/02.",
+          "The lead in columns 1–8, rows 11–12, is set large and competes with the photo. Its last line nearly touches the footer rule. Reduce it one step so it fits in row 11 plus half of row 12, and align its first baseline with the first baseline of the distances text in columns 9–12, which currently sits higher.",
+          "The distances text in columns 9–12 is grey on near-black and reads as an afterthought. Raise it to the same off-white as the list, or tie it to the map by placing it directly under the pinfield's bottom edge in row 10.",
+          "The photo's small white rule along its bottom edge and the '1' index box in the bottom-left corner add noise inside the 8-column span. Remove the rule so the photo edge aligns cleanly with the row 10 bottom line.",
+          "Color is monochrome off-white on black with no accent. Introduce one accent, for example on the stone pin in the map and the '01' index in the list. That would carry the idea's link between the photo and the pin."
+        ],
+        "summary": "Clean, rigorous, but the stated idea isn't delivered: the headline doesn't sit over the photo, and the map doesn't show the 1.21 km relationship. Tighten rows 4–7, anchor the pinfield, and use one accent to link the stone, the list and the pin."
+      },
+      "attempts": [
+        {
+          "idea": "nearby",
+          "mean": 5.8,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "nearby",
+          "mean": 5.2,
+          "scores": {
+            "idea": 5,
+            "grid": 5,
+            "hierarchy": 5,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "nearby",
+          "mean": 5.4,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 5,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "MACCLESFIELD"
+        },
+        {
+          "element": "county",
+          "text": "Cheshire East · Cheshire · England"
+        },
+        {
+          "element": "nearby-label",
+          "text": "Nearby in Cheshire"
+        },
+        {
+          "element": "lead",
+          "text": "A market town on the River Bollin, at the edge of the Cheshire Plain, with Macclesfield Forest to its east."
+        },
+        {
+          "element": "distances",
+          "text": "16 miles (26 km) south of Manchester. 38 miles (61 km) east of Chester."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Macclesfield"
+      ],
+      "photo": {
+        "credit": "Waypoints photo, personal use",
+        "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/ian-curtis-memorial-2.png",
+        "kind": "personal"
+      },
+      "image": "posters/img/002-macclesfield-ian-curtis.png",
+      "created_at": "2026-10-11T02:09:38.983Z"
+    },
+    {
+      "id": "001-salford-lads-club",
+      "number": 1,
+      "title": "Salford Lads Club",
+      "status": "pass",
+      "place": {
+        "town": "Salford",
+        "county": "Greater Manchester",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "closer",
+        "sentence": "Dan saved the club for its doorway, so one photo steps closer three times across the grid until the green doors and their sign fill the frame."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "accent": "#935545",
+      "critic": {
+        "scores": {
+          "idea": 8,
+          "grid": 7,
+          "hierarchy": 7,
+          "type": 7,
+          "color": 7
+        },
+        "mean": 7.2,
+        "notes": [
+          "The three-step crop sequence (3, 4 and 5 columns; 3, 4 and 6 rows) carries the idea well. The steps are uneven, though: far to mid adds one column and one row, while mid to near adds one column and two rows. Make the progression regular, for example cols 1–3/rows 5–7, cols 4–7/rows 5–8, cols 8–12/rows 5–9. Alternatively, push the near frame to rows 5–11 so the final step clearly reads as the arrival.",
+          "Photo-near at 3.2× is visibly soft. The doorway in the final module looks pixelated at 5 columns × 6 rows. Use a higher-resolution source, or cap the near crop so it renders sharply.",
+          "Photo-mid is 4 columns wide, but the gap between it and photo-near reads wider than the 12 pt gutter. Check that photo-mid ends exactly at the column 7 edge and photo-near starts at column 8. Do the same for the col 3/4 gap.",
+          "Place-label sits under photo-far in row 8, but there is a one-row empty pocket below it in columns 1–3 while photo-mid runs to row 8. Move the label onto the first baseline directly under photo-far, hanging from the bottom of row 7, so it reads as that image's caption rather than floating.",
+          "Lead spans cols 1–6, so it runs past photo-mid's right edge at col 7 and almost touches the col 8 photo. Narrow it to cols 1–6 with the rag held clear of the col 7 gutter, or set it to cols 1–5 to match the body measure. This gives the left text stack one consistent column edge.",
+          "Body ends in row 11, leaving row 12 in cols 1–7 empty, and the space feels accidental. Either start body one row higher, right after the lead, or keep the empty row 12 and use it deliberately by aligning body's last line with county-label's baseline in row 11.",
+          "County-label in cols 8–12 row 11 duplicates the footer's county and country fields. Replace it with a caption that names the step, e.g. 'The doors, St Ignatius Walk', so the third frame lands the idea.",
+          "The headline across cols 1–12 / rows 2–4 dominates correctly. Tighten its baseline so the descender-free word sits on the row 4 bottom line, and leave exactly one baseline before the photos start in row 5.",
+          "Number markers 1–3 sit at slightly different offsets inside each frame (marker 3 is lower relative to the frame edge). Pin all three to the same baseline-and-gutter inset from each photo's bottom-left corner."
+        ],
+        "summary": "The idea is clear and is expressed directly through spans: one photo zooming across 3→4→5 columns. The structure mostly holds, but the zoom steps are irregular, the near crop is too low-res, and the lead's measure and the right-hand caption weaken the grid's discipline. Regularise the step sizes, anchor the captions to their photos, and align the text column edges."
+      },
+      "attempts": [
+        {
+          "idea": "closer",
+          "mean": 6.8,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 7.2,
+          "scores": {
+            "idea": 8,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Salford"
+        },
+        {
+          "element": "place-label",
+          "text": "Lads' Club · Ordsall"
+        },
+        {
+          "element": "lead",
+          "text": "Established in 1903 as a club for boys, on the corner of St Ignatius Walk and Coronation Street."
+        },
+        {
+          "element": "body",
+          "text": "Today it welcomes people of both sexes. On dedicated open days it receives visitors from around the world."
+        },
+        {
+          "element": "county-label",
+          "text": "Greater Manchester · England"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Salford_Lads'_Club"
+      ],
+      "photo": {
+        "credit": "Rept0n1x, CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Salford_Lads_Club_(6).jpg",
+        "kind": "commons"
+      },
+      "image": "posters/img/001-salford-lads-club.png",
+      "created_at": "2026-10-11T01:49:27.507Z"
+    }
+  ]
+}

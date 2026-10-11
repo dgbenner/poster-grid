@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Poster Grid</title>
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Inter+Tight:wght@300;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+  <style>
+    :root {
+      --bg: #121212; --panel: #1a1a1a; --line: #2a2a2a; --ink: #ececea; --muted: #9a9a96; --dim: #6a6a66;
+      --good: #6fd6a5; --warn: #e8b44c;
+      --sans: "Inter", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, monospace;
+      color-scheme: dark;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--ink); font: 14px/1.5 var(--sans); -webkit-font-smoothing: antialiased; }
+    a { color: inherit; }
+    .wrap { max-width: 1240px; margin: 0 auto; padding: 32px 16px 64px; }
+    .kicker { font: 500 10.5px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0; }
+    h1 { font: 300 44px/1.05 "Inter Tight", var(--sans); letter-spacing: -.03em; margin: 10px 0 12px; }
+    .lede { color: var(--muted); max-width: 640px; margin: 0; }
+    .links { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 8px; }
+    .btn { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 7px; text-decoration: none; font-weight: 500; font-size: 13px; }
+    .btn:hover { border-color: #555; }
+    .btn.primary { background: var(--ink); color: #111; border-color: var(--ink); }
+    .stats { display: flex; flex-wrap: wrap; gap: 28px; margin: 28px 0 24px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .stat b { display: block; font: 300 28px/1.1 "Inter Tight", var(--sans); }
+    .stat span { font: 500 10.5px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 24px 18px; }
+    .card { text-decoration: none; display: block; }
+    .card img { width: 100%; aspect-ratio: 595 / 842; object-fit: cover; display: block; border-radius: 2px; background: #222; box-shadow: 0 10px 30px rgba(0,0,0,.4); transition: transform .15s; }
+    .card:hover img { transform: translateY(-2px); }
+    .card:focus-visible { outline: 2px solid #fff; outline-offset: 4px; }
+    .meta { display: flex; justify-content: space-between; gap: 8px; margin-top: 10px; font: 500 11px var(--mono); color: var(--muted); }
+    .card h3 { margin: 4px 0 0; font-size: 14px; font-weight: 600; }
+    .card .county { color: var(--muted); font-size: 12.5px; }
+    .score { white-space: nowrap; }
+    .score.pass { color: var(--good); }
+    .score.below { color: var(--warn); }
+
+    .detail { display: none; }
+    .detail.open { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 36px; align-items: start; }
+    .detail img { width: 100%; display: block; box-shadow: 0 18px 50px rgba(0,0,0,.5); }
+    .detail h2 { font: 300 36px/1.1 "Inter Tight", var(--sans); letter-spacing: -.02em; margin: 6px 0 4px; }
+    .detail .sub { color: var(--muted); margin: 0 0 20px; }
+    .sec { border-top: 1px solid var(--line); padding: 14px 0 16px; }
+    .sec h4 { margin: 0 0 8px; font: 500 10.5px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+    .sec p { margin: 0 0 6px; }
+    .scores { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; }
+    .scores div { border: 1px solid var(--line); border-radius: 6px; padding: 8px; text-align: center; }
+    .scores b { display: block; font: 300 22px/1 "Inter Tight", var(--sans); }
+    .scores span { font: 500 9.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+    ul.notes { margin: 0; padding-left: 18px; }
+    ul.notes li { margin-bottom: 8px; color: #d4d4d0; }
+    .nav { display: flex; gap: 8px; margin-bottom: 18px; }
+    .small { font-size: 12.5px; color: var(--muted); }
+    .small a { color: var(--muted); }
+    @media (max-width: 860px) { .detail.open { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="kicker">Waypoints · work in progress</p>
+      <h1>Poster Grid</h1>
+      <p class="lede">Posters of saved places, set on one strict typographic grid. Each was designed by a model that places elements only on grid cells, checked by code, scored by a critic in grid terms, and rendered from the same grid as the lab.</p>
+      <div class="links">
+        <a class="btn primary" href="lab/">Open the grid lab</a>
+        <a class="btn" href="#" id="toAll">All posters</a>
+      </div>
+    </header>
+
+    <section id="list">
+      <div class="stats" id="stats"></div>
+      <div class="grid" id="grid"></div>
+    </section>
+
+    <section class="detail" id="detail"></section>
+  </div>
+
+  <script>
+    const $ = s => document.querySelector(s);
+    const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    const IDEA = { 'place-name-at-scale': 'Place name at scale', 'location-decides-layout': 'Location decides layout', 'closer': 'Closer', 'nearby': 'Nearby' };
+    const nn = n => String(n).padStart(2, '0');
+    const county = p => p.place.borough ? `${p.place.county} · ${p.place.borough}` : p.place.county;
+    let data;
+
+    fetch('posters/index.json', { cache: 'no-store' }).then(r => r.json()).then(d => { data = d; renderList(); route(); });
+    window.addEventListener('hashchange', route);
+    $('#toAll').addEventListener('click', e => { e.preventDefault(); location.hash = ''; });
+
+    function renderList() {
+      const ps = data.posters;
+      const pass = ps.filter(p => p.status === 'pass').length;
+      const counties = new Set(ps.map(p => p.place.county)).size;
+      const mean = ps.reduce((s, p) => s + (p.critic?.mean || 0), 0) / ps.length;
+      $('#stats').innerHTML = [
+        [ps.length, 'posters'], [counties, 'counties'], [new Set(ps.map(p => p.idea.key)).size + ' of 4', 'ideas used'],
+        [mean.toFixed(1), 'mean critic score'], [`${pass} of ${ps.length}`, 'scored 7 or more'],
+      ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join('');
+      $('#grid').innerHTML = [...ps].sort((a, b) => a.number - b.number).map(p => `
+        <a class="card" href="#${nn(p.number)}">
+          <img src="${esc(p.image)}" alt="Poster ${nn(p.number)}: ${esc(p.title)}" loading="lazy">
+          <div class="meta"><span>${nn(p.number)} / ${nn(data.total)} · ${esc(IDEA[p.idea.key])}</span>
+            <span class="score ${p.status === 'pass' ? 'pass' : 'below'}">${p.critic ? p.critic.mean.toFixed(1) : '—'}</span></div>
+          <h3>${esc(p.title)}</h3>
+          <div class="county">${esc(county(p))}</div>
+        </a>`).join('');
+    }
+
+    function route() {
+      if (!data) return;
+      const n = Number(location.hash.slice(1));
+      const p = data.posters.find(x => x.number === n);
+      $('#list').style.display = p ? 'none' : '';
+      $('#detail').classList.toggle('open', !!p);
+      if (!p) return;
+      const sorted = [...data.posters].sort((a, b) => a.number - b.number);
+      const i = sorted.indexOf(p);
+      const prev = sorted[i - 1], next = sorted[i + 1];
+      const c = p.critic;
+      $('#detail').innerHTML = `
+        <div><img src="${esc(p.image)}" alt="Poster ${nn(p.number)}: ${esc(p.title)}"></div>
+        <div>
+          <div class="nav">
+            <a class="btn" href="#">All posters</a>
+            ${prev ? `<a class="btn" href="#${nn(prev.number)}">← ${nn(prev.number)}</a>` : ''}
+            ${next ? `<a class="btn" href="#${nn(next.number)}">${nn(next.number)} →</a>` : ''}
+          </div>
+          <p class="kicker">${nn(p.number)} / ${nn(data.total)} · ${esc(IDEA[p.idea.key])}</p>
+          <h2>${esc(p.title)}</h2>
+          <p class="sub">${esc(county(p))} · ${esc(p.place.country)}</p>
+          <div class="sec"><h4>Idea</h4><p>${esc(p.idea.sentence)}</p></div>
+          ${c ? `<div class="sec"><h4>Critic · ${c.mean.toFixed(1)} ${p.status === 'pass' ? '· passed' : '· below 7'}${p.attempts?.length > 1 ? ` · ${p.attempts.length} attempts` : ''}</h4>
+            <div class="scores">${Object.entries(c.scores).map(([k, v]) => `<div><b>${v}</b><span>${k}</span></div>`).join('')}</div></div>
+          <div class="sec"><h4>Notes, in grid terms</h4><ul class="notes">${c.notes.map(x => `<li>${esc(x)}</li>`).join('')}</ul><p class="small">${esc(c.summary)}</p></div>` : ''}
+          <div class="sec"><h4>Sources</h4>
+            ${(p.facts_used || []).map(u => `<p class="small"><a href="${esc(u)}" rel="noopener">${esc(decodeURIComponent(u.replace(/^https?:\/\//, '')))}</a></p>`).join('')}
+            ${p.photo ? `<p class="small">Photo: ${p.photo.kind === 'personal' ? esc(p.photo.credit) : `<a href="${esc(p.photo.source)}" rel="noopener">${esc(p.photo.credit)}</a>`}</p>` : ''}
+            <p class="small">Type: ${esc(p.pairing)} · paper: ${esc(p.paper)} · accent ${esc(p.accent)}</p>
+          </div>
+        </div>`;
+      window.scrollTo(0, 0);
+    }
+  </script>
+</body>
+</html>

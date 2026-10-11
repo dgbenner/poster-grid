@@ -14,6 +14,7 @@ process.loadEnvFile(join(ROOT, '.env.local'));
 const { IDEAS, accentOptions, buildSpec, checkSpec, describeLayout, photoCredit } = await import('./lib/poster.mjs');
 const { MODEL, designer, designBrief, critique, factText } = await import('./lib/designer.mjs');
 const { openRenderer } = await import('./lib/renderer.mjs');
+const { buildIndex } = await import('./build-index.mjs');
 
 const args = process.argv.slice(2);
 const opt = f => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : null; };
@@ -219,4 +220,4 @@ async function makeAndSave({ enrich, pin, gridCfg, all, number, total, ideas, re
       return { idea: best.design.idea };
 }
 
-main();
+main().then(() => buildIndex()).then(n => n && console.log(`${n} posters → posters/index.json`));

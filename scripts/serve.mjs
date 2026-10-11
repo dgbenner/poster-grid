@@ -36,7 +36,6 @@ createServer(async (req, res) => {
     return;
   }
   if (req.method !== 'GET' && req.method !== 'HEAD') { res.writeHead(405).end(); return; }
-  if (path === '/') { res.writeHead(302, { location: '/lab/' }).end(); return; }
 
   const file = normalize(join(root, path.endsWith('/') ? path + 'index.html' : path));
   if (!file.startsWith(root) || file.split(sep).includes('_source')) { res.writeHead(403).end(); return; }
@@ -47,4 +46,4 @@ createServer(async (req, res) => {
   } catch {
     res.writeHead(404).end('Not found');
   }
-}).listen(PORT, '127.0.0.1', () => console.log(`Grid lab: http://localhost:${PORT}/lab/`));
+}).listen(PORT, '127.0.0.1', () => console.log(`Poster Grid: http://localhost:${PORT}/  ·  lab: http://localhost:${PORT}/lab/`));
