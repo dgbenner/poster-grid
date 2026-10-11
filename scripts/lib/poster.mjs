@@ -104,7 +104,8 @@ const cleanName = n => n.replace(/\(.*?\)/g, '').split(/\s+[—–]\s+|\s+-\s+|\
 export function photoCredit(image) {
   if (!image) return 'No photo';
   if (image.kind === 'personal') return 'Waypoints photo, personal use';
-  if (image.kind === 'upload') return 'Dan’s photo, personal use';
+  // Attached images may not be Dan's own photos, so they are credited as supplied by him.
+  if (image.kind === 'upload') return 'Supplied by Dan, personal use';
   return [image.author, image.license].filter(Boolean).join(', ');
 }
 

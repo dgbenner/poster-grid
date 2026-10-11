@@ -21,7 +21,7 @@ export async function saveUploads(id, uploads) {
     const file = `data/uploads/${id}/${stamp}-${i + 1}.jpg`;
     await mkdir(join(ROOT, 'data/uploads', id), { recursive: true });
     const info = await sharp(buf).rotate().resize(2400, 2400, { fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 88 }).toFile(join(ROOT, file));
-    out.push({ kind: 'upload', file, source: null, title: u.name || null, author: 'Dan', license: 'personal', note: 'Uploaded by Dan with feedback', width: info.width, height: info.height, colors: await dominantColors(join(ROOT, file)) });
+    out.push({ kind: 'upload', file, source: null, title: u.name || null, author: null, license: 'personal', note: 'Supplied by Dan with feedback; photographer unknown', width: info.width, height: info.height, colors: await dominantColors(join(ROOT, file)) });
   }
   return out;
 }

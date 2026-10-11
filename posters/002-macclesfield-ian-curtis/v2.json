@@ -95,9 +95,9 @@
       "file": "data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-1.jpg",
       "source": null,
       "title": "1831_3da6e859-fe1a-4f92-9be8-55c1777247b3-2316334700.jpg",
-      "author": "Dan",
+      "author": null,
       "license": "personal",
-      "note": "Uploaded by Dan with feedback",
+      "note": "Supplied by Dan with feedback; photographer unknown",
       "width": 1347,
       "height": 2000,
       "colors": {
@@ -125,16 +125,16 @@
         ],
         "strongest": null
       },
-      "credit": "Dan’s photo, personal use"
+      "credit": "Supplied by Dan, personal use"
     },
     {
       "kind": "upload",
       "file": "data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-2.jpg",
       "source": null,
       "title": "iancurtisheadstone-3212939666.jpg",
-      "author": "Dan",
+      "author": null,
       "license": "personal",
-      "note": "Uploaded by Dan with feedback",
+      "note": "Supplied by Dan with feedback; photographer unknown",
       "width": 1236,
       "height": 596,
       "colors": {
@@ -162,7 +162,7 @@
         ],
         "strongest": null
       },
-      "credit": "Dan’s photo, personal use"
+      "credit": "Supplied by Dan, personal use"
     }
   ],
   "images_used": [
@@ -691,7 +691,7 @@
         "r": 13,
         "rs": 1,
         "label": "Photo",
-        "value": "Dan’s photo, personal use"
+        "value": "Supplied by Dan, personal use"
       },
       {
         "id": "el-1",

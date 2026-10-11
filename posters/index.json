@@ -304,12 +304,12 @@
       ],
       "photos": [
         {
-          "credit": "Dan’s photo, personal use",
+          "credit": "Supplied by Dan, personal use",
           "source": null,
           "kind": "upload"
         },
         {
-          "credit": "Dan’s photo, personal use",
+          "credit": "Supplied by Dan, personal use",
           "source": null,
           "kind": "upload"
         }
@@ -3281,6 +3281,15 @@
           "mean": 6.6,
           "followed": null,
           "status": "below-bar"
+        },
+        {
+          "v": 2,
+          "created_at": "2026-10-11T23:37:49.216Z",
+          "feedback": "Use the attached photo of the Haçienda interior as the main image, large.",
+          "from": 1,
+          "mean": 7.3,
+          "followed": 9,
+          "status": "pass"
         }
       ],
       "related": [],
