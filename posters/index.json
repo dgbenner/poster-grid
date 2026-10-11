@@ -165,7 +165,7 @@
       "id": "002-macclesfield-ian-curtis",
       "number": 2,
       "series": "original",
-      "version": 1,
+      "version": 2,
       "versions": [
         {
           "v": 1,
@@ -174,6 +174,15 @@
           "from": null,
           "mean": 5.8,
           "followed": null,
+          "status": "below-bar"
+        },
+        {
+          "v": 2,
+          "created_at": "2026-10-11T23:32:53.810Z",
+          "feedback": "add images. Try a serif title all caps like TRAJAN",
+          "from": 1,
+          "mean": 6.5,
+          "followed": 8,
           "status": "below-bar"
         }
       ],
@@ -207,72 +216,63 @@
       },
       "idea": {
         "key": "nearby",
-        "sentence": "The memorial stone lies 1.21 km from the town centre, so the town's name sits over the photograph and the nearby Cheshire pins share its grid with their distances."
+        "sentence": "Macclesfield in inscriptional capitals across the full width; beneath it, Ian Curtis and his memorial stone, with the stone listed at 1.2 km and marked on the Cheshire pin map in the one accent colour."
       },
-      "pairing": "inter",
+      "pairing": "serif-garamond",
       "paper": "dark",
       "colors": [
         {
-          "hex": "#DACDC5",
+          "hex": "#6CA0CC",
           "role": "accent"
         }
       ],
       "critic": {
         "scores": {
-          "idea": 5,
+          "idea": 7,
           "grid": 6,
           "hierarchy": 6,
           "type": 6,
-          "color": 6
+          "color": 6,
+          "followed": 8
         },
-        "mean": 5.8,
+        "mean": 6.5,
         "notes": [
-          "The stated idea says the town's name sits over the photograph, but the headline occupies rows 2–3 and the photo starts at row 5, with the county label alone in row 4. Either pull the photo up to begin at row 4 and drop the county label onto row 11 beside the lead, or restate the idea so it matches the layout.",
-          "Row 4 holds only a 1-line label spanning columns 1–6, leaving a near-empty band between headline and photo. Move the county label up to sit tight under the headline at the bottom of row 3, and let the photo start at row 4. It can then span rows 4–10 at 7 rows tall.",
-          "The nearby list sits in rows 6–7, but its two entries occupy only the top half of row 6. That leaves a dead gap between the label in row 5 and the list. Put the list directly under the label at the top of row 6, and give row 7 to the map so the pinfield spans rows 7–10.",
-          "In the list, 'Ian Curtis Memorial Stone' and 'Jodrell Bank Observatory' wrap to two lines in a 4-column measure. That breaks the row rhythm with the right-aligned km figures. Either set the names one size smaller so each fits on one line within columns 9–11, with distances in column 12, or let each entry occupy a full baseline pair consistently.",
-          "The map pinfield drifts in the middle of columns 9–12 with no frame and no marked town centre. The 1.21 km relationship that the idea rests on is not legible. Anchor the pinfield to the column 9 left edge and the row 10 bottom edge, and label the town pin and the stone pin with their list numbers 01/02.",
-          "The lead in columns 1–8, rows 11–12, is set large and competes with the photo. Its last line nearly touches the footer rule. Reduce it one step so it fits in row 11 plus half of row 12, and align its first baseline with the first baseline of the distances text in columns 9–12, which currently sits higher.",
-          "The distances text in columns 9–12 is grey on near-black and reads as an afterthought. Raise it to the same off-white as the list, or tie it to the map by placing it directly under the pinfield's bottom edge in row 10.",
-          "The photo's small white rule along its bottom edge and the '1' index box in the bottom-left corner add noise inside the 8-column span. Remove the rule so the photo edge aligns cleanly with the row 10 bottom line.",
-          "Color is monochrome off-white on black with no accent. Introduce one accent, for example on the stone pin in the map and the '01' index in the list. That would carry the idea's link between the photo and the pin."
+          "Followed: Dan asked for images and a Trajan-like all-caps serif title. Both photos are added, the portrait in columns 1–5 and the stone in columns 6–12, and the headline is set in inscriptional capitals across columns 1–12. Fully done. The serif's echo of the carved stone letters is the strongest move on the page.",
+          "Headline: it spans 12 of 12 columns but stops short of the right margin by about a third of a column. Track it or scale it so the D lands on the column 12 edge, or make it clearly shorter and end it on column 11. As set it reads as near-miss, not intent.",
+          "Photo split: the portrait (columns 1–5, rows 3–9) and the stone (columns 6–12, rows 3–5) meet at the column 5/6 gutter with no visible module between them. The headline also sits tight on row 3, so the top half feels jammed. Drop both photos to begin on row 3's top baseline with a full baseline gap below the headline, and keep the 12 pt gutter readable.",
+          "Accent colour: the one accent is meant to tie the stone, its 1.2 km listing and its map pin together, but it is spread thin. The tiny 01/02 numerals in row 6 and the pin in rows 8–12 are the only carriers, and the pin sits mid-cluster without a label. Colour only the '01' and its 1.2 km figure, add a short 'Memorial Stone' tag beside the pin, and drop the accent from '02' so the link reads.",
+          "Column 6–8 text: the distances text is set in a 3-column measure at rows 8–9 and wraps badly ('(61 / km)'). Widen it to columns 6–9 or rewrite the break. Alternatively move it up to row 7 and fold the county label into it, freeing row 8.",
+          "Rows 6–9 under the stone: the list, label and distances stack in rows 6, 7 and 8 with uneven gaps; row 7 to 8 is visibly larger. Lock each item to the top baseline of its row, or group list and label in row 6 and leave row 7 as a deliberate empty module.",
+          "Lead paragraph: it spans columns 1–7 in rows 10–12 but sets only four lines starting mid-row 10, leaving row 12 mostly empty. Its size also competes with nothing. Either step it up so it fills rows 10–11 cleanly as the second voice after the headline, or narrow it to columns 1–5 to align with the portrait edge above.",
+          "Map: the pinfield spans columns 9–12 and rows 8–12, but the stray pins at left bleed toward column 8 and collide visually with the lead's measure. Clip or rescale the pin field so it stays inside columns 9–12, and give it a hairline frame or county outline so it reads as a map rather than noise.",
+          "Hierarchy: the eye goes headline, then portrait, then stone, then gets lost among four small text blocks on the right. Promote the stone entry (row 6) to a larger size so the stone photo, its name and its distance form one unit directly under the image."
         ],
-        "summary": "Clean, rigorous, but the stated idea isn't delivered: the headline doesn't sit over the photo, and the map doesn't show the 1.21 km relationship. Tighten rows 4–7, anchor the pinfield, and use one accent to link the stone, the list and the pin."
+        "summary": "Dan's request is met well. The inscriptional caps rhyme with the carved stone, and the two photos give the page real weight. The weaknesses are finishing on the grid. The headline falls short of column 12, the photos and headline crowd rows 2–3, the small right-hand text stack in rows 6–9 is unevenly spaced, and the accent fails to link the stone, its 1.2 km listing and the map pin as the idea promises. Tighten those links and the stack and this is a keeper."
       },
       "attempts": [
         {
           "idea": "nearby",
-          "mean": 5.8,
+          "mean": 6.3,
           "scores": {
-            "idea": 5,
+            "idea": 6,
             "grid": 6,
             "hierarchy": 6,
             "type": 6,
-            "color": 6
+            "color": 6,
+            "followed": 8
           },
           "problems": 0
         },
         {
           "idea": "nearby",
-          "mean": 5.2,
+          "mean": 6.5,
           "scores": {
-            "idea": 5,
-            "grid": 5,
-            "hierarchy": 5,
-            "type": 6,
-            "color": 5
-          },
-          "problems": 0
-        },
-        {
-          "idea": "nearby",
-          "mean": 5.4,
-          "scores": {
-            "idea": 5,
+            "idea": 7,
             "grid": 6,
-            "hierarchy": 5,
+            "hierarchy": 6,
             "type": 6,
-            "color": 5
+            "color": 6,
+            "followed": 8
           },
           "problems": 0
         }
@@ -287,30 +287,35 @@
           "text": "Cheshire East · Cheshire · England"
         },
         {
-          "element": "nearby-label",
-          "text": "Nearby in Cheshire"
+          "element": "distances",
+          "text": "16 miles (26 km) south of Manchester. 38 miles (61 km) east of Chester."
         },
         {
           "element": "lead",
           "text": "A market town on the River Bollin, at the edge of the Cheshire Plain, with Macclesfield Forest to its east."
-        },
-        {
-          "element": "distances",
-          "text": "16 miles (26 km) south of Manchester. 38 miles (61 km) east of Chester."
         }
       ],
       "facts_used": [
-        "https://en.wikipedia.org/wiki/Macclesfield"
+        "Macclesfield is a market town and civil parish in the unitary authority of Cheshire East, Cheshire, England.",
+        "It is sited on the River Bollin and the edge of the Cheshire Plain, with Macclesfield Forest to its east.",
+        "The town lies 16 miles (26 km) south of Manchester and 38 miles (61 km) east of Chester.",
+        "Nearby pin: Ian Curtis Memorial Stone, 1.2 km.",
+        "Other pin in Cheshire: Jodrell Bank Observatory, 12.4 km."
       ],
       "photos": [
         {
-          "credit": "Waypoints photo, personal use",
-          "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/ian-curtis-memorial-2.png",
-          "kind": "personal"
+          "credit": "Dan’s photo, personal use",
+          "source": null,
+          "kind": "upload"
+        },
+        {
+          "credit": "Dan’s photo, personal use",
+          "source": null,
+          "kind": "upload"
         }
       ],
-      "image": "posters/002-macclesfield-ian-curtis/v1.png",
-      "created_at": "2026-10-11T02:09:38.983Z"
+      "image": "posters/002-macclesfield-ian-curtis/v2.png",
+      "created_at": "2026-10-11T23:32:53.794Z"
     },
     {
       "id": "003-battersea-power-station",

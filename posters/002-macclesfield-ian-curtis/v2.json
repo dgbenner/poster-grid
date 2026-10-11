@@ -1,0 +1,1048 @@
+{
+  "pin_id": "macclesfield-ian-curtis",
+  "number": 2,
+  "series": "original",
+  "created_at": "2026-10-11T23:32:53.794Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": "add images. Try a serif title all caps like TRAJAN",
+  "idea": {
+    "key": "nearby",
+    "sentence": "Macclesfield in inscriptional capitals across the full width; beneath it, Ian Curtis and his memorial stone, with the stone listed at 1.2 km and marked on the Cheshire pin map in the one accent colour."
+  },
+  "title": "Macclesfield — Ian Curtis",
+  "place": {
+    "town": "Macclesfield",
+    "locality": null,
+    "county": "Cheshire",
+    "adminArea": "Cheshire East",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.2587&lon=-2.125&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Macclesfield, Cheshire East, England, United Kingdom"
+  },
+  "pairing": "serif-garamond",
+  "paper": "dark",
+  "colors": [
+    {
+      "hex": "#6CA0CC",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#138FE0",
+      "source": "photo 2",
+      "light": 2.9,
+      "dark": 5.2
+    },
+    {
+      "hex": "#6D4F3C",
+      "source": "photo 5",
+      "light": 6.2,
+      "dark": 2.4
+    },
+    {
+      "hex": "#6CA0CC",
+      "source": "photo 3",
+      "light": 2.3,
+      "dark": 6.5
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "MACCLESFIELD"
+    },
+    {
+      "element": "county",
+      "text": "Cheshire East · Cheshire · England"
+    },
+    {
+      "element": "distances",
+      "text": "16 miles (26 km) south of Manchester. 38 miles (61 km) east of Chester."
+    },
+    {
+      "element": "lead",
+      "text": "A market town on the River Bollin, at the edge of the Cheshire Plain, with Macclesfield Forest to its east."
+    }
+  ],
+  "facts_used": [
+    "Macclesfield is a market town and civil parish in the unitary authority of Cheshire East, Cheshire, England.",
+    "It is sited on the River Bollin and the edge of the Cheshire Plain, with Macclesfield Forest to its east.",
+    "The town lies 16 miles (26 km) south of Manchester and 38 miles (61 km) east of Chester.",
+    "Nearby pin: Ian Curtis Memorial Stone, 1.2 km.",
+    "Other pin in Cheshire: Jodrell Bank Observatory, 12.4 km."
+  ],
+  "photos": [
+    {
+      "kind": "upload",
+      "file": "data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-1.jpg",
+      "source": null,
+      "title": "1831_3da6e859-fe1a-4f92-9be8-55c1777247b3-2316334700.jpg",
+      "author": "Dan",
+      "license": "personal",
+      "note": "Uploaded by Dan with feedback",
+      "width": 1347,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#242424",
+            "share": 0.518
+          },
+          {
+            "hex": "#202020",
+            "share": 0.193
+          },
+          {
+            "hex": "#3f3f3f",
+            "share": 0.152
+          },
+          {
+            "hex": "#b3b3b3",
+            "share": 0.07
+          },
+          {
+            "hex": "#696969",
+            "share": 0.067
+          }
+        ],
+        "strongest": null
+      },
+      "credit": "Dan’s photo, personal use"
+    },
+    {
+      "kind": "upload",
+      "file": "data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-2.jpg",
+      "source": null,
+      "title": "iancurtisheadstone-3212939666.jpg",
+      "author": "Dan",
+      "license": "personal",
+      "note": "Uploaded by Dan with feedback",
+      "width": 1236,
+      "height": 596,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#878787",
+            "share": 0.388
+          },
+          {
+            "hex": "#9d9d9d",
+            "share": 0.275
+          },
+          {
+            "hex": "#6d6d6d",
+            "share": 0.225
+          },
+          {
+            "hex": "#4b4b4b",
+            "share": 0.09
+          },
+          {
+            "hex": "#e5e5e5",
+            "share": 0.023
+          }
+        ],
+        "strongest": null
+      },
+      "credit": "Dan’s photo, personal use"
+    }
+  ],
+  "images_used": [
+    "data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-1.jpg",
+    "data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-2.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 1,
+      "text": "MACCLESFIELD",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "portrait",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 5,
+      "row": 3,
+      "row_span": 7,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 6,
+      "zoom": 1.1,
+      "focus_x": 0.5,
+      "focus_y": 0.35,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "stone",
+      "kind": "photo",
+      "col": 6,
+      "col_span": 7,
+      "row": 3,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 7,
+      "zoom": 1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "nearby-list",
+      "kind": "list",
+      "col": 6,
+      "col_span": 7,
+      "row": 6,
+      "row_span": 1,
+      "text": null,
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": [
+        "ian-curtis-memorial-stone",
+        "jodrell-bank-observatory"
+      ],
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 6,
+      "col_span": 7,
+      "row": 7,
+      "row_span": 1,
+      "text": "Cheshire East · Cheshire · England",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "distances",
+      "kind": "text",
+      "col": 6,
+      "col_span": 3,
+      "row": 8,
+      "row_span": 2,
+      "text": "16 miles (26 km) south of Manchester. 38 miles (61 km) east of Chester.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "map",
+      "kind": "pinfield",
+      "col": 9,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 7,
+      "row": 10,
+      "row_span": 3,
+      "text": "A market town on the River Bollin, at the edge of the Cheshire Plain, with Macclesfield Forest to its east.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 6,
+      "type": 6,
+      "color": 6,
+      "followed": 8
+    },
+    "notes": [
+      "Followed: Dan asked for images and a Trajan-like all-caps serif title. Both photos are added, the portrait in columns 1–5 and the stone in columns 6–12, and the headline is set in inscriptional capitals across columns 1–12. Fully done. The serif's echo of the carved stone letters is the strongest move on the page.",
+      "Headline: it spans 12 of 12 columns but stops short of the right margin by about a third of a column. Track it or scale it so the D lands on the column 12 edge, or make it clearly shorter and end it on column 11. As set it reads as near-miss, not intent.",
+      "Photo split: the portrait (columns 1–5, rows 3–9) and the stone (columns 6–12, rows 3–5) meet at the column 5/6 gutter with no visible module between them. The headline also sits tight on row 3, so the top half feels jammed. Drop both photos to begin on row 3's top baseline with a full baseline gap below the headline, and keep the 12 pt gutter readable.",
+      "Accent colour: the one accent is meant to tie the stone, its 1.2 km listing and its map pin together, but it is spread thin. The tiny 01/02 numerals in row 6 and the pin in rows 8–12 are the only carriers, and the pin sits mid-cluster without a label. Colour only the '01' and its 1.2 km figure, add a short 'Memorial Stone' tag beside the pin, and drop the accent from '02' so the link reads.",
+      "Column 6–8 text: the distances text is set in a 3-column measure at rows 8–9 and wraps badly ('(61 / km)'). Widen it to columns 6–9 or rewrite the break. Alternatively move it up to row 7 and fold the county label into it, freeing row 8.",
+      "Rows 6–9 under the stone: the list, label and distances stack in rows 6, 7 and 8 with uneven gaps; row 7 to 8 is visibly larger. Lock each item to the top baseline of its row, or group list and label in row 6 and leave row 7 as a deliberate empty module.",
+      "Lead paragraph: it spans columns 1–7 in rows 10–12 but sets only four lines starting mid-row 10, leaving row 12 mostly empty. Its size also competes with nothing. Either step it up so it fills rows 10–11 cleanly as the second voice after the headline, or narrow it to columns 1–5 to align with the portrait edge above.",
+      "Map: the pinfield spans columns 9–12 and rows 8–12, but the stray pins at left bleed toward column 8 and collide visually with the lead's measure. Clip or rescale the pin field so it stays inside columns 9–12, and give it a hairline frame or county outline so it reads as a map rather than noise.",
+      "Hierarchy: the eye goes headline, then portrait, then stone, then gets lost among four small text blocks on the right. Promote the stone entry (row 6) to a larger size so the stone photo, its name and its distance form one unit directly under the image."
+    ],
+    "summary": "Dan's request is met well. The inscriptional caps rhyme with the carved stone, and the two photos give the page real weight. The weaknesses are finishing on the grid. The headline falls short of column 12, the photos and headline crowd rows 2–3, the small right-hand text stack in rows 6–9 is unevenly spaced, and the accent fails to link the stone, its 1.2 km listing and the map pin as the idea promises. Tighten those links and the stack and this is a keeper.",
+    "mean": 6.5
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "nearby",
+      "mean": 6.3,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6,
+        "followed": 8
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6.5,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6,
+        "followed": 8
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "serif-garamond",
+      "name": "EB Garamond / Inter / IBM Plex Mono",
+      "serif": true,
+      "headline": {
+        "family": "EB Garamond",
+        "weight": 400,
+        "tracking": -0.015
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "EB+Garamond:wght@400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#161615",
+      "ink": "#EDECE7",
+      "muted": "#A3A29B",
+      "rule": "#3A3A37",
+      "headline": "#EDECE7",
+      "accent": "#6CA0CC",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Macclesfield — Ian Curtis",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Cheshire",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "02 / 35",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Macclesfield"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Cheshire"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Personal"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Dan’s photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "MACCLESFIELD"
+      },
+      {
+        "id": "el-2",
+        "name": "portrait",
+        "kind": "photo",
+        "c": 1,
+        "cs": 5,
+        "r": 3,
+        "rs": 7,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 6,
+        "src": "../data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-1.jpg",
+        "zoom": 1.1,
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      {
+        "id": "el-3",
+        "name": "stone",
+        "kind": "photo",
+        "c": 6,
+        "cs": 7,
+        "r": 3,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 7,
+        "src": "../data/uploads/002-macclesfield-ian-curtis/2026-10-11T23-31-08-992Z-2.jpg",
+        "zoom": 1,
+        "focus": [
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "id": "el-4",
+        "name": "nearby-list",
+        "kind": "list",
+        "c": 6,
+        "cs": 7,
+        "r": 6,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "items": [
+          {
+            "id": "ian-curtis-memorial-stone",
+            "n": "01",
+            "name": "Ian Curtis Memorial Stone",
+            "km": "1.2 km"
+          },
+          {
+            "id": "jodrell-bank-observatory",
+            "n": "02",
+            "name": "Jodrell Bank Observatory",
+            "km": "12.4 km"
+          }
+        ]
+      },
+      {
+        "id": "el-5",
+        "name": "county",
+        "kind": "label",
+        "c": 6,
+        "cs": 7,
+        "r": 7,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Cheshire East · Cheshire · England"
+      },
+      {
+        "id": "el-6",
+        "name": "distances",
+        "kind": "text",
+        "c": 6,
+        "cs": 3,
+        "r": 8,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "16 miles (26 km) south of Manchester. 38 miles (61 km) east of Chester.",
+        "style": "body"
+      },
+      {
+        "id": "el-7",
+        "name": "map",
+        "kind": "pinfield",
+        "c": 9,
+        "cs": 4,
+        "r": 8,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            53.2587,
+            -2.125
+          ],
+          "ring": [
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-8",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 7,
+        "r": 10,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A market town on the River Bollin, at the edge of the Cheshire Plain, with Macclesfield Forest to its east.",
+        "style": "lead"
+      }
+    ]
+  },
+  "version": 2,
+  "image": "posters/002-macclesfield-ian-curtis/v2.png"
+}

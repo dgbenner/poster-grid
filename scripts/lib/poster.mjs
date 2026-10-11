@@ -108,7 +108,8 @@ export function photoCredit(image) {
   return [image.author, image.license].filter(Boolean).join(', ');
 }
 
-export const photoCredits = images => images.length ? images.map(photoCredit).join('; ') : 'No photo';
+// Identical credits (two of Dan's photos, say) are listed once.
+export const photoCredits = images => images.length ? [...new Set(images.map(photoCredit))].join('; ') : 'No photo';
 
 function frame(g, { title, enrich, pin, number, total, images, creditsLine, series }) {
   const C = g.columns.length, R = g.rows.length;

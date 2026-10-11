@@ -60,7 +60,13 @@
     .scores div { border: 1px solid var(--line); border-radius: 6px; padding: 8px; text-align: center; }
     .scores b { display: block; font: 300 22px/1 "Inter Tight", var(--sans); }
     .scores span { font: 500 9.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
-    ul.notes { margin: 0; padding-left: 18px; }
+    ul.notes { margin: 8px 0 0; padding-left: 18px; }
+    .notes-box summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px; }
+    .notes-box summary::-webkit-details-marker { display: none; }
+    .notes-box summary::before { content: "+"; font: 500 14px var(--mono); color: var(--muted); width: 12px; }
+    .notes-box[open] summary::before { content: "−"; }
+    .notes-box summary h4 { margin: 0; }
+    .notes-box summary:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
     ul.notes li { margin-bottom: 8px; color: #d4d4d0; }
     .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
     .small { font-size: 12.5px; color: var(--muted); }
@@ -96,6 +102,7 @@
     .focus-note b { color: var(--ink); font-weight: 600; }
     details.ask { margin-top: 12px; width: 100%; border-top: 1px solid var(--line); padding-top: 10px; }
     .poster + .local details.ask { margin-top: 18px; }
+    details.ask summary::-webkit-details-marker { display: none; }
     details.ask summary { cursor: pointer; font-weight: 600; font-size: 13.5px; list-style: none; display: flex; align-items: center; gap: 8px; }
     details.ask summary::before { content: "+"; font: 500 14px var(--mono); color: var(--muted); width: 12px; }
     details.ask[open] summary::before { content: "−"; }
@@ -302,7 +309,7 @@
           <div class="sec"><h4>Idea</h4><p>${esc(d.idea.sentence)}</p></div>
           ${c ? `<div class="sec"><h4>Critic · ${c.mean.toFixed(1)}${d.status === 'pass' ? ' · passed' : ' · below 7'}${d.attempts?.length > 1 ? ` · ${d.attempts.length} attempts` : ''}</h4>
             <div class="scores">${Object.entries(c.scores).map(([k, val]) => `<div><b>${val}</b><span>${k}</span></div>`).join('')}</div></div>
-          <div class="sec"><h4>Notes, in grid terms</h4><ul class="notes">${c.notes.map(x => `<li>${esc(x)}</li>`).join('')}</ul><p class="small">${esc(c.summary)}</p></div>` : ''}
+          <details class="sec notes-box"><summary><h4>Notes about grid usage (${c.notes.length})</h4></summary><ul class="notes">${c.notes.map(x => `<li>${esc(x)}</li>`).join('')}</ul><p class="small">${esc(c.summary)}</p></details>` : ''}
           <div class="sec"><h4>Colours</h4>
             ${d.colors?.length ? `<div class="swatches">${d.colors.map(x => `<div class="swatch"><i style="background:${esc(x.hex)}"></i><div>${esc(x.hex.toUpperCase())}<span>${esc(ROLE[x.role] || x.role)}</span></div></div>`).join('')}</div>`
               : '<p class="small">Neutral base only: paper, ink and grey.</p>'}
