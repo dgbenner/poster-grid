@@ -6,6 +6,8 @@ The grid is the point: the lab, every poster and the gallery overlay read it fro
 
 Reads Waypoints pins; never writes to the Waypoints repo.
 
+Personal project to make travel posters for my locations I want to visit and drive my own interest.
+
 ## Run
 
     npm run lab          # http://localhost:5190/lab/
