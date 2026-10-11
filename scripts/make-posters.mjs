@@ -6,6 +6,7 @@
 //   node scripts/make-posters.mjs --pins a,b     these pins, in this order
 //   node scripts/make-posters.mjs --count 1      just the first of the selection
 //   node scripts/make-posters.mjs --redo 2,4     remake these poster numbers in place
+//   node scripts/make-posters.mjs --skip a,b     leave these pins out of the selection
 import { appendFile, mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { ROOT } from './lib/http.mjs';
@@ -24,36 +25,46 @@ const FIX_ROUNDS = 2;
 
 // ---------- Selection ----------
 
-// 10 English pins over at least 5 counties, at least 3 in London. Prefers pins with an
-// article for the place, more photos and more neighbours.
-function selectPins(all, count) {
+// The first run: 10 English pins over at least 5 counties, at least 3 in London.
+// Later runs: English pins without a poster, each county at most twice across the
+// whole collection, so a run widens the map before it repeats a county.
+const MAX_PER_COUNTY = 2;
+
+function selectPins(all, count, posters) {
   const score = e => (e.facts.pin ? 3 : 0) + (e.facts.town ? 1 : 0) + Math.min(e.images.length, 5) + Math.min(e.nearby.within5km.length, 3);
+  const done = new Set(posters.map(p => p.pin_id));
+  const names = new Set(posters.map(p => all.find(e => e.id === p.pin_id)?.facts.pin?.title).filter(Boolean));
   const eligible = all
     .filter(e => e.place.country === 'England' && e.images.length >= 2 && (e.facts.pin || e.facts.town))
+    .filter(e => !done.has(e.id) && !(e.facts.pin && names.has(e.facts.pin.title)))
     .sort((a, b) => score(b) - score(a) || a.id.localeCompare(b.id));
   const picked = [];
-  const boroughs = new Set();
-  for (const e of eligible.filter(e => e.place.county === 'Greater London')) {
-    if (picked.length === 3) break;
-    if (!boroughs.has(e.place.borough)) { boroughs.add(e.place.borough); picked.push(e); }
+  const perCounty = {};
+  for (const p of posters) perCounty[p.place.county] = (perCounty[p.place.county] || 0) + 1;
+  const take = e => { picked.push(e); names.add(e.facts.pin?.title); perCounty[e.place.county] = (perCounty[e.place.county] || 0) + 1; };
+
+  if (!posters.length) {
+    const boroughs = new Set();
+    for (const e of eligible.filter(e => e.place.county === 'Greater London')) {
+      if (picked.length === 3) break;
+      if (!boroughs.has(e.place.borough)) { boroughs.add(e.place.borough); take(e); }
+    }
   }
-  const counties = new Set(['Greater London']);
-  const names = new Set(picked.map(e => e.facts.pin?.title));
-  for (const e of eligible) {
-    if (picked.length >= count) break;
-    if (counties.has(e.place.county) || names.has(e.facts.pin?.title)) continue;
-    counties.add(e.place.county);
-    names.add(e.facts.pin?.title);
-    picked.push(e);
+  // First pass: counties not yet on any poster; second pass: up to the cap.
+  for (const limit of [posters.length ? 1 : 1, MAX_PER_COUNTY]) {
+    for (const e of eligible) {
+      if (picked.length >= count) break;
+      if (picked.includes(e) || names.has(e.facts.pin?.title) && e.facts.pin) continue;
+      if ((perCounty[e.place.county] || 0) >= limit) continue;
+      take(e);
+    }
   }
-  // Alternate London and elsewhere so the run reads as a journey, not a block.
-  const london = picked.filter(e => e.place.county === 'Greater London');
-  const rest = picked.filter(e => e.place.county !== 'Greater London');
+  // Order so the same county never appears twice in a row.
   const out = [];
-  while (london.length || rest.length) {
-    if (rest.length) out.push(rest.shift());
-    if (london.length && out.length % 3 === 2) out.push(london.shift());
-    if (!rest.length) out.push(...london.splice(0));
+  const rest = [...picked];
+  while (rest.length) {
+    const i = rest.findIndex(e => e.place.county !== out[out.length - 1]?.place.county);
+    out.push(...rest.splice(i < 0 ? 0 : i, 1));
   }
   return out.slice(0, count);
 }
@@ -131,19 +142,22 @@ async function main() {
   await mkdir(join(ROOT, 'posters/img'), { recursive: true });
   const tmpDir = join(ROOT, 'posters/.attempts');
   await mkdir(tmpDir, { recursive: true });
-  const existing = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json'));
+  const existing = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json') && f !== 'index.json');
+  const posters = await Promise.all(existing.map(async f => JSON.parse(await readFile(join(ROOT, 'posters', f), 'utf8'))));
 
   if (opt('--redo')) return redo({ gridCfg, pins, all, numbers: opt('--redo').split(',').map(Number) });
 
   const only = opt('--pins')?.split(',');
-  let chosen = only ? only.map(id => all.find(e => e.id === id)).filter(Boolean) : selectPins(all, 10);
-  if (opt('--count')) chosen = chosen.slice(0, Number(opt('--count')));
+  const skip = new Set(opt('--skip')?.split(',') || []);
+  let chosen = only ? only.map(id => all.find(e => e.id === id)).filter(Boolean)
+    : selectPins(all.filter(e => !skip.has(e.id)), Number(opt('--count')) || 10, posters);
   const total = existing.length + chosen.length;
   console.log(`making ${chosen.length} posters with ${MODEL}: ${chosen.map(e => `${e.id} (${e.place.county})`).join(', ')}`);
 
   const renderer = await openRenderer();
+  // Each run covers all four ideas itself, and never repeats the idea of the poster before.
   const used = new Set();
-  let previous = null;
+  let previous = posters.sort((a, b) => b.number - a.number)[0]?.idea.key ?? null;
   try {
     for (const [i, enrich] of chosen.entries()) {
       const number = existing.length + i + 1;
@@ -155,8 +169,26 @@ async function main() {
       used.add(saved.idea);
       previous = saved.idea;
     }
+    await renumber(renderer);
   } finally {
     await renderer.close();
+  }
+}
+
+// Brings every poster's "NN / total" header up to the current total and redraws its
+// PNG from the saved render spec. No model calls.
+async function renumber(renderer) {
+  const files = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json') && f !== 'index.json');
+  const total = files.length;
+  for (const f of files) {
+    const poster = JSON.parse(await readFile(join(ROOT, 'posters', f), 'utf8'));
+    const head = poster.render.elements.find(e => e.id === 'header-4');
+    const want = `${String(poster.number).padStart(2, '0')} / ${String(total).padStart(2, '0')}`;
+    if (!head || head.text === want) continue;
+    head.text = want;
+    await renderer.render(poster.render, join(ROOT, poster.image));
+    await writeFile(join(ROOT, 'posters', f), JSON.stringify(poster, null, 2) + '\n');
+    console.log(`    renumbered ${poster.id} → ${want}`);
   }
 }
 
@@ -167,7 +199,7 @@ async function redo({ gridCfg, pins, all, numbers }) {
   const renderer = await openRenderer();
   try {
     for (const number of numbers) {
-      const files = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json'));
+      const files = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json') && f !== 'index.json');
       const posters = await Promise.all(files.map(async f => JSON.parse(await readFile(join(ROOT, 'posters', f), 'utf8'))));
       const target = posters.find(p => p.number === number);
       if (!target) { console.log(`no poster ${number}`); continue; }

@@ -1,0 +1,803 @@
+{
+  "id": "025-hacienda-site",
+  "number": 25,
+  "pin_id": "hacienda-site",
+  "created_at": "2026-10-11T03:21:03.392Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "nearby",
+    "sentence": "The club itself is gone, so its name fills the top of the page and the lower half places it among Dan's other Greater Manchester pins, listed by distance."
+  },
+  "title": "Haçienda",
+  "place": {
+    "town": "Manchester",
+    "locality": "City Centre",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4753&lon=-2.2531&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "City Centre, Manchester, Greater Manchester, England, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "accent": "#C8102E",
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Haçienda"
+    },
+    {
+      "element": "map-caption",
+      "text": "Manchester · Greater Manchester"
+    },
+    {
+      "element": "nearby-label",
+      "text": "Pins in Greater Manchester"
+    },
+    {
+      "element": "body",
+      "text": "A nightclub and music venue run by Factory Records, famous during the Madchester years."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/The_Ha%C3%A7ienda",
+    "https://en.wikipedia.org/wiki/Manchester"
+  ],
+  "photo": null,
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 3,
+      "text": "Haçienda",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "pinfield",
+      "kind": "pinfield",
+      "col": 1,
+      "col_span": 6,
+      "row": 6,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "map-caption",
+      "kind": "label",
+      "col": 1,
+      "col_span": 6,
+      "row": 11,
+      "row_span": 1,
+      "text": "Manchester · Greater Manchester",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "nearby-label",
+      "kind": "label",
+      "col": 8,
+      "col_span": 5,
+      "row": 6,
+      "row_span": 1,
+      "text": "Pins in Greater Manchester",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "nearby-list",
+      "kind": "list",
+      "col": 8,
+      "col_span": 5,
+      "row": 7,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": [
+        "manchester-bridge",
+        "salford-lads-club",
+        "southern-cemetery",
+        "strawberry-studios"
+      ],
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 8,
+      "col_span": 5,
+      "row": 11,
+      "row_span": 2,
+      "text": "A nightclub and music venue run by Factory Records, famous during the Madchester years.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 7,
+      "color": 6
+    },
+    "notes": [
+      "The headline spans 12 of 12 columns across rows 2–4, which carries the 'the name fills the top' idea well. Row 5 is left empty beneath it, and that gap reads as an accidental hole between headline and map. Either push the headline down so its baseline sits on the row 4/5 boundary, or start the pinfield and the nearby-label in row 5 so the lower half begins directly under the name.",
+      "The pinfield fills columns 1–6, but its dots cluster in columns 3–5. The empty modules at its left and right edges therefore look like slack rather than intent. Scale the pinfield so the outermost pins touch column 1 and column 6, or reduce its span to columns 2–6 and align its left edge with the header's second field.",
+      "The nearby-list occupies rows 7–8 and the body occupies rows 11–12, leaving rows 9–10 of columns 8–12 empty. That leaves a dead block in the right half while the pinfield runs on through row 10. Move the body up to rows 9–10 so the right column ends with the pinfield. Rows 11–12 then become a shared empty band above the footer.",
+      "The nearby-label in row 6 sits a full row above the list in row 7. Label and list read as two separate items. Set the label on the last baseline of row 6, directly above item 01, or move the list up into row 6 under the label.",
+      "The map-caption in row 11 floats one row below the pinfield, while the body sits on the same row in columns 8–12. Align the caption's top baseline with the body's first line, which it nearly does now, or attach the caption to the last baseline of row 10 so it clearly belongs to the map.",
+      "The red Haçienda pin sits around the row 7/8 boundary, level with the list. Its marker is a filled dot over open rings that read as smudged. Use one clean marker with a single ring. Consider drawing a thin hairline from it toward column 8 to tie the pin to the list's distances.",
+      "Red is used only for the label and the pin, which is correct, but the accent is too small to register against the warm grey paper. Set the nearby-label one size larger, or make the pin marker two modules of dot size larger, so the red reads as a pairing rather than a speck.",
+      "The body measure across columns 8–12 breaks to a one-word last line ('years.'). Rebreak the text or widen the body to columns 7–12 to avoid the widow and get a steadier rag."
+    ],
+    "summary": "The name spanning all 12 columns makes a strong top half, and the pins-by-distance idea comes through. The lower half, however, leaves unplanned empty rows: row 5 across the page, and rows 9–10 in columns 8–12. The label, list and caption also float a row away from what they describe. Tighten the vertical rhythm so the right column ends with the pinfield, and strengthen the red link between pin and list.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "nearby",
+      "mean": 6.2,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#C8102E"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Haçienda",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater Manchester",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "25 / 26",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Haçienda site"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater Manchester"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Personal"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "No photo"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Haçienda"
+      },
+      {
+        "id": "el-2",
+        "name": "pinfield",
+        "kind": "pinfield",
+        "c": 1,
+        "cs": 6,
+        "r": 6,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            53.4753,
+            -2.2531
+          ],
+          "ring": [
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-3",
+        "name": "map-caption",
+        "kind": "label",
+        "c": 1,
+        "cs": 6,
+        "r": 11,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Manchester · Greater Manchester"
+      },
+      {
+        "id": "el-4",
+        "name": "nearby-label",
+        "kind": "label",
+        "c": 8,
+        "cs": 5,
+        "r": 6,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Pins in Greater Manchester"
+      },
+      {
+        "id": "el-5",
+        "name": "nearby-list",
+        "kind": "list",
+        "c": 8,
+        "cs": 5,
+        "r": 7,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "items": [
+          {
+            "id": "manchester-bridge",
+            "n": "01",
+            "name": "Manchester Bridge",
+            "km": "0.7 km"
+          },
+          {
+            "id": "salford-lads-club",
+            "n": "02",
+            "name": "Salford Lads Club",
+            "km": "0.9 km"
+          },
+          {
+            "id": "southern-cemetery",
+            "n": "03",
+            "name": "Southern Cemetery",
+            "km": "5.1 km"
+          },
+          {
+            "id": "strawberry-studios",
+            "n": "04",
+            "name": "Strawberry Studios",
+            "km": "10 km"
+          }
+        ]
+      },
+      {
+        "id": "el-6",
+        "name": "body",
+        "kind": "text",
+        "c": 8,
+        "cs": 5,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A nightclub and music venue run by Factory Records, famous during the Madchester years.",
+        "style": "body"
+      }
+    ]
+  },
+  "image": "posters/img/025-hacienda-site.png"
+}

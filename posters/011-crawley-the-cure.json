@@ -1,0 +1,872 @@
+{
+  "id": "011-crawley-the-cure",
+  "number": 11,
+  "pin_id": "crawley-the-cure",
+  "created_at": "2026-10-11T02:52:00.465Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "Crawley has no single landmark, so its name takes the full width of the page and the town's square, its place on the map and its county hang from it."
+  },
+  "title": "Crawley",
+  "place": {
+    "town": "Crawley",
+    "locality": null,
+    "county": "West Sussex",
+    "adminArea": "West Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.1091&lon=-0.1872&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Stone Cottage  Farm, Broadfield, Crawley, West Sussex, England, RH11 9BE, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "accent": "#C8102E",
+  "copy": [
+    {
+      "element": "kicker",
+      "text": "Town and borough · England"
+    },
+    {
+      "element": "town-name",
+      "text": "CRAWLEY"
+    },
+    {
+      "element": "distances",
+      "text": "28 miles south of London, 18 miles north of Brighton and Hove."
+    },
+    {
+      "element": "population",
+      "text": "Population 118,493 · 2021 Census"
+    },
+    {
+      "element": "county-name",
+      "text": "WEST SUSSEX"
+    },
+    {
+      "element": "county-note",
+      "text": "Chichester, the county town, lies 32 miles to the south-west. Southern parts of the borough lie next to the High Weald National Landscape."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Crawley"
+  ],
+  "photo": {
+    "kind": "personal",
+    "file": "data/images/crawley-the-cure/own-crawley-the-cure.jpg",
+    "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/crawley-the-cure.jpg",
+    "author": null,
+    "license": "personal",
+    "licenseUrl": null,
+    "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+    "colors": {
+      "palette": [
+        {
+          "hex": "#585b49",
+          "share": 0.24
+        },
+        {
+          "hex": "#818165",
+          "share": 0.238
+        },
+        {
+          "hex": "#c3d2e1",
+          "share": 0.222
+        },
+        {
+          "hex": "#a1a393",
+          "share": 0.152
+        },
+        {
+          "hex": "#33352a",
+          "share": 0.148
+        }
+      ],
+      "strongest": "#c3d2e1"
+    },
+    "credit": "Waypoints photo, personal use"
+  },
+  "elements": [
+    {
+      "name": "kicker",
+      "kind": "label",
+      "col": 1,
+      "col_span": 6,
+      "row": 2,
+      "row_span": 1,
+      "text": "Town and borough · England",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "town-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 3,
+      "row_span": 2,
+      "text": "CRAWLEY",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "square-photo",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 7,
+      "row": 5,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "pin-map",
+      "kind": "pinfield",
+      "col": 9,
+      "col_span": 4,
+      "row": 5,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "distances",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 1,
+      "text": "28 miles south of London, 18 miles north of Brighton and Hove.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "population",
+      "kind": "label",
+      "col": 1,
+      "col_span": 7,
+      "row": 9,
+      "row_span": 1,
+      "text": "Population 118,493 · 2021 Census",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 7,
+      "row": 10,
+      "row_span": 1,
+      "text": "WEST SUSSEX",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county-note",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 2,
+      "text": "Chichester, the county town, lies 32 miles to the south-west. Southern parts of the borough lie next to the High Weald National Landscape.",
+      "style": "body",
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "Row 12 and most of row 11 sit empty across all 12 columns, so the stack reads as top-heavy rather than hanging from the name. Either move county-name and county-note down one row to rows 11–12, or open the gap between town-name and the photo so the content fills rows 5–12 deliberately.",
+      "Column 8 is left empty as a gutter module between the photo (cols 1–7) and the map (cols 9–12). That works, but the population label and county-name also stop at column 7 while their companions start at 9. Keep this two-zone split consistent: make the photo span cols 1–8, or start the right zone at column 8, so the empty module reads as a decision.",
+      "The pin-map fills rows 5–7, but its dots cluster in the lower half and the red pin floats near column 11. Crop or scale the pinfield so it fills the full 3-row block and its bottom edge aligns with the photo's bottom in row 8. The distances text then hangs from that shared edge instead of sitting mid-row.",
+      "Distances sits at the top of row 8 while the photo runs to the bottom of row 8, and the population label drops into row 9. Move distances to row 9 so it shares a baseline with population. The two captions will then form one line across columns 1–12.",
+      "County-name sits in row 10 at roughly a third of the town-name cap height, and in red. It competes with CRAWLEY as a second headline. Keep it at 7 columns but drop it to about half its current size, or set it in the label style. The county is meant to hang from the name, not rival it.",
+      "County-note is set in grey, smaller and lighter than distances, in the same 4-column measure. Match it to the distances text in size and colour so the right column reads as one voice. Hang its first baseline on the county-name cap line in row 10, not slightly below it.",
+      "The red in the map pin and the red county-name tie together well. Add no further red elsewhere. Consider tinting the target ring and pin a single red with no outline duplicate so the accent stays one clean mark."
+    ],
+    "summary": "A clear idea executed with a confident full-width name across 12 columns. The lower half loses grid discipline: empty rows 11–12 feel unplanned, the captions in rows 8–9 don't align, and the red county headline competes with CRAWLEY. Tighten the column 8 split, align the captions and drop the county to a supporting level.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 5.8,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.2,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#C8102E"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Crawley",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "West Sussex",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "11 / 26",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Crawley"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "West Sussex"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Personal"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "kicker",
+        "kind": "label",
+        "c": 1,
+        "cs": 6,
+        "r": 2,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Town and borough · England"
+      },
+      {
+        "id": "el-2",
+        "name": "town-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 3,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "CRAWLEY"
+      },
+      {
+        "id": "el-3",
+        "name": "square-photo",
+        "kind": "photo",
+        "c": 1,
+        "cs": 7,
+        "r": 5,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/crawley-the-cure/own-crawley-the-cure.jpg",
+        "zoom": 1,
+        "focus": [
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "id": "el-4",
+        "name": "pin-map",
+        "kind": "pinfield",
+        "c": 9,
+        "cs": 4,
+        "r": 5,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            51.1091,
+            -0.1872
+          ],
+          "ring": [
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              50.8738,
+              -0.7147
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-5",
+        "name": "distances",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 8,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "28 miles south of London, 18 miles north of Brighton and Hove.",
+        "style": "body"
+      },
+      {
+        "id": "el-6",
+        "name": "population",
+        "kind": "label",
+        "c": 1,
+        "cs": 7,
+        "r": 9,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Population 118,493 · 2021 Census"
+      },
+      {
+        "id": "el-7",
+        "name": "county-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 7,
+        "r": 10,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "WEST SUSSEX"
+      },
+      {
+        "id": "el-8",
+        "name": "county-note",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 10,
+        "rs": 2,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Chichester, the county town, lies 32 miles to the south-west. Southern parts of the borough lie next to the High Weald National Landscape.",
+        "style": "body"
+      }
+    ]
+  },
+  "image": "posters/img/011-crawley-the-cure.png"
+}

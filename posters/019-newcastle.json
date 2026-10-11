@@ -1,0 +1,793 @@
+{
+  "id": "019-newcastle",
+  "number": 19,
+  "pin_id": "newcastle",
+  "created_at": "2026-10-11T03:07:57.772Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "Newcastle sits high in the north-east of England, so its photo sits high on the right of the grid, in the cell where the city falls on the map."
+  },
+  "title": "Newcastle upon Tyne",
+  "place": {
+    "town": "Newcastle upon Tyne",
+    "locality": "Grainger Town",
+    "county": "Tyne and Wear",
+    "adminArea": "Tyne and Wear",
+    "region": "North East",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=54.9697&lon=-1.6113&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Grainger Town, Newcastle upon Tyne, Tyne and Wear, North East, England, NE1 5JF, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "accent": "#3D4B25",
+  "copy": [
+    {
+      "element": "county-label",
+      "text": "Tyne and Wear · England"
+    },
+    {
+      "element": "grid-note",
+      "text": "Placed where the city lies"
+    },
+    {
+      "element": "place-name",
+      "text": "Newcastle\nupon Tyne"
+    },
+    {
+      "element": "facts",
+      "text": "A city and metropolitan borough in Tyne and Wear. Correct usage is generally unhyphenated."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/newcastle/commons-4.jpg",
+    "title": "File:Newcastle upon Tyne - Central Arcade - 2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Newcastle_upon_Tyne_-_Central_Arcade_-_2.jpg",
+    "author": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 4390,
+    "height": 4390,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#fdfcfc",
+          "share": 0.314
+        },
+        {
+          "hex": "#6a7d42",
+          "share": 0.219
+        },
+        {
+          "hex": "#3d4b25",
+          "share": 0.187
+        },
+        {
+          "hex": "#9a9a78",
+          "share": 0.14
+        },
+        {
+          "hex": "#cdc3af",
+          "share": 0.14
+        }
+      ],
+      "strongest": "#3d4b25"
+    },
+    "credit": "Benjamin Smith, CC BY-SA 4.0"
+  },
+  "elements": [
+    {
+      "name": "county-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 6,
+      "row": 2,
+      "row_span": 1,
+      "text": "Tyne and Wear · England",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "where-pins",
+      "kind": "pinfield",
+      "col": 1,
+      "col_span": 4,
+      "row": 3,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo-at-location",
+      "kind": "photo",
+      "col": 7,
+      "col_span": 6,
+      "row": 3,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 4,
+      "zoom": 1.1,
+      "focus_x": 0.5,
+      "focus_y": 0.4,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "grid-note",
+      "kind": "label",
+      "col": 7,
+      "col_span": 6,
+      "row": 7,
+      "row_span": 1,
+      "text": "Placed where the city lies",
+      "style": null,
+      "color": "muted",
+      "align": "right",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "place-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 10,
+      "row": 8,
+      "row_span": 4,
+      "text": "Newcastle\nupon Tyne",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "facts",
+      "kind": "text",
+      "col": 1,
+      "col_span": 6,
+      "row": 12,
+      "row_span": 1,
+      "text": "A city and metropolitan borough in Tyne and Wear. Correct usage is generally unhyphenated.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 5,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 7,
+      "color": 6
+    },
+    "notes": [
+      "The idea is not shown on the page. The pinfield occupies only columns 1–4, rows 3–6, so its green Newcastle dot falls near column 4, row 3. The photo spans columns 7–12, rows 3–6, which is half the width and a third of the height. That is not 'the cell where the city falls'. Scale the pinfield up to the whole live area as a faint underlay (columns 1–12, rows 2–11), then let the dot's position decide the photo's cell.",
+      "Shrink the photo to a true north-east cell, for example columns 9–12, rows 2–4 (4 of 12 columns, 3 rows). Its top-left corner should touch the Newcastle dot. At 6×4 modules it reads as the generic 'image goes top right' slot and not as a map coordinate.",
+      "Columns 5–6, rows 3–6 form a dead two-column channel. The pinfield also floats inside its four modules, with the lowest pin dropping to row 6 and no clear edge. Either extend the map across that channel or align the pinfield's outer pins to the column 1 and column 4 edges so the block reads as a placed unit.",
+      "The grid-note in columns 7–12, row 7 explains what the layout should be showing. Once the photo sits on the dot, delete the note, or move it into a single column beside the dot as a 1-row caption. That frees row 7 as a clean empty band above the headline.",
+      "The headline spans columns 1–10 over rows 8–11 and is the clear first read; keep it. The descender of 'upon' pushes toward row 12, so set the second line one baseline higher to give the facts in row 12 a full baseline of air.",
+      "The facts text runs across columns 1–6 at roughly 55 characters, which is a good measure. Its two lines carry the only serif on the page besides the footer, so the pairing holds. Hang its first baseline exactly on the row 12 top line, where it currently sits half a baseline low.",
+      "The photo's blown-out white sky dissolves into the off-white paper along the top of columns 9–12. Crop the image down by about one baseline, or add a 0.5 pt rule along its top edge, so the module edge stays visible.",
+      "The green accent appears only in the row 2 label and the single pin. Carry it to a thin rule or tick at the photo's corner on the dot so colour links the map point to the image. Right now the saturated greens of the photo compete with the accent and drown it."
+    ],
+    "summary": "The headline and row structure are strong. The core idea, though, is only asserted by a caption. The pinfield is a small four-column block, and the six-by-four photo does not sit at any map coordinate. Enlarge the map into an underlay, shrink the photo to the exact cell under the Newcastle dot, drop the explanatory note, and tie the green accent to that point.",
+    "mean": 6.2
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.2,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.8,
+      "scores": {
+        "idea": 4,
+        "grid": 5,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#3D4B25"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Newcastle upon Tyne",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Tyne and Wear",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "19 / 26",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Newcastle"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Tyne and Wear"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Benjamin Smith, CC BY-SA 4.0"
+      },
+      {
+        "id": "el-1",
+        "name": "county-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 6,
+        "r": 2,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Tyne and Wear · England"
+      },
+      {
+        "id": "el-2",
+        "name": "where-pins",
+        "kind": "pinfield",
+        "c": 1,
+        "cs": 4,
+        "r": 3,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            54.9697,
+            -1.6113
+          ],
+          "ring": []
+        }
+      },
+      {
+        "id": "el-3",
+        "name": "photo-at-location",
+        "kind": "photo",
+        "c": 7,
+        "cs": 6,
+        "r": 3,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 4,
+        "src": "../data/images/newcastle/commons-4.jpg",
+        "zoom": 1.1,
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      {
+        "id": "el-4",
+        "name": "grid-note",
+        "kind": "label",
+        "c": 7,
+        "cs": 6,
+        "r": 7,
+        "rs": 1,
+        "color": "muted",
+        "align": "right",
+        "over": false,
+        "text": "Placed where the city lies"
+      },
+      {
+        "id": "el-5",
+        "name": "place-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 10,
+        "r": 8,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Newcastle\nupon Tyne"
+      },
+      {
+        "id": "el-6",
+        "name": "facts",
+        "kind": "text",
+        "c": 1,
+        "cs": 6,
+        "r": 12,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A city and metropolitan borough in Tyne and Wear. Correct usage is generally unhyphenated.",
+        "style": "body"
+      }
+    ]
+  },
+  "image": "posters/img/019-newcastle.png"
+}

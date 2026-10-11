@@ -1,6 +1,4 @@
 {
-  "hidden": true,
-  "hidden_note": "Held back from the viewer until there are more posters to sit alongside it. Delete these two lines to show it again.",
   "id": "010-cerne-abbas-giant",
   "number": 10,
   "pin_id": "cerne-abbas-giant",
@@ -466,7 +464,7 @@
         "cs": 2,
         "r": 1,
         "rs": 1,
-        "text": "10 / 10",
+        "text": "10 / 26",
         "align": "right",
         "color": "ink"
       },

@@ -1,0 +1,805 @@
+{
+  "id": "026-hadrians-wall",
+  "number": 26,
+  "pin_id": "hadrians-wall",
+  "created_at": "2026-10-11T03:23:12.042Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "The wall runs across the whole width of the island, so the county name runs across the whole width of the page and the wall sits beneath it, edge to edge."
+  },
+  "title": "Hadrian's Wall, Northumberland",
+  "place": {
+    "town": "Bardon Mill",
+    "locality": "Bardon Mill",
+    "county": "Northumberland",
+    "adminArea": "Northumberland",
+    "region": "North East",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.0123&lon=-2.3312&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bardon Mill, Northumberland, North East, England, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "accent": "#46530D",
+  "copy": [
+    {
+      "element": "county",
+      "text": "NORTHUMBERLAND"
+    },
+    {
+      "element": "place-label",
+      "text": "HADRIAN'S WALL · BARDON MILL"
+    },
+    {
+      "element": "lead",
+      "text": "Begun in AD 122, the stone wall ran from Wallsend on the River Tyne to Bowness-on-Solway, across the whole width of the island."
+    },
+    {
+      "element": "body",
+      "text": "Bardon Mill is a small village near the wall, 32 mi from Newcastle upon Tyne and 26½ mi from Carlisle."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Hadrian's_Wall",
+    "https://en.wikipedia.org/wiki/Bardon_Mill"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/hadrians-wall/commons-1.jpg",
+    "title": "File:Hadrian's Wall, junction of the Broad Wall and Narrow Wall bases.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall,_junction_of_the_Broad_Wall_and_Narrow_Wall_bases.jpg",
+    "author": "Richard Keatinge",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1600,
+    "height": 900,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#747d27",
+          "share": 0.389
+        },
+        {
+          "hex": "#2a3529",
+          "share": 0.178
+        },
+        {
+          "hex": "#5c594a",
+          "share": 0.157
+        },
+        {
+          "hex": "#868071",
+          "share": 0.152
+        },
+        {
+          "hex": "#dae0e9",
+          "share": 0.124
+        }
+      ],
+      "strongest": "#747d27"
+    },
+    "credit": "Richard Keatinge, CC BY-SA 4.0"
+  },
+  "elements": [
+    {
+      "name": "county",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 2,
+      "text": "NORTHUMBERLAND",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "wall-photo",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 12,
+      "row": 4,
+      "row_span": 6,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 1,
+      "focus_x": 0.6,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "place-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 3,
+      "row": 10,
+      "row_span": 1,
+      "text": "HADRIAN'S WALL · BARDON MILL",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 4,
+      "col_span": 9,
+      "row": 10,
+      "row_span": 2,
+      "text": "Begun in AD 122, the stone wall ran from Wallsend on the River Tyne to Bowness-on-Solway, across the whole width of the island.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "where",
+      "kind": "pinfield",
+      "col": 1,
+      "col_span": 3,
+      "row": 11,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 4,
+      "col_span": 9,
+      "row": 12,
+      "row_span": 1,
+      "text": "Bardon Mill is a small village near the wall, 32 mi from Newcastle upon Tyne and 26½ mi from Carlisle.",
+      "style": "body",
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The headline spans 12 of 12 columns but stops short of the right margin by roughly half a column; track or scale it so the final D lands exactly on the column 12 edge, otherwise the 'edge to edge' idea reads as approximate.",
+      "The headline sits in rows 2–3 but its cap height fills only the top of row 2 and the start of row 3, leaving nearly a full empty row above the photo. Either drop the headline so its baseline sits on the last baseline of row 3, or pull the photo up into row 3's lower module so headline and wall touch as the idea demands.",
+      "The photo spans columns 1–12 and rows 4–9, which is right for the idea. Crop it so the wall line runs more horizontally across the 12 columns rather than diagonally into the right corner; the current crop makes the wall recede instead of spanning.",
+      "The place-label wraps to two lines in a 3-column span ('BARDON / MILL'). Widen it to columns 1–3 with tighter tracking, or set it on one line by shortening to a 3-column measure. Hang its first baseline on the same baseline as the lead's first line in row 10.",
+      "The lead spans 9 columns at a large size and gives three lines with a hyphen break at 'Bowness-on-'. Reduce the span to columns 4–11 or adjust the size so 'Bowness-on-Solway' stays unbroken and the rag improves.",
+      "The body sits alone in row 12 with an empty module between it and the lead in row 11. Move it up to start in the lower half of row 11 so lead and body read as one block. Set it to columns 4–9 (6 of 12) so the 9-column measure stops producing a ~90-character line.",
+      "The pinfield in columns 1–3, rows 11–12 floats with no clear anchor. Align its top dot to the first baseline of row 11 and its left edge to column 1. Add a scale or line hint so the dots read as the wall's position across the island.",
+      "The green accent of the headline matches the photo's foliage well. Repeat it only on the highlighted pin, as now, and keep the body in the darker grey so it does not compete."
+    ],
+    "summary": "A clear, worthwhile idea: a full-width headline over a full-width wall photo. Execution is loose, though. The headline doesn't truly reach column 12, an empty row floats between headline and photo, and the lower text block has a gap at row 11 plus an over-long body measure. Tighten the headline-to-photo contact, fix the label wrap and lead hyphenation, and pull the body up onto a 6-column measure.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.4,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#46530D"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Hadrian's Wall, Northumberland",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Northumberland",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "26 / 26",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Hadrian's Wall"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Northumberland"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Richard Keatinge, CC BY-SA 4.0"
+      },
+      {
+        "id": "el-1",
+        "name": "county",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 2,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "NORTHUMBERLAND"
+      },
+      {
+        "id": "el-2",
+        "name": "wall-photo",
+        "kind": "photo",
+        "c": 1,
+        "cs": 12,
+        "r": 4,
+        "rs": 6,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/hadrians-wall/commons-1.jpg",
+        "zoom": 1,
+        "focus": [
+          0.6,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-3",
+        "name": "place-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 3,
+        "r": 10,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "HADRIAN'S WALL · BARDON MILL"
+      },
+      {
+        "id": "el-4",
+        "name": "lead",
+        "kind": "text",
+        "c": 4,
+        "cs": 9,
+        "r": 10,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Begun in AD 122, the stone wall ran from Wallsend on the River Tyne to Bowness-on-Solway, across the whole width of the island.",
+        "style": "lead"
+      },
+      {
+        "id": "el-5",
+        "name": "where",
+        "kind": "pinfield",
+        "c": 1,
+        "cs": 3,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            55.0123,
+            -2.3312
+          ],
+          "ring": [
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-6",
+        "name": "body",
+        "kind": "text",
+        "c": 4,
+        "cs": 9,
+        "r": 12,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Bardon Mill is a small village near the wall, 32 mi from Newcastle upon Tyne and 26½ mi from Carlisle.",
+        "style": "body"
+      }
+    ]
+  },
+  "image": "posters/img/026-hadrians-wall.png"
+}

@@ -1,0 +1,662 @@
+{
+  "id": "015-lake-district",
+  "number": 15,
+  "pin_id": "lake-district",
+  "created_at": "2026-10-11T02:59:59.343Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "The page stands for England with north at the top, so the photo of Keswick sits high and to the west, its lower-right corner on column 5, row 4, where the town falls on the map."
+  },
+  "title": "Lake District",
+  "place": {
+    "town": "Keswick",
+    "locality": null,
+    "county": "Cumbria",
+    "adminArea": "Cumberland",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=54.6013&lon=-3.1347&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Keswick, Cumberland, England, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "dark",
+  "accent": "#83902A",
+  "copy": [
+    {
+      "element": "photo-label",
+      "text": "1 · Keswick · Derwentwater"
+    },
+    {
+      "element": "map-key",
+      "text": "Page as England, north up"
+    },
+    {
+      "element": "keswick-body",
+      "text": "Keswick, a market town, lies within the national park just north of Derwentwater. Bassenthwaite Lake is 4 mi away."
+    },
+    {
+      "element": "county-label",
+      "text": "Cumbria · North West England"
+    },
+    {
+      "element": "headline",
+      "text": "Lake\nDistrict"
+    },
+    {
+      "element": "also-known",
+      "text": "Also the Lakes, or Lakeland"
+    },
+    {
+      "element": "lead",
+      "text": "A mountainous region and national park, famous for its lakes and mountains."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Lake_District",
+    "https://en.wikipedia.org/wiki/Keswick%2C_Cumbria"
+  ],
+  "photo": {
+    "kind": "personal",
+    "file": "data/images/lake-district/own-lake-district.jpg",
+    "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/lake-district.jpg",
+    "author": null,
+    "license": "personal",
+    "licenseUrl": null,
+    "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+    "colors": {
+      "palette": [
+        {
+          "hex": "#798694",
+          "share": 0.295
+        },
+        {
+          "hex": "#2f4140",
+          "share": 0.192
+        },
+        {
+          "hex": "#96a8b8",
+          "share": 0.179
+        },
+        {
+          "hex": "#c7ccce",
+          "share": 0.177
+        },
+        {
+          "hex": "#946037",
+          "share": 0.157
+        }
+      ],
+      "strongest": "#946037"
+    },
+    "credit": "Waypoints photo, personal use"
+  },
+  "elements": [
+    {
+      "name": "photo-label",
+      "kind": "label",
+      "col": 2,
+      "col_span": 4,
+      "row": 2,
+      "row_span": 1,
+      "text": "1 · Keswick · Derwentwater",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "map-key",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 2,
+      "row_span": 1,
+      "text": "Page as England, north up",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 2,
+      "col_span": 4,
+      "row": 3,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.2,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "keswick-body",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 3,
+      "row_span": 2,
+      "text": "Keswick, a market town, lies within the national park just north of Derwentwater. Bassenthwaite Lake is 4 mi away.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 6,
+      "row": 6,
+      "row_span": 1,
+      "text": "Cumbria · North West England",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 8,
+      "row": 7,
+      "row_span": 4,
+      "text": "Lake\nDistrict",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "also-known",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 1,
+      "text": "Also the Lakes, or Lakeland",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 6,
+      "row": 11,
+      "row_span": 2,
+      "text": "A mountainous region and national park, famous for its lakes and mountains.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 7,
+      "color": 6
+    },
+    "notes": [
+      "The map conceit is clever, but nothing on the page tells the reader where England's outline would sit. Put a hairline or faint coordinate tick at the column 5 / row 4 corner, or set the map-key label against that corner. That makes 'north up' legible rather than a private rule.",
+      "The photo occupies only 4 columns × 2 rows and reads as a thumbnail floating in rows 3–4. Columns 6–8 and row 5 sit empty and inert between it and the body text. Either extend the photo leftward to start at column 1, keeping the corner fixed at column 5 / row 4 so the idea holds, or move the keswick-body to columns 7–10 so the gap becomes a single deliberate module rather than three dead columns.",
+      "Row 5 is entirely empty, and the county-label in row 6 floats above the headline. Move the county-label to the top of row 7, directly above the cap height of 'Lake'. Leave row 6 as the clean break between the map zone (rows 2–5) and the title zone (rows 7–12).",
+      "The headline 'Lake / District' spans 8 columns, but 'Lake' ends near column 5 while 'District' runs to column 8, so the ragged right block feels unanchored. Size it so 'District' fills exactly columns 1–8. Optically align the L stem to the column 1 edge; it currently sits slightly inside the margin, compared with the county-label and lead.",
+      "The also-known label in columns 9–12, row 10 hangs off the baseline of 'District' and works well. Snap it precisely to the headline baseline in row 10, not floating above it, so the two read as one line across 12 columns.",
+      "The lead spans columns 1–6 in rows 11–12 at a good 3-line rag. Columns 7–12 of rows 11–12 are empty. That is acceptable, but consider pulling the lead to columns 1–5 so its right edge echoes the photo's corner at column 5. This repeats the key vertical of the idea.",
+      "The olive accent is used on the photo-label and also-known, but the photo's warm orange boats compete with it. Either shift the accent toward the photo's lake blue-green, or restrict the accent to the photo-label alone so it marks Keswick, the map point, only.",
+      "Keswick-body sits at roughly 12 pt with ~30-character lines across 4 columns. This is fine, but its top should align to the photo's top edge on the row 3 hangline; it currently sits a few points lower. Fix it to the same baseline."
+    ],
+    "summary": "A clean, competent page with a genuinely interesting map-as-grid idea. The idea is barely signalled, though, and the upper half has too much undifferentiated empty space: the small photo, empty columns 6–8, and dead row 5. Enlarge or anchor the photo around the column 5 / row 4 corner, tighten the label-to-headline relationship, and align the headline width to its 8-column span.",
+    "mean": 6.4
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.8,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#161615",
+      "ink": "#EDECE7",
+      "muted": "#A3A29B",
+      "rule": "#3A3A37",
+      "accent": "#83902A"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Lake District",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Cumbria",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "15 / 26",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Lake District"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Cumbria"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Nature"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "photo-label",
+        "kind": "label",
+        "c": 2,
+        "cs": 4,
+        "r": 2,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "1 · Keswick · Derwentwater"
+      },
+      {
+        "id": "el-2",
+        "name": "map-key",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 2,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Page as England, north up"
+      },
+      {
+        "id": "el-3",
+        "name": "photo",
+        "kind": "photo",
+        "c": 2,
+        "cs": 4,
+        "r": 3,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/lake-district/own-lake-district.jpg",
+        "zoom": 1.2,
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-4",
+        "name": "keswick-body",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 3,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Keswick, a market town, lies within the national park just north of Derwentwater. Bassenthwaite Lake is 4 mi away.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "county-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 6,
+        "r": 6,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Cumbria · North West England"
+      },
+      {
+        "id": "el-6",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 8,
+        "r": 7,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Lake\nDistrict"
+      },
+      {
+        "id": "el-7",
+        "name": "also-known",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 10,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Also the Lakes, or Lakeland"
+      },
+      {
+        "id": "el-8",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 6,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A mountainous region and national park, famous for its lakes and mountains.",
+        "style": "lead"
+      }
+    ]
+  },
+  "image": "posters/img/015-lake-district.png"
+}
