@@ -1,0 +1,481 @@
+{
+  "id": "royal-botanic-garden-edinburgh",
+  "name": "Royal Botanic Garden",
+  "lat": 55.9652,
+  "lng": -3.2094,
+  "enrichedAt": "2026-10-11T01:21:29.970Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Stockbridge/Inverleith",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9652&lon=-3.2094&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Stockbridge/Inverleith, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.49
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1.68
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 1.72
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1.87
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.94
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 1.99
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 2.01
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 2.01
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 2.02
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 2.07
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 2.09
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 2.1
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 2.18
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 2.35
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 2.36
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 2.58
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 2.71
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 2.74
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 3.77
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.46
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.5
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1.7
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 1.7
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.9
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1.9
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 2
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 2
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 2
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 2
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 2.1
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 2.1
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 2.1
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 2.2
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 2.3
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 2.4
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 2.6
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 2.7
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 2.7
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 3.8
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.5
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 6
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 12.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Royal Botanic Garden Edinburgh",
+      "description": "Botanical garden in Edinburgh, Scotland",
+      "extract": "The Royal Botanic Garden Edinburgh (RBGE) is a scientific centre for the study of plants, their diversity and conservation, as well as a popular visitor attraction. Founded in 1670 as a physic garden to grow medicinal plants, today it occupies four sites across Scotland—Edinburgh, Dawyck, Logan and Benmore—each with its own specialist collection. The RBGE's living collection consists of more than 13,302 plant species, whilst the herbarium contains in excess of 3 million preserved specimens.",
+      "url": "https://en.wikipedia.org/wiki/Royal_Botanic_Garden_Edinburgh",
+      "coordinates": {
+        "lat": 55.965,
+        "lng": -3.21
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Palm_House%2C_Royal_Botanic_Garden_Edinburgh.JPG/3840px-Palm_House%2C_Royal_Botanic_Garden_Edinburgh.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 1.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "70 acres of glasshouses and rock garden north of the New Town.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/royal-botanic-garden-edinburgh/own-royal-botanic-garden-edinburgh.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/royal-botanic-garden-edinburgh.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7da8dc",
+            "share": 0.309
+          },
+          {
+            "hex": "#636542",
+            "share": 0.281
+          },
+          {
+            "hex": "#2f3223",
+            "share": 0.167
+          },
+          {
+            "hex": "#b5ada5",
+            "share": 0.137
+          },
+          {
+            "hex": "#8e8172",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#7da8dc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-botanic-garden-edinburgh/commons-1.jpg",
+      "title": "File:Palm House, Royal Botanic Garden Edinburgh.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Palm_House,_Royal_Botanic_Garden_Edinburgh.JPG",
+      "author": "Ham",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4288,
+      "height": 3216,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7da9dc",
+            "share": 0.309
+          },
+          {
+            "hex": "#62643f",
+            "share": 0.262
+          },
+          {
+            "hex": "#2e3222",
+            "share": 0.161
+          },
+          {
+            "hex": "#b5aca4",
+            "share": 0.148
+          },
+          {
+            "hex": "#877c6b",
+            "share": 0.119
+          }
+        ],
+        "strongest": "#7da9dc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-botanic-garden-edinburgh/commons-2.jpg",
+      "title": "File:Edinburgh from the Royal Botanic Garden.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_from_the_Royal_Botanic_Garden.JPG",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2544,
+      "height": 1696,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#131107",
+            "share": 0.432
+          },
+          {
+            "hex": "#f3f2f7",
+            "share": 0.167
+          },
+          {
+            "hex": "#32342b",
+            "share": 0.149
+          },
+          {
+            "hex": "#a2aba1",
+            "share": 0.142
+          },
+          {
+            "hex": "#616664",
+            "share": 0.109
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-botanic-garden-edinburgh/commons-3.jpg",
+      "title": "File:Palm House, Royal Botanic Garden Edinburgh.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Palm_House,_Royal_Botanic_Garden_Edinburgh.JPG",
+      "author": "Ham",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4288,
+      "height": 3216,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7da9dc",
+            "share": 0.309
+          },
+          {
+            "hex": "#62643f",
+            "share": 0.262
+          },
+          {
+            "hex": "#2e3222",
+            "share": 0.161
+          },
+          {
+            "hex": "#b5aca4",
+            "share": 0.148
+          },
+          {
+            "hex": "#877c6b",
+            "share": 0.119
+          }
+        ],
+        "strongest": "#7da9dc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-botanic-garden-edinburgh/commons-4.jpg",
+      "title": "File:Royal Botanic Garden, Edinburgh (9458336048).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Botanic_Garden,_Edinburgh_(9458336048).jpg",
+      "author": "dun_deagh",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1899,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b6005",
+            "share": 0.419
+          },
+          {
+            "hex": "#081601",
+            "share": 0.232
+          },
+          {
+            "hex": "#223904",
+            "share": 0.187
+          },
+          {
+            "hex": "#71911a",
+            "share": 0.107
+          },
+          {
+            "hex": "#91989e",
+            "share": 0.056
+          }
+        ],
+        "strongest": "#3b6005"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7da8dc",
+        "share": 0.309
+      },
+      {
+        "hex": "#636542",
+        "share": 0.281
+      },
+      {
+        "hex": "#2f3223",
+        "share": 0.167
+      },
+      {
+        "hex": "#b5ada5",
+        "share": 0.137
+      },
+      {
+        "hex": "#8e8172",
+        "share": 0.105
+      }
+    ],
+    "strongest": "#7da8dc"
+  }
+}

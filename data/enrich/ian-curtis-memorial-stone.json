@@ -1,0 +1,274 @@
+{
+  "id": "ian-curtis-memorial-stone",
+  "name": "Ian Curtis Memorial Stone",
+  "lat": 53.2663542,
+  "lng": -2.137922,
+  "enrichedAt": "2026-10-11T01:21:45.696Z",
+  "place": {
+    "town": "Macclesfield",
+    "locality": "Upton Priory",
+    "county": "Cheshire",
+    "adminArea": "Cheshire East",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.2663542&lon=-2.137922&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Walnut Tree Farm, Upton Priory, Macclesfield, Cheshire East, England, SK10 4AG, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "macclesfield-ian-curtis",
+        "name": "Macclesfield — Ian Curtis",
+        "km": 1.21
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "macclesfield-ian-curtis",
+        "name": "Macclesfield — Ian Curtis",
+        "km": 1.2
+      },
+      {
+        "id": "jodrell-bank-observatory",
+        "name": "Jodrell Bank Observatory",
+        "km": 11.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Macclesfield",
+      "description": "Town and civil parish in Cheshire, England",
+      "extract": "Macclesfield is a market town and civil parish in the unitary authority of Cheshire East, Cheshire, England. It is sited on the River Bollin and the edge of the Cheshire Plain, with Macclesfield Forest to its east; the town lies 16 miles (26 km) south of Manchester and 38 miles (61 km) east of Chester.",
+      "url": "https://en.wikipedia.org/wiki/Macclesfield",
+      "coordinates": {
+        "lat": 53.25,
+        "lng": -2.13
+      },
+      "km": 1.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Macclesfield_Town_Hall_%2816339763521%29.jpg/3840px-Macclesfield_Town_Hall_%2816339763521%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Memorial stone to Joy Division singer Ian Curtis in Macclesfield Cemetery, a pilgrimage site for post-punk fans.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/ian-curtis-memorial-stone/own-ian-curtis-memorial-stone.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/ian-curtis-memorial-stone.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#626267",
+            "share": 0.327
+          },
+          {
+            "hex": "#737275",
+            "share": 0.24
+          },
+          {
+            "hex": "#4a4a4b",
+            "share": 0.169
+          },
+          {
+            "hex": "#d8d7d9",
+            "share": 0.157
+          },
+          {
+            "hex": "#312820",
+            "share": 0.107
+          }
+        ],
+        "strongest": "#312820"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ian-curtis-memorial-stone/commons-1.jpg",
+      "title": "File:Ian Curtis's Memorial Stone, Macclesfield Cemetery - geograph.org.uk - 6016733.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ian_Curtis%27s_Memorial_Stone,_Macclesfield_Cemetery_-_geograph.org.uk_-_6016733.jpg",
+      "author": "Matt Harrop",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5395,
+      "height": 3597,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f5f6f5",
+            "share": 0.258
+          },
+          {
+            "hex": "#525243",
+            "share": 0.233
+          },
+          {
+            "hex": "#7f836c",
+            "share": 0.218
+          },
+          {
+            "hex": "#27261f",
+            "share": 0.184
+          },
+          {
+            "hex": "#b4b4aa",
+            "share": 0.108
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ian-curtis-memorial-stone/commons-2.jpg",
+      "title": "File:Ian Curtis's memorial stone that replaced the original stone, stolen in 2008.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ian_Curtis%27s_memorial_stone_that_replaced_the_original_stone,_stolen_in_2008.jpg",
+      "author": "Vapostolov",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3552,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bdb5a8",
+            "share": 0.334
+          },
+          {
+            "hex": "#383422",
+            "share": 0.242
+          },
+          {
+            "hex": "#e2d6b6",
+            "share": 0.173
+          },
+          {
+            "hex": "#aaa08a",
+            "share": 0.158
+          },
+          {
+            "hex": "#726d58",
+            "share": 0.093
+          }
+        ],
+        "strongest": "#e2d6b6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ian-curtis-memorial-stone/commons-3.jpg",
+      "title": "File:Original Ian Curtis grave stone - 2008.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Original_Ian_Curtis_grave_stone_-_2008.jpg",
+      "author": "Bernt Rostad from Oslo, Norway",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#949488",
+            "share": 0.316
+          },
+          {
+            "hex": "#31342a",
+            "share": 0.201
+          },
+          {
+            "hex": "#b4be9b",
+            "share": 0.195
+          },
+          {
+            "hex": "#696d63",
+            "share": 0.165
+          },
+          {
+            "hex": "#ddded6",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#b4be9b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ian-curtis-memorial-stone/commons-4.jpg",
+      "title": "File:Gravestone of Ian Curtis, lead singer of Joy Division (mid comp).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gravestone_of_Ian_Curtis,_lead_singer_of_Joy_Division_(mid_comp).jpg",
+      "author": "Greenpark79",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#706860",
+            "share": 0.247
+          },
+          {
+            "hex": "#4b4744",
+            "share": 0.233
+          },
+          {
+            "hex": "#999382",
+            "share": 0.217
+          },
+          {
+            "hex": "#262726",
+            "share": 0.2
+          },
+          {
+            "hex": "#ccc5b9",
+            "share": 0.102
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#626267",
+        "share": 0.327
+      },
+      {
+        "hex": "#737275",
+        "share": 0.24
+      },
+      {
+        "hex": "#4a4a4b",
+        "share": 0.169
+      },
+      {
+        "hex": "#d8d7d9",
+        "share": 0.157
+      },
+      {
+        "hex": "#312820",
+        "share": 0.107
+      }
+    ],
+    "strongest": "#312820"
+  }
+}

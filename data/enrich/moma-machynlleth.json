@@ -1,0 +1,280 @@
+{
+  "id": "moma-machynlleth",
+  "name": "MOMA Machynlleth",
+  "lat": 52.5906,
+  "lng": -3.8517,
+  "enrichedAt": "2026-10-11T01:21:34.603Z",
+  "place": {
+    "town": "Machynlleth",
+    "locality": "Machynlleth",
+    "county": "Powys",
+    "adminArea": "Powys",
+    "region": null,
+    "country": "Wales",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.5906&lon=-3.8517&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Machynlleth, Powys, Wales, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "mach-loop",
+        "name": "Mach Loop, Machynlleth",
+        "km": 4.75
+      }
+    ],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Machynlleth",
+      "description": "Market town in Powys, Wales",
+      "extract": "Machynlleth is a market town, community and electoral ward in Powys, Wales, and within the historic boundaries of Montgomeryshire. It is in the Dyfi Valley at the intersection of the A487 and the A489 roads. It has a population of 2,098. At the 2001 Census it had a population of 2,147, rising to 2,235 in 2011 and falling slightly to 2,163 in 2021. It is sometimes referred to colloquially as Mach.",
+      "url": "https://en.wikipedia.org/wiki/Machynlleth",
+      "coordinates": {
+        "lat": 52.591,
+        "lng": -3.849
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Central_Machynlleth%2C_June_2016.jpg/3840px-Central_Machynlleth%2C_June_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Machynlleth",
+      "description": "Market town in Powys, Wales",
+      "extract": "Machynlleth is a market town, community and electoral ward in Powys, Wales, and within the historic boundaries of Montgomeryshire. It is in the Dyfi Valley at the intersection of the A487 and the A489 roads. It has a population of 2,098. At the 2001 Census it had a population of 2,147, rising to 2,235 in 2011 and falling slightly to 2,163 in 2021. It is sometimes referred to colloquially as Mach.",
+      "url": "https://en.wikipedia.org/wiki/Machynlleth",
+      "coordinates": {
+        "lat": 52.591,
+        "lng": -3.849
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Central_Machynlleth%2C_June_2016.jpg/3840px-Central_Machynlleth%2C_June_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Modern art in mid-Wales, in and around a chapel.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/moma-machynlleth/own-moma-machynlleth.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/moma-machynlleth.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#85969b",
+            "share": 0.327
+          },
+          {
+            "hex": "#52564e",
+            "share": 0.249
+          },
+          {
+            "hex": "#6e7976",
+            "share": 0.218
+          },
+          {
+            "hex": "#292d26",
+            "share": 0.127
+          },
+          {
+            "hex": "#ebedf0",
+            "share": 0.079
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moma-machynlleth/commons-1.jpg",
+      "title": "File:Central Machynlleth, June 2016.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Central_Machynlleth,_June_2016.jpg",
+      "author": "Celuici",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e4e6eb",
+            "share": 0.446
+          },
+          {
+            "hex": "#7f7a74",
+            "share": 0.257
+          },
+          {
+            "hex": "#57524a",
+            "share": 0.189
+          },
+          {
+            "hex": "#a19f9b",
+            "share": 0.067
+          },
+          {
+            "hex": "#c7c8c9",
+            "share": 0.041
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moma-machynlleth/commons-2.jpg",
+      "title": "File:Central Machynlleth, June 2016.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Central_Machynlleth,_June_2016.jpg",
+      "author": "Celuici",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e4e6eb",
+            "share": 0.446
+          },
+          {
+            "hex": "#7f7a74",
+            "share": 0.257
+          },
+          {
+            "hex": "#57524a",
+            "share": 0.189
+          },
+          {
+            "hex": "#a19f9b",
+            "share": 0.067
+          },
+          {
+            "hex": "#c7c8c9",
+            "share": 0.041
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moma-machynlleth/commons-3.jpg",
+      "title": "File:Dyfi Bridge, Machynlleth, June 2016.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dyfi_Bridge,_Machynlleth,_June_2016.jpg",
+      "author": "Celuici",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#575746",
+            "share": 0.247
+          },
+          {
+            "hex": "#c9d6e3",
+            "share": 0.235
+          },
+          {
+            "hex": "#a5adb6",
+            "share": 0.2
+          },
+          {
+            "hex": "#7c8286",
+            "share": 0.161
+          },
+          {
+            "hex": "#2d3629",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#c9d6e3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moma-machynlleth/commons-4.jpg",
+      "title": "File:Inside the music tent at the Machynlleth Comedy Festival - geograph.org.uk - 4935997.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Inside_the_music_tent_at_the_Machynlleth_Comedy_Festival_-_geograph.org.uk_-_4935997.jpg",
+      "author": "Gareth James",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#200c0d",
+            "share": 0.408
+          },
+          {
+            "hex": "#f6c646",
+            "share": 0.221
+          },
+          {
+            "hex": "#2a57cf",
+            "share": 0.145
+          },
+          {
+            "hex": "#b63247",
+            "share": 0.136
+          },
+          {
+            "hex": "#4b6c54",
+            "share": 0.09
+          }
+        ],
+        "strongest": "#f6c646"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Clock tower, Machynlleth NLW3363564.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#85969b",
+        "share": 0.327
+      },
+      {
+        "hex": "#52564e",
+        "share": 0.249
+      },
+      {
+        "hex": "#6e7976",
+        "share": 0.218
+      },
+      {
+        "hex": "#292d26",
+        "share": 0.127
+      },
+      {
+        "hex": "#ebedf0",
+        "share": 0.079
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "id": "braccio-nuovo",
+  "name": "Braccio Nuovo",
+  "lat": 41.9065,
+  "lng": 12.4536,
+  "enrichedAt": "2026-10-11T01:21:47.345Z",
+  "place": {
+    "town": "Vatican City",
+    "locality": "Vatican City",
+    "county": "Vatican City",
+    "adminArea": null,
+    "region": null,
+    "country": "Vatican City",
+    "sovereign": "Vatican City",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.9065&lon=12.4536&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Vatican City, 00120, Vatican City"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 0.41
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 0.48
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.57
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 0.58
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.12
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 2.12
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 2.33
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 2.39
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 3.03
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 3.29
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 0.4
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 0.5
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 0.6
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Vatican City",
+      "description": "Enclaved Holy See's independent city-state",
+      "extract": "Vatican City, officially the Vatican City State, often shortened as the Vatican, is a landlocked sovereign city-state in Southern Europe. Ruled by the pope, it is an enclave within the city of Rome, Italy, and serves as the administrative centre of the Catholic Church. Vatican City is governed by the See of Rome, commonly known as the Holy See, itself a sovereign entity under international law, which maintains its temporal power, governance, diplomacy, and spiritual independence. Vatican is also used as a metonym for the Holy See, which is the central governing body of the Catholic Church and Vatican City, comprising the pope and the Roman Curia. The independent state of Vatican City came into existence in 1929 via the Lateran Treaty between the Holy See and the Kingdom of Italy, which spoke of it as a creation, not as a vestige of the much larger Papal States (756–1870), which had previously encompassed much of Central Italy.",
+      "url": "https://en.wikipedia.org/wiki/Vatican_City",
+      "coordinates": {
+        "lat": 41.9025,
+        "lng": 12.4525
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/1280px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Neoclassical gallery in the Vatican Museums housing Roman sculptures including the famous Augustus of Prima Porta.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "art",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/braccio-nuovo/own-braccio-nuovo.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/braccio-nuovo.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 1
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/braccio-nuovo/commons-1.jpg",
+      "title": "File:Down the Exit Stairs at the Vatican Museum - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Down_the_Exit_Stairs_at_the_Vatican_Museum_-_panoramio.jpg",
+      "author": "trukdotcom",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1942,
+      "height": 1457,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#413f42",
+            "share": 0.227
+          },
+          {
+            "hex": "#8c8a8c",
+            "share": 0.223
+          },
+          {
+            "hex": "#656366",
+            "share": 0.221
+          },
+          {
+            "hex": "#1d1d1f",
+            "share": 0.202
+          },
+          {
+            "hex": "#c0bfc1",
+            "share": 0.127
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/braccio-nuovo/commons-2.jpg",
+      "title": "File:VaticanMuseumStaircase.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:VaticanMuseumStaircase.jpg",
+      "author": "Andreas Tille",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3039,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#070809",
+            "share": 0.271
+          },
+          {
+            "hex": "#2c3132",
+            "share": 0.227
+          },
+          {
+            "hex": "#5a5e60",
+            "share": 0.203
+          },
+          {
+            "hex": "#929293",
+            "share": 0.202
+          },
+          {
+            "hex": "#d4d7d8",
+            "share": 0.097
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/braccio-nuovo/commons-3.jpg",
+      "title": "File:Vatican Museums Spiral Staircase 2012.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vatican_Museums_Spiral_Staircase_2012.jpg",
+      "author": "Colin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4336,
+      "height": 2756,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#45433e",
+            "share": 0.266
+          },
+          {
+            "hex": "#60605d",
+            "share": 0.261
+          },
+          {
+            "hex": "#7e807d",
+            "share": 0.187
+          },
+          {
+            "hex": "#2b261e",
+            "share": 0.175
+          },
+          {
+            "hex": "#a4adad",
+            "share": 0.111
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/braccio-nuovo/commons-4.jpg",
+      "title": "File:Vatican Museums Spiral Staircase Looking Up 2012.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vatican_Museums_Spiral_Staircase_Looking_Up_2012.jpg",
+      "author": "Colin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4246,
+      "height": 2795,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a542f",
+            "share": 0.336
+          },
+          {
+            "hex": "#272320",
+            "share": 0.328
+          },
+          {
+            "hex": "#777876",
+            "share": 0.148
+          },
+          {
+            "hex": "#c49425",
+            "share": 0.115
+          },
+          {
+            "hex": "#e3e3de",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#c49425"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 1
+      }
+    ],
+    "strongest": null
+  }
+}

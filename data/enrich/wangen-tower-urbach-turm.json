@@ -1,0 +1,221 @@
+{
+  "id": "wangen-tower-urbach-turm",
+  "name": "Wangen Tower (Urbach Turm)",
+  "lat": 48.8283,
+  "lng": 9.5847,
+  "enrichedAt": "2026-10-11T01:21:45.145Z",
+  "place": {
+    "town": "Urbach",
+    "locality": "Oberurbach",
+    "county": "Rems-Murr-Kreis",
+    "adminArea": "Rems-Murr-Kreis",
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8283&lon=9.5847&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Buchäcker, Oberurbach, Wellingshof, Urbach, GVV Plüderhausen-Urbach, Rems-Murr-Kreis, Baden-Württemberg, 73614, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Urbach, Baden-Württemberg",
+      "description": "Municipality in Baden-Württemberg, Germany",
+      "extract": "Urbach is a municipality in the district of Rems-Murr in Baden-Württemberg, Germany. It is east of Stuttgart. It belongs to the metropolitan region of Stuttgart.",
+      "url": "https://en.wikipedia.org/wiki/Urbach%2C_Baden-W%C3%BCrttemberg",
+      "coordinates": {
+        "lat": 48.81333333,
+        "lng": 9.57888889
+      },
+      "km": 1.7,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/6/63/Urbach_im_Rems-Murr-Kreis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Twisting 14-metre tower of self-shaped curved timber built for the 2019 Remstal Garden Show near Urbach.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "monument",
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/wangen-tower-urbach-turm/own-wangen-tower-urbach-turm.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/wangen-tower-urbach-turm.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9cacc0",
+            "share": 0.301
+          },
+          {
+            "hex": "#7e94af",
+            "share": 0.212
+          },
+          {
+            "hex": "#babcbc",
+            "share": 0.198
+          },
+          {
+            "hex": "#554f29",
+            "share": 0.185
+          },
+          {
+            "hex": "#7e7e7e",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#554f29"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wangen-tower-urbach-turm/commons-1.jpg",
+      "title": "File:Bergrutsch Urbach 3.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bergrutsch_Urbach_3.JPG",
+      "author": "Thilo Parg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2500,
+      "height": 1875,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1e2e1f",
+            "share": 0.298
+          },
+          {
+            "hex": "#3a4b36",
+            "share": 0.285
+          },
+          {
+            "hex": "#5f6961",
+            "share": 0.203
+          },
+          {
+            "hex": "#939693",
+            "share": 0.157
+          },
+          {
+            "hex": "#f9fafa",
+            "share": 0.057
+          }
+        ],
+        "strongest": "#1e2e1f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wangen-tower-urbach-turm/commons-2.jpg",
+      "title": "File:Bergrutsch Urbach 2.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bergrutsch_Urbach_2.JPG",
+      "author": "Thilo Parg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2500,
+      "height": 1875,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f4d32",
+            "share": 0.355
+          },
+          {
+            "hex": "#5e6a44",
+            "share": 0.233
+          },
+          {
+            "hex": "#272f26",
+            "share": 0.213
+          },
+          {
+            "hex": "#daf0f9",
+            "share": 0.126
+          },
+          {
+            "hex": "#b0a991",
+            "share": 0.072
+          }
+        ],
+        "strongest": "#3f4d32"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wangen-tower-urbach-turm/commons-3.jpg",
+      "title": "File:Bergrutsch Urbach 1.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bergrutsch_Urbach_1.JPG",
+      "author": "Thilo Parg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5500,
+      "height": 1589,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#435a35",
+            "share": 0.338
+          },
+          {
+            "hex": "#62774c",
+            "share": 0.22
+          },
+          {
+            "hex": "#2c3e29",
+            "share": 0.214
+          },
+          {
+            "hex": "#c3d4e3",
+            "share": 0.124
+          },
+          {
+            "hex": "#909779",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#435a35"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#9cacc0",
+        "share": 0.301
+      },
+      {
+        "hex": "#7e94af",
+        "share": 0.212
+      },
+      {
+        "hex": "#babcbc",
+        "share": 0.198
+      },
+      {
+        "hex": "#554f29",
+        "share": 0.185
+      },
+      {
+        "hex": "#7e7e7e",
+        "share": 0.104
+      }
+    ],
+    "strongest": "#554f29"
+  }
+}

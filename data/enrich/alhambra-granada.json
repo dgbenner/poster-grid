@@ -1,0 +1,269 @@
+{
+  "id": "alhambra-granada",
+  "name": "Alhambra, Granada",
+  "lat": 37.17601,
+  "lng": -3.58804,
+  "enrichedAt": "2026-10-11T01:21:40.365Z",
+  "place": {
+    "town": "Granada",
+    "locality": "San Matías - Realejo",
+    "county": "Comarca de la Vega de Granada",
+    "adminArea": "Comarca de la Vega de Granada",
+    "region": "Andalusia",
+    "country": "Spain",
+    "sovereign": "Spain",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=37.17601&lon=-3.58804&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalusia, 18009, Spain"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Alhambra",
+      "description": "Palace and fortress complex in Granada, Spain",
+      "extract": "The Alhambra is a palace and fortress complex located in Granada, Spain. It is one of the most famous monuments of Islamic architecture and the only well-preserved palace from the medieval Islamic world. Additionally, the palace contains notable examples of Spanish Renaissance architecture.",
+      "url": "https://en.wikipedia.org/wiki/Alhambra",
+      "coordinates": {
+        "lat": 37.1775,
+        "lng": -3.59
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/3840px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Granada",
+      "description": "Municipality in Andalusia, Spain",
+      "extract": "Granada is the capital city of the province of Granada, in the autonomous community of Andalusia, Spain. Granada is located at the foot of the Sierra Nevada mountains, at the confluence of four rivers, the Darro, the Genil, the Monachil and the Beiro. Ascribed to the Vega de Granada comarca, the city sits at an average elevation of 738 m (2,421 ft) above sea level 50 km from the Mediterranean coast, the Costa Tropical. With a population of 233,532 as of 2024, it is the 20th-largest city in Spain and is an important wine growing region. It was the last Muslim stronghold in Islamic Spain.",
+      "url": "https://en.wikipedia.org/wiki/Granada",
+      "coordinates": {
+        "lat": 37.175,
+        "lng": -3.6
+      },
+      "km": 1.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Granada_%2825987961022%29.jpg/3840px-Granada_%2825987961022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Quranic texts, Arabic poetry and calligraphy carved into the pillars and arches ~800 years ago.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/alhambra-granada/own-alhambra-granada.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/alhambra-granada.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#242820",
+            "share": 0.379
+          },
+          {
+            "hex": "#eae6e8",
+            "share": 0.228
+          },
+          {
+            "hex": "#71544a",
+            "share": 0.146
+          },
+          {
+            "hex": "#c28064",
+            "share": 0.134
+          },
+          {
+            "hex": "#afa4b8",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#c28064"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/alhambra-granada/commons-1.jpg",
+      "title": "File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+      "author": "Jebulon",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4592,
+      "height": 3056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#24291f",
+            "share": 0.376
+          },
+          {
+            "hex": "#e9e6e8",
+            "share": 0.227
+          },
+          {
+            "hex": "#71544a",
+            "share": 0.147
+          },
+          {
+            "hex": "#c18065",
+            "share": 0.142
+          },
+          {
+            "hex": "#afa5ba",
+            "share": 0.108
+          }
+        ],
+        "strongest": "#c18065"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/alhambra-granada/commons-2.jpg",
+      "title": "File:-Courtyard of the Lions, Alhambra, Granada- MET DP366396.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:-Courtyard_of_the_Lions,_Alhambra,_Granada-_MET_DP366396.jpg",
+      "author": "Rafael Señán / Rafael Garzón",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2803,
+      "height": 3568,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9b8983",
+            "share": 0.256
+          },
+          {
+            "hex": "#b3a69f",
+            "share": 0.256
+          },
+          {
+            "hex": "#d6c7c0",
+            "share": 0.186
+          },
+          {
+            "hex": "#7a645d",
+            "share": 0.157
+          },
+          {
+            "hex": "#4e3631",
+            "share": 0.145
+          }
+        ],
+        "strongest": "#d6c7c0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/alhambra-granada/commons-3.jpg",
+      "title": "File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+      "author": "Jebulon",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4592,
+      "height": 3056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#24291f",
+            "share": 0.376
+          },
+          {
+            "hex": "#e9e6e8",
+            "share": 0.227
+          },
+          {
+            "hex": "#71544a",
+            "share": 0.147
+          },
+          {
+            "hex": "#c18065",
+            "share": 0.142
+          },
+          {
+            "hex": "#afa5ba",
+            "share": 0.108
+          }
+        ],
+        "strongest": "#c18065"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/alhambra-granada/commons-4.jpg",
+      "title": "File:Detalle de la pared de la Sala del Mexuar. La Alhambra, Granada.«Sólo Dios es vencedor».JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Detalle_de_la_pared_de_la_Sala_del_Mexuar._La_Alhambra,_Granada.%C2%ABS%C3%B3lo_Dios_es_vencedor%C2%BB.JPG",
+      "author": "Roberto Chamoso G",
+      "license": "CC BY-SA 3.0 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ac8155",
+            "share": 0.273
+          },
+          {
+            "hex": "#b69069",
+            "share": 0.248
+          },
+          {
+            "hex": "#9f7143",
+            "share": 0.237
+          },
+          {
+            "hex": "#be9f82",
+            "share": 0.126
+          },
+          {
+            "hex": "#8b5b2a",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#9f7143"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#242820",
+        "share": 0.379
+      },
+      {
+        "hex": "#eae6e8",
+        "share": 0.228
+      },
+      {
+        "hex": "#71544a",
+        "share": 0.146
+      },
+      {
+        "hex": "#c28064",
+        "share": 0.134
+      },
+      {
+        "hex": "#afa4b8",
+        "share": 0.113
+      }
+    ],
+    "strongest": "#c28064"
+  }
+}

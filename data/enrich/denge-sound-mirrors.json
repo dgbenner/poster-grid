@@ -1,0 +1,249 @@
+{
+  "id": "denge-sound-mirrors",
+  "name": "Denge Sound Mirrors",
+  "lat": 50.9469,
+  "lng": 0.9419,
+  "enrichedAt": "2026-10-11T01:21:45.425Z",
+  "place": {
+    "town": "Folkestone and Hythe District",
+    "locality": null,
+    "county": "Kent",
+    "adminArea": "Kent",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.9469&lon=0.9419&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Lydd, Folkestone and Hythe District, Kent, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Concrete acoustic 'listening ears' built in the 1920s-30s to detect approaching aircraft before radar, near Dungeness.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument",
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/denge-sound-mirrors/own-denge-sound-mirrors.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/denge-sound-mirrors.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3d481f",
+            "share": 0.343
+          },
+          {
+            "hex": "#d2d3d8",
+            "share": 0.323
+          },
+          {
+            "hex": "#bcbec1",
+            "share": 0.191
+          },
+          {
+            "hex": "#58523f",
+            "share": 0.112
+          },
+          {
+            "hex": "#8e8984",
+            "share": 0.032
+          }
+        ],
+        "strongest": "#3d481f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denge-sound-mirrors/commons-1.jpg",
+      "title": "File:Nuclear flask train on Denge Marsh - geograph.org.uk - 6107720.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nuclear_flask_train_on_Denge_Marsh_-_geograph.org.uk_-_6107720.jpg",
+      "author": "Gareth James",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4540,
+      "height": 3404,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e7157",
+            "share": 0.284
+          },
+          {
+            "hex": "#93bfe8",
+            "share": 0.26
+          },
+          {
+            "hex": "#72aae3",
+            "share": 0.243
+          },
+          {
+            "hex": "#423d2f",
+            "share": 0.172
+          },
+          {
+            "hex": "#c5ccce",
+            "share": 0.042
+          }
+        ],
+        "strongest": "#93bfe8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denge-sound-mirrors/commons-2.jpg",
+      "title": "File:Dungeness shingle - geograph.org.uk - 7344957.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dungeness_shingle_-_geograph.org.uk_-_7344957.jpg",
+      "author": "N Chadwick",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 684,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b9b9c0",
+            "share": 0.413
+          },
+          {
+            "hex": "#726a67",
+            "share": 0.282
+          },
+          {
+            "hex": "#615a57",
+            "share": 0.219
+          },
+          {
+            "hex": "#363231",
+            "share": 0.045
+          },
+          {
+            "hex": "#a0a0a5",
+            "share": 0.041
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denge-sound-mirrors/commons-3.jpg",
+      "title": "File:Dismantled railway to Lydd - geograph.org.uk - 2248743.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dismantled_railway_to_Lydd_-_geograph.org.uk_-_2248743.jpg",
+      "author": "David Anstiss",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4f4a33",
+            "share": 0.255
+          },
+          {
+            "hex": "#ececed",
+            "share": 0.232
+          },
+          {
+            "hex": "#d4d5d5",
+            "share": 0.218
+          },
+          {
+            "hex": "#393524",
+            "share": 0.158
+          },
+          {
+            "hex": "#6c624f",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#4f4a33"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denge-sound-mirrors/commons-4.jpg",
+      "title": "File:Water works and power stations, Dungeness - geograph.org.uk - 7344960.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Water_works_and_power_stations,_Dungeness_-_geograph.org.uk_-_7344960.jpg",
+      "author": "N Chadwick",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 684,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#675f5b",
+            "share": 0.278
+          },
+          {
+            "hex": "#c7c7cf",
+            "share": 0.249
+          },
+          {
+            "hex": "#bcbdc4",
+            "share": 0.24
+          },
+          {
+            "hex": "#4e4932",
+            "share": 0.22
+          },
+          {
+            "hex": "#969496",
+            "share": 0.012
+          }
+        ],
+        "strongest": "#4e4932"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Water Tower - geograph.org.uk - 7344958.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3d481f",
+        "share": 0.343
+      },
+      {
+        "hex": "#d2d3d8",
+        "share": 0.323
+      },
+      {
+        "hex": "#bcbec1",
+        "share": 0.191
+      },
+      {
+        "hex": "#58523f",
+        "share": 0.112
+      },
+      {
+        "hex": "#8e8984",
+        "share": 0.032
+      }
+    ],
+    "strongest": "#3d481f"
+  }
+}

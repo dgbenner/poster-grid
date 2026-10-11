@@ -1,0 +1,269 @@
+{
+  "id": "valley-of-the-temples",
+  "name": "Valley of the Temples, Agrigento",
+  "lat": 37.2906,
+  "lng": 13.5854,
+  "enrichedAt": "2026-10-11T01:21:42.280Z",
+  "place": {
+    "town": "Agrigento",
+    "locality": null,
+    "county": "Agrigento",
+    "adminArea": "Agrigento",
+    "region": "Sicily",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=37.2906&lon=13.5854&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Maddalusa, San Leone, Agrigento, Sicily, 92100, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Agrigento",
+      "description": "Comune in Sicily, Italy",
+      "extract": "Agrigento is a city on the southern coast of the autonomous island region of Sicily in Italy, capital of the province of Agrigento. As of 2025, with a population of 55,227, it is also the largest city in the province, 10th-largest in Sicily and 115th-largest in Italy.",
+      "url": "https://en.wikipedia.org/wiki/Agrigento",
+      "coordinates": {
+        "lat": 37.3125,
+        "lng": 13.575
+      },
+      "km": 2.6,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Agrigento_dalla_Valle_dei_Templi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Agrigento",
+      "description": "Comune in Sicily, Italy",
+      "extract": "Agrigento is a city on the southern coast of the autonomous island region of Sicily in Italy, capital of the province of Agrigento. As of 2025, with a population of 55,227, it is also the largest city in the province, 10th-largest in Sicily and 115th-largest in Italy.",
+      "url": "https://en.wikipedia.org/wiki/Agrigento",
+      "coordinates": {
+        "lat": 37.3125,
+        "lng": 13.575
+      },
+      "km": 2.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Agrigento_dalla_Valle_dei_Templi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The great Doric temples; most important vestige of classical culture in Sicily.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/valley-of-the-temples/own-valley-of-the-temples.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/valley-of-the-temples.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f5952",
+            "share": 0.269
+          },
+          {
+            "hex": "#8f7963",
+            "share": 0.251
+          },
+          {
+            "hex": "#070b0b",
+            "share": 0.17
+          },
+          {
+            "hex": "#303637",
+            "share": 0.165
+          },
+          {
+            "hex": "#cda97d",
+            "share": 0.144
+          }
+        ],
+        "strongest": "#cda97d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/valley-of-the-temples/commons-1.jpg",
+      "title": "File:In Agrigento Valley of the Temples.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:In_Agrigento_Valley_of_the_Temples.jpg",
+      "author": "Maasaak",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#937a47",
+            "share": 0.351
+          },
+          {
+            "hex": "#6c5937",
+            "share": 0.231
+          },
+          {
+            "hex": "#bb9f61",
+            "share": 0.178
+          },
+          {
+            "hex": "#38321f",
+            "share": 0.139
+          },
+          {
+            "hex": "#b9cae3",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#937a47"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/valley-of-the-temples/commons-2.jpg",
+      "title": "File:92100 Agrigento, Province of Agrigento, Italy - panoramio (27).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:92100_Agrigento,_Province_of_Agrigento,_Italy_-_panoramio_(27).jpg",
+      "author": "trolvag",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4633,
+      "height": 2756,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5d789a",
+            "share": 0.28
+          },
+          {
+            "hex": "#352618",
+            "share": 0.239
+          },
+          {
+            "hex": "#e2b678",
+            "share": 0.18
+          },
+          {
+            "hex": "#886742",
+            "share": 0.162
+          },
+          {
+            "hex": "#a0b2c0",
+            "share": 0.139
+          }
+        ],
+        "strongest": "#e2b678"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/valley-of-the-temples/commons-3.jpg",
+      "title": "File:Agrigento, Ancient and Modern.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Agrigento,_Ancient_and_Modern.jpg",
+      "author": "Alun Salt from Derby and Leicester, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2076,
+      "height": 1492,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d0d4e0",
+            "share": 0.321
+          },
+          {
+            "hex": "#b29064",
+            "share": 0.189
+          },
+          {
+            "hex": "#303a22",
+            "share": 0.179
+          },
+          {
+            "hex": "#826c42",
+            "share": 0.174
+          },
+          {
+            "hex": "#a5a5aa",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#b29064"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/valley-of-the-temples/commons-4.jpg",
+      "title": "File:Agrigento-Tempio della Concordia01.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Agrigento-Tempio_della_Concordia01.JPG",
+      "author": "Evan Erickson",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2592,
+      "height": 1944,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d2d3d5",
+            "share": 0.316
+          },
+          {
+            "hex": "#be8f4d",
+            "share": 0.245
+          },
+          {
+            "hex": "#423319",
+            "share": 0.2
+          },
+          {
+            "hex": "#8a6634",
+            "share": 0.159
+          },
+          {
+            "hex": "#b5bbc3",
+            "share": 0.08
+          }
+        ],
+        "strongest": "#be8f4d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5f5952",
+        "share": 0.269
+      },
+      {
+        "hex": "#8f7963",
+        "share": 0.251
+      },
+      {
+        "hex": "#070b0b",
+        "share": 0.17
+      },
+      {
+        "hex": "#303637",
+        "share": 0.165
+      },
+      {
+        "hex": "#cda97d",
+        "share": 0.144
+      }
+    ],
+    "strongest": "#cda97d"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": "douai-art-nouveau",
+  "name": "Art Nouveau storefront, Douai",
+  "lat": 50.3714,
+  "lng": 3.0794,
+  "enrichedAt": "2026-10-11T01:21:41.510Z",
+  "place": {
+    "town": "Douai",
+    "locality": "Faubourg de Paris",
+    "county": "Nord",
+    "adminArea": "Nord",
+    "region": "Hauts-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.3714&lon=3.0794&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Faubourg de Paris, Douai, Nord, Hauts-de-France, Metropolitan France, 59500, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Douai",
+      "description": "City in Hauts-de-France, France",
+      "extract": "Douai is a city in the Nord département in northern France. It is a sub-prefecture of the department. Located on the river Scarpe some 40 kilometres from Lille and 25 km (16 mi) from Arras, Douai is home to one of the region's most impressive belfries.",
+      "url": "https://en.wikipedia.org/wiki/Douai",
+      "coordinates": {
+        "lat": 50.3714,
+        "lng": 3.08
+      },
+      "km": 0,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/La_Fontaine_de_la_Place_d%27Armes_de_Douai.jpg/3840px-La_Fontaine_de_la_Place_d%27Armes_de_Douai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Douai",
+      "description": "City in Hauts-de-France, France",
+      "extract": "Douai is a city in the Nord département in northern France. It is a sub-prefecture of the department. Located on the river Scarpe some 40 kilometres from Lille and 25 km (16 mi) from Arras, Douai is home to one of the region's most impressive belfries.",
+      "url": "https://en.wikipedia.org/wiki/Douai",
+      "coordinates": {
+        "lat": 50.3714,
+        "lng": 3.08
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/La_Fontaine_de_la_Place_d%27Armes_de_Douai.jpg/3840px-La_Fontaine_de_la_Place_d%27Armes_de_Douai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ornate glass shopfront added 1904, by Albert Pépe.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/douai-art-nouveau/own-douai-art-nouveau.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/douai-art-nouveau.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.522
+          },
+          {
+            "hex": "#c0beb0",
+            "share": 0.194
+          },
+          {
+            "hex": "#868371",
+            "share": 0.151
+          },
+          {
+            "hex": "#5d5a4f",
+            "share": 0.08
+          },
+          {
+            "hex": "#39322e",
+            "share": 0.053
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/douai-art-nouveau/commons-1.jpg",
+      "title": "File:La Fontaine de la Place d'Armes de Douai.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Fontaine_de_la_Place_d%27Armes_de_Douai.jpg",
+      "author": "JackyM59",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5662,
+      "height": 3723,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#989898",
+            "share": 0.25
+          },
+          {
+            "hex": "#81a4d9",
+            "share": 0.249
+          },
+          {
+            "hex": "#807475",
+            "share": 0.199
+          },
+          {
+            "hex": "#585154",
+            "share": 0.159
+          },
+          {
+            "hex": "#25262a",
+            "share": 0.143
+          }
+        ],
+        "strongest": "#81a4d9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/douai-art-nouveau/commons-2.jpg",
+      "title": "File:Beffroi de Douai.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beffroi_de_Douai.jpg",
+      "author": "JackyM59",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2837,
+      "height": 5399,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#97b6e3",
+            "share": 0.245
+          },
+          {
+            "hex": "#afc9e7",
+            "share": 0.238
+          },
+          {
+            "hex": "#393838",
+            "share": 0.221
+          },
+          {
+            "hex": "#626161",
+            "share": 0.198
+          },
+          {
+            "hex": "#8d8d8c",
+            "share": 0.098
+          }
+        ],
+        "strongest": "#97b6e3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/douai-art-nouveau/commons-3.jpg",
+      "title": "File:Collégiale Saint-Pierre de Douai (92705).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coll%C3%A9giale_Saint-Pierre_de_Douai_(92705).jpg",
+      "author": "JackyM59",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3170,
+      "height": 5307,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6f90cc",
+            "share": 0.297
+          },
+          {
+            "hex": "#897e77",
+            "share": 0.254
+          },
+          {
+            "hex": "#3f3a3d",
+            "share": 0.172
+          },
+          {
+            "hex": "#c8bfb4",
+            "share": 0.166
+          },
+          {
+            "hex": "#a4b9df",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#6f90cc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/douai-art-nouveau/commons-4.jpg",
+      "title": "File:Douai - collégiale Saint-Pierre 13.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Douai_-_coll%C3%A9giale_Saint-Pierre_13.JPG",
+      "author": "Remi Mathis",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2312,
+      "height": 3128,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2e241a",
+            "share": 0.26
+          },
+          {
+            "hex": "#dbdddd",
+            "share": 0.223
+          },
+          {
+            "hex": "#676867",
+            "share": 0.208
+          },
+          {
+            "hex": "#474540",
+            "share": 0.181
+          },
+          {
+            "hex": "#9ea0a2",
+            "share": 0.127
+          }
+        ],
+        "strongest": "#2e241a"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Cartulaire douai 3 colléges.JPG",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.522
+      },
+      {
+        "hex": "#c0beb0",
+        "share": 0.194
+      },
+      {
+        "hex": "#868371",
+        "share": 0.151
+      },
+      {
+        "hex": "#5d5a4f",
+        "share": 0.08
+      },
+      {
+        "hex": "#39322e",
+        "share": 0.053
+      }
+    ],
+    "strongest": null
+  }
+}

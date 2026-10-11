@@ -1,0 +1,281 @@
+{
+  "id": "st-peter-s-seminary",
+  "name": "St Peter's Seminary",
+  "lat": 55.9703108,
+  "lng": -4.6405332,
+  "enrichedAt": "2026-10-11T01:21:45.909Z",
+  "place": {
+    "town": "Cardross",
+    "locality": null,
+    "county": "Argyll and Bute",
+    "adminArea": "Argyll and Bute",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9703108&lon=-4.6405332&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Low Milndovan, Cardross, Argyll and Bute, Scotland, G82 5ET, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "st-conans-kirk",
+        "name": "St Conan's Kirk",
+        "km": 53.9
+      },
+      {
+        "id": "machir-bay",
+        "name": "Machir Bay (Islay)",
+        "km": 114.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "St Peter's Seminary, Cardross",
+      "description": "Former Roman Catholic seminary near Cardross, Argyll and Bute, Scotland",
+      "extract": "St Peter's Seminary is a former Roman Catholic seminary near Cardross, Argyll and Bute, Scotland. Designed by the firm of Gillespie, Kidd & Coia, it has been described by the international architecture conservation organisation Docomomo International as a modern \"building of world significance\". It is one of only 42 post-war buildings in Scotland to be listed at Category A, the highest level of protection for a building of \"special architectural or historic interest\". It has been abandoned since 1987, and is currently in a ruined state. In July 2020, the site was given to the Kilmahew Education Trust Ltd who plan to reinstate the educational elements of the Seminary Complex after conservation and restoration.",
+      "url": "https://en.wikipedia.org/wiki/St_Peter's_Seminary%2C_Cardross",
+      "coordinates": {
+        "lat": 55.9703,
+        "lng": -4.6406
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GK%26C_St_Peter%27s_chapel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Cardross",
+      "description": "Village in Argyll and Bute, Scotland",
+      "extract": "Cardross is a large village with a population of 2,032 (2022) in Scotland, on the north side of the Firth of Clyde, situated halfway between Dumbarton and Helensburgh. Cardross is in the historic geographical county of Dunbartonshire but the modern political local authority of Argyll and Bute.",
+      "url": "https://en.wikipedia.org/wiki/Cardross",
+      "coordinates": {
+        "lat": 55.9625,
+        "lng": -4.65277778
+      },
+      "km": 1.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Geilston_House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Gillespie Kidd and Coia's A-listed modernist seminary near Cardross, now a celebrated concrete ruin.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/st-peter-s-seminary/own-st-peter-s-seminary.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/st-peter-s-seminary.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#868779",
+            "share": 0.227
+          },
+          {
+            "hex": "#626253",
+            "share": 0.218
+          },
+          {
+            "hex": "#434336",
+            "share": 0.2
+          },
+          {
+            "hex": "#abada4",
+            "share": 0.196
+          },
+          {
+            "hex": "#d8dad6",
+            "share": 0.159
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peter-s-seminary/commons-1.jpg",
+      "title": "File:St Peter's Seminary, Cardross - Air - October 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Seminary,_Cardross_-_Air_-_October_2022.jpg",
+      "author": "TheWishy",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 5272,
+      "height": 3948,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7a7732",
+            "share": 0.291
+          },
+          {
+            "hex": "#9d924d",
+            "share": 0.238
+          },
+          {
+            "hex": "#54562b",
+            "share": 0.229
+          },
+          {
+            "hex": "#76715e",
+            "share": 0.203
+          },
+          {
+            "hex": "#b4b0a9",
+            "share": 0.039
+          }
+        ],
+        "strongest": "#7a7732"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peter-s-seminary/commons-2.jpg",
+      "title": "File:Surviving Fixtures of St. Peter's Seminary.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Surviving_Fixtures_of_St._Peter%27s_Seminary.jpg",
+      "author": "RogueBiochemist",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#251f13",
+            "share": 0.362
+          },
+          {
+            "hex": "#35312a",
+            "share": 0.311
+          },
+          {
+            "hex": "#0e110b",
+            "share": 0.211
+          },
+          {
+            "hex": "#555952",
+            "share": 0.092
+          },
+          {
+            "hex": "#c0c5aa",
+            "share": 0.024
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peter-s-seminary/commons-3.jpg",
+      "title": "File:Interior of St Peter's Seminary, Cardross, Scotland.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_St_Peter%27s_Seminary,_Cardross,_Scotland.jpg",
+      "author": "Jaffa600",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5700,
+      "height": 3756,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#513a18",
+            "share": 0.269
+          },
+          {
+            "hex": "#7b5c28",
+            "share": 0.268
+          },
+          {
+            "hex": "#2a1d10",
+            "share": 0.194
+          },
+          {
+            "hex": "#ac854a",
+            "share": 0.164
+          },
+          {
+            "hex": "#e4be87",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#513a18"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peter-s-seminary/commons-4.jpg",
+      "title": "File:St. Peter’s Seminary.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Peter%E2%80%99s_Seminary.jpg",
+      "author": "Mark",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3000,
+      "height": 2250,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2e2722",
+            "share": 0.334
+          },
+          {
+            "hex": "#453d37",
+            "share": 0.268
+          },
+          {
+            "hex": "#191313",
+            "share": 0.201
+          },
+          {
+            "hex": "#6a6154",
+            "share": 0.145
+          },
+          {
+            "hex": "#a69e96",
+            "share": 0.052
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#868779",
+        "share": 0.227
+      },
+      {
+        "hex": "#626253",
+        "share": 0.218
+      },
+      {
+        "hex": "#434336",
+        "share": 0.2
+      },
+      {
+        "hex": "#abada4",
+        "share": 0.196
+      },
+      {
+        "hex": "#d8dad6",
+        "share": 0.159
+      }
+    ],
+    "strongest": null
+  }
+}

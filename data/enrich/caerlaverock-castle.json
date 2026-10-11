@@ -1,0 +1,279 @@
+{
+  "id": "caerlaverock-castle",
+  "name": "Caerlaverock Castle",
+  "lat": 54.9758,
+  "lng": -3.5267,
+  "enrichedAt": "2026-10-11T01:21:30.448Z",
+  "place": {
+    "town": "Shearington",
+    "locality": null,
+    "county": "Dumfries and Galloway",
+    "adminArea": "Dumfries and Galloway",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=54.9758&lon=-3.5267&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Shearington, Dumfries and Galloway, Scotland, DG1 4RT, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "kenna-power-stations",
+        "name": "Michael Kenna power stations",
+        "km": 19.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Caerlaverock Castle",
+      "description": "Castle in Dumfries and Galloway, Scotland",
+      "extract": "Caerlaverock Castle is a moated triangular castle first built in the 13th century. It is located on the southern coast of Scotland, eleven kilometres south of Dumfries, on the edge of the Caerlaverock National Nature Reserve. Caerlaverock was a stronghold of the Maxwell family from the 13th century until the 17th century, when the castle was abandoned. It was besieged by the English during the Wars of Scottish Independence, and underwent several partial demolitions and reconstructions over the 14th and 15th centuries. In the 17th century, the Maxwells were created Earls of Nithsdale, and built a new lodging within the walls, described as among \"the most ambitious early classical domestic architecture in Scotland\". In 1640 the castle was besieged for the last time by the Protestant Covenanters army, and was subsequently abandoned. Although demolished and rebuilt several times, the castle retains the distinctive triangular plan first laid out in the 13th century. Caerlaverock Castle was built to control trade in early times.",
+      "url": "https://en.wikipedia.org/wiki/Caerlaverock_Castle",
+      "coordinates": {
+        "lat": 54.9756408,
+        "lng": -3.5239534
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Caerlaverock_Castle_from_the_air.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The only triangular castle in Britain, ringed by a moat.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/caerlaverock-castle/own-caerlaverock-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/caerlaverock-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#496531",
+            "share": 0.343
+          },
+          {
+            "hex": "#151618",
+            "share": 0.218
+          },
+          {
+            "hex": "#344427",
+            "share": 0.201
+          },
+          {
+            "hex": "#65764d",
+            "share": 0.174
+          },
+          {
+            "hex": "#a69989",
+            "share": 0.065
+          }
+        ],
+        "strongest": "#496531"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/caerlaverock-castle/commons-1.jpg",
+      "title": "File:Caerlaverock Castle 2016.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Caerlaverock_Castle_2016.jpg",
+      "author": "DeFacto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4523,
+      "height": 3007,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#48581f",
+            "share": 0.242
+          },
+          {
+            "hex": "#898072",
+            "share": 0.216
+          },
+          {
+            "hex": "#9bb2bf",
+            "share": 0.201
+          },
+          {
+            "hex": "#6c624d",
+            "share": 0.172
+          },
+          {
+            "hex": "#c1d0db",
+            "share": 0.169
+          }
+        ],
+        "strongest": "#48581f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/caerlaverock-castle/commons-2.jpg",
+      "title": "File:Caerlaverock Castle from the air.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Caerlaverock_Castle_from_the_air.jpg",
+      "author": "Simon Ledingham",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1100,
+      "height": 840,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#496631",
+            "share": 0.332
+          },
+          {
+            "hex": "#151718",
+            "share": 0.226
+          },
+          {
+            "hex": "#344527",
+            "share": 0.199
+          },
+          {
+            "hex": "#64754b",
+            "share": 0.175
+          },
+          {
+            "hex": "#a59787",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#496631"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/caerlaverock-castle/commons-3.jpg",
+      "title": "File:Jacobite broadside - Caerlaverock Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacobite_broadside_-_Caerlaverock_Castle.jpg",
+      "author": "Steel engraving by J. H. Kernot after a drawing by H. Melville",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1681,
+      "height": 1163,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#877f79",
+            "share": 0.317
+          },
+          {
+            "hex": "#c9c4bb",
+            "share": 0.218
+          },
+          {
+            "hex": "#635d59",
+            "share": 0.199
+          },
+          {
+            "hex": "#433e3c",
+            "share": 0.152
+          },
+          {
+            "hex": "#aba29a",
+            "share": 0.113
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/caerlaverock-castle/commons-4.jpg",
+      "title": "File:Caerlaverock Castle - - geograph.org.uk - 2098194.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Caerlaverock_Castle_-_-_geograph.org.uk_-_2098194.jpg",
+      "author": "Humphrey Bolton",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#29371f",
+            "share": 0.266
+          },
+          {
+            "hex": "#708534",
+            "share": 0.244
+          },
+          {
+            "hex": "#d1edf9",
+            "share": 0.239
+          },
+          {
+            "hex": "#4a5434",
+            "share": 0.18
+          },
+          {
+            "hex": "#8e8e78",
+            "share": 0.072
+          }
+        ],
+        "strongest": "#708534"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Caerlaverock Castle, ground floor plan, annotated with Ranges.jpg",
+      "why": "logo/map/album filter"
+    },
+    {
+      "title": "File:Caerlaverock Castle by Joseph Mallord William Turner - Joseph Mallord William Turner - ABDAG000623.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:A trebuchet's view of Caerlaverock Castle - geograph.org.uk - 1461285.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:The gatehouse, Caerlaverock Castle - geograph.org.uk - 259784.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#496531",
+        "share": 0.343
+      },
+      {
+        "hex": "#151618",
+        "share": 0.218
+      },
+      {
+        "hex": "#344427",
+        "share": 0.201
+      },
+      {
+        "hex": "#65764d",
+        "share": 0.174
+      },
+      {
+        "hex": "#a69989",
+        "share": 0.065
+      }
+    ],
+    "strongest": "#496531"
+  }
+}

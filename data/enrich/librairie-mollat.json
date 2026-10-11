@@ -1,0 +1,286 @@
+{
+  "id": "librairie-mollat",
+  "name": "Librairie Mollat, Bordeaux",
+  "lat": 44.8412,
+  "lng": -0.5749,
+  "enrichedAt": "2026-10-11T01:21:41.147Z",
+  "place": {
+    "town": "Bordeaux",
+    "locality": "Bordeaux Centre",
+    "county": "Gironde",
+    "adminArea": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.8412&lon=-0.5749&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bordeaux, Port of the Moon, Bordeaux Centre, Bordeaux, Gironde, Nouvelle-Aquitaine, Metropolitan France, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "bordeaux-1",
+        "name": "Bordeaux",
+        "km": 0.51
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "bordeaux-1",
+        "name": "Bordeaux",
+        "km": 0.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Bordeaux",
+      "description": "Prefecture and commune in Nouvelle-Aquitaine, France",
+      "extract": "Bordeaux is a city on the river Garonne in the Gironde department, southwestern France. A port city, it is the capital of the Nouvelle-Aquitaine region, as well as the prefecture of the Gironde department. Its inhabitants are called \"Bordelais\" (masculine) or \"Bordelaises\" (feminine). The term \"Bordelais\" may also refer to the city and its surrounding region.",
+      "url": "https://en.wikipedia.org/wiki/Bordeaux",
+      "coordinates": {
+        "lat": 44.84,
+        "lng": -0.58
+      },
+      "km": 0.4,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bordeaux_Place_de_la_Bourse_de_nuit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bordeaux",
+      "description": "Prefecture and commune in Nouvelle-Aquitaine, France",
+      "extract": "Bordeaux is a city on the river Garonne in the Gironde department, southwestern France. A port city, it is the capital of the Nouvelle-Aquitaine region, as well as the prefecture of the Gironde department. Its inhabitants are called \"Bordelais\" (masculine) or \"Bordelaises\" (feminine). The term \"Bordelais\" may also refer to the city and its surrounding region.",
+      "url": "https://en.wikipedia.org/wiki/Bordeaux",
+      "coordinates": {
+        "lat": 44.84,
+        "lng": -0.58
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bordeaux_Place_de_la_Bourse_de_nuit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "France's oldest independent bookshop.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "literary"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/librairie-mollat/own-librairie-mollat.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/librairie-mollat.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f3620",
+            "share": 0.275
+          },
+          {
+            "hex": "#9f8a68",
+            "share": 0.219
+          },
+          {
+            "hex": "#020101",
+            "share": 0.199
+          },
+          {
+            "hex": "#695b40",
+            "share": 0.18
+          },
+          {
+            "hex": "#495b8c",
+            "share": 0.127
+          }
+        ],
+        "strongest": "#3f3620"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/librairie-mollat/commons-1.jpg",
+      "title": "File:026 - Hôtel de ville Place Pey-Berland - Bordeaux.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:026_-_H%C3%B4tel_de_ville_Place_Pey-Berland_-_Bordeaux.jpg",
+      "author": "Patrick Despoix",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3456,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b2b8ba",
+            "share": 0.278
+          },
+          {
+            "hex": "#81c4f6",
+            "share": 0.265
+          },
+          {
+            "hex": "#696661",
+            "share": 0.175
+          },
+          {
+            "hex": "#3e3e3c",
+            "share": 0.144
+          },
+          {
+            "hex": "#908f89",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#81c4f6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/librairie-mollat/commons-2.jpg",
+      "title": "File:034 - Grand Théâtre siège de l'Opéra national - Bordeaux.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:034_-_Grand_Th%C3%A9%C3%A2tre_si%C3%A8ge_de_l%27Op%C3%A9ra_national_-_Bordeaux.jpg",
+      "author": "Patrick Despoix",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3456,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#62a5e2",
+            "share": 0.248
+          },
+          {
+            "hex": "#76716a",
+            "share": 0.215
+          },
+          {
+            "hex": "#cbc3ba",
+            "share": 0.207
+          },
+          {
+            "hex": "#494239",
+            "share": 0.181
+          },
+          {
+            "hex": "#a3a099",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#62a5e2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/librairie-mollat/commons-3.jpg",
+      "title": "File:151 - Le Pont de Pierre - Bordeaux.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:151_-_Le_Pont_de_Pierre_-_Bordeaux.jpg",
+      "author": "Patrick Despoix",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3168,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a7e0fa",
+            "share": 0.282
+          },
+          {
+            "hex": "#7c7f4c",
+            "share": 0.209
+          },
+          {
+            "hex": "#c2c4bb",
+            "share": 0.171
+          },
+          {
+            "hex": "#aaa17f",
+            "share": 0.17
+          },
+          {
+            "hex": "#4c522e",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#a7e0fa"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/librairie-mollat/commons-4.jpg",
+      "title": "File:Beaux arts bordeaux.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beaux_arts_bordeaux.jpg",
+      "author": "Michel BUZE",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1944,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#868479",
+            "share": 0.278
+          },
+          {
+            "hex": "#5f6650",
+            "share": 0.228
+          },
+          {
+            "hex": "#93baf0",
+            "share": 0.221
+          },
+          {
+            "hex": "#232b1f",
+            "share": 0.162
+          },
+          {
+            "hex": "#c1bcb0",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#93baf0"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Alain Juppé, Parc Bordeaux Ashdod, Israel.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3f3620",
+        "share": 0.275
+      },
+      {
+        "hex": "#9f8a68",
+        "share": 0.219
+      },
+      {
+        "hex": "#020101",
+        "share": 0.199
+      },
+      {
+        "hex": "#695b40",
+        "share": 0.18
+      },
+      {
+        "hex": "#495b8c",
+        "share": 0.127
+      }
+    ],
+    "strongest": "#3f3620"
+  }
+}

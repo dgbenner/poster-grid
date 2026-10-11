@@ -1,0 +1,150 @@
+{
+  "id": "moore-hall",
+  "name": "Moore Hall",
+  "lat": 53.7167,
+  "lng": -9.2333,
+  "enrichedAt": "2026-10-11T01:21:38.195Z",
+  "place": {
+    "town": "County Mayo",
+    "locality": null,
+    "county": "County Mayo",
+    "adminArea": "County Mayo",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.7167&lon=-9.2333&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Drumnashinnagh, Burriscarra Electoral Division, Castlebar Municipal District, County Mayo, Connacht, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Moore Hall, County Mayo",
+      "description": "Building in County Mayo, Ireland",
+      "extract": "Moore Hall is a ruined 18th-century manor house located near Carnacon in County Mayo, Ireland. Built around 1792, it became the ancestral home of the Moore family, including the novelist George Augustus Moore. The house was burned during the Irish Civil War in 1923 and remains a ruin. The surrounding forested estate is now managed by Coillte as a public amenity, while the house and parts of the former estate are owned by Mayo County Council.",
+      "url": "https://en.wikipedia.org/wiki/Moore_Hall%2C_County_Mayo",
+      "coordinates": {
+        "lat": 53.7134,
+        "lng": -9.2264
+      },
+      "km": 0.6,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/31/Moore_Hall%2C_Co._Mayo%2C_late_1800s_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Built 1792–95, burned by the IRA in 1923 during the Civil War; it and its surrounding 80 acres are now a national park.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/moore-hall/commons-1.jpg",
+      "title": "File:Moore Hall, Co. Mayo, late 1800s 02 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Moore_Hall,_Co._Mayo,_late_1800s_02_(cropped).jpg",
+      "author": "Robert French",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1480,
+      "height": 1258,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8a8a8a",
+            "share": 0.211
+          },
+          {
+            "hex": "#6a6a6a",
+            "share": 0.207
+          },
+          {
+            "hex": "#ebebeb",
+            "share": 0.202
+          },
+          {
+            "hex": "#373737",
+            "share": 0.199
+          },
+          {
+            "hex": "#b4b4b4",
+            "share": 0.181
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moore-hall/commons-2.jpg",
+      "title": "File:Moore Hall 22nd Aug 2010 003.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Moore_Hall_22nd_Aug_2010_003.JPG",
+      "author": "Comhar",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#696b5a",
+            "share": 0.287
+          },
+          {
+            "hex": "#444b2d",
+            "share": 0.252
+          },
+          {
+            "hex": "#8e908a",
+            "share": 0.188
+          },
+          {
+            "hex": "#e9f1f7",
+            "share": 0.173
+          },
+          {
+            "hex": "#10160b",
+            "share": 0.1
+          }
+        ],
+        "strongest": "#444b2d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#8a8a8a",
+        "share": 0.211
+      },
+      {
+        "hex": "#6a6a6a",
+        "share": 0.207
+      },
+      {
+        "hex": "#ebebeb",
+        "share": 0.202
+      },
+      {
+        "hex": "#373737",
+        "share": 0.199
+      },
+      {
+        "hex": "#b4b4b4",
+        "share": 0.181
+      }
+    ],
+    "strongest": null
+  }
+}

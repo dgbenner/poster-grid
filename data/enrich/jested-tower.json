@@ -1,0 +1,281 @@
+{
+  "id": "jested-tower",
+  "name": "Ještěd Tower",
+  "lat": 50.7327738,
+  "lng": 14.9839199,
+  "enrichedAt": "2026-10-11T01:21:47.160Z",
+  "place": {
+    "town": "Liberec",
+    "locality": "Horní Hanychov",
+    "county": "Liberec Region",
+    "adminArea": null,
+    "region": "Liberec Region",
+    "country": "Czechia",
+    "sovereign": "Czechia",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.7327738&lon=14.9839199&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Horní Hanychov, nečleněný Liberec, Liberec, okres Liberec, Liberec Region, 460 08, Czechia"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "czech-jet-vr4u-europe",
+        "name": "Czech-Jet VR4U Europe",
+        "km": 6.3
+      },
+      {
+        "id": "trosky-castle",
+        "name": "Trosky Castle",
+        "km": 29.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Ještěd Tower",
+      "description": "Television transmitter and hotel near Liberec, Czech Republic",
+      "extract": "Ještěd Tower is a television transmitter on top of Mount Ještěd near Liberec in the Czech Republic. Measuring 94 m (308 ft), it is made of reinforced concrete shaped in a \"hyperboloid\" form. The tower was designed by architect Karel Hubáček, who was assisted by Zdeněk Patrman, involved in building statics, and by Otakar Binar, who designed the interior furnishing. It took the team three years to finalize the structure design (1963–1966). The construction itself took seven years to finish (1966–1973).",
+      "url": "https://en.wikipedia.org/wiki/Je%C5%A1t%C4%9Bd_Tower",
+      "coordinates": {
+        "lat": 50.73222222,
+        "lng": 14.98527778
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Jested_002.JPG/1920px-Jested_002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Liberec",
+      "description": "City in the Czech Republic",
+      "extract": "Liberec is a city in the Czech Republic. It has about 108,000 inhabitants, making it the fifth largest city in the country. It lies on the Lusatian Neisse River, in a basin surrounded by mountains. The city centre is well preserved and is protected as an urban monument zone.",
+      "url": "https://en.wikipedia.org/wiki/Liberec",
+      "coordinates": {
+        "lat": 50.76666667,
+        "lng": 15.06666667
+      },
+      "km": 6.9,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Liberec%2C_radnice%2C_v%C3%BDhled_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Hyperboloid concrete TV tower and hotel crowning the Ještěd summit above Liberec, a Karel Hubáček modernist icon.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial",
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/jested-tower/own-jested-tower.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/jested-tower.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#25456f",
+            "share": 0.418
+          },
+          {
+            "hex": "#476994",
+            "share": 0.255
+          },
+          {
+            "hex": "#7f776e",
+            "share": 0.174
+          },
+          {
+            "hex": "#2d3542",
+            "share": 0.109
+          },
+          {
+            "hex": "#d6c8b7",
+            "share": 0.044
+          }
+        ],
+        "strongest": "#25456f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jested-tower/commons-1.jpg",
+      "title": "File:Jested 002.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Jested_002.JPG",
+      "author": "O. Mejsnar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2592,
+      "height": 3872,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#23436c",
+            "share": 0.419
+          },
+          {
+            "hex": "#456692",
+            "share": 0.288
+          },
+          {
+            "hex": "#817971",
+            "share": 0.177
+          },
+          {
+            "hex": "#3a3736",
+            "share": 0.074
+          },
+          {
+            "hex": "#d9cab9",
+            "share": 0.042
+          }
+        ],
+        "strongest": "#23436c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jested-tower/commons-2.jpg",
+      "title": "File:Ještěd tower 2025-12-01 06.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bd_tower_2025-12-01_06.jpg",
+      "author": "Leonhard Lenz",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 8144,
+      "height": 5424,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dfe1e7",
+            "share": 0.353
+          },
+          {
+            "hex": "#3f3a36",
+            "share": 0.215
+          },
+          {
+            "hex": "#cfd1d6",
+            "share": 0.199
+          },
+          {
+            "hex": "#5d5854",
+            "share": 0.179
+          },
+          {
+            "hex": "#9ea1a4",
+            "share": 0.054
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jested-tower/commons-3.jpg",
+      "title": "File:Ještěd tower 2025-12-01 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bd_tower_2025-12-01_03.jpg",
+      "author": "Leonhard Lenz",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5424,
+      "height": 8144,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d7d9e2",
+            "share": 0.319
+          },
+          {
+            "hex": "#4e4136",
+            "share": 0.251
+          },
+          {
+            "hex": "#c6c7cd",
+            "share": 0.23
+          },
+          {
+            "hex": "#aba8ab",
+            "share": 0.118
+          },
+          {
+            "hex": "#7e7774",
+            "share": 0.083
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jested-tower/commons-4.jpg",
+      "title": "File:Jested 002.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Jested_002.JPG",
+      "author": "O. Mejsnar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2592,
+      "height": 3872,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#23436c",
+            "share": 0.419
+          },
+          {
+            "hex": "#456692",
+            "share": 0.288
+          },
+          {
+            "hex": "#817971",
+            "share": 0.177
+          },
+          {
+            "hex": "#3a3736",
+            "share": 0.074
+          },
+          {
+            "hex": "#d9cab9",
+            "share": 0.042
+          }
+        ],
+        "strongest": "#23436c"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#25456f",
+        "share": 0.418
+      },
+      {
+        "hex": "#476994",
+        "share": 0.255
+      },
+      {
+        "hex": "#7f776e",
+        "share": 0.174
+      },
+      {
+        "hex": "#2d3542",
+        "share": 0.109
+      },
+      {
+        "hex": "#d6c8b7",
+        "share": 0.044
+      }
+    ],
+    "strongest": "#25456f"
+  }
+}

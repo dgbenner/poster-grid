@@ -1,0 +1,490 @@
+{
+  "id": "dean-village",
+  "name": "Dean Village",
+  "lat": 55.9525,
+  "lng": -3.2169,
+  "enrichedAt": "2026-10-11T01:21:30.367Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "West End",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9525&lon=-3.2169&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "West End, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.14
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1.27
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1.35
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 1.39
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 1.4
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 1.45
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 1.45
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 1.49
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 1.63
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 1.66
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 1.69
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 1.69
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 1.77
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 2.13
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 2.32
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 2.6
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 2.79
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 3.4
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 3.55
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 4.1
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.1
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1.3
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 1.4
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 1.4
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 1.5
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 1.5
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 1.5
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 1.6
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 1.7
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 1.7
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 1.7
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 1.8
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 2.1
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 2.3
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 2.6
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 2.8
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 3.4
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 3.6
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 4.1
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 5.6
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 11.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Dean Village",
+      "description": "Village near Edinburgh, Scotland",
+      "extract": "Dean Village is a former village immediately northwest of the city centre of Edinburgh, Scotland. It is bounded by Belford Road to the south and west, Belgrave Crescent Gardens to the north and below the Dean Bridge to the east. It was formerly known as the \"Water of Leith Village\" and was a successful grain milling area for more than 800 years. At one time there were no fewer than eleven working mills there, driven by water from the Water of Leith.",
+      "url": "https://en.wikipedia.org/wiki/Dean_Village",
+      "coordinates": {
+        "lat": 55.952,
+        "lng": -3.218
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dean_Village%2C_Edinburgh_%2837952869852%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 1.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Former milling village on the Water of Leith — a sudden pocket of quiet.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/dean-village/own-dean-village.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/dean-village.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#837973",
+            "share": 0.283
+          },
+          {
+            "hex": "#535f27",
+            "share": 0.264
+          },
+          {
+            "hex": "#363f18",
+            "share": 0.165
+          },
+          {
+            "hex": "#717a33",
+            "share": 0.165
+          },
+          {
+            "hex": "#8cc4e8",
+            "share": 0.123
+          }
+        ],
+        "strongest": "#8cc4e8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dean-village/commons-1.jpg",
+      "title": "File:Dean Village, Edinburgh (37952869852).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dean_Village,_Edinburgh_(37952869852).jpg",
+      "author": "Gary Campbell-Hall from Edinburgh, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3315,
+      "height": 2056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#617322",
+            "share": 0.27
+          },
+          {
+            "hex": "#3c4619",
+            "share": 0.252
+          },
+          {
+            "hex": "#6d6865",
+            "share": 0.226
+          },
+          {
+            "hex": "#9e8c76",
+            "share": 0.13
+          },
+          {
+            "hex": "#8bc4e9",
+            "share": 0.121
+          }
+        ],
+        "strongest": "#617322"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dean-village/commons-2.jpg",
+      "title": "File:Dean Village (14772855231).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dean_Village_(14772855231).jpg",
+      "author": "gnomonic",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2736,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#191e17",
+            "share": 0.28
+          },
+          {
+            "hex": "#405430",
+            "share": 0.27
+          },
+          {
+            "hex": "#878674",
+            "share": 0.188
+          },
+          {
+            "hex": "#dcd4bf",
+            "share": 0.151
+          },
+          {
+            "hex": "#7ca7d2",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#7ca7d2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dean-village/commons-3.jpg",
+      "title": "File:Dean Village Edinburgh - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dean_Village_Edinburgh_-_panoramio.jpg",
+      "author": "scott marsland",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3000,
+      "height": 1899,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#918167",
+            "share": 0.314
+          },
+          {
+            "hex": "#4d453a",
+            "share": 0.27
+          },
+          {
+            "hex": "#217be8",
+            "share": 0.198
+          },
+          {
+            "hex": "#dee2dc",
+            "share": 0.138
+          },
+          {
+            "hex": "#7abbf1",
+            "share": 0.081
+          }
+        ],
+        "strongest": "#217be8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dean-village/commons-4.jpg",
+      "title": "File:Dean Village river by night.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dean_Village_river_by_night.jpg",
+      "author": "Jorge Franganillo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4512,
+      "height": 2708,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2d1c08",
+            "share": 0.358
+          },
+          {
+            "hex": "#80a8e2",
+            "share": 0.257
+          },
+          {
+            "hex": "#68300b",
+            "share": 0.233
+          },
+          {
+            "hex": "#46464f",
+            "share": 0.102
+          },
+          {
+            "hex": "#a85925",
+            "share": 0.051
+          }
+        ],
+        "strongest": "#68300b"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Dean Village - geograph.org.uk - 405482.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Dean Village - geograph.org.uk - 719363.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#837973",
+        "share": 0.283
+      },
+      {
+        "hex": "#535f27",
+        "share": 0.264
+      },
+      {
+        "hex": "#363f18",
+        "share": 0.165
+      },
+      {
+        "hex": "#717a33",
+        "share": 0.165
+      },
+      {
+        "hex": "#8cc4e8",
+        "share": 0.123
+      }
+    ],
+    "strongest": "#8cc4e8"
+  }
+}

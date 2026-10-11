@@ -1,0 +1,288 @@
+{
+  "id": "loch-ness",
+  "name": "Loch Ness",
+  "lat": 57.3229,
+  "lng": -4.4244,
+  "enrichedAt": "2026-10-11T01:21:30.815Z",
+  "place": {
+    "town": null,
+    "locality": null,
+    "county": "Highland",
+    "adminArea": "Highland",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=57.3229&lon=-4.4244&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Highland, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "loch-ness-2",
+        "name": "Loch Ness",
+        "km": 0
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "loch-ness-2",
+        "name": "Loch Ness",
+        "km": 0
+      },
+      {
+        "id": "glenfinnan-viaduct",
+        "name": "Glenfinnan Viaduct",
+        "km": 78.5
+      },
+      {
+        "id": "highland-coos",
+        "name": "Highland coos",
+        "km": 82
+      },
+      {
+        "id": "isle-of-skye",
+        "name": "Isle of Skye (Fairy Glen, Sligachan)",
+        "km": 113.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Loch Ness",
+      "description": "Lake in Scotland",
+      "extract": "Loch Ness is a large freshwater loch in the Scottish Highlands. It takes its name from the River Ness, which flows from the northern end. Loch Ness is best known for claimed sightings of the cryptozoological Loch Ness Monster, also known affectionately as \"Nessie\".",
+      "url": "https://en.wikipedia.org/wiki/Loch_Ness",
+      "coordinates": {
+        "lat": 57.3,
+        "lng": -4.45
+      },
+      "km": 3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/LochNessUrquhart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Deep dark loch; Urquhart Castle on its shore.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/loch-ness/own-loch-ness.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/loch-ness.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#767a7c",
+            "share": 0.318
+          },
+          {
+            "hex": "#445870",
+            "share": 0.256
+          },
+          {
+            "hex": "#9699a1",
+            "share": 0.192
+          },
+          {
+            "hex": "#d4d5da",
+            "share": 0.138
+          },
+          {
+            "hex": "#5e6835",
+            "share": 0.095
+          }
+        ],
+        "strongest": "#445870"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loch-ness/commons-1.jpg",
+      "title": "File:Loch Ness 0406.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Loch_Ness_0406.JPG",
+      "author": "User:Paste",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#565158",
+            "share": 0.252
+          },
+          {
+            "hex": "#7b7c88",
+            "share": 0.228
+          },
+          {
+            "hex": "#2b272a",
+            "share": 0.198
+          },
+          {
+            "hex": "#d3d6e1",
+            "share": 0.165
+          },
+          {
+            "hex": "#a6b2c8",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#a6b2c8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loch-ness/commons-2.jpg",
+      "title": "File:Loch Ness Panoramin July 2008.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Loch_Ness_Panoramin_July_2008.JPG",
+      "author": "Carlesmari",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3392,
+      "height": 1384,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7da5c0",
+            "share": 0.267
+          },
+          {
+            "hex": "#394a54",
+            "share": 0.259
+          },
+          {
+            "hex": "#293842",
+            "share": 0.233
+          },
+          {
+            "hex": "#adc0cc",
+            "share": 0.162
+          },
+          {
+            "hex": "#4e606b",
+            "share": 0.079
+          }
+        ],
+        "strongest": "#7da5c0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loch-ness/commons-3.jpg",
+      "title": "File:Loch Ness from Urquhart Castle - kingsley - 30-JUN-09.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Loch_Ness_from_Urquhart_Castle_-_kingsley_-_30-JUN-09.jpg",
+      "author": "Gregory J Kingsley",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9bafcd",
+            "share": 0.242
+          },
+          {
+            "hex": "#425370",
+            "share": 0.209
+          },
+          {
+            "hex": "#61718d",
+            "share": 0.197
+          },
+          {
+            "hex": "#28344f",
+            "share": 0.188
+          },
+          {
+            "hex": "#c9d0df",
+            "share": 0.164
+          }
+        ],
+        "strongest": "#9bafcd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loch-ness/commons-4.jpg",
+      "title": "File:Highland , Loch Ness - geograph.org.uk - 4996477.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Highland_,_Loch_Ness_-_geograph.org.uk_-_4996477.jpg",
+      "author": "Lewis Clarke",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bbc1cb",
+            "share": 0.299
+          },
+          {
+            "hex": "#5e5753",
+            "share": 0.293
+          },
+          {
+            "hex": "#4e4947",
+            "share": 0.152
+          },
+          {
+            "hex": "#6e6663",
+            "share": 0.137
+          },
+          {
+            "hex": "#a7adb7",
+            "share": 0.12
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Loch Ness.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#767a7c",
+        "share": 0.318
+      },
+      {
+        "hex": "#445870",
+        "share": 0.256
+      },
+      {
+        "hex": "#9699a1",
+        "share": 0.192
+      },
+      {
+        "hex": "#d4d5da",
+        "share": 0.138
+      },
+      {
+        "hex": "#5e6835",
+        "share": 0.095
+      }
+    ],
+    "strongest": "#445870"
+  }
+}

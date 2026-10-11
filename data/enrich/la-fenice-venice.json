@@ -1,0 +1,311 @@
+{
+  "id": "la-fenice-venice",
+  "name": "La Fenice opera house",
+  "lat": 45.4337,
+  "lng": 12.3338,
+  "enrichedAt": "2026-10-11T01:21:41.878Z",
+  "place": {
+    "town": "Venice",
+    "locality": "Venezia-Murano-Burano",
+    "county": "Venezia",
+    "adminArea": "Venezia",
+    "region": "Veneto",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.4337&lon=12.3338&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Venezia-Murano-Burano, Burano, Venice, Venezia, Veneto, 30142, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "support-quinn-venice",
+        "name": "Lorenzo Quinn, Support (2017)",
+        "km": 0.22
+      },
+      {
+        "id": "lovati-san-marco-venice",
+        "name": "August Lovati, San Marco",
+        "km": 0.39
+      },
+      {
+        "id": "venice-carnival",
+        "name": "Venice Carnival",
+        "km": 0.5
+      },
+      {
+        "id": "venice",
+        "name": "Venice (the city)",
+        "km": 1.63
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "support-quinn-venice",
+        "name": "Lorenzo Quinn, Support (2017)",
+        "km": 0.2
+      },
+      {
+        "id": "lovati-san-marco-venice",
+        "name": "August Lovati, San Marco",
+        "km": 0.4
+      },
+      {
+        "id": "venice-carnival",
+        "name": "Venice Carnival",
+        "km": 0.5
+      },
+      {
+        "id": "venice",
+        "name": "Venice (the city)",
+        "km": 1.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "La Fenice",
+      "description": "Opera house in Venice, Italy",
+      "extract": "Teatro La Fenice is a historic opera house in Venice, Italy. It is one of \"the most famous and renowned landmarks in the history of Italian theatre\" and in the history of opera as a whole. Especially in the 19th century, La Fenice became the site of many famous operatic premieres at which several works by the four major bel canto era composers—Rossini, Bellini, Donizetti, and Verdi—were performed.",
+      "url": "https://en.wikipedia.org/wiki/La_Fenice",
+      "coordinates": {
+        "lat": 45.4337,
+        "lng": 12.3339
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gran_Teatro_La_Fenice%2C_Venice_%2830906998336%29.jpg/3840px-Gran_Teatro_La_Fenice%2C_Venice_%2830906998336%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Venice",
+      "description": "City in Veneto, Italy",
+      "extract": "Venice is a coastal city in northeastern Italy and the capital of the region of Veneto, as well as the Metropolitan City of Venice. It is built on a group of 126 islands that are separated by expanses of open water and by canals; portions of the city are linked by 472 bridges.",
+      "url": "https://en.wikipedia.org/wiki/Venice",
+      "coordinates": {
+        "lat": 45.4375,
+        "lng": 12.33583333
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/3840px-Venezia_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "\"The Phoenix,\" rebuilt from fire more than once; a Baroque jewel.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/la-fenice-venice/own-la-fenice-venice.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/la-fenice-venice.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a422c",
+            "share": 0.338
+          },
+          {
+            "hex": "#a4612d",
+            "share": 0.235
+          },
+          {
+            "hex": "#ab8365",
+            "share": 0.193
+          },
+          {
+            "hex": "#241812",
+            "share": 0.133
+          },
+          {
+            "hex": "#b2aca9",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#a4612d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/la-fenice-venice/commons-1.jpg",
+      "title": "File:Gran Teatro La Fenice, Venice (30906998336).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gran_Teatro_La_Fenice,_Venice_(30906998336).jpg",
+      "author": "Dimitris Kamaras from Athens, Greece",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c4c7ca",
+            "share": 0.286
+          },
+          {
+            "hex": "#9a9a9b",
+            "share": 0.24
+          },
+          {
+            "hex": "#6c6762",
+            "share": 0.224
+          },
+          {
+            "hex": "#25211f",
+            "share": 0.164
+          },
+          {
+            "hex": "#f9f9fa",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/la-fenice-venice/commons-2.jpg",
+      "title": "File:La Fenice Opera House from the stage.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Fenice_Opera_House_from_the_stage.jpg",
+      "author": "Pietro Tessarin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3724,
+      "height": 2960,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e614d",
+            "share": 0.337
+          },
+          {
+            "hex": "#694740",
+            "share": 0.243
+          },
+          {
+            "hex": "#997b79",
+            "share": 0.154
+          },
+          {
+            "hex": "#bd855d",
+            "share": 0.149
+          },
+          {
+            "hex": "#302528",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#8e614d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/la-fenice-venice/commons-3.jpg",
+      "title": "File:Gran Teatro La Fenice, Venice (30906998336).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gran_Teatro_La_Fenice,_Venice_(30906998336).jpg",
+      "author": "Dimitris Kamaras from Athens, Greece",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c4c7ca",
+            "share": 0.286
+          },
+          {
+            "hex": "#9a9a9b",
+            "share": 0.24
+          },
+          {
+            "hex": "#6c6762",
+            "share": 0.224
+          },
+          {
+            "hex": "#25211f",
+            "share": 0.164
+          },
+          {
+            "hex": "#f9f9fa",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/la-fenice-venice/commons-4.jpg",
+      "title": "File:Interior of La Fenice in 1837. Original at Museo Correr.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_La_Fenice_in_1837._Original_at_Museo_Correr.jpg",
+      "author": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2178,
+      "height": 1470,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9f9c8b",
+            "share": 0.304
+          },
+          {
+            "hex": "#bab8a7",
+            "share": 0.258
+          },
+          {
+            "hex": "#817d6d",
+            "share": 0.22
+          },
+          {
+            "hex": "#d7d4c7",
+            "share": 0.132
+          },
+          {
+            "hex": "#4a453d",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6a422c",
+        "share": 0.338
+      },
+      {
+        "hex": "#a4612d",
+        "share": 0.235
+      },
+      {
+        "hex": "#ab8365",
+        "share": 0.193
+      },
+      {
+        "hex": "#241812",
+        "share": 0.133
+      },
+      {
+        "hex": "#b2aca9",
+        "share": 0.101
+      }
+    ],
+    "strongest": "#a4612d"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "grand-marnier-bourg-charente",
+  "name": "Grand Marnier — Château de Bourg-Charente, Cognac",
+  "lat": 45.6889,
+  "lng": -0.2406,
+  "enrichedAt": "2026-10-11T01:21:41.264Z",
+  "place": {
+    "town": "Julienne",
+    "locality": null,
+    "county": "Charente",
+    "adminArea": "Charente",
+    "region": "Nouvelle-Aquitaine",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.6889&lon=-0.2406&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "La Versaine, Bellejoie, Julienne, Cognac, Charente, Nouvelle-Aquitaine, Metropolitan France, 16200, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Julienne, Charente",
+      "description": "Commune in Nouvelle-Aquitaine, France",
+      "extract": "Julienne is a commune in the Charente department in southwestern France.",
+      "url": "https://en.wikipedia.org/wiki/Julienne%2C_Charente",
+      "coordinates": {
+        "lat": 45.6969,
+        "lng": -0.2294
+      },
+      "km": 1.2,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Julienne1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The distillery on the Charente; occasional guided visits and tastings by appointment.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "food"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/grand-marnier-bourg-charente/own-grand-marnier-bourg-charente.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/grand-marnier-bourg-charente.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#855e2a",
+            "share": 0.316
+          },
+          {
+            "hex": "#a49070",
+            "share": 0.21
+          },
+          {
+            "hex": "#dfbb27",
+            "share": 0.192
+          },
+          {
+            "hex": "#522306",
+            "share": 0.152
+          },
+          {
+            "hex": "#ede6c5",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#522306"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#855e2a",
+        "share": 0.316
+      },
+      {
+        "hex": "#a49070",
+        "share": 0.21
+      },
+      {
+        "hex": "#dfbb27",
+        "share": 0.192
+      },
+      {
+        "hex": "#522306",
+        "share": 0.152
+      },
+      {
+        "hex": "#ede6c5",
+        "share": 0.129
+      }
+    ],
+    "strongest": "#522306"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "id": "stonehenge",
+  "name": "Stonehenge",
+  "lat": 51.1789,
+  "lng": -1.8262,
+  "enrichedAt": "2026-10-11T01:21:32.833Z",
+  "place": {
+    "town": "Amesbury",
+    "locality": "Amesbury",
+    "county": "Wiltshire",
+    "adminArea": "Wiltshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.1789&lon=-1.8262&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Amesbury, Wiltshire, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "avebury-stone-circle",
+        "name": "Avebury Stone Circle",
+        "km": 27.8
+      },
+      {
+        "id": "king-alfreds-tower",
+        "name": "King Alfred's Tower, Stourhead",
+        "km": 35.8
+      },
+      {
+        "id": "castle-combe",
+        "name": "Castle Combe",
+        "km": 44.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Stonehenge",
+      "description": "Prehistoric monument in England",
+      "extract": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints—a feature unique among contemporary monuments. Inside is a ring of smaller bluestones. Inside these are free-standing trilithons: two bulkier vertical sarsens joined by a single lintel. The whole monument, now in ruins, is aligned towards the sunrise on the summer solstice and sunset on the winter solstice. The stones are set within earthworks in the middle of the densest complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli.",
+      "url": "https://en.wikipedia.org/wiki/Stonehenge",
+      "coordinates": {
+        "lat": 51.17888889,
+        "lng": -1.82611111
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Amesbury",
+      "description": "Town in Wiltshire, England",
+      "extract": "Amesbury is a town and civil parish in Wiltshire, England. It is known for the prehistoric monument of Stonehenge which is within the parish. The town is claimed to be the oldest occupied settlement in Great Britain, having been first settled around 8820 BC. The parish includes the hamlets of Ratfyn and West Amesbury, and part of Boscombe Down military airfield.",
+      "url": "https://en.wikipedia.org/wiki/Amesbury",
+      "coordinates": {
+        "lat": 51.173,
+        "lng": -1.78
+      },
+      "km": 3.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Thatched_Cottages_at_West_Amesbury_-_geograph.org.uk_-_311650.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The stones. Ticketed and timed — book ahead, even for the outer path.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/stonehenge/own-stonehenge.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/stonehenge.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#98b3e5",
+            "share": 0.347
+          },
+          {
+            "hex": "#5b682f",
+            "share": 0.307
+          },
+          {
+            "hex": "#cdcee0",
+            "share": 0.151
+          },
+          {
+            "hex": "#3c402e",
+            "share": 0.104
+          },
+          {
+            "hex": "#868178",
+            "share": 0.091
+          }
+        ],
+        "strongest": "#98b3e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stonehenge/commons-1.jpg",
+      "title": "File:Constable - Stonehenge, 1629-1888, 2006AK8142.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Constable_-_Stonehenge,_1629-1888,_2006AK8142.jpg",
+      "author": "John Constable",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2500,
+      "height": 1657,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a69b85",
+            "share": 0.253
+          },
+          {
+            "hex": "#72717a",
+            "share": 0.214
+          },
+          {
+            "hex": "#c3b8a4",
+            "share": 0.199
+          },
+          {
+            "hex": "#514e50",
+            "share": 0.198
+          },
+          {
+            "hex": "#8d7d59",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#c3b8a4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stonehenge/commons-2.jpg",
+      "title": "File:Stonehenge - Wiltonia sive Comitatus Wiltoniensis; Anglice Wilshire (Atlas van Loon).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_-_Wiltonia_sive_Comitatus_Wiltoniensis;_Anglice_Wilshire_(Atlas_van_Loon).jpg",
+      "author": "Blaeu, J",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2963,
+      "height": 2503,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#776e5f",
+            "share": 0.242
+          },
+          {
+            "hex": "#1f201a",
+            "share": 0.225
+          },
+          {
+            "hex": "#4a4739",
+            "share": 0.215
+          },
+          {
+            "hex": "#a6a195",
+            "share": 0.171
+          },
+          {
+            "hex": "#ded0c1",
+            "share": 0.147
+          }
+        ],
+        "strongest": "#ded0c1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stonehenge/commons-3.jpg",
+      "title": "File:Stonehenge Closeup.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_Closeup.jpg",
+      "author": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1280,
+      "height": 960,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c3d3e1",
+            "share": 0.279
+          },
+          {
+            "hex": "#647022",
+            "share": 0.264
+          },
+          {
+            "hex": "#313a2a",
+            "share": 0.215
+          },
+          {
+            "hex": "#4a524b",
+            "share": 0.165
+          },
+          {
+            "hex": "#82877f",
+            "share": 0.077
+          }
+        ],
+        "strongest": "#647022"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stonehenge/commons-4.jpg",
+      "title": "File:Stonehenge Heel Stone - panoramio (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_Heel_Stone_-_panoramio_(2).jpg",
+      "author": "Heikki Immonen",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2947,
+      "height": 3840,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b9d0eb",
+            "share": 0.316
+          },
+          {
+            "hex": "#647738",
+            "share": 0.231
+          },
+          {
+            "hex": "#394727",
+            "share": 0.208
+          },
+          {
+            "hex": "#84886e",
+            "share": 0.141
+          },
+          {
+            "hex": "#b0ae9e",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#b9d0eb"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Stonehenge, from Gough’s edition of Britannia, 1789.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Stonehenge 1877.JPG",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#98b3e5",
+        "share": 0.347
+      },
+      {
+        "hex": "#5b682f",
+        "share": 0.307
+      },
+      {
+        "hex": "#cdcee0",
+        "share": 0.151
+      },
+      {
+        "hex": "#3c402e",
+        "share": 0.104
+      },
+      {
+        "hex": "#868178",
+        "share": 0.091
+      }
+    ],
+    "strongest": "#98b3e5"
+  }
+}

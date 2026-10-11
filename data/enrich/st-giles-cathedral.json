@@ -1,0 +1,491 @@
+{
+  "id": "st-giles-cathedral",
+  "name": "St Giles' Cathedral",
+  "lat": 55.9496,
+  "lng": -3.1907,
+  "enrichedAt": "2026-10-11T01:21:30.074Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9496&lon=-3.1907&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.02
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.03
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.16
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.3
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.31
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.33
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.37
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.41
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.44
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.58
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 0.74
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.76
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.01
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.21
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.66
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.9
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.09
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.68
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 3.99
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.91
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.2
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.3
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.3
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.3
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.4
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.4
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.4
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.6
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 0.7
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.8
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.2
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.7
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.9
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.1
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.7
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.9
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 13.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "St Giles' Cathedral",
+      "description": "Church in Edinburgh, Scotland",
+      "extract": "St Giles' Cathedral, also known as the High Kirk of Edinburgh, is one of three cathedrals in Edinburgh, Scotland. The existing building was begun in the 14th century and extended until the early 16th century; significant alterations were undertaken in the 19th and 20th centuries, including the addition of the Thistle Chapel. St Giles' is closely associated with many events and figures in Scottish history, including John Knox, who served as the church's minister after the Scottish Reformation. The cathedral is administered by the Church of Scotland.",
+      "url": "https://en.wikipedia.org/wiki/St_Giles'_Cathedral",
+      "coordinates": {
+        "lat": 55.94944444,
+        "lng": -3.19083333
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a0/St_Giles_Cathedral_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Crown spire over the Royal Mile; Thistle Chapel inside.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/st-giles-cathedral/own-st-giles-cathedral.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/st-giles-cathedral.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f3d39",
+            "share": 0.286
+          },
+          {
+            "hex": "#a1bcdc",
+            "share": 0.197
+          },
+          {
+            "hex": "#c4d0e1",
+            "share": 0.194
+          },
+          {
+            "hex": "#726960",
+            "share": 0.18
+          },
+          {
+            "hex": "#8bacd3",
+            "share": 0.144
+          }
+        ],
+        "strongest": "#a1bcdc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-giles-cathedral/commons-1.jpg",
+      "title": "File:Church Organ at St Giles' Cathedral, High Street, Royal Mile, Edinburgh (51).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Church_Organ_at_St_Giles%27_Cathedral,_High_Street,_Royal_Mile,_Edinburgh_(51).jpg",
+      "author": "Enchufla Con Clave",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2811,
+      "height": 3936,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#110604",
+            "share": 0.29
+          },
+          {
+            "hex": "#2b190c",
+            "share": 0.284
+          },
+          {
+            "hex": "#3a3027",
+            "share": 0.21
+          },
+          {
+            "hex": "#54524e",
+            "share": 0.145
+          },
+          {
+            "hex": "#8a8880",
+            "share": 0.071
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-giles-cathedral/commons-2.jpg",
+      "title": "File:Edinburgh - St Giles' Cathedral - 20140421134707.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_-_St_Giles%27_Cathedral_-_20140421134707.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2816,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#746356",
+            "share": 0.263
+          },
+          {
+            "hex": "#908f92",
+            "share": 0.262
+          },
+          {
+            "hex": "#352720",
+            "share": 0.222
+          },
+          {
+            "hex": "#b9c2ce",
+            "share": 0.15
+          },
+          {
+            "hex": "#40689f",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#40689f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-giles-cathedral/commons-3.jpg",
+      "title": "File:Edinburgh - St Giles' Cathedral - 20140421134925.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_-_St_Giles%27_Cathedral_-_20140421134925.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2816,
+      "height": 2056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#665f59",
+            "share": 0.264
+          },
+          {
+            "hex": "#423932",
+            "share": 0.249
+          },
+          {
+            "hex": "#8d8985",
+            "share": 0.199
+          },
+          {
+            "hex": "#bebebf",
+            "share": 0.146
+          },
+          {
+            "hex": "#181511",
+            "share": 0.143
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-giles-cathedral/commons-4.jpg",
+      "title": "File:Edinburgh - St Giles' Cathedral - 20140421141505.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_-_St_Giles%27_Cathedral_-_20140421141505.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2672,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4f4437",
+            "share": 0.301
+          },
+          {
+            "hex": "#6f6255",
+            "share": 0.235
+          },
+          {
+            "hex": "#342926",
+            "share": 0.216
+          },
+          {
+            "hex": "#938b82",
+            "share": 0.184
+          },
+          {
+            "hex": "#cdc7bb",
+            "share": 0.065
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Edinburgh - St Giles' Cathedral - 20140421135404.jpg",
+      "why": "map/logo category"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3f3d39",
+        "share": 0.286
+      },
+      {
+        "hex": "#a1bcdc",
+        "share": 0.197
+      },
+      {
+        "hex": "#c4d0e1",
+        "share": 0.194
+      },
+      {
+        "hex": "#726960",
+        "share": 0.18
+      },
+      {
+        "hex": "#8bacd3",
+        "share": 0.144
+      }
+    ],
+    "strongest": "#a1bcdc"
+  }
+}

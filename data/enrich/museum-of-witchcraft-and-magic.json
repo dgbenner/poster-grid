@@ -1,0 +1,281 @@
+{
+  "id": "museum-of-witchcraft-and-magic",
+  "name": "Museum of Witchcraft and Magic",
+  "lat": 50.6905948,
+  "lng": -4.6949915,
+  "enrichedAt": "2026-10-11T01:21:45.499Z",
+  "place": {
+    "town": "Boscastle",
+    "locality": "Forrabury and Minster",
+    "county": "Cornwall",
+    "adminArea": "Cornwall",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.6905948&lon=-4.6949915&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Polrunny Farm Cottages, Forrabury and Minster, Boscastle, Cornwall, England, PL35 0EL, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "tintagel-castle",
+        "name": "Tintagel Castle",
+        "km": 5.3
+      },
+      {
+        "id": "goonhilly-earth-station",
+        "name": "Goonhilly Earth Station",
+        "km": 79.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Museum of Witchcraft and Magic",
+      "description": "Museum in Cornwall, England",
+      "extract": "The Museum of Witchcraft and Magic, formerly known as the Museum of Witchcraft, is a museum dedicated to European witchcraft and magic located in the village of Boscastle in Cornwall, south-west England. It houses exhibits devoted to folk magic, ceremonial magic, Freemasonry, and Wicca, with its collection of such objects having been described as the largest in the world.",
+      "url": "https://en.wikipedia.org/wiki/Museum_of_Witchcraft_and_Magic",
+      "coordinates": {
+        "lat": 50.689,
+        "lng": -4.692
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Boscastle-20040414-MoW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Boscastle",
+      "description": "Village and port in Cornwall, England",
+      "extract": "Boscastle is a village and fishing port on the north coast of Cornwall, England, in the civil parish of Forrabury and Minster. It is 14 miles (23 km) south of Bude and 5 miles (8 km) northeast of Tintagel. The harbour is a natural inlet protected by two stone harbour walls built in 1584 by Sir Richard Grenville and is the only significant harbour for 20 miles (32 km) along the coast. The village extends up the valleys of the River Valency and River Jordan. Heavy rainfall on 16 August 2004 caused extensive damage to the village.",
+      "url": "https://en.wikipedia.org/wiki/Boscastle",
+      "coordinates": {
+        "lat": 50.684,
+        "lng": -4.6929
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Boscastle_path.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Boscastle museum with the world's largest collection of witchcraft and occult artefacts, founded by Cecil Williamson in 1951.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument",
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/museum-of-witchcraft-and-magic/own-museum-of-witchcraft-and-magic.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/museum-of-witchcraft-and-magic.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#925a50",
+            "share": 0.296
+          },
+          {
+            "hex": "#5a4139",
+            "share": 0.201
+          },
+          {
+            "hex": "#241f1a",
+            "share": 0.181
+          },
+          {
+            "hex": "#b08f6f",
+            "share": 0.176
+          },
+          {
+            "hex": "#d6c8a6",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#925a50"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-of-witchcraft-and-magic/commons-1.jpg",
+      "title": "File:Statue, The Museum of Witchcraft and Magic - geograph.org.uk - 7414793.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Statue,_The_Museum_of_Witchcraft_and_Magic_-_geograph.org.uk_-_7414793.jpg",
+      "author": "Bryn Holmes",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3456,
+      "height": 4608,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3a3a39",
+            "share": 0.272
+          },
+          {
+            "hex": "#55514e",
+            "share": 0.267
+          },
+          {
+            "hex": "#212525",
+            "share": 0.216
+          },
+          {
+            "hex": "#796d69",
+            "share": 0.174
+          },
+          {
+            "hex": "#ad9d9b",
+            "share": 0.071
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-of-witchcraft-and-magic/commons-2.jpg",
+      "title": "File:Plaques, The Museum of Witchcraft and Magic - geograph.org.uk - 7414786.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Plaques,_The_Museum_of_Witchcraft_and_Magic_-_geograph.org.uk_-_7414786.jpg",
+      "author": "Bryn Holmes",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3c4242",
+            "share": 0.28
+          },
+          {
+            "hex": "#24211b",
+            "share": 0.226
+          },
+          {
+            "hex": "#5d5f5a",
+            "share": 0.22
+          },
+          {
+            "hex": "#604322",
+            "share": 0.149
+          },
+          {
+            "hex": "#7a817e",
+            "share": 0.126
+          }
+        ],
+        "strongest": "#604322"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-of-witchcraft-and-magic/commons-3.jpg",
+      "title": "File:Witch door, The Museum of Witchcraft and Magic - geograph.org.uk - 7414790.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Witch_door,_The_Museum_of_Witchcraft_and_Magic_-_geograph.org.uk_-_7414790.jpg",
+      "author": "Bryn Holmes",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3456,
+      "height": 4608,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2c2c21",
+            "share": 0.257
+          },
+          {
+            "hex": "#0f100e",
+            "share": 0.219
+          },
+          {
+            "hex": "#4f4934",
+            "share": 0.202
+          },
+          {
+            "hex": "#8c928f",
+            "share": 0.198
+          },
+          {
+            "hex": "#626258",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#4f4934"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-of-witchcraft-and-magic/commons-4.jpg",
+      "title": "File:The Museum of Witchcraft and Magic entrance - geograph.org.uk - 7414788.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Museum_of_Witchcraft_and_Magic_entrance_-_geograph.org.uk_-_7414788.jpg",
+      "author": "Bryn Holmes",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0d0d0c",
+            "share": 0.365
+          },
+          {
+            "hex": "#a3a49f",
+            "share": 0.285
+          },
+          {
+            "hex": "#2d2d29",
+            "share": 0.145
+          },
+          {
+            "hex": "#51524d",
+            "share": 0.124
+          },
+          {
+            "hex": "#757570",
+            "share": 0.081
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#925a50",
+        "share": 0.296
+      },
+      {
+        "hex": "#5a4139",
+        "share": 0.201
+      },
+      {
+        "hex": "#241f1a",
+        "share": 0.181
+      },
+      {
+        "hex": "#b08f6f",
+        "share": 0.176
+      },
+      {
+        "hex": "#d6c8a6",
+        "share": 0.146
+      }
+    ],
+    "strongest": "#925a50"
+  }
+}

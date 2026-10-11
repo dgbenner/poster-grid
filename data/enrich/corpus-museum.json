@@ -1,0 +1,269 @@
+{
+  "id": "corpus-museum",
+  "name": "Corpus Museum",
+  "lat": 52.1704872,
+  "lng": 4.453483,
+  "enrichedAt": "2026-10-11T01:21:44.782Z",
+  "place": {
+    "town": "Oegstgeest",
+    "locality": null,
+    "county": "South Holland",
+    "adminArea": null,
+    "region": "South Holland",
+    "country": "Netherlands",
+    "sovereign": "Netherlands",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.1704872&lon=4.453483&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Oegstgeest, South Holland, Netherlands"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Corpus (museum)",
+      "description": "Dutch human biology museum",
+      "extract": "The Corpus Museum is a human biology interactive museum, located in Oegstgeest, near Leiden, in the Netherlands.",
+      "url": "https://en.wikipedia.org/wiki/Corpus_(museum)",
+      "coordinates": {
+        "lat": 52.16972222,
+        "lng": 4.45194444
+      },
+      "km": 0.1,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cd/A44_Corpus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Oegstgeest",
+      "description": "Town / Municipality in South Holland, Netherlands",
+      "extract": "Oegstgeest is a town and municipality in the province of South Holland in the western Netherlands. Its population was 25,064 in 2021.",
+      "url": "https://en.wikipedia.org/wiki/Oegstgeest",
+      "coordinates": {
+        "lat": 52.18333333,
+        "lng": 4.46666667
+      },
+      "km": 1.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oudenhofmolen_Oegstgeest_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Interactive science museum offering a journey through the human body inside a giant human-shaped building.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/corpus-museum/own-corpus-museum.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/corpus-museum.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b3c8ea",
+            "share": 0.378
+          },
+          {
+            "hex": "#494d56",
+            "share": 0.219
+          },
+          {
+            "hex": "#ac8843",
+            "share": 0.175
+          },
+          {
+            "hex": "#7e8282",
+            "share": 0.167
+          },
+          {
+            "hex": "#d6c5a5",
+            "share": 0.062
+          }
+        ],
+        "strongest": "#b3c8ea"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/corpus-museum/commons-1.jpg",
+      "title": "File:Corpus museum Leiden 11.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Corpus_museum_Leiden_11.jpg",
+      "author": "Hanno Lans",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#311a08",
+            "share": 0.291
+          },
+          {
+            "hex": "#971302",
+            "share": 0.243
+          },
+          {
+            "hex": "#6f3d0f",
+            "share": 0.225
+          },
+          {
+            "hex": "#b37c2b",
+            "share": 0.166
+          },
+          {
+            "hex": "#c4d2df",
+            "share": 0.075
+          }
+        ],
+        "strongest": "#971302"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/corpus-museum/commons-2.jpg",
+      "title": "File:Corpus museum Leiden 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Corpus_museum_Leiden_02.jpg",
+      "author": "Hanno Lans",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#040100",
+            "share": 0.338
+          },
+          {
+            "hex": "#310b03",
+            "share": 0.248
+          },
+          {
+            "hex": "#6e341a",
+            "share": 0.155
+          },
+          {
+            "hex": "#b36420",
+            "share": 0.148
+          },
+          {
+            "hex": "#e7a662",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#b36420"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/corpus-museum/commons-3.jpg",
+      "title": "File:Corpus museum Leiden 09.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Corpus_museum_Leiden_09.jpg",
+      "author": "Hanno Lans",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#322017",
+            "share": 0.244
+          },
+          {
+            "hex": "#877665",
+            "share": 0.242
+          },
+          {
+            "hex": "#614d3d",
+            "share": 0.195
+          },
+          {
+            "hex": "#b4a395",
+            "share": 0.19
+          },
+          {
+            "hex": "#e5e0db",
+            "share": 0.13
+          }
+        ],
+        "strongest": "#322017"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/corpus-museum/commons-4.jpg",
+      "title": "File:Corpus museum Leiden 05.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Corpus_museum_Leiden_05.jpg",
+      "author": "Hanno Lans",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#411e1b",
+            "share": 0.329
+          },
+          {
+            "hex": "#b69b8c",
+            "share": 0.251
+          },
+          {
+            "hex": "#59473f",
+            "share": 0.149
+          },
+          {
+            "hex": "#e3e3e2",
+            "share": 0.145
+          },
+          {
+            "hex": "#836e61",
+            "share": 0.126
+          }
+        ],
+        "strongest": "#411e1b"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#b3c8ea",
+        "share": 0.378
+      },
+      {
+        "hex": "#494d56",
+        "share": 0.219
+      },
+      {
+        "hex": "#ac8843",
+        "share": 0.175
+      },
+      {
+        "hex": "#7e8282",
+        "share": 0.167
+      },
+      {
+        "hex": "#d6c5a5",
+        "share": 0.062
+      }
+    ],
+    "strongest": "#b3c8ea"
+  }
+}

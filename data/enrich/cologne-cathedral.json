@@ -1,0 +1,274 @@
+{
+  "id": "cologne-cathedral",
+  "name": "Cologne Cathedral",
+  "lat": 50.9413,
+  "lng": 6.9583,
+  "enrichedAt": "2026-10-11T01:21:39.634Z",
+  "place": {
+    "town": "Cologne",
+    "locality": "Altstadt-Nord",
+    "county": "North Rhine-Westphalia",
+    "adminArea": null,
+    "region": "North Rhine-Westphalia",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.9413&lon=6.9583&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Altstadt-Nord, Innenstadt, Cologne, North Rhine-Westphalia, 50667, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Cologne Cathedral",
+      "description": "Historic church in Cologne, Germany",
+      "extract": "Cologne Cathedral is a Catholic cathedral in Cologne, North Rhine-Westphalia, Germany. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne. It is a renowned monument of German Catholicism and Gothic architecture and was declared a World Heritage Site in 1996. It is Germany's most visited landmark, attracting an average of 6 million people a year. At 157 m (515 ft), the cathedral is the tallest twin-spired church in the world, the third tallest church in Europe after Sagrada Família and Ulm Minster, and the tallest cathedral in the world.",
+      "url": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+      "coordinates": {
+        "lat": 50.94138889,
+        "lng": 6.95833333
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Cologne",
+      "description": "Largest city in North Rhine-Westphalia, Germany",
+      "extract": "Cologne is the fourth-most populous city of Germany and the largest city of the German state of North Rhine-Westphalia with over 1.0 million inhabitants in the city proper and over 3.1 million people in the Cologne Bonn urban region. Cologne is also part of the Rhine-Ruhr metropolitan region, the second biggest metropolitan region by GDP in the European Union. Centred on the left bank of the Rhine, Cologne is located on the River Rhine, about 35 kilometres (22 mi) southeast of the North Rhine-Westphalia state capital Düsseldorf and 22 kilometres (14 mi) northwest of Bonn, the former capital of West Germany.",
+      "url": "https://en.wikipedia.org/wiki/Cologne",
+      "coordinates": {
+        "lat": 50.93638889,
+        "lng": 6.95277778
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/3840px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "632 years to complete; \"it needs more than a mere opinion to erect a Gothic cathedral.\"",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/cologne-cathedral/own-cologne-cathedral.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/cologne-cathedral.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.279
+          },
+          {
+            "hex": "#2e2f33",
+            "share": 0.25
+          },
+          {
+            "hex": "#83868a",
+            "share": 0.195
+          },
+          {
+            "hex": "#5b5b60",
+            "share": 0.184
+          },
+          {
+            "hex": "#c8d9d6",
+            "share": 0.091
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cologne-cathedral/commons-1.jpg",
+      "title": "File:Cologne Cathedral in the early 1960s.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cologne_Cathedral_in_the_early_1960s.jpg",
+      "author": "Joost J. Bakker from IJmuiden",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1056,
+      "height": 1551,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eae9ec",
+            "share": 0.328
+          },
+          {
+            "hex": "#3f3742",
+            "share": 0.256
+          },
+          {
+            "hex": "#6c6066",
+            "share": 0.183
+          },
+          {
+            "hex": "#21181c",
+            "share": 0.149
+          },
+          {
+            "hex": "#9f9fa5",
+            "share": 0.085
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cologne-cathedral/commons-2.jpg",
+      "title": "File:Cologne Cathedral interior b.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cologne_Cathedral_interior_b.jpg",
+      "author": "File:Cologne Cathedral interior.JPG: Pascal Reusch derivative work: Georgfotoart",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1920,
+      "height": 2816,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#807151",
+            "share": 0.261
+          },
+          {
+            "hex": "#a09171",
+            "share": 0.245
+          },
+          {
+            "hex": "#59513c",
+            "share": 0.229
+          },
+          {
+            "hex": "#363427",
+            "share": 0.169
+          },
+          {
+            "hex": "#c5bda9",
+            "share": 0.096
+          }
+        ],
+        "strongest": "#807151"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cologne-cathedral/commons-3.jpg",
+      "title": "File:Cologne Cathedral stands intact amidst the destruction caused by Allied air raids, 9 March 1945. CL2169.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cologne_Cathedral_stands_intact_amidst_the_destruction_caused_by_Allied_air_raids,_9_March_1945._CL2169.jpg",
+      "author": "Clark (Mr), Royal Air Force official photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2480,
+      "height": 1737,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f0f0f0",
+            "share": 0.405
+          },
+          {
+            "hex": "#868686",
+            "share": 0.184
+          },
+          {
+            "hex": "#acacac",
+            "share": 0.156
+          },
+          {
+            "hex": "#575757",
+            "share": 0.14
+          },
+          {
+            "hex": "#cdcdcd",
+            "share": 0.116
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cologne-cathedral/commons-4.jpg",
+      "title": "File:Cologne Cathedral window, interior view (1) b.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cologne_Cathedral_window,_interior_view_(1)_b.jpg",
+      "author": "File:Cologne Cathedral window, interior view (1).jpg: Alexandar Vujadinovic derivative work: Georgfotoart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1888,
+      "height": 4470,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#131110",
+            "share": 0.348
+          },
+          {
+            "hex": "#85736a",
+            "share": 0.195
+          },
+          {
+            "hex": "#bca69b",
+            "share": 0.174
+          },
+          {
+            "hex": "#4c3a2c",
+            "share": 0.143
+          },
+          {
+            "hex": "#b06039",
+            "share": 0.139
+          }
+        ],
+        "strongest": "#b06039"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Cologne Cathedral Shrine of Magi.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.279
+      },
+      {
+        "hex": "#2e2f33",
+        "share": 0.25
+      },
+      {
+        "hex": "#83868a",
+        "share": 0.195
+      },
+      {
+        "hex": "#5b5b60",
+        "share": 0.184
+      },
+      {
+        "hex": "#c8d9d6",
+        "share": 0.091
+      }
+    ],
+    "strongest": null
+  }
+}

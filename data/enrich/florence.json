@@ -1,0 +1,286 @@
+{
+  "id": "florence",
+  "name": "Florence",
+  "lat": 43.7696,
+  "lng": 11.2558,
+  "enrichedAt": "2026-10-11T01:21:42.097Z",
+  "place": {
+    "town": "Florence",
+    "locality": "Quartiere 1",
+    "county": "Florence",
+    "adminArea": "Florence",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.7696&lon=11.2558&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartiere 1, Florence, Tuscany, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "santa-maria-del-fiore-floor-mosaic",
+        "name": "Santa Maria del Fiore — floor mosaic",
+        "km": 0.39
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "santa-maria-del-fiore-floor-mosaic",
+        "name": "Santa Maria del Fiore — floor mosaic",
+        "km": 0.4
+      },
+      {
+        "id": "giambologna-appennine-colossus",
+        "name": "Giambologna's Appennine Colossus",
+        "km": 11
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Florence",
+      "description": "Largest city in Tuscany, Italy",
+      "extract": "Florence is the capital and most populous city of the Italian region of Tuscany, and, as of 2026, with a population of 361,625, the 8th most populous city in the country. It is also the capital of the eponymous metropolitan province, which counts 988,494 inhabitants, while Eurostat estimates that 696,767 people live in the urban area of Florence. The Metropolitan Area of Florence, Prato and Pistoia, constituted in 2000 over an area of roughly 4,800 square kilometres (1,850 sq mi), is home to 1.5 million people.",
+      "url": "https://en.wikipedia.org/wiki/Florence",
+      "coordinates": {
+        "lat": 43.77138889,
+        "lng": 11.25416667
+      },
+      "km": 0.2,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/3840px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Florence",
+      "description": "Largest city in Tuscany, Italy",
+      "extract": "Florence is the capital and most populous city of the Italian region of Tuscany, and, as of 2026, with a population of 361,625, the 8th most populous city in the country. It is also the capital of the eponymous metropolitan province, which counts 988,494 inhabitants, while Eurostat estimates that 696,767 people live in the urban area of Florence. The Metropolitan Area of Florence, Prato and Pistoia, constituted in 2000 over an area of roughly 4,800 square kilometres (1,850 sq mi), is home to 1.5 million people.",
+      "url": "https://en.wikipedia.org/wiki/Florence",
+      "coordinates": {
+        "lat": 43.77138889,
+        "lng": 11.25416667
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/3840px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Birthplace of the Renaissance.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/florence/own-florence.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/florence.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#555153",
+            "share": 0.309
+          },
+          {
+            "hex": "#6c7278",
+            "share": 0.258
+          },
+          {
+            "hex": "#222629",
+            "share": 0.212
+          },
+          {
+            "hex": "#accfd7",
+            "share": 0.116
+          },
+          {
+            "hex": "#9e9583",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#accfd7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/florence/commons-1.jpg",
+      "title": "File:Firenze - Piazzale Michelangelo, Firenze, Italy - April 6, 2015 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Firenze_-_Piazzale_Michelangelo,_Firenze,_Italy_-_April_6,_2015_02.jpg",
+      "author": "Giorgio Galeotti",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 6016,
+      "height": 4016,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#46413e",
+            "share": 0.23
+          },
+          {
+            "hex": "#548eb9",
+            "share": 0.226
+          },
+          {
+            "hex": "#b4c7d3",
+            "share": 0.197
+          },
+          {
+            "hex": "#7aabcb",
+            "share": 0.181
+          },
+          {
+            "hex": "#736d67",
+            "share": 0.166
+          }
+        ],
+        "strongest": "#548eb9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/florence/commons-2.jpg",
+      "title": "File:Colored woodcut town view of Florence.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Colored_woodcut_town_view_of_Florence.jpg",
+      "author": "Bas van Hout",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1019,
+      "height": 518,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#857a6b",
+            "share": 0.342
+          },
+          {
+            "hex": "#6e6052",
+            "share": 0.238
+          },
+          {
+            "hex": "#9b9282",
+            "share": 0.233
+          },
+          {
+            "hex": "#b7afa0",
+            "share": 0.115
+          },
+          {
+            "hex": "#3d402f",
+            "share": 0.073
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/florence/commons-3.jpg",
+      "title": "File:Dome of Cattedrale di Santa Maria del Fiore (Florence).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg",
+      "author": "Livioandronico2013",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4516,
+      "height": 3310,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3c3a38",
+            "share": 0.26
+          },
+          {
+            "hex": "#675c4e",
+            "share": 0.203
+          },
+          {
+            "hex": "#a0876a",
+            "share": 0.201
+          },
+          {
+            "hex": "#131515",
+            "share": 0.189
+          },
+          {
+            "hex": "#bfad93",
+            "share": 0.148
+          }
+        ],
+        "strongest": "#a0876a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/florence/commons-4.jpg",
+      "title": "File:Fontana del Nettuno Detail Florence.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fontana_del_Nettuno_Detail_Florence.jpg",
+      "author": "Jebulon",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2004,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a5f65",
+            "share": 0.365
+          },
+          {
+            "hex": "#787a7b",
+            "share": 0.318
+          },
+          {
+            "hex": "#97a4b4",
+            "share": 0.136
+          },
+          {
+            "hex": "#363f48",
+            "share": 0.101
+          },
+          {
+            "hex": "#dbedf6",
+            "share": 0.081
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#555153",
+        "share": 0.309
+      },
+      {
+        "hex": "#6c7278",
+        "share": 0.258
+      },
+      {
+        "hex": "#222629",
+        "share": 0.212
+      },
+      {
+        "hex": "#accfd7",
+        "share": 0.116
+      },
+      {
+        "hex": "#9e9583",
+        "share": 0.105
+      }
+    ],
+    "strongest": "#accfd7"
+  }
+}

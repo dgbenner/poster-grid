@@ -1,0 +1,278 @@
+{
+  "id": "lascaux",
+  "name": "Lascaux Cave, Dordogne",
+  "lat": 45.0537,
+  "lng": 1.1751,
+  "enrichedAt": "2026-10-11T01:21:41.187Z",
+  "place": {
+    "town": "Montignac-Lascaux",
+    "locality": null,
+    "county": "Dordogne",
+    "adminArea": "Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.0537&lon=1.1751&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Fon Laroche, Brenac, Montignac-Lascaux, Sarlat-la-Canéda, Dordogne, Nouvelle-Aquitaine, Metropolitan France, 24290, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Lascaux",
+      "description": "Caves in France containing Paleolithic paintings",
+      "extract": "Lascaux is a network of caves near the village of Montignac, in the department of Dordogne in southwestern France. Over 600 parietal wall paintings cover the interior walls and ceilings of the cave. The paintings represent primarily large animals, typical local contemporary fauna that correspond with the fossil record of the Upper Paleolithic in the area. They are the combined effort of many generations.",
+      "url": "https://en.wikipedia.org/wiki/Lascaux",
+      "coordinates": {
+        "lat": 45.05361111,
+        "lng": 1.17
+      },
+      "km": 0.4,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Montignac-Lascaux",
+      "description": "Commune in Nouvelle-Aquitaine, France",
+      "extract": "Montignac-Lascaux, is a commune in the Dordogne department, Nouvelle-Aquitaine, Southwestern France. It is a small town situated on the Vézère river and has been the capital of the canton of Montignac since 1790. In 2015 it became the capital of the newly created Canton de la Vallée de l'Homme. The poet Pierre Lachambeaudie (1806–1872) was born in the village.",
+      "url": "https://en.wikipedia.org/wiki/Montignac-Lascaux",
+      "coordinates": {
+        "lat": 45.0675,
+        "lng": 1.1622
+      },
+      "km": 1.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Montignac_%2824%29_Coulonges_angle_sud-ouest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Upper Paleolithic cave art (c. 17,000–15,000 BC); ~600 paintings, mostly horses, plus ~1,400 engravings.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/lascaux/own-lascaux.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/lascaux.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a48c71",
+            "share": 0.396
+          },
+          {
+            "hex": "#856542",
+            "share": 0.218
+          },
+          {
+            "hex": "#543521",
+            "share": 0.213
+          },
+          {
+            "hex": "#c2ad91",
+            "share": 0.096
+          },
+          {
+            "hex": "#040302",
+            "share": 0.076
+          }
+        ],
+        "strongest": "#543521"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lascaux/commons-1.jpg",
+      "title": "File:Lascaux, Megaloceros.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lascaux,_Megaloceros.jpg",
+      "author": "HTO",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1775,
+      "height": 1744,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bdbcb6",
+            "share": 0.264
+          },
+          {
+            "hex": "#d1d8da",
+            "share": 0.223
+          },
+          {
+            "hex": "#a69d8c",
+            "share": 0.222
+          },
+          {
+            "hex": "#987950",
+            "share": 0.157
+          },
+          {
+            "hex": "#383b38",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#987950"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lascaux/commons-2.jpg",
+      "title": "File:Lascaux-IV 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lascaux-IV_01.jpg",
+      "author": "Traumrune",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 4288,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#24150b",
+            "share": 0.3
+          },
+          {
+            "hex": "#a59862",
+            "share": 0.187
+          },
+          {
+            "hex": "#3d2b16",
+            "share": 0.186
+          },
+          {
+            "hex": "#d2cd98",
+            "share": 0.165
+          },
+          {
+            "hex": "#756238",
+            "share": 0.161
+          }
+        ],
+        "strongest": "#3d2b16"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lascaux/commons-3.jpg",
+      "title": "File:Lascaux II.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lascaux_II.jpg",
+      "author": "Jack Versloot",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2748,
+      "height": 1827,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#524742",
+            "share": 0.266
+          },
+          {
+            "hex": "#807162",
+            "share": 0.247
+          },
+          {
+            "hex": "#b19b86",
+            "share": 0.244
+          },
+          {
+            "hex": "#2a2324",
+            "share": 0.129
+          },
+          {
+            "hex": "#d7d0cb",
+            "share": 0.115
+          }
+        ],
+        "strongest": "#b19b86"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lascaux/commons-4.jpg",
+      "title": "File:Lascaux entrance.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lascaux_entrance.jpg",
+      "author": "Ethan Doyle White",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1552,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#736e48",
+            "share": 0.251
+          },
+          {
+            "hex": "#948c5f",
+            "share": 0.245
+          },
+          {
+            "hex": "#48432d",
+            "share": 0.201
+          },
+          {
+            "hex": "#a699a3",
+            "share": 0.192
+          },
+          {
+            "hex": "#f5f5f4",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#736e48"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Dordogne department relief location map.jpg",
+      "why": "logo/map/album filter"
+    },
+    {
+      "title": "File:Lascaux 01.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a48c71",
+        "share": 0.396
+      },
+      {
+        "hex": "#856542",
+        "share": 0.218
+      },
+      {
+        "hex": "#543521",
+        "share": 0.213
+      },
+      {
+        "hex": "#c2ad91",
+        "share": 0.096
+      },
+      {
+        "hex": "#040302",
+        "share": 0.076
+      }
+    ],
+    "strongest": "#543521"
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "id": "boltanski-missing-house",
+  "name": "Boltanski, The Missing House",
+  "lat": 52.5249,
+  "lng": 13.3992,
+  "enrichedAt": "2026-10-11T01:21:39.918Z",
+  "place": {
+    "town": "Berlin",
+    "locality": "Mitte",
+    "county": "Berlin",
+    "adminArea": null,
+    "region": null,
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.5249&lon=13.3992&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Mitte, Berlin, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "berlin-street-chess",
+        "name": "Berlin Street Chess",
+        "km": 0.67
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 1.31
+      },
+      {
+        "id": "brandenburg-gate",
+        "name": "Brandenburg Gate",
+        "km": 1.74
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "berlin-street-chess",
+        "name": "Berlin Street Chess",
+        "km": 0.7
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 1.3
+      },
+      {
+        "id": "brandenburg-gate",
+        "name": "Brandenburg Gate",
+        "km": 1.7
+      },
+      {
+        "id": "umlauftank-2-circulating-tank",
+        "name": "Umlauftank 2 (Circulating Tank)",
+        "km": 5.2
+      },
+      {
+        "id": "erholungspark-marzahn-chinese-garden",
+        "name": "Erholungspark Marzahn — Chinese Garden",
+        "km": 11.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Berlin",
+      "description": "Capital and largest city of Germany",
+      "extract": "Berlin is the capital and largest city of Germany. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union (EU). The metropolis is also one of the states of Germany, being the third-smallest state in the country by area. Berlin is surrounded by the state of Brandenburg, bordering Brandenburg's capital Potsdam to the southwest. The urban area of Berlin has a population of 4.5 million, making it the second most populous in Germany after the Ruhr. The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's second-largest metropolitan region after the Rhine-Ruhr region, as well as the fifth-biggest metropolitan region by GDP in the EU. Berlin is a global city of culture, politics, media and science.",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/3840px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "24 nameplates on two firewalls at Große Hamburger Straße, naming residents of a building destroyed in WWII.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/boltanski-missing-house/own-boltanski-missing-house.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/boltanski-missing-house.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dbdde0",
+            "share": 0.396
+          },
+          {
+            "hex": "#010100",
+            "share": 0.253
+          },
+          {
+            "hex": "#e9ebf1",
+            "share": 0.217
+          },
+          {
+            "hex": "#c6c7c7",
+            "share": 0.102
+          },
+          {
+            "hex": "#716c5e",
+            "share": 0.031
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/boltanski-missing-house/commons-1.jpg",
+      "title": "File:Mitte Große Hamburger Straße 27 Jüdisches Gymnasium.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Mitte_Gro%C3%9Fe_Hamburger_Stra%C3%9Fe_27_J%C3%BCdisches_Gymnasium.JPG",
+      "author": "Fridolin freudenfett",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1920,
+      "height": 2560,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9a9791",
+            "share": 0.243
+          },
+          {
+            "hex": "#6a6866",
+            "share": 0.24
+          },
+          {
+            "hex": "#aabdce",
+            "share": 0.215
+          },
+          {
+            "hex": "#e6f2f9",
+            "share": 0.199
+          },
+          {
+            "hex": "#403d39",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#aabdce"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/boltanski-missing-house/commons-2.jpg",
+      "title": "File:Lancien quartier juif (Berlin) (6334533712).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lancien_quartier_juif_(Berlin)_(6334533712).jpg",
+      "author": "Jean-Pierre Dalbéra from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1123,
+      "height": 1024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d8cfc6",
+            "share": 0.409
+          },
+          {
+            "hex": "#aba49e",
+            "share": 0.216
+          },
+          {
+            "hex": "#786c66",
+            "share": 0.182
+          },
+          {
+            "hex": "#31312d",
+            "share": 0.13
+          },
+          {
+            "hex": "#ebeef2",
+            "share": 0.062
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/boltanski-missing-house/commons-3.jpg",
+      "title": "File:Lancien quartier juif (Berlin) (6333778949).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lancien_quartier_juif_(Berlin)_(6333778949).jpg",
+      "author": "Jean-Pierre Dalbéra from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1449,
+      "height": 1024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b3a99e",
+            "share": 0.267
+          },
+          {
+            "hex": "#f3f0ec",
+            "share": 0.235
+          },
+          {
+            "hex": "#d7cec4",
+            "share": 0.229
+          },
+          {
+            "hex": "#8c7d6c",
+            "share": 0.169
+          },
+          {
+            "hex": "#413c30",
+            "share": 0.099
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/boltanski-missing-house/commons-4.jpg",
+      "title": "File:Große hamburger straße berlin april2017 - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_hamburger_stra%C3%9Fe_berlin_april2017_-_2.jpg",
+      "author": "Z thomas",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 4160,
+      "height": 2336,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b5b3ad",
+            "share": 0.287
+          },
+          {
+            "hex": "#939890",
+            "share": 0.23
+          },
+          {
+            "hex": "#8c7866",
+            "share": 0.224
+          },
+          {
+            "hex": "#d6d4d1",
+            "share": 0.155
+          },
+          {
+            "hex": "#4f4844",
+            "share": 0.105
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Gedenktafel Große Hamburger Str 15 (Mitte) The Missing House.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#dbdde0",
+        "share": 0.396
+      },
+      {
+        "hex": "#010100",
+        "share": 0.253
+      },
+      {
+        "hex": "#e9ebf1",
+        "share": 0.217
+      },
+      {
+        "hex": "#c6c7c7",
+        "share": 0.102
+      },
+      {
+        "hex": "#716c5e",
+        "share": 0.031
+      }
+    ],
+    "strongest": null
+  }
+}

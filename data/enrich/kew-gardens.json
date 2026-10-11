@@ -1,0 +1,310 @@
+{
+  "id": "kew-gardens",
+  "name": "Kew Gardens",
+  "lat": 51.4781974,
+  "lng": -0.2968861,
+  "enrichedAt": "2026-10-11T01:21:45.161Z",
+  "place": {
+    "town": "London",
+    "locality": "Kew",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Richmond upon Thames",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4781974&lon=-0.2968861&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Kew, London Borough of Richmond upon Thames, Greater London, England, TW9 3PZ, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 10.2
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 10.6
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 11.5
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 11.8
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 12.6
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 12.6
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 13.9
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 20.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Kew Gardens",
+      "description": "Botanic garden in London, England",
+      "extract": "Kew Gardens is a botanic garden in southwest London founded in 1759 that houses the \"largest and most diverse botanical and mycological collections in the world\". Its living collections include some of the 27,000 taxa curated by Royal Botanic Gardens, Kew, while the herbarium, one of the largest in the world, has over 8.5 million preserved plant and fungal specimens. The library contains more than 750,000 volumes, and the illustrations collection contains more than 175,000 prints and drawings of plants. It is one of London's top tourist attractions and is a World Heritage Site.",
+      "url": "https://en.wikipedia.org/wiki/Kew_Gardens",
+      "coordinates": {
+        "lat": 51.47888889,
+        "lng": -0.29361111
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kew_Gardens_Palm_House%2C_London_-_July_2009.jpg/3840px-Kew_Gardens_Palm_House%2C_London_-_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "London Borough of Richmond upon Thames",
+      "description": "London borough in United Kingdom",
+      "extract": "The London Borough of Richmond upon Thames is an Outer London borough formed in 1965 from the merger of three older boroughs. These were the Municipal Borough of Richmond and the Municipal Borough of Barnes, situated south of the Thames which was, until 1965, part of Surrey, and the Municipal Borough of Twickenham on the northern, Middlesex bank of the Thames. In this way it is the only London borough to straddle the River Thames.",
+      "url": "https://en.wikipedia.org/wiki/London_Borough_of_Richmond_upon_Thames",
+      "coordinates": {
+        "lat": 51.41666667,
+        "lng": -0.33333333
+      },
+      "km": 7.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/London_Borough_of_Richmond_upon_Thames_%2C_Richmond_Park_-_geograph.org.uk_-_5893241.jpg/3840px-London_Borough_of_Richmond_upon_Thames_%2C_Richmond_Park_-_geograph.org.uk_-_5893241.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Royal Botanic Gardens at Kew, a UNESCO World Heritage site with historic glasshouses and vast plant collections.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/kew-gardens/own-kew-gardens.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/kew-gardens.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ced4de",
+            "share": 0.257
+          },
+          {
+            "hex": "#718124",
+            "share": 0.224
+          },
+          {
+            "hex": "#9daaba",
+            "share": 0.214
+          },
+          {
+            "hex": "#3f4427",
+            "share": 0.183
+          },
+          {
+            "hex": "#6b6f63",
+            "share": 0.123
+          }
+        ],
+        "strongest": "#718124"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kew-gardens/commons-1.jpg",
+      "title": "File:Kew Gardens Palm House, London - July 2009.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kew_Gardens_Palm_House,_London_-_July_2009.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 7499,
+      "height": 4240,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ccd2dd",
+            "share": 0.273
+          },
+          {
+            "hex": "#718124",
+            "share": 0.228
+          },
+          {
+            "hex": "#9aa7b7",
+            "share": 0.201
+          },
+          {
+            "hex": "#3b4125",
+            "share": 0.164
+          },
+          {
+            "hex": "#666b5d",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#718124"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kew-gardens/commons-2.jpg",
+      "title": "File:Alpine House, Kew Gardens, 2018 edit.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Alpine_House,_Kew_Gardens,_2018_edit.jpg",
+      "author": "Daniel Case",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5376,
+      "height": 3472,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#615847",
+            "share": 0.248
+          },
+          {
+            "hex": "#36351d",
+            "share": 0.237
+          },
+          {
+            "hex": "#3272a7",
+            "share": 0.217
+          },
+          {
+            "hex": "#7d8a97",
+            "share": 0.196
+          },
+          {
+            "hex": "#bfc3cd",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#3272a7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kew-gardens/commons-3.jpg",
+      "title": "File:Bonsai House Kew Gardens.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bonsai_House_Kew_Gardens.jpg",
+      "author": "Eddie Johnston",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#676763",
+            "share": 0.303
+          },
+          {
+            "hex": "#c7d6e3",
+            "share": 0.276
+          },
+          {
+            "hex": "#454138",
+            "share": 0.162
+          },
+          {
+            "hex": "#8a8f8e",
+            "share": 0.132
+          },
+          {
+            "hex": "#aebcc6",
+            "share": 0.127
+          }
+        ],
+        "strongest": "#c7d6e3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kew-gardens/commons-4.jpg",
+      "title": "File:Davies Exploration House Kew Gardens.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Davies_Exploration_House_Kew_Gardens.jpg",
+      "author": "Eddie Johnston",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c9d4df",
+            "share": 0.322
+          },
+          {
+            "hex": "#7b786a",
+            "share": 0.251
+          },
+          {
+            "hex": "#414338",
+            "share": 0.194
+          },
+          {
+            "hex": "#a3760f",
+            "share": 0.123
+          },
+          {
+            "hex": "#5d5b17",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#a3760f"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#ced4de",
+        "share": 0.257
+      },
+      {
+        "hex": "#718124",
+        "share": 0.224
+      },
+      {
+        "hex": "#9daaba",
+        "share": 0.214
+      },
+      {
+        "hex": "#3f4427",
+        "share": 0.183
+      },
+      {
+        "hex": "#6b6f63",
+        "share": 0.123
+      }
+    ],
+    "strongest": "#718124"
+  }
+}

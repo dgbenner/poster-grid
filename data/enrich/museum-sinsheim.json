@@ -1,0 +1,269 @@
+{
+  "id": "museum-sinsheim",
+  "name": "Museum Sinsheim",
+  "lat": 49.2447,
+  "lng": 8.8983,
+  "enrichedAt": "2026-10-11T01:21:40.223Z",
+  "place": {
+    "town": "Sinsheim",
+    "locality": null,
+    "county": "Rhein-Neckar-Kreis",
+    "adminArea": "Rhein-Neckar-Kreis",
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.2447&lon=8.8983&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Steinsfurt, Sinsheim, VVG der Stadt Sinsheim, Rhein-Neckar-Kreis, Baden-Württemberg, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Technik Museum Sinsheim",
+      "description": "Technology museum in Sinsheim, Germany",
+      "extract": "The Technik Museum Sinsheim is a technology museum in Sinsheim, Germany. Opened in 1981, it is run by a registered association called \"Auto & Technik Museum Sinsheim e. V.\" which also runs the nearby Technik Museum Speyer.",
+      "url": "https://en.wikipedia.org/wiki/Technik_Museum_Sinsheim",
+      "coordinates": {
+        "lat": 49.23861111,
+        "lng": 8.89666667
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Technik_Museum_Sinsheim%2C_Tu-134%2C_Tu-144%2C_Concorde.jpg/3840px-Technik_Museum_Sinsheim%2C_Tu-134%2C_Tu-144%2C_Concorde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Sinsheim",
+      "description": "Town in Baden-Württemberg, Germany",
+      "extract": "Sinsheim is a town in southwestern Germany, in the Rhine Neckar Area of the state Baden-Württemberg about 22 kilometres (14 mi) southeast of Heidelberg and about 28 kilometres (17 mi) northwest of Heilbronn in the district Rhein-Neckar.",
+      "url": "https://en.wikipedia.org/wiki/Sinsheim",
+      "coordinates": {
+        "lat": 49.25,
+        "lng": 8.88333333
+      },
+      "km": 1.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sinsheim_in_HD.svg/960px-Sinsheim_in_HD.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Vast aviation/tech museum (planes, tanks, cars); sister site at Speyer.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/museum-sinsheim/own-museum-sinsheim.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/museum-sinsheim.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#798ba0",
+            "share": 0.286
+          },
+          {
+            "hex": "#556271",
+            "share": 0.256
+          },
+          {
+            "hex": "#395b97",
+            "share": 0.189
+          },
+          {
+            "hex": "#2a3340",
+            "share": 0.164
+          },
+          {
+            "hex": "#bac0c5",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#395b97"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-sinsheim/commons-1.jpg",
+      "title": "File:Technik Museum Sinsheim, Tu-134, Tu-144, Concorde.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Technik_Museum_Sinsheim,_Tu-134,_Tu-144,_Concorde.jpg",
+      "author": "Dr. Thomas Liptak",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4570,
+      "height": 1744,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#988f81",
+            "share": 0.28
+          },
+          {
+            "hex": "#629cc7",
+            "share": 0.217
+          },
+          {
+            "hex": "#376d96",
+            "share": 0.206
+          },
+          {
+            "hex": "#9ec3d8",
+            "share": 0.166
+          },
+          {
+            "hex": "#494c47",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#629cc7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-sinsheim/commons-2.jpg",
+      "title": "File:Technik Museum Sinsheim, Tu-134, Tu-144, Concorde.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Technik_Museum_Sinsheim,_Tu-134,_Tu-144,_Concorde.jpg",
+      "author": "Dr. Thomas Liptak",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4570,
+      "height": 1744,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#988f81",
+            "share": 0.28
+          },
+          {
+            "hex": "#629cc7",
+            "share": 0.217
+          },
+          {
+            "hex": "#376d96",
+            "share": 0.206
+          },
+          {
+            "hex": "#9ec3d8",
+            "share": 0.166
+          },
+          {
+            "hex": "#494c47",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#629cc7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-sinsheim/commons-3.jpg",
+      "title": "File:Museum Sinsheim in 2022 87.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Museum_Sinsheim_in_2022_87.jpg",
+      "author": "Jan Beránek",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#746856",
+            "share": 0.288
+          },
+          {
+            "hex": "#918470",
+            "share": 0.245
+          },
+          {
+            "hex": "#a39887",
+            "share": 0.185
+          },
+          {
+            "hex": "#bbb1a0",
+            "share": 0.157
+          },
+          {
+            "hex": "#3e444f",
+            "share": 0.124
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/museum-sinsheim/commons-4.jpg",
+      "title": "File:Museum Sinsheim in 2022 90.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Museum_Sinsheim_in_2022_90.jpg",
+      "author": "Jan Beránek",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d4d50",
+            "share": 0.32
+          },
+          {
+            "hex": "#6c6b6d",
+            "share": 0.275
+          },
+          {
+            "hex": "#26282b",
+            "share": 0.177
+          },
+          {
+            "hex": "#949595",
+            "share": 0.148
+          },
+          {
+            "hex": "#d8dbdc",
+            "share": 0.08
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#798ba0",
+        "share": 0.286
+      },
+      {
+        "hex": "#556271",
+        "share": 0.256
+      },
+      {
+        "hex": "#395b97",
+        "share": 0.189
+      },
+      {
+        "hex": "#2a3340",
+        "share": 0.164
+      },
+      {
+        "hex": "#bac0c5",
+        "share": 0.104
+      }
+    ],
+    "strongest": "#395b97"
+  }
+}

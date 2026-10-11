@@ -1,0 +1,276 @@
+{
+  "id": "king-s-college-chapel",
+  "name": "King's College Chapel",
+  "lat": 52.2047796,
+  "lng": 0.116544,
+  "enrichedAt": "2026-10-11T01:21:45.092Z",
+  "place": {
+    "town": "Cambridge",
+    "locality": "Newnham",
+    "county": "Cambridgeshire",
+    "adminArea": "Cambridgeshire",
+    "region": "Cambridgeshire and Peterborough",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.2047796&lon=0.116544&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Newnham, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB3 9LA, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "iwm-duxford-sr-71-blackbird",
+        "name": "IWM Duxford - SR-71 Blackbird",
+        "km": 12.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "King's College Chapel, Cambridge",
+      "description": "Church at King's College, Cambridge",
+      "extract": "King's College Chapel is the chapel of King's College in the University of Cambridge. It is considered one of the finest examples of Perpendicular Gothic architecture and features the world's largest fan vault. The Chapel was built in phases by a succession of kings of England from 1448 to 1515, a period which spanned the Wars of the Roses and three subsequent decades. The Chapel's large stained glass windows were completed by 1531, and its early Renaissance pulpitum was erected in 1532–36. The Chapel is an active place of worship, and home of the King's College Choir. It is a landmark and a commonly used symbol of the city of Cambridge.",
+      "url": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge",
+      "coordinates": {
+        "lat": 52.2048,
+        "lng": 0.1165
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/fd/KingsCollegeChapel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Cambridge",
+      "description": "City and district in Cambridgeshire, England",
+      "extract": "Cambridge is a city and non-metropolitan district in the county of Cambridgeshire, England. It is the county town of Cambridgeshire and is located on the River Cam, 55 miles (89 km) north of London. As of the 2021 United Kingdom census, the population of the City of Cambridge was 145,700; the population of the wider built-up area was 181,137. There is archaeological evidence of settlement in the area dating back to as early as the Bronze Age, and Cambridge became an important trading centre during the Roman and Viking eras. The first town charters were granted in the 12th century, although modern city status was not officially conferred until 1951.",
+      "url": "https://en.wikipedia.org/wiki/Cambridge",
+      "coordinates": {
+        "lat": 52.205,
+        "lng": 0.1225
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cambridge_-_Kings_College_vue_des_backs.jpg/3840px-Cambridge_-_Kings_College_vue_des_backs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Iconic 16th-century chapel with the world's largest fan-vaulted ceiling and Rubens' Adoration of the Magi.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/king-s-college-chapel/own-king-s-college-chapel.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/king-s-college-chapel.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#725742",
+            "share": 0.294
+          },
+          {
+            "hex": "#523f2f",
+            "share": 0.272
+          },
+          {
+            "hex": "#8f7964",
+            "share": 0.19
+          },
+          {
+            "hex": "#2b2520",
+            "share": 0.151
+          },
+          {
+            "hex": "#b5a594",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#725742"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/king-s-college-chapel/commons-1.jpg",
+      "title": "File:King's College Chapel, Cambridge - The Great East Window.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:King%27s_College_Chapel,_Cambridge_-_The_Great_East_Window.jpg",
+      "author": "DeFacto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2348,
+      "height": 4465,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#514338",
+            "share": 0.323
+          },
+          {
+            "hex": "#2c2421",
+            "share": 0.278
+          },
+          {
+            "hex": "#6e665a",
+            "share": 0.193
+          },
+          {
+            "hex": "#858582",
+            "share": 0.112
+          },
+          {
+            "hex": "#2d507b",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#2d507b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/king-s-college-chapel/commons-2.jpg",
+      "title": "File:King's College Chapel Vault.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:King%27s_College_Chapel_Vault.jpg",
+      "author": "Cc364",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8c8176",
+            "share": 0.286
+          },
+          {
+            "hex": "#7e7569",
+            "share": 0.256
+          },
+          {
+            "hex": "#9f9589",
+            "share": 0.194
+          },
+          {
+            "hex": "#6f6759",
+            "share": 0.167
+          },
+          {
+            "hex": "#b5afa4",
+            "share": 0.098
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/king-s-college-chapel/commons-3.jpg",
+      "title": "File:Cambridge - King's College Chapel 1446-1544 - Choir - View North on Stained Glass in North Wall III.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cambridge_-_King%27s_College_Chapel_1446-1544_-_Choir_-_View_North_on_Stained_Glass_in_North_Wall_III.jpg",
+      "author": "Txllxt TxllxT",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3132,
+      "height": 3273,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#160e0c",
+            "share": 0.287
+          },
+          {
+            "hex": "#29201c",
+            "share": 0.258
+          },
+          {
+            "hex": "#050303",
+            "share": 0.23
+          },
+          {
+            "hex": "#41342c",
+            "share": 0.194
+          },
+          {
+            "hex": "#606264",
+            "share": 0.033
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/king-s-college-chapel/commons-4.jpg",
+      "title": "File:Cambridge - King's College Chapel 1446-1544 - Choir - Wooden Screen & Choir Stalls 1533-36 - View North.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cambridge_-_King%27s_College_Chapel_1446-1544_-_Choir_-_Wooden_Screen_%26_Choir_Stalls_1533-36_-_View_North.jpg",
+      "author": "Txllxt TxllxT",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 2016,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#060404",
+            "share": 0.267
+          },
+          {
+            "hex": "#342e30",
+            "share": 0.247
+          },
+          {
+            "hex": "#1d1818",
+            "share": 0.246
+          },
+          {
+            "hex": "#665f57",
+            "share": 0.191
+          },
+          {
+            "hex": "#989896",
+            "share": 0.049
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#725742",
+        "share": 0.294
+      },
+      {
+        "hex": "#523f2f",
+        "share": 0.272
+      },
+      {
+        "hex": "#8f7964",
+        "share": 0.19
+      },
+      {
+        "hex": "#2b2520",
+        "share": 0.151
+      },
+      {
+        "hex": "#b5a594",
+        "share": 0.092
+      }
+    ],
+    "strongest": "#725742"
+  }
+}

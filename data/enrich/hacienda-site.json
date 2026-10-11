@@ -1,0 +1,282 @@
+{
+  "id": "hacienda-site",
+  "name": "Haçienda site",
+  "lat": 53.4753,
+  "lng": -2.2531,
+  "enrichedAt": "2026-10-11T01:21:32.565Z",
+  "place": {
+    "town": "Manchester",
+    "locality": "City Centre",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4753&lon=-2.2531&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "City Centre, Manchester, Greater Manchester, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "manchester-bridge",
+        "name": "Manchester Bridge (Joy Division footbridge)",
+        "km": 0.68
+      },
+      {
+        "id": "salford-lads-club",
+        "name": "Salford Lads Club",
+        "km": 0.9
+      },
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 1.41
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "manchester-bridge",
+        "name": "Manchester Bridge (Joy Division footbridge)",
+        "km": 0.7
+      },
+      {
+        "id": "salford-lads-club",
+        "name": "Salford Lads Club",
+        "km": 0.9
+      },
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 1.4
+      },
+      {
+        "id": "southern-cemetery",
+        "name": "Southern Cemetery",
+        "km": 5.1
+      },
+      {
+        "id": "strawberry-studios",
+        "name": "Strawberry Studios",
+        "km": 10
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "The Haçienda",
+      "description": "Former nightclub in Manchester, England",
+      "extract": "The Haçienda was a nightclub and music venue in Manchester, England, which became famous during the Madchester years of the 1980s and early 1990s. It was run by the record label Factory Records.",
+      "url": "https://en.wikipedia.org/wiki/The_Ha%C3%A7ienda",
+      "coordinates": {
+        "lat": 53.47444444,
+        "lng": -2.24777778
+      },
+      "km": 0.4,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/en/6/6a/Hacienda06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Manchester",
+      "description": "City and metropolitan borough in England",
+      "extract": "Manchester is a city and metropolitan borough in North West England, at the centre of the eponymous county of Greater Manchester. It had a population of over 589,000 in 2024. It borders the Cheshire Plain to the south, the Pennines to the north and east, and the city of Salford to the west. The two cities and the surrounding towns form one of the United Kingdom's most populous conurbations, the Greater Manchester Built-up Area, which has a population of 2.87 million.",
+      "url": "https://en.wikipedia.org/wiki/Manchester",
+      "coordinates": {
+        "lat": 53.47944444,
+        "lng": -2.24527778
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "FAC 51 — the Factory club, demolished 2002, now flats. A pilgrimage.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/hacienda-site/commons-1.jpg",
+      "title": "File:Hacienda flats.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hacienda_flats.jpg",
+      "author": "Mikey from Wythenshawe, Manchester, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5d5c5d",
+            "share": 0.333
+          },
+          {
+            "hex": "#7d6d6b",
+            "share": 0.296
+          },
+          {
+            "hex": "#f2fafb",
+            "share": 0.161
+          },
+          {
+            "hex": "#404340",
+            "share": 0.123
+          },
+          {
+            "hex": "#9da5aa",
+            "share": 0.088
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hacienda-site/commons-2.jpg",
+      "title": "File:Tram approaching Deansgate-Castlefield - geograph.org.uk - 7899740.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tram_approaching_Deansgate-Castlefield_-_geograph.org.uk_-_7899740.jpg",
+      "author": "Gerald England",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1920,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fcfefe",
+            "share": 0.333
+          },
+          {
+            "hex": "#d9ebf7",
+            "share": 0.231
+          },
+          {
+            "hex": "#c5ccce",
+            "share": 0.164
+          },
+          {
+            "hex": "#96a1a4",
+            "share": 0.14
+          },
+          {
+            "hex": "#515450",
+            "share": 0.131
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hacienda-site/commons-3.jpg",
+      "title": "File:Deansgate Square - geograph.org.uk - 7803711.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Deansgate_Square_-_geograph.org.uk_-_7803711.jpg",
+      "author": "Carroll Pierce",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4857,
+      "height": 2660,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9da4b2",
+            "share": 0.224
+          },
+          {
+            "hex": "#3f4143",
+            "share": 0.222
+          },
+          {
+            "hex": "#595b5e",
+            "share": 0.196
+          },
+          {
+            "hex": "#c9cfd9",
+            "share": 0.185
+          },
+          {
+            "hex": "#212122",
+            "share": 0.174
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hacienda-site/commons-4.jpg",
+      "title": "File:Castlefield Viaduct above Collier Street - geograph.org.uk - 8381893.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castlefield_Viaduct_above_Collier_Street_-_geograph.org.uk_-_8381893.jpg",
+      "author": "DS Pugh",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 2672,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fbfdfe",
+            "share": 0.356
+          },
+          {
+            "hex": "#2d2b29",
+            "share": 0.214
+          },
+          {
+            "hex": "#5e584d",
+            "share": 0.183
+          },
+          {
+            "hex": "#93887b",
+            "share": 0.163
+          },
+          {
+            "hex": "#beb6ac",
+            "share": 0.084
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Hacienda logo.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5d5c5d",
+        "share": 0.333
+      },
+      {
+        "hex": "#7d6d6b",
+        "share": 0.296
+      },
+      {
+        "hex": "#f2fafb",
+        "share": 0.161
+      },
+      {
+        "hex": "#404340",
+        "share": 0.123
+      },
+      {
+        "hex": "#9da5aa",
+        "share": 0.088
+      }
+    ],
+    "strongest": null
+  }
+}

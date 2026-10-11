@@ -1,0 +1,112 @@
+{
+  "id": "mothe-chandeniers",
+  "name": "Château de la Mothe-Chandeniers",
+  "lat": 46.9836,
+  "lng": 0.0186,
+  "enrichedAt": "2026-10-11T01:21:40.971Z",
+  "place": {
+    "town": "Arçay",
+    "locality": null,
+    "county": "Vienne",
+    "adminArea": "Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=46.9836&lon=0.0186&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Arçay, Châtellerault, Vienne, Nouvelle-Aquitaine, Metropolitan France, 86200, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Arçay, Vienne",
+      "description": "Commune in Nouvelle-Aquitaine, France",
+      "extract": "Arçay is a commune in the Vienne department in the Nouvelle-Aquitaine region in western France. The inhabitants are called Arçois.",
+      "url": "https://en.wikipedia.org/wiki/Ar%C3%A7ay%2C_Vienne",
+      "coordinates": {
+        "lat": 46.9694,
+        "lng": 0.015
+      },
+      "km": 1.6,
+      "matchedBy": "search",
+      "leadImage": null,
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The romantic moated ruin in the west (Vienne); a crowd-funded restoration.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/mothe-chandeniers/own-mothe-chandeniers.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/mothe-chandeniers.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#445b6c",
+            "share": 0.283
+          },
+          {
+            "hex": "#010101",
+            "share": 0.24
+          },
+          {
+            "hex": "#31392d",
+            "share": 0.222
+          },
+          {
+            "hex": "#5f6046",
+            "share": 0.199
+          },
+          {
+            "hex": "#b2ada5",
+            "share": 0.055
+          }
+        ],
+        "strongest": "#445b6c"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#445b6c",
+        "share": 0.283
+      },
+      {
+        "hex": "#010101",
+        "share": 0.24
+      },
+      {
+        "hex": "#31392d",
+        "share": 0.222
+      },
+      {
+        "hex": "#5f6046",
+        "share": 0.199
+      },
+      {
+        "hex": "#b2ada5",
+        "share": 0.055
+      }
+    ],
+    "strongest": "#445b6c"
+  }
+}

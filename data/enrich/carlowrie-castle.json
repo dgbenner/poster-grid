@@ -1,0 +1,421 @@
+{
+  "id": "carlowrie-castle",
+  "name": "Carlowrie Castle",
+  "lat": 55.9486,
+  "lng": -3.403,
+  "enrichedAt": "2026-10-11T01:21:30.748Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": null,
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9486&lon=-3.403&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Hallyards, Newbridge, City of Edinburgh, Scotland, EH29 9DZ, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 8.4
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 11.6
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 12.2
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 12.6
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 12.9
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 12.9
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 12.9
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 12.9
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 12.9
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 13
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 13.2
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 13.2
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 13.2
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 13.2
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 13.3
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 13.7
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 13.9
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 14.2
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 14.4
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 14.5
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 15
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 16.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Carlowrie Castle",
+      "description": "Castle in Scotland",
+      "extract": "Carlowrie Castle was built in the Scottish Baronial style between 1852 and 1855 on the outskirts of Kirkliston, a town approximately 10 miles from Edinburgh, Scotland. It has only ever belonged to two families: the Hutchison family, who built it, and the Marshall family, who acquired it 130 years later.",
+      "url": "https://en.wikipedia.org/wiki/Carlowrie_Castle",
+      "coordinates": {
+        "lat": 55.95569444,
+        "lng": -3.37572222
+      },
+      "km": 1.9,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Carlowrie_Castle_4163.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 13.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Victorian baronial house and estate near the airport.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/carlowrie-castle/own-carlowrie-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/carlowrie-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1f2618",
+            "share": 0.279
+          },
+          {
+            "hex": "#3f4b40",
+            "share": 0.214
+          },
+          {
+            "hex": "#b6bfc5",
+            "share": 0.201
+          },
+          {
+            "hex": "#72786c",
+            "share": 0.197
+          },
+          {
+            "hex": "#4f8ec3",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#4f8ec3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/carlowrie-castle/commons-1.jpg",
+      "title": "File:Carlowrie Castle 4163.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlowrie_Castle_4163.jpg",
+      "author": "Sue pile",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1000,
+      "height": 667,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#202819",
+            "share": 0.289
+          },
+          {
+            "hex": "#434f44",
+            "share": 0.221
+          },
+          {
+            "hex": "#b7c0c7",
+            "share": 0.199
+          },
+          {
+            "hex": "#787e71",
+            "share": 0.187
+          },
+          {
+            "hex": "#4e8ec4",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#4e8ec4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/carlowrie-castle/commons-2.jpg",
+      "title": "File:Carlowrie Castle from the South.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlowrie_Castle_from_the_South.jpg",
+      "author": "Peter Cowlishaw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3284,
+      "height": 2534,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f7f9fc",
+            "share": 0.397
+          },
+          {
+            "hex": "#685c51",
+            "share": 0.277
+          },
+          {
+            "hex": "#3f3832",
+            "share": 0.193
+          },
+          {
+            "hex": "#8b8884",
+            "share": 0.087
+          },
+          {
+            "hex": "#c3c6ca",
+            "share": 0.046
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/carlowrie-castle/commons-3.jpg",
+      "title": "File:Lochend Road - geograph.org.uk - 7589007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lochend_Road_-_geograph.org.uk_-_7589007.jpg",
+      "author": "Jim Smillie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4080,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a8cefd",
+            "share": 0.289
+          },
+          {
+            "hex": "#828086",
+            "share": 0.276
+          },
+          {
+            "hex": "#6d6752",
+            "share": 0.223
+          },
+          {
+            "hex": "#37331f",
+            "share": 0.159
+          },
+          {
+            "hex": "#ddc697",
+            "share": 0.053
+          }
+        ],
+        "strongest": "#a8cefd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/carlowrie-castle/commons-4.jpg",
+      "title": "File:Barley field, Awaiting harvest - geograph.org.uk - 7589001.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Barley_field,_Awaiting_harvest_-_geograph.org.uk_-_7589001.jpg",
+      "author": "Jim Smillie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4080,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#695c37",
+            "share": 0.302
+          },
+          {
+            "hex": "#a4bee3",
+            "share": 0.237
+          },
+          {
+            "hex": "#927853",
+            "share": 0.233
+          },
+          {
+            "hex": "#c49f73",
+            "share": 0.124
+          },
+          {
+            "hex": "#272618",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#a4bee3"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Edinburgh Airport - geograph.org.uk - 868383.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Spring tunnel on the old railway - geograph.org.uk - 1277219.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Section of Cycle Path between Kirkliston and Newbridge Roundabout - geograph.org.uk - 6744931.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Ephemeral Pond - geograph.org.uk - 3333612.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Watery Ruts - geograph.org.uk - 3333608.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Wet Field - geograph.org.uk - 3333604.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Entering Kirkliston - geograph.org.uk - 4570132.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:B800, Breast Mill - geograph.org.uk - 4570129.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:House at Breast Mill - geograph.org.uk - 4567169.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Crop field, Breast Mill - geograph.org.uk - 4570127.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#1f2618",
+        "share": 0.279
+      },
+      {
+        "hex": "#3f4b40",
+        "share": 0.214
+      },
+      {
+        "hex": "#b6bfc5",
+        "share": 0.201
+      },
+      {
+        "hex": "#72786c",
+        "share": 0.197
+      },
+      {
+        "hex": "#4f8ec3",
+        "share": 0.109
+      }
+    ],
+    "strongest": "#4f8ec3"
+  }
+}

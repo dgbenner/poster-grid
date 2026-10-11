@@ -1,0 +1,274 @@
+{
+  "id": "oxfordshire",
+  "name": "Oxfordshire",
+  "lat": 51.752,
+  "lng": -1.2577,
+  "enrichedAt": "2026-10-11T01:21:34.208Z",
+  "place": {
+    "town": "Oxford",
+    "locality": "City Centre",
+    "county": "Oxfordshire",
+    "adminArea": "Oxfordshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.752&lon=-1.2577&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "City Centre, Oxford, Oxfordshire, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Oxfordshire",
+      "description": "County of England",
+      "extract": "Oxfordshire is a ceremonial county in South East England. The county is bordered by Northamptonshire and Warwickshire to the north, Buckinghamshire to the east, Berkshire to the south, and Wiltshire and Gloucestershire to the west. The city of Oxford is the largest settlement.",
+      "url": "https://en.wikipedia.org/wiki/Oxfordshire",
+      "coordinates": {
+        "lat": 51.75,
+        "lng": -1.28
+      },
+      "km": 1.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Aerial_view_of_Islip%2C_Oxfordshire_-_geograph.org.uk_-_3892478_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Oxford",
+      "description": "City and district in Oxfordshire, England",
+      "extract": "Oxford is a cathedral city and non-metropolitan district in Oxfordshire, England, of which it is the county town.",
+      "url": "https://en.wikipedia.org/wiki/Oxford",
+      "coordinates": {
+        "lat": 51.75194444,
+        "lng": -1.25777778
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Museum_of_Oxford_%285652685943%29.jpg/3840px-Museum_of_Oxford_%285652685943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Oxford colleges + the surrounding countryside — a county pin to break out.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/oxfordshire/own-oxfordshire.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/oxfordshire.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#61733c",
+            "share": 0.281
+          },
+          {
+            "hex": "#908c6c",
+            "share": 0.259
+          },
+          {
+            "hex": "#354820",
+            "share": 0.188
+          },
+          {
+            "hex": "#cdbaa6",
+            "share": 0.155
+          },
+          {
+            "hex": "#95af3b",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#95af3b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/oxfordshire/commons-1.jpg",
+      "title": "File:Aerial view of Islip, Oxfordshire - geograph.org.uk - 3892478 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Islip,_Oxfordshire_-_geograph.org.uk_-_3892478_(cropped).jpg",
+      "author": "Dave Price",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2848,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#61733a",
+            "share": 0.278
+          },
+          {
+            "hex": "#918d6c",
+            "share": 0.261
+          },
+          {
+            "hex": "#33481b",
+            "share": 0.191
+          },
+          {
+            "hex": "#cfbba7",
+            "share": 0.154
+          },
+          {
+            "hex": "#94af3a",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#33481b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/oxfordshire/commons-2.jpg",
+      "title": "File:Oxford (160603119).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Oxford_(160603119).jpeg",
+      "author": "Binayak Dasgupta",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2048,
+      "height": 1152,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#484435",
+            "share": 0.259
+          },
+          {
+            "hex": "#2c291c",
+            "share": 0.226
+          },
+          {
+            "hex": "#87b2eb",
+            "share": 0.206
+          },
+          {
+            "hex": "#6b614e",
+            "share": 0.193
+          },
+          {
+            "hex": "#95856a",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#87b2eb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/oxfordshire/commons-3.jpg",
+      "title": "File:Poping Roof Popping Tree (204881057).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Poping_Roof_Popping_Tree_(204881057).jpeg",
+      "author": "Lora Martucci",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2048,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2d2d2d",
+            "share": 0.239
+          },
+          {
+            "hex": "#0f0f0f",
+            "share": 0.225
+          },
+          {
+            "hex": "#8d8d8d",
+            "share": 0.214
+          },
+          {
+            "hex": "#b9b9b9",
+            "share": 0.177
+          },
+          {
+            "hex": "#5e5e5e",
+            "share": 0.145
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/oxfordshire/commons-4.jpg",
+      "title": "File:Oxford (160603125).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Oxford_(160603125).jpeg",
+      "author": "Binayak Dasgupta",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#655237",
+            "share": 0.331
+          },
+          {
+            "hex": "#927545",
+            "share": 0.26
+          },
+          {
+            "hex": "#3c2f22",
+            "share": 0.235
+          },
+          {
+            "hex": "#cca361",
+            "share": 0.126
+          },
+          {
+            "hex": "#93a3a5",
+            "share": 0.048
+          }
+        ],
+        "strongest": "#927545"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Museum of Oxford entrance detail - geograph.org.uk - 793981.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#61733c",
+        "share": 0.281
+      },
+      {
+        "hex": "#908c6c",
+        "share": 0.259
+      },
+      {
+        "hex": "#354820",
+        "share": 0.188
+      },
+      {
+        "hex": "#cdbaa6",
+        "share": 0.155
+      },
+      {
+        "hex": "#95af3b",
+        "share": 0.117
+      }
+    ],
+    "strongest": "#95af3b"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "scaligero-sirmione",
+  "name": "Scaligero Castle, Sirmione",
+  "lat": 45.4631,
+  "lng": 10.6062,
+  "enrichedAt": "2026-10-11T01:21:41.981Z",
+  "place": {
+    "town": "Sirmione",
+    "locality": null,
+    "county": "Brescia",
+    "adminArea": "Brescia",
+    "region": "Lombardy",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.4631&lon=10.6062&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Colombare, Sirmione, Brescia, Lombardy, 25019, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Scaligero Castle (Sirmione)",
+      "description": "Castle on Lake Garda in Sirmione, Italy",
+      "extract": "The Scaligero Castle or Scaligero Castle of Sirmione is a fortress from the Scaliger era, an access point to the historical centre of Sirmione, on Lake Garda. It is one of Italy's best-preserved castles. In 2024, it was the 29th most visited attraction in Italy, with 262,095 visitors, and a total gross income of €1,125,881.",
+      "url": "https://en.wikipedia.org/wiki/Scaligero_Castle_(Sirmione)",
+      "coordinates": {
+        "lat": 45.49194444,
+        "lng": 10.60833333
+      },
+      "km": 3.2,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Italy_-_Sirmione_-_Scaligero_Castle.jpg/3840px-Italy_-_Sirmione_-_Scaligero_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Sirmione",
+      "description": "Comune in Lombardy, Italy",
+      "extract": "Sirmione is a comune in the province of Brescia, in Lombardy. It is bounded by Desenzano del Garda (Lombardy) and Peschiera del Garda in the province of Verona and the region of Veneto. It has a historical centre which is located on the Sirmio peninsula that divides the lower part of Lake Garda.",
+      "url": "https://en.wikipedia.org/wiki/Sirmione",
+      "coordinates": {
+        "lat": 45.4925,
+        "lng": 10.60833333
+      },
+      "km": 3.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Italy_-_Sirmione.jpg/3840px-Italy_-_Sirmione.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "14th-c. lakeside fortress on Lake Garda.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/scaligero-sirmione/own-scaligero-sirmione.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/scaligero-sirmione.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1c432e",
+            "share": 0.263
+          },
+          {
+            "hex": "#cdc9c9",
+            "share": 0.215
+          },
+          {
+            "hex": "#010101",
+            "share": 0.195
+          },
+          {
+            "hex": "#a8978a",
+            "share": 0.171
+          },
+          {
+            "hex": "#63716a",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#1c432e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scaligero-sirmione/commons-1.jpg",
+      "title": "File:Italy - Sirmione - Scaligero Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Italy_-_Sirmione_-_Scaligero_Castle.jpg",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "width": 3895,
+      "height": 3065,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0d2e28",
+            "share": 0.324
+          },
+          {
+            "hex": "#4f4644",
+            "share": 0.258
+          },
+          {
+            "hex": "#6e6969",
+            "share": 0.235
+          },
+          {
+            "hex": "#0b5159",
+            "share": 0.109
+          },
+          {
+            "hex": "#a99585",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#0b5159"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scaligero-sirmione/commons-2.jpg",
+      "title": "File:Italy - Sirmione - Scaligero Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Italy_-_Sirmione_-_Scaligero_Castle.jpg",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "width": 3895,
+      "height": 3065,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0d2e28",
+            "share": 0.324
+          },
+          {
+            "hex": "#4f4644",
+            "share": 0.258
+          },
+          {
+            "hex": "#6e6969",
+            "share": 0.235
+          },
+          {
+            "hex": "#0b5159",
+            "share": 0.109
+          },
+          {
+            "hex": "#a99585",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#0b5159"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scaligero-sirmione/commons-3.jpg",
+      "title": "File:Sirmione postazione ricarica A2A piazza Virgilio 20260621.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sirmione_postazione_ricarica_A2A_piazza_Virgilio_20260621.jpg",
+      "author": "Moliva",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#151f0e",
+            "share": 0.288
+          },
+          {
+            "hex": "#746f5c",
+            "share": 0.287
+          },
+          {
+            "hex": "#789ab5",
+            "share": 0.171
+          },
+          {
+            "hex": "#25361e",
+            "share": 0.17
+          },
+          {
+            "hex": "#3b4f51",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#789ab5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scaligero-sirmione/commons-4.jpg",
+      "title": "File:Sirmione postazione ricarica GardaUno via Cattaneo 20260621.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sirmione_postazione_ricarica_GardaUno_via_Cattaneo_20260621.jpg",
+      "author": "Moliva",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#20251c",
+            "share": 0.302
+          },
+          {
+            "hex": "#444a3c",
+            "share": 0.203
+          },
+          {
+            "hex": "#8ab2d9",
+            "share": 0.193
+          },
+          {
+            "hex": "#897051",
+            "share": 0.153
+          },
+          {
+            "hex": "#908f87",
+            "share": 0.148
+          }
+        ],
+        "strongest": "#8ab2d9"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#1c432e",
+        "share": 0.263
+      },
+      {
+        "hex": "#cdc9c9",
+        "share": 0.215
+      },
+      {
+        "hex": "#010101",
+        "share": 0.195
+      },
+      {
+        "hex": "#a8978a",
+        "share": 0.171
+      },
+      {
+        "hex": "#63716a",
+        "share": 0.156
+      }
+    ],
+    "strongest": "#1c432e"
+  }
+}

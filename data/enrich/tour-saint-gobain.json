@@ -1,0 +1,274 @@
+{
+  "id": "tour-saint-gobain",
+  "name": "Tour Saint-Gobain, La Défense",
+  "lat": 48.8916,
+  "lng": 2.2375,
+  "enrichedAt": "2026-10-11T01:21:40.877Z",
+  "place": {
+    "town": "Puteaux",
+    "locality": "Arche Sud",
+    "county": "Hauts-de-Seine",
+    "adminArea": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8916&lon=2.2375&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Arche Sud, Puteaux, Nanterre, Hauts-de-Seine, Ile-de-France, Metropolitan France, 92800, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Tour Saint-Gobain",
+      "description": "Office skyscraper in La Défense, Courbevoie, France",
+      "extract": "The Saint-Gobain Tower is an office skyscraper in the Courbevoie commune of the La Défense district in Paris. Built between 2016 and 2019, the tower stands at 178 m (584 ft) tall with 44 floors and is the 17th tallest building in Paris.",
+      "url": "https://en.wikipedia.org/wiki/Tour_Saint-Gobain",
+      "coordinates": {
+        "lat": 48.88972222,
+        "lng": 2.24944444
+      },
+      "km": 0.9,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a1/Tour_Saint-Gobain.jpg/3840px-Tour_Saint-Gobain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Puteaux",
+      "description": "Commune in Île-de-France, France",
+      "extract": "Puteaux is a commune in the western suburbs of Paris, France. It is located in the heart of the Hauts-de-Seine department, 8.7 kilometres (5.4 mi) from the centre of Paris.",
+      "url": "https://en.wikipedia.org/wiki/Puteaux",
+      "coordinates": {
+        "lat": 48.885,
+        "lng": 2.2389
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Rue_Voltaire%2C_Puteaux_1.jpg/3840px-Rue_Voltaire%2C_Puteaux_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "165 m, 44-floor sustainable tower by Valode & Pistre.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/tour-saint-gobain/own-tour-saint-gobain.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/tour-saint-gobain.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#676857",
+            "share": 0.248
+          },
+          {
+            "hex": "#3d3628",
+            "share": 0.242
+          },
+          {
+            "hex": "#959484",
+            "share": 0.194
+          },
+          {
+            "hex": "#d3dee6",
+            "share": 0.193
+          },
+          {
+            "hex": "#80b6e4",
+            "share": 0.123
+          }
+        ],
+        "strongest": "#80b6e4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tour-saint-gobain/commons-1.jpg",
+      "title": "File:Chantier tour Saint Gobain.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chantier_tour_Saint_Gobain.jpg",
+      "author": "Vincent M.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4c474c",
+            "share": 0.271
+          },
+          {
+            "hex": "#6f696c",
+            "share": 0.234
+          },
+          {
+            "hex": "#2c2829",
+            "share": 0.224
+          },
+          {
+            "hex": "#969599",
+            "share": 0.165
+          },
+          {
+            "hex": "#f0eff1",
+            "share": 0.106
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tour-saint-gobain/commons-2.jpg",
+      "title": "File:Chantier tour Saint Gobain 3 mars 2018.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chantier_tour_Saint_Gobain_3_mars_2018.jpg",
+      "author": "Vincevinss",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 6000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#43454f",
+            "share": 0.287
+          },
+          {
+            "hex": "#23232d",
+            "share": 0.187
+          },
+          {
+            "hex": "#c7dff6",
+            "share": 0.183
+          },
+          {
+            "hex": "#6a6e75",
+            "share": 0.175
+          },
+          {
+            "hex": "#90a0b8",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#c7dff6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tour-saint-gobain/commons-3.jpg",
+      "title": "File:Saint-Gobain tower building site at La Défense - 2018-07-20.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Gobain_tower_building_site_at_La_D%C3%A9fense_-_2018-07-20.jpg",
+      "author": "Bretwa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a4a9b2",
+            "share": 0.248
+          },
+          {
+            "hex": "#171914",
+            "share": 0.239
+          },
+          {
+            "hex": "#6a727a",
+            "share": 0.182
+          },
+          {
+            "hex": "#3c3d3f",
+            "share": 0.173
+          },
+          {
+            "hex": "#d9dae2",
+            "share": 0.158
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tour-saint-gobain/commons-4.jpg",
+      "title": "File:La Défense depuis l'Arc de Triomphe Janvier 2023.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense_depuis_l%27Arc_de_Triomphe_Janvier_2023.jpg",
+      "author": "Arthur Weidmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5138,
+      "height": 2890,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b6c0d0",
+            "share": 0.318
+          },
+          {
+            "hex": "#ada49a",
+            "share": 0.223
+          },
+          {
+            "hex": "#7a7a7a",
+            "share": 0.217
+          },
+          {
+            "hex": "#ced1d7",
+            "share": 0.163
+          },
+          {
+            "hex": "#424349",
+            "share": 0.079
+          }
+        ],
+        "strongest": "#b6c0d0"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Tour Saint Gobain 17 octobre 2017.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#676857",
+        "share": 0.248
+      },
+      {
+        "hex": "#3d3628",
+        "share": 0.242
+      },
+      {
+        "hex": "#959484",
+        "share": 0.194
+      },
+      {
+        "hex": "#d3dee6",
+        "share": 0.193
+      },
+      {
+        "hex": "#80b6e4",
+        "share": 0.123
+      }
+    ],
+    "strongest": "#80b6e4"
+  }
+}

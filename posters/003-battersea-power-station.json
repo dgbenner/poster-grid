@@ -1,0 +1,589 @@
+{
+  "id": "003-battersea-power-station",
+  "number": 3,
+  "pin_id": "battersea-power-station",
+  "created_at": "2026-10-11T01:53:02.903Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "London lies low and to the right of England, so the photo meets the bottom-right margin and the empty grid above and to its left stands for the rest of the country."
+  },
+  "title": "Battersea Power Station",
+  "place": {
+    "town": "London",
+    "locality": "Nine Elms",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Wandsworth",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4817738&lon=-0.1445821&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Nine Elms, London Borough of Wandsworth, Greater London, England, SW8 5EE, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "accent": "#2A669B",
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Battersea\nPower Station"
+    },
+    {
+      "element": "place-label",
+      "text": "Nine Elms · Wandsworth · Greater London"
+    },
+    {
+      "element": "lead",
+      "text": "A preserved coal-fired power station on the Thames."
+    },
+    {
+      "element": "body",
+      "text": "On the south bank, it is one of the world's largest brick buildings. The architects were J. Theo Halliday and Giles Gilbert Scott."
+    },
+    {
+      "element": "position-label",
+      "text": "Its place in England"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Battersea_Power_Station"
+  ],
+  "photo": {
+    "kind": "personal",
+    "file": "data/images/battersea-power-station/own-battersea-power-station.jpg",
+    "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/battersea-power-station.jpg",
+    "author": null,
+    "license": "personal",
+    "licenseUrl": null,
+    "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+    "colors": {
+      "palette": [
+        {
+          "hex": "#2a669b",
+          "share": 0.341
+        },
+        {
+          "hex": "#29201a",
+          "share": 0.283
+        },
+        {
+          "hex": "#4c82ab",
+          "share": 0.169
+        },
+        {
+          "hex": "#705e4d",
+          "share": 0.12
+        },
+        {
+          "hex": "#95a6ad",
+          "share": 0.087
+        }
+      ],
+      "strongest": "#2a669b"
+    },
+    "credit": "Waypoints photo, personal use"
+  },
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 3,
+      "text": "Battersea\nPower Station",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "place-label",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 5,
+      "row_span": 1,
+      "text": "Nine Elms · Wandsworth · Greater London",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 6,
+      "row_span": 2,
+      "text": "A preserved coal-fired power station on the Thames.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 2,
+      "text": "On the south bank, it is one of the world's largest brick buildings. The architects were J. Theo Halliday and Giles Gilbert Scott.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 8,
+      "col_span": 5,
+      "row": 10,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.2,
+      "focus_x": 0.55,
+      "focus_y": 0.5,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "position-label",
+      "kind": "label",
+      "col": 4,
+      "col_span": 4,
+      "row": 12,
+      "row_span": 1,
+      "text": "Its place in England",
+      "style": null,
+      "color": "accent",
+      "align": "right",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 5,
+      "hierarchy": 6,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The photo starts at column 8 while the place-label, lead and body all start at column 9, so the right zone has two left edges about one column apart. Either move the photo to columns 9–12, or move the whole text stack to columns 8–12, so one vertical edge runs from row 5 to row 12.",
+      "The idea needs the photo to be the only thing pinned to the bottom-right, with empty grid above and to its left. Right now the text stack fills columns 9–12 in rows 5–9, directly above the photo. That makes the right edge read as a full column of content rather than a 'London' corner. Move lead and body down so they sit beside the photo, in columns 4–7, rows 10–11, ending just above the position-label. Rows 5–9 then stay empty across columns 1–12 below the headline.",
+      "The headline spans all 12 columns across rows 2–4, and that span fights the 'empty country' reading. 'Power Station' runs nearly to the right margin. It fills the top band that should belong to the rest of England. Try ranging the headline to columns 1–9, or let it stay full width but drop it into rows 2–3 so more empty modules open above the photo.",
+      "The photo is small for the anchor of the idea: 5 columns × 3 rows. Enlarge it to columns 7–12 (6 of 12) and rows 9–12, bleeding to the bottom and right margins. The 'low and to the right' weight then becomes unmistakable, and the photo outranks the lead as the second read after the headline.",
+      "The place-label in row 5 wraps 'GREATER / LONDON', leaving a one-word second line. Shorten it to fit one line within 4 columns, or widen it to columns 8–12 so it sets on a single line hanging from the top of row 5.",
+      "The lead in rows 6–7 breaks 'coal- / fired' at the end of the first line. Rebreak it as 'A preserved coal-fired / power station / on the Thames.' or let it run to 5 columns.",
+      "The lead (rows 6–7) and body (rows 8–9) leave almost a full empty row between them. Tighten that gap: if they stay in columns 9–12, set the body to start on the first baseline of row 8 directly under the lead. This would let the stack read as one unit.",
+      "The position-label sits in columns 4–7 at the bottom of row 12, flush right against the photo, and that placement works. Align its baseline to the bottom edge of the photo exactly. Consider placing it at the top of the empty field, in column 1 of row 5, pointing into the space it describes. The label would then annotate the empty modules rather than the photo.",
+      "Color: the warm grey paper, near-black type and the blue accent in both labels pick up the sky in the photo. Keep it. Use the blue only on the two labels, as now; do not add it elsewhere."
+    ],
+    "summary": "A clean, readable poster with good paper and accent color. The idea is undercut by the layout. The text stack fills the same right-hand columns above the photo, and the full-width headline fills the top band. As a result, the photo is not the lone bottom-right weight and the empty field is not clearly 'the rest of England'. To fix this, align the photo's left edge with the text column, enlarge the photo into the corner, and move the lead and body out of columns 9–12 above it. That would let rows 5–9 read as deliberate empty modules.",
+    "mean": 6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.4,
+      "scores": {
+        "idea": 4,
+        "grid": 5,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6,
+      "scores": {
+        "idea": 6,
+        "grid": 5,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.8,
+      "scores": {
+        "idea": 5,
+        "grid": 5,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#2A669B"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Battersea Power Station",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater London · Wandsworth",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "03 / 10",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Battersea Power Station"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater London · Wandsworth"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Modern"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Battersea\nPower Station"
+      },
+      {
+        "id": "el-2",
+        "name": "place-label",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 5,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Nine Elms · Wandsworth · Greater London"
+      },
+      {
+        "id": "el-3",
+        "name": "lead",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 6,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A preserved coal-fired power station on the Thames.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "body",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 8,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "On the south bank, it is one of the world's largest brick buildings. The architects were J. Theo Halliday and Giles Gilbert Scott.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "photo",
+        "kind": "photo",
+        "c": 8,
+        "cs": 5,
+        "r": 10,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/battersea-power-station/own-battersea-power-station.jpg",
+        "zoom": 1.2,
+        "focus": [
+          0.55,
+          0.5
+        ]
+      },
+      {
+        "id": "el-6",
+        "name": "position-label",
+        "kind": "label",
+        "c": 4,
+        "cs": 4,
+        "r": 12,
+        "rs": 1,
+        "color": "accent",
+        "align": "right",
+        "over": false,
+        "text": "Its place in England"
+      }
+    ]
+  },
+  "image": "posters/img/003-battersea-power-station.png"
+}

@@ -1,0 +1,281 @@
+{
+  "id": "loire-amboise",
+  "name": "Loire Valley (Amboise / Touraine)",
+  "lat": 47.4133,
+  "lng": 0.9821,
+  "enrichedAt": "2026-10-11T01:21:40.957Z",
+  "place": {
+    "town": "Amboise",
+    "locality": "Quai des Violettes",
+    "county": "Indre-et-Loire",
+    "adminArea": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.4133&lon=0.9821&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Les Violettes, Quai des Violettes, La Mothe, Amboise, Loches, Indre-et-Loire, Centre-Val de Loire, Metropolitan France, 37400, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "amboise-davinci-tomb",
+        "name": "Château d'Amboise — tomb of Leonardo da Vinci",
+        "km": 0.36
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "amboise-davinci-tomb",
+        "name": "Château d'Amboise — tomb of Leonardo da Vinci",
+        "km": 0.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Châteaux of the Loire Valley",
+      "description": "Historic grand residences in a part of France",
+      "extract": "The châteaux of the Loire Valley are part of the architectural heritage of the historic towns of Amboise, Angers, Blois, Chinon, Montsoreau, Orléans, Saumur, and Tours along the river Loire in France. They illustrate Renaissance ideals of design in France.",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teaux_of_the_Loire_Valley",
+      "coordinates": {
+        "lat": 47.39888889,
+        "lng": 0.70277778
+      },
+      "km": 21.1,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chateau_de_Montsoreau_Museum_of_contemporary_art_Loire_Valley_France.jpg/1920px-Chateau_de_Montsoreau_Museum_of_contemporary_art_Loire_Valley_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Amboise",
+      "description": "Commune in Centre-Val de Loire, France",
+      "extract": "Amboise is a commune in the Indre-et-Loire department in central France. A market town, it was once home to the French royal court.",
+      "url": "https://en.wikipedia.org/wiki/Amboise",
+      "coordinates": {
+        "lat": 47.4042,
+        "lng": 0.98
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/ef/AmboiseRue.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Château country.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/loire-amboise/own-loire-amboise.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/loire-amboise.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#624959",
+            "share": 0.489
+          },
+          {
+            "hex": "#b8b9b2",
+            "share": 0.173
+          },
+          {
+            "hex": "#888756",
+            "share": 0.154
+          },
+          {
+            "hex": "#7490aa",
+            "share": 0.102
+          },
+          {
+            "hex": "#070b06",
+            "share": 0.082
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loire-amboise/commons-1.jpg",
+      "title": "File:Chateau de Montsoreau Museum of contemporary art Loire Valley France.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chateau_de_Montsoreau_Museum_of_contemporary_art_Loire_Valley_France.jpg",
+      "author": "Suavemarimagno",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3456,
+      "height": 4608,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#33281d",
+            "share": 0.307
+          },
+          {
+            "hex": "#62666c",
+            "share": 0.237
+          },
+          {
+            "hex": "#9bc2e1",
+            "share": 0.166
+          },
+          {
+            "hex": "#b7d4e7",
+            "share": 0.156
+          },
+          {
+            "hex": "#d8a365",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#d8a365"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loire-amboise/commons-2.jpg",
+      "title": "File:Bauge Castle Loire Valley 2007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bauge_Castle_Loire_Valley_2007.jpg",
+      "author": "Manfred Heyde",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1600,
+      "height": 1238,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e745e",
+            "share": 0.296
+          },
+          {
+            "hex": "#78b8ef",
+            "share": 0.264
+          },
+          {
+            "hex": "#292a27",
+            "share": 0.185
+          },
+          {
+            "hex": "#545249",
+            "share": 0.173
+          },
+          {
+            "hex": "#bea277",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#78b8ef"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loire-amboise/commons-3.jpg",
+      "title": "File:Chateau de Montsoreau Museum of contemporary art Loire Valley France.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chateau_de_Montsoreau_Museum_of_contemporary_art_Loire_Valley_France.jpg",
+      "author": "Suavemarimagno",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3456,
+      "height": 4608,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#33281d",
+            "share": 0.307
+          },
+          {
+            "hex": "#62666c",
+            "share": 0.237
+          },
+          {
+            "hex": "#9bc2e1",
+            "share": 0.166
+          },
+          {
+            "hex": "#b7d4e7",
+            "share": 0.156
+          },
+          {
+            "hex": "#d8a365",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#d8a365"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/loire-amboise/commons-4.jpg",
+      "title": "File:Chateau de Menars loire.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chateau_de_Menars_loire.jpg",
+      "author": "Chatmouettes",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4288,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a8acb6",
+            "share": 0.256
+          },
+          {
+            "hex": "#595736",
+            "share": 0.244
+          },
+          {
+            "hex": "#736846",
+            "share": 0.197
+          },
+          {
+            "hex": "#3d4129",
+            "share": 0.188
+          },
+          {
+            "hex": "#8f897e",
+            "share": 0.115
+          }
+        ],
+        "strongest": "#595736"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#624959",
+        "share": 0.489
+      },
+      {
+        "hex": "#b8b9b2",
+        "share": 0.173
+      },
+      {
+        "hex": "#888756",
+        "share": 0.154
+      },
+      {
+        "hex": "#7490aa",
+        "share": 0.102
+      },
+      {
+        "hex": "#070b06",
+        "share": 0.082
+      }
+    ],
+    "strongest": null
+  }
+}

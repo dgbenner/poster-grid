@@ -1,0 +1,105 @@
+{
+  "id": "kenna-power-stations",
+  "name": "Michael Kenna power stations",
+  "lat": 55.0156,
+  "lng": -3.2247,
+  "enrichedAt": "2026-10-11T01:21:35.181Z",
+  "place": {
+    "town": "Annan",
+    "locality": null,
+    "county": "Dumfries and Galloway",
+    "adminArea": "Dumfries and Galloway",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.0156&lon=-3.2247&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Creca, Annan, Dumfries and Galloway, Scotland, DG12 6RP, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "caerlaverock-castle",
+        "name": "Caerlaverock Castle",
+        "km": 19.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Cooling towers Kenna photographed: Chapelcross (pinned), Ratcliffe, Didcot. © image — replace before publishing.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/kenna-power-stations/own-kenna-power-stations.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/kenna-power-stations.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#141416",
+            "share": 0.355
+          },
+          {
+            "hex": "#323133",
+            "share": 0.209
+          },
+          {
+            "hex": "#9a9798",
+            "share": 0.172
+          },
+          {
+            "hex": "#dad5d3",
+            "share": 0.135
+          },
+          {
+            "hex": "#5d5b5e",
+            "share": 0.128
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#141416",
+        "share": 0.355
+      },
+      {
+        "hex": "#323133",
+        "share": 0.209
+      },
+      {
+        "hex": "#9a9798",
+        "share": 0.172
+      },
+      {
+        "hex": "#dad5d3",
+        "share": 0.135
+      },
+      {
+        "hex": "#5d5b5e",
+        "share": 0.128
+      }
+    ],
+    "strongest": null
+  }
+}

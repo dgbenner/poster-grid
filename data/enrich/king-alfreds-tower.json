@@ -1,0 +1,233 @@
+{
+  "id": "king-alfreds-tower",
+  "name": "King Alfred's Tower, Stourhead",
+  "lat": 51.1147,
+  "lng": -2.3289,
+  "enrichedAt": "2026-10-11T01:21:33.484Z",
+  "place": {
+    "town": "Stourton",
+    "locality": "Stourton with Gasper",
+    "county": "Wiltshire",
+    "adminArea": "Wiltshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.1147&lon=-2.3289&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Stourton with Gasper, Stourton, Wiltshire, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "stonehenge",
+        "name": "Stonehenge",
+        "km": 35.8
+      },
+      {
+        "id": "castle-combe",
+        "name": "Castle Combe",
+        "km": 42.5
+      },
+      {
+        "id": "avebury-stone-circle",
+        "name": "Avebury Stone Circle",
+        "km": 48.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "King Alfred's Tower",
+      "description": "Folly tower in Somerset, England",
+      "extract": "Alfred's Tower is a folly in Somerset, England, on the edge of the border with Wiltshire, on the Stourhead estate. The tower stands on Kingsettle Hill and belongs to the National Trust. It is designated as a Grade I listed building.",
+      "url": "https://en.wikipedia.org/wiki/King_Alfred's_Tower",
+      "coordinates": {
+        "lat": 51.1148273,
+        "lng": -2.3650446
+      },
+      "km": 2.5,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/31/King_Alfred%27s_Tower_view_from_west.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "160ft triangular folly on the Stourhead estate edge.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/king-alfreds-tower/own-king-alfreds-tower.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/king-alfreds-tower.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.422
+          },
+          {
+            "hex": "#2f2d32",
+            "share": 0.208
+          },
+          {
+            "hex": "#1c201c",
+            "share": 0.198
+          },
+          {
+            "hex": "#44454a",
+            "share": 0.173
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/king-alfreds-tower/commons-1.jpg",
+      "title": "File:King Alfred's Tower view from west.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:King_Alfred%27s_Tower_view_from_west.jpg",
+      "author": "Jürgen Matern",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e3e2e7",
+            "share": 0.259
+          },
+          {
+            "hex": "#947355",
+            "share": 0.203
+          },
+          {
+            "hex": "#302c25",
+            "share": 0.197
+          },
+          {
+            "hex": "#5d7dac",
+            "share": 0.172
+          },
+          {
+            "hex": "#a6aec1",
+            "share": 0.169
+          }
+        ],
+        "strongest": "#5d7dac"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/king-alfreds-tower/commons-2.jpg",
+      "title": "File:Footpath to the west of Home Farm - geograph.org.uk - 7980521.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Footpath_to_the_west_of_Home_Farm_-_geograph.org.uk_-_7980521.jpg",
+      "author": "David Martin",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 683,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#868148",
+            "share": 0.32
+          },
+          {
+            "hex": "#cad6e5",
+            "share": 0.255
+          },
+          {
+            "hex": "#9f8e62",
+            "share": 0.176
+          },
+          {
+            "hex": "#67583e",
+            "share": 0.155
+          },
+          {
+            "hex": "#aaa399",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#cad6e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/king-alfreds-tower/commons-3.jpg",
+      "title": "File:Structure by The Terrace - geograph.org.uk - 7643785.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Structure_by_The_Terrace_-_geograph.org.uk_-_7643785.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2848,
+      "height": 4288,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c883a",
+            "share": 0.282
+          },
+          {
+            "hex": "#4e642f",
+            "share": 0.275
+          },
+          {
+            "hex": "#323f24",
+            "share": 0.185
+          },
+          {
+            "hex": "#92a755",
+            "share": 0.182
+          },
+          {
+            "hex": "#dde7d5",
+            "share": 0.076
+          }
+        ],
+        "strongest": "#6c883a"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:The top of Alfred's Tower - geograph.org.uk - 1310883.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.422
+      },
+      {
+        "hex": "#2f2d32",
+        "share": 0.208
+      },
+      {
+        "hex": "#1c201c",
+        "share": 0.198
+      },
+      {
+        "hex": "#44454a",
+        "share": 0.173
+      }
+    ],
+    "strongest": null
+  }
+}

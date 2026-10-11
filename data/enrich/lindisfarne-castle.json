@@ -1,0 +1,273 @@
+{
+  "id": "lindisfarne-castle",
+  "name": "Lindisfarne Castle",
+  "lat": 55.6690608,
+  "lng": -1.7848547,
+  "enrichedAt": "2026-10-11T01:21:46.963Z",
+  "place": {
+    "town": "Holy Island",
+    "locality": "Holy Island",
+    "county": "Northumberland",
+    "adminArea": "Northumberland",
+    "region": "North East",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.6690608&lon=-1.7848547&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Holy Island, Northumberland, North East, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "bamburgh-castle",
+        "name": "Bamburgh Castle",
+        "km": 8.2
+      },
+      {
+        "id": "hadrians-wall",
+        "name": "Hadrian's Wall",
+        "km": 80.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Lindisfarne Castle",
+      "description": "16th-century castle on Holy Island, England",
+      "extract": "Lindisfarne Castle is a 16th-century castle located on Holy Island, near Berwick-upon-Tweed, Northumberland, England, much altered by Sir Edwin Lutyens in 1901. The island is accessible from the mainland at low tide by means of a causeway.",
+      "url": "https://en.wikipedia.org/wiki/Lindisfarne_Castle",
+      "coordinates": {
+        "lat": 55.669,
+        "lng": -1.785
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cc/LindisfarneCastleHolyIsland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "16th-century tidal-island fort on Holy Island, remodelled as an Arts and Crafts home by Edwin Lutyens in 1903.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle",
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/lindisfarne-castle/own-lindisfarne-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/lindisfarne-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c4cad8",
+            "share": 0.282
+          },
+          {
+            "hex": "#dfe5f3",
+            "share": 0.271
+          },
+          {
+            "hex": "#827737",
+            "share": 0.192
+          },
+          {
+            "hex": "#4b4421",
+            "share": 0.178
+          },
+          {
+            "hex": "#aea89f",
+            "share": 0.077
+          }
+        ],
+        "strongest": "#827737"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lindisfarne-castle/commons-1.jpg",
+      "title": "File:Lindisfarne Castle during renovation.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lindisfarne_Castle_during_renovation.jpg",
+      "author": "Christopher Down",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#506033",
+            "share": 0.283
+          },
+          {
+            "hex": "#f4f6fd",
+            "share": 0.274
+          },
+          {
+            "hex": "#6c7355",
+            "share": 0.194
+          },
+          {
+            "hex": "#c5cfe1",
+            "share": 0.192
+          },
+          {
+            "hex": "#929aa2",
+            "share": 0.057
+          }
+        ],
+        "strongest": "#506033"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lindisfarne-castle/commons-2.jpg",
+      "title": "File:Lindisfarne Castle panorama.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lindisfarne_Castle_panorama.jpg",
+      "author": "Michael D Beckwith",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 8688,
+      "height": 1521,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bad3f7",
+            "share": 0.267
+          },
+          {
+            "hex": "#7a6f37",
+            "share": 0.219
+          },
+          {
+            "hex": "#b3bed4",
+            "share": 0.21
+          },
+          {
+            "hex": "#8a886e",
+            "share": 0.161
+          },
+          {
+            "hex": "#a9a79b",
+            "share": 0.143
+          }
+        ],
+        "strongest": "#bad3f7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lindisfarne-castle/commons-3.jpg",
+      "title": "File:View from Lindisfarne Castle - geograph.org.uk - 4042432.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_from_Lindisfarne_Castle_-_geograph.org.uk_-_4042432.jpg",
+      "author": "Eva Dean",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d9ebf5",
+            "share": 0.334
+          },
+          {
+            "hex": "#495516",
+            "share": 0.224
+          },
+          {
+            "hex": "#5e6333",
+            "share": 0.172
+          },
+          {
+            "hex": "#b2cbd7",
+            "share": 0.143
+          },
+          {
+            "hex": "#697c7a",
+            "share": 0.127
+          }
+        ],
+        "strongest": "#495516"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lindisfarne-castle/commons-4.jpg",
+      "title": "File:Window Detail, Lindisfarne Castle - geograph.org.uk - 2775598.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Window_Detail,_Lindisfarne_Castle_-_geograph.org.uk_-_2775598.jpg",
+      "author": "Adam Ward",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2310,
+      "height": 3570,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#07080a",
+            "share": 0.409
+          },
+          {
+            "hex": "#dae7ed",
+            "share": 0.245
+          },
+          {
+            "hex": "#adcae4",
+            "share": 0.165
+          },
+          {
+            "hex": "#b0a380",
+            "share": 0.122
+          },
+          {
+            "hex": "#494e51",
+            "share": 0.059
+          }
+        ],
+        "strongest": "#adcae4"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Entrance, Lindisfarne Castle, Holy Island - geograph.org.uk - 1232251.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#c4cad8",
+        "share": 0.282
+      },
+      {
+        "hex": "#dfe5f3",
+        "share": 0.271
+      },
+      {
+        "hex": "#827737",
+        "share": 0.192
+      },
+      {
+        "hex": "#4b4421",
+        "share": 0.178
+      },
+      {
+        "hex": "#aea89f",
+        "share": 0.077
+      }
+    ],
+    "strongest": "#827737"
+  }
+}

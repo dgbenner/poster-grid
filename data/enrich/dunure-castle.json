@@ -1,0 +1,274 @@
+{
+  "id": "dunure-castle",
+  "name": "Dunure Castle",
+  "lat": 55.4036,
+  "lng": -4.7606,
+  "enrichedAt": "2026-10-11T01:21:30.423Z",
+  "place": {
+    "town": "Dunure",
+    "locality": null,
+    "county": "South Ayrshire",
+    "adminArea": "South Ayrshire",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.4036&lon=-4.7606&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Dunure, South Ayrshire, Scotland, KA7 4LP, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Dunure Castle",
+      "description": "Castle in South Ayrshire, Scotland",
+      "extract": "Dunure Castle is located on the west coast of Scotland, in South Ayrshire, about five miles south of Ayr and close to the village of Dunure. Today the castle stands in ruins on a rocky promontory on the Carrick coast, overlooking the small harbour of Dunure.",
+      "url": "https://en.wikipedia.org/wiki/Dunure_Castle",
+      "coordinates": {
+        "lat": 55.4048,
+        "lng": -4.7655
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dunure_Castle._-_geograph.org.uk_-_428049.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Dunure",
+      "description": "Village in Ayrshire, Scotland",
+      "extract": "Dunure is a small village in the South Ayrshire area of Scotland, situated about five miles from Ayr. It is located on the coast of the Firth of Clyde, and is near to Maybole, south of Ayr. The village is most notable for its ruined medieval castle in a clifftop setting, its small former fishing harbour nearby, and a small, modern plant maze known as the Dunure Labyrinth.",
+      "url": "https://en.wikipedia.org/wiki/Dunure",
+      "coordinates": {
+        "lat": 55.4,
+        "lng": -4.75
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Ayrshire_Dunure_Aerial.jpg/3840px-Ayrshire_Dunure_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Clifftop ruin over a tiny harbour; an Outlander filming spot.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/dunure-castle/own-dunure-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/dunure-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dff1fd",
+            "share": 0.341
+          },
+          {
+            "hex": "#79844c",
+            "share": 0.264
+          },
+          {
+            "hex": "#a6997e",
+            "share": 0.213
+          },
+          {
+            "hex": "#6398be",
+            "share": 0.145
+          },
+          {
+            "hex": "#bedcf4",
+            "share": 0.038
+          }
+        ],
+        "strongest": "#6398be"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunure-castle/commons-1.jpg",
+      "title": "File:Dunure Castle, Ayrshire, 1789.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunure_Castle,_Ayrshire,_1789.jpg",
+      "author": "Roger Griffith",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3824,
+      "height": 2224,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9c9c9c",
+            "share": 0.289
+          },
+          {
+            "hex": "#909090",
+            "share": 0.265
+          },
+          {
+            "hex": "#a4a4a4",
+            "share": 0.197
+          },
+          {
+            "hex": "#7b7b7b",
+            "share": 0.15
+          },
+          {
+            "hex": "#5e5e5e",
+            "share": 0.099
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunure-castle/commons-2.jpg",
+      "title": "File:Dunure Castle, Ayrshire, 1840.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunure_Castle,_Ayrshire,_1840.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3056,
+      "height": 1968,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#575757",
+            "share": 0.25
+          },
+          {
+            "hex": "#767676",
+            "share": 0.239
+          },
+          {
+            "hex": "#919191",
+            "share": 0.213
+          },
+          {
+            "hex": "#a9a9a9",
+            "share": 0.169
+          },
+          {
+            "hex": "#373737",
+            "share": 0.13
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunure-castle/commons-3.jpg",
+      "title": "File:Dunure Castle and headland.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunure_Castle_and_headland.JPG",
+      "author": "Rosser1954 Roger Griffith",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2288,
+      "height": 1712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e8eef7",
+            "share": 0.417
+          },
+          {
+            "hex": "#645935",
+            "share": 0.258
+          },
+          {
+            "hex": "#474222",
+            "share": 0.177
+          },
+          {
+            "hex": "#7f6848",
+            "share": 0.113
+          },
+          {
+            "hex": "#989da1",
+            "share": 0.034
+          }
+        ],
+        "strongest": "#645935"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunure-castle/commons-4.jpg",
+      "title": "File:Dunure Castle keep, Carrick.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunure_Castle_keep,_Carrick.jpg",
+      "author": "Roger Griffith",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 4032,
+      "height": 2944,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#717171",
+            "share": 0.227
+          },
+          {
+            "hex": "#8c8c8c",
+            "share": 0.207
+          },
+          {
+            "hex": "#a6a6a6",
+            "share": 0.207
+          },
+          {
+            "hex": "#505050",
+            "share": 0.18
+          },
+          {
+            "hex": "#b4b4b4",
+            "share": 0.18
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Dunure Castle. - geograph.org.uk - 428049.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#dff1fd",
+        "share": 0.341
+      },
+      {
+        "hex": "#79844c",
+        "share": 0.264
+      },
+      {
+        "hex": "#a6997e",
+        "share": 0.213
+      },
+      {
+        "hex": "#6398be",
+        "share": 0.145
+      },
+      {
+        "hex": "#bedcf4",
+        "share": 0.038
+      }
+    ],
+    "strongest": "#6398be"
+  }
+}

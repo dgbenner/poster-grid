@@ -1,0 +1,243 @@
+{
+  "id": "burg-frankenstein",
+  "name": "Burg Frankenstein",
+  "lat": 49.7939,
+  "lng": 8.6692,
+  "enrichedAt": "2026-10-11T01:21:40.401Z",
+  "place": {
+    "town": "Nieder-Beerbach",
+    "locality": null,
+    "county": "Landkreis Darmstadt-Dieburg",
+    "adminArea": "Landkreis Darmstadt-Dieburg",
+    "region": "Hesse",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.7939&lon=8.6692&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Nieder-Beerbach, Mühltal, Landkreis Darmstadt-Dieburg, Hesse, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "The \"spooky\" hill castle of legend.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/burg-frankenstein/own-burg-frankenstein.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/burg-frankenstein.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1c1e1d",
+            "share": 0.475
+          },
+          {
+            "hex": "#44453f",
+            "share": 0.196
+          },
+          {
+            "hex": "#020202",
+            "share": 0.147
+          },
+          {
+            "hex": "#727871",
+            "share": 0.137
+          },
+          {
+            "hex": "#ced2d7",
+            "share": 0.046
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/burg-frankenstein/commons-1.jpg",
+      "title": "File:Burg-Frankenstein-Kapelle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Burg-Frankenstein-Kapelle.jpg",
+      "author": "Hewiha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2000,
+      "height": 1330,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#433e33",
+            "share": 0.325
+          },
+          {
+            "hex": "#15180f",
+            "share": 0.226
+          },
+          {
+            "hex": "#e7ebf2",
+            "share": 0.219
+          },
+          {
+            "hex": "#b2b8bf",
+            "share": 0.129
+          },
+          {
+            "hex": "#706c5c",
+            "share": 0.1
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/burg-frankenstein/commons-2.jpg",
+      "title": "File:Burg-Frankenstein-Torturm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Burg-Frankenstein-Torturm.jpg",
+      "author": "Hewiha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2000,
+      "height": 1330,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eff6fd",
+            "share": 0.288
+          },
+          {
+            "hex": "#15190b",
+            "share": 0.287
+          },
+          {
+            "hex": "#b7d2ee",
+            "share": 0.205
+          },
+          {
+            "hex": "#4c4734",
+            "share": 0.116
+          },
+          {
+            "hex": "#817066",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#b7d2ee"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/burg-frankenstein/commons-3.jpg",
+      "title": "File:Burg Frankenstein-Haus am Tor.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Burg_Frankenstein-Haus_am_Tor.jpg",
+      "author": "Hewiha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2000,
+      "height": 1333,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d543b",
+            "share": 0.235
+          },
+          {
+            "hex": "#e5e7eb",
+            "share": 0.235
+          },
+          {
+            "hex": "#696d56",
+            "share": 0.189
+          },
+          {
+            "hex": "#958883",
+            "share": 0.176
+          },
+          {
+            "hex": "#2d3524",
+            "share": 0.164
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/burg-frankenstein/commons-4.jpg",
+      "title": "File:Ausblick auf Darmstadt von Burg Frankenstein.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ausblick_auf_Darmstadt_von_Burg_Frankenstein.jpg",
+      "author": "Michael Mertens from Darmstadt, Germany",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1926,
+      "height": 922,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#98b4ba",
+            "share": 0.306
+          },
+          {
+            "hex": "#3f392c",
+            "share": 0.261
+          },
+          {
+            "hex": "#697779",
+            "share": 0.177
+          },
+          {
+            "hex": "#8e9fa1",
+            "share": 0.156
+          },
+          {
+            "hex": "#515855",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#98b4ba"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#1c1e1d",
+        "share": 0.475
+      },
+      {
+        "hex": "#44453f",
+        "share": 0.196
+      },
+      {
+        "hex": "#020202",
+        "share": 0.147
+      },
+      {
+        "hex": "#727871",
+        "share": 0.137
+      },
+      {
+        "hex": "#ced2d7",
+        "share": 0.046
+      }
+    ],
+    "strongest": null
+  }
+}

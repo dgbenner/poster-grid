@@ -1,0 +1,379 @@
+{
+  "id": "jim-morrison-s-grave",
+  "name": "Jim Morrison's Grave",
+  "lat": 48.8607,
+  "lng": 2.3934,
+  "enrichedAt": "2026-10-11T01:21:44.360Z",
+  "place": {
+    "town": "Paris",
+    "locality": "20th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8607&lon=2.3934&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier du Père-Lachaise, 20th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75020, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 0.08
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3.05
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 3.74
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 4.08
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 4.08
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 4.69
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 4.69
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 4.89
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 4.89
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 0.1
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 3.7
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 4.1
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 4.1
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 4.7
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 4.7
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 4.9
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 4.9
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 5.1
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 5.2
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 5.2
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 5.7
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 5.9
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 7.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The Doors frontman Jim Morrison's grave in Père Lachaise Cemetery, a pilgrimage site for rock fans worldwide.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/jim-morrison-s-grave/own-jim-morrison-s-grave.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/jim-morrison-s-grave.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5b584d",
+            "share": 0.294
+          },
+          {
+            "hex": "#2f302b",
+            "share": 0.216
+          },
+          {
+            "hex": "#bab8b5",
+            "share": 0.178
+          },
+          {
+            "hex": "#918d89",
+            "share": 0.159
+          },
+          {
+            "hex": "#e5e3e0",
+            "share": 0.153
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jim-morrison-s-grave/commons-1.jpg",
+      "title": "File:Tombe Léon Noël Division 20 Cimetière Père Lachaise - Paris XX (FR75) - 2024-08-18 - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tombe_L%C3%A9on_No%C3%ABl_Division_20_Cimeti%C3%A8re_P%C3%A8re_Lachaise_-_Paris_XX_(FR75)_-_2024-08-18_-_2.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#767f5b",
+            "share": 0.265
+          },
+          {
+            "hex": "#545d41",
+            "share": 0.252
+          },
+          {
+            "hex": "#cfcdc5",
+            "share": 0.202
+          },
+          {
+            "hex": "#a39e87",
+            "share": 0.143
+          },
+          {
+            "hex": "#2b3121",
+            "share": 0.139
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jim-morrison-s-grave/commons-2.jpg",
+      "title": "File:Tombe Léon Noël Division 20 Cimetière Père Lachaise - Paris XX (FR75) - 2024-08-18 - 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tombe_L%C3%A9on_No%C3%ABl_Division_20_Cimeti%C3%A8re_P%C3%A8re_Lachaise_-_Paris_XX_(FR75)_-_2024-08-18_-_3.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7f876e",
+            "share": 0.304
+          },
+          {
+            "hex": "#5f664f",
+            "share": 0.235
+          },
+          {
+            "hex": "#a8a18c",
+            "share": 0.171
+          },
+          {
+            "hex": "#393b29",
+            "share": 0.149
+          },
+          {
+            "hex": "#d6d1c7",
+            "share": 0.142
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jim-morrison-s-grave/commons-3.jpg",
+      "title": "File:Tombe Léon Noël Division 20 Cimetière Père Lachaise - Paris XX (FR75) - 2024-08-18 - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tombe_L%C3%A9on_No%C3%ABl_Division_20_Cimeti%C3%A8re_P%C3%A8re_Lachaise_-_Paris_XX_(FR75)_-_2024-08-18_-_1.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#777a5c",
+            "share": 0.282
+          },
+          {
+            "hex": "#545840",
+            "share": 0.279
+          },
+          {
+            "hex": "#303320",
+            "share": 0.168
+          },
+          {
+            "hex": "#9c9b84",
+            "share": 0.166
+          },
+          {
+            "hex": "#c9c7c5",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#303320"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jim-morrison-s-grave/commons-4.jpg",
+      "title": "File:Chemin Bertholle Cimetière Père Lachaise - Paris XX (FR75) - 2024-08-18 - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chemin_Bertholle_Cimeti%C3%A8re_P%C3%A8re_Lachaise_-_Paris_XX_(FR75)_-_2024-08-18_-_2.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bbbbbd",
+            "share": 0.274
+          },
+          {
+            "hex": "#575a40",
+            "share": 0.22
+          },
+          {
+            "hex": "#333621",
+            "share": 0.181
+          },
+          {
+            "hex": "#a09e9a",
+            "share": 0.181
+          },
+          {
+            "hex": "#7c7a61",
+            "share": 0.144
+          }
+        ],
+        "strongest": "#333621"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5b584d",
+        "share": 0.294
+      },
+      {
+        "hex": "#2f302b",
+        "share": 0.216
+      },
+      {
+        "hex": "#bab8b5",
+        "share": 0.178
+      },
+      {
+        "hex": "#918d89",
+        "share": 0.159
+      },
+      {
+        "hex": "#e5e3e0",
+        "share": 0.153
+      }
+    ],
+    "strongest": null
+  }
+}

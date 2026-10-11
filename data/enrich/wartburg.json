@@ -1,0 +1,290 @@
+{
+  "id": "wartburg",
+  "name": "Wartburg",
+  "lat": 50.9661,
+  "lng": 10.3064,
+  "enrichedAt": "2026-10-11T01:21:39.379Z",
+  "place": {
+    "town": "Eisenach",
+    "locality": null,
+    "county": "Wartburgkreis",
+    "adminArea": "Wartburgkreis",
+    "region": "Thuringia",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.9661&lon=10.3064&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Stregda, Eisenach, Wartburgkreis, Thuringia, 99817, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Wartburg",
+      "description": "Castle in Eisenach, Germany",
+      "extract": "The Wartburg is a castle originally built in the Middle Ages. At an elevation of 410 metres (1,350 ft) in the state of Thuringia, Germany, it is situated on a southwest-facing precipice and overlooks the town of Eisenach to the north. It was the home of St. Elisabeth of Hungary, the place where Martin Luther translated the New Testament of the Bible into German, the site of the Wartburg festival of 1817 and the supposed setting for the possibly legendary Sängerkrieg. It was an important inspiration for Ludwig II when he decided to build Neuschwanstein Castle.",
+      "url": "https://en.wikipedia.org/wiki/Wartburg",
+      "coordinates": {
+        "lat": 50.96611111,
+        "lng": 10.30638889
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg/3840px-Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Eisenach",
+      "description": "Town in Thuringia, Germany",
+      "extract": "Eisenach is a town in Thuringia, Germany with 42,000 inhabitants, 50 kilometres west of Erfurt, 70 km southeast of Kassel and 150 km northeast of Frankfurt. It is the main urban centre of western Thuringia, and bordering northeastern Hessian regions, is near the former Inner German border. A major attraction is Wartburg castle, which has been a UNESCO World Heritage Site since 1999.",
+      "url": "https://en.wikipedia.org/wiki/Eisenach",
+      "coordinates": {
+        "lat": 50.97611111,
+        "lng": 10.32055556
+      },
+      "km": 1.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Eisenach_von_G%C3%B6pelskuppe.jpg/3840px-Eisenach_von_G%C3%B6pelskuppe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "12th–15th c.; where Luther translated the New Testament.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/wartburg/own-wartburg.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/wartburg.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000100",
+            "share": 0.327
+          },
+          {
+            "hex": "#22301d",
+            "share": 0.254
+          },
+          {
+            "hex": "#444c38",
+            "share": 0.195
+          },
+          {
+            "hex": "#ccc8ce",
+            "share": 0.123
+          },
+          {
+            "hex": "#7f756b",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#22301d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wartburg/commons-1.jpg",
+      "title": "File:Luther's study, Wartburg, Thuringia, Germany-LCCN2002720777.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Luther%27s_study,_Wartburg,_Thuringia,_Germany-LCCN2002720777.jpg",
+      "author": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3551,
+      "height": 2629,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#593b1e",
+            "share": 0.249
+          },
+          {
+            "hex": "#331f11",
+            "share": 0.24
+          },
+          {
+            "hex": "#d3bca2",
+            "share": 0.209
+          },
+          {
+            "hex": "#af8e70",
+            "share": 0.163
+          },
+          {
+            "hex": "#876445",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#593b1e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wartburg/commons-2.jpg",
+      "title": "File:Wartburg-Gate.from.the.inside.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wartburg-Gate.from.the.inside.jpg",
+      "author": "Ingersoll",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1704,
+      "height": 2272,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#13130e",
+            "share": 0.27
+          },
+          {
+            "hex": "#2e2f23",
+            "share": 0.242
+          },
+          {
+            "hex": "#534d46",
+            "share": 0.212
+          },
+          {
+            "hex": "#7d787a",
+            "share": 0.144
+          },
+          {
+            "hex": "#b5b3bb",
+            "share": 0.132
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wartburg/commons-3.jpg",
+      "title": "File:Wartburg-Studentenzug-1817.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wartburg-Studentenzug-1817.jpg",
+      "author": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1522,
+      "height": 1150,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#919191",
+            "share": 0.257
+          },
+          {
+            "hex": "#707070",
+            "share": 0.231
+          },
+          {
+            "hex": "#e9e9e9",
+            "share": 0.176
+          },
+          {
+            "hex": "#b5b5b5",
+            "share": 0.175
+          },
+          {
+            "hex": "#4b4b4b",
+            "share": 0.16
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wartburg/commons-4.jpg",
+      "title": "File:Wartburg.Southtower.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Wartburg.Southtower.JPG",
+      "author": "Ingersoll",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1704,
+      "height": 2272,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#12110d",
+            "share": 0.351
+          },
+          {
+            "hex": "#f6f6fb",
+            "share": 0.258
+          },
+          {
+            "hex": "#807a76",
+            "share": 0.142
+          },
+          {
+            "hex": "#bab9c2",
+            "share": 0.138
+          },
+          {
+            "hex": "#41362f",
+            "share": 0.11
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Thuringia Eisenach asv2020-07 img23 Wartburg Castle.jpg",
+      "why": "licence FAL"
+    },
+    {
+      "title": "File:00 Wartburg Burgplan.JPG",
+      "why": "too small"
+    },
+    {
+      "title": "File:Johann Wolfgang Goethe, Wartburg mit Mönch und Nonne, 14.12.1807.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Thuringia Eisenach asv2020-07 img03 view from Wartburg South Tower.jpg",
+      "why": "licence FAL"
+    },
+    {
+      "title": "File:Thuringia Eisenach asv2020-07 img23 Wartburg Castle.jpg",
+      "why": "licence FAL"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000100",
+        "share": 0.327
+      },
+      {
+        "hex": "#22301d",
+        "share": 0.254
+      },
+      {
+        "hex": "#444c38",
+        "share": 0.195
+      },
+      {
+        "hex": "#ccc8ce",
+        "share": 0.123
+      },
+      {
+        "hex": "#7f756b",
+        "share": 0.102
+      }
+    ],
+    "strongest": "#22301d"
+  }
+}

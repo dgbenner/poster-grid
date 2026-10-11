@@ -1,0 +1,281 @@
+{
+  "id": "two-towers-of-bologna-asinelli-and-garisenda",
+  "name": "Two Towers of Bologna (Asinelli and Garisenda)",
+  "lat": 44.4941,
+  "lng": 11.3465,
+  "enrichedAt": "2026-10-11T01:21:45.483Z",
+  "place": {
+    "town": "Bologna",
+    "locality": "Santo Stefano",
+    "county": "Bologna",
+    "adminArea": "Bologna",
+    "region": "Emilia-Romagna",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.4941&lon=11.3465&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Santo Stefano, Monte Donato, Bologna, Emilia-Romagna, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "bologna-towers",
+        "name": "Bologna — the towers",
+        "km": 0.09
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "bologna-towers",
+        "name": "Bologna — the towers",
+        "km": 0.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Two Towers, Bologna",
+      "description": "12th-century buildings in Bologna, Italy",
+      "extract": "The Two Towers, both leaning, are symbols of Bologna, Italy, and the most prominent of the Towers of Bologna. They are located at the intersection of the roads that lead to the five gates of the old ring wall. The taller one is the Asinelli; the smaller, with a greater lean, is the Garisenda. They are named for the families which are traditionally credited with having constructed them between 1109 and 1119.",
+      "url": "https://en.wikipedia.org/wiki/Two_Towers%2C_Bologna",
+      "coordinates": {
+        "lat": 44.4943,
+        "lng": 11.3468
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Asinelli_e_Garisenda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bologna",
+      "description": "Capital and largest city of Emilia-Romagna, Italy",
+      "extract": "Bologna is the capital and largest city of the Emilia-Romagna region in northern Italy. It is the seventh most populous city in Italy, with 391,473 inhabitants from 150 different nationalities. Its metropolitan province is home to more than 1 million people as of 2026. Bologna is most famous for being the home to the oldest university in continuous operation, the University of Bologna, established in AD 1088.",
+      "url": "https://en.wikipedia.org/wiki/Bologna",
+      "coordinates": {
+        "lat": 44.49388889,
+        "lng": 11.34277778
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Torri_di_Bologna%2C_Bologna.jpg/3840px-Torri_di_Bologna%2C_Bologna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Bologna's iconic medieval leaning towers; the taller Asinelli reaches 97m, with the shorter Garisenda beside it.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/two-towers-of-bologna-asinelli-and-garisenda/own-two-towers-of-bologna-asinelli-and-garisenda.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/two-towers-of-bologna-asinelli-and-garisenda.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#997d5b",
+            "share": 0.245
+          },
+          {
+            "hex": "#7d5f3e",
+            "share": 0.242
+          },
+          {
+            "hex": "#442e1b",
+            "share": 0.22
+          },
+          {
+            "hex": "#5c4229",
+            "share": 0.215
+          },
+          {
+            "hex": "#d9b583",
+            "share": 0.078
+          }
+        ],
+        "strongest": "#442e1b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/two-towers-of-bologna-asinelli-and-garisenda/commons-1.jpg",
+      "title": "File:Towers of Bologna.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Towers_of_Bologna.jpg",
+      "author": "Qian Liu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a74ab",
+            "share": 0.43
+          },
+          {
+            "hex": "#c3a987",
+            "share": 0.19
+          },
+          {
+            "hex": "#8b7458",
+            "share": 0.153
+          },
+          {
+            "hex": "#29231f",
+            "share": 0.136
+          },
+          {
+            "hex": "#c8d4df",
+            "share": 0.091
+          }
+        ],
+        "strongest": "#4a74ab"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/two-towers-of-bologna-asinelli-and-garisenda/commons-2.jpg",
+      "title": "File:Cmglee Bologna Torre Garisenda from Torre Asinelli.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Bologna_Torre_Garisenda_from_Torre_Asinelli.jpg",
+      "author": "Cmglee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4096,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a68a78",
+            "share": 0.265
+          },
+          {
+            "hex": "#5b5352",
+            "share": 0.221
+          },
+          {
+            "hex": "#7d7169",
+            "share": 0.207
+          },
+          {
+            "hex": "#3f3635",
+            "share": 0.178
+          },
+          {
+            "hex": "#baae9c",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#a68a78"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/two-towers-of-bologna-asinelli-and-garisenda/commons-3.jpg",
+      "title": "File:Bologna 18 44 40 311000.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bologna_18_44_40_311000.jpeg",
+      "author": "Robot8A",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#665753",
+            "share": 0.306
+          },
+          {
+            "hex": "#7c828b",
+            "share": 0.202
+          },
+          {
+            "hex": "#2e2423",
+            "share": 0.193
+          },
+          {
+            "hex": "#a5c5e6",
+            "share": 0.174
+          },
+          {
+            "hex": "#987563",
+            "share": 0.126
+          }
+        ],
+        "strongest": "#a5c5e6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/two-towers-of-bologna-asinelli-and-garisenda/commons-4.jpg",
+      "title": "File:Bologna 18 44 35 813000.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bologna_18_44_35_813000.jpeg",
+      "author": "Robot8A",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#79b3f3",
+            "share": 0.287
+          },
+          {
+            "hex": "#5a5654",
+            "share": 0.273
+          },
+          {
+            "hex": "#352b26",
+            "share": 0.209
+          },
+          {
+            "hex": "#8b8074",
+            "share": 0.141
+          },
+          {
+            "hex": "#aaa59c",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#79b3f3"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#997d5b",
+        "share": 0.245
+      },
+      {
+        "hex": "#7d5f3e",
+        "share": 0.242
+      },
+      {
+        "hex": "#442e1b",
+        "share": 0.22
+      },
+      {
+        "hex": "#5c4229",
+        "share": 0.215
+      },
+      {
+        "hex": "#d9b583",
+        "share": 0.078
+      }
+    ],
+    "strongest": "#442e1b"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": "monets-house-giverny",
+  "name": "Monet's house & gardens, Giverny",
+  "lat": 49.0758,
+  "lng": 1.5333,
+  "enrichedAt": "2026-10-11T01:21:40.598Z",
+  "place": {
+    "town": "Giverny",
+    "locality": null,
+    "county": "Eure",
+    "adminArea": "Eure",
+    "region": "Normandy",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.0758&lon=1.5333&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Les Anjoux, Giverny, Les Andelys, Eure, Normandy, Metropolitan France, 27620, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Giverny",
+      "description": "Commune in Normandy, France",
+      "extract": "Giverny is a commune in the northern French department of Eure. The village is located on the \"right bank\" of the river Seine at its confluence with the river Epte. It lies 80 km (50 mi) west-northwest of Paris, in the region of Normandy. It is best known as the location of Claude Monet's garden and home.",
+      "url": "https://en.wikipedia.org/wiki/Giverny",
+      "coordinates": {
+        "lat": 49.0769,
+        "lng": 1.53
+      },
+      "km": 0.3,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/10/Giverny_nympheas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Giverny",
+      "description": "Commune in Normandy, France",
+      "extract": "Giverny is a commune in the northern French department of Eure. The village is located on the \"right bank\" of the river Seine at its confluence with the river Epte. It lies 80 km (50 mi) west-northwest of Paris, in the region of Normandy. It is best known as the location of Claude Monet's garden and home.",
+      "url": "https://en.wikipedia.org/wiki/Giverny",
+      "coordinates": {
+        "lat": 49.0769,
+        "lng": 1.53
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/10/Giverny_nympheas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The interior of Claude Monet's home (Normandy, ~75 km NW of Paris).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/monets-house-giverny/own-monets-house-giverny.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/monets-house-giverny.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a3122",
+            "share": 0.376
+          },
+          {
+            "hex": "#ab8857",
+            "share": 0.199
+          },
+          {
+            "hex": "#805e39",
+            "share": 0.177
+          },
+          {
+            "hex": "#d1b187",
+            "share": 0.165
+          },
+          {
+            "hex": "#3c332b",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#5a3122"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monets-house-giverny/commons-1.jpg",
+      "title": "File:France - Giverny, Fundation Claude Monet - panoramio (37).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:France_-_Giverny,_Fundation_Claude_Monet_-_panoramio_(37).jpg",
+      "author": "randreu",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 5184,
+      "height": 2920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#40552b",
+            "share": 0.286
+          },
+          {
+            "hex": "#66754a",
+            "share": 0.231
+          },
+          {
+            "hex": "#f8fafa",
+            "share": 0.201
+          },
+          {
+            "hex": "#212d17",
+            "share": 0.181
+          },
+          {
+            "hex": "#979e7f",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#40552b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monets-house-giverny/commons-2.jpg",
+      "title": "File:Rue Claude Monet à Giverny, Eure-1000871.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rue_Claude_Monet_%C3%A0_Giverny,_Eure-1000871.jpg",
+      "author": "Frank Schulenburg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6284,
+      "height": 8797,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7d7775",
+            "share": 0.277
+          },
+          {
+            "hex": "#63673b",
+            "share": 0.269
+          },
+          {
+            "hex": "#3b4422",
+            "share": 0.172
+          },
+          {
+            "hex": "#9598aa",
+            "share": 0.172
+          },
+          {
+            "hex": "#c2d5f0",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#c2d5f0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monets-house-giverny/commons-3.jpg",
+      "title": "File:France - Giverny, Fundation Claude Monet - panoramio (28).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:France_-_Giverny,_Fundation_Claude_Monet_-_panoramio_(28).jpg",
+      "author": "randreu",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 5184,
+      "height": 2920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a5752",
+            "share": 0.311
+          },
+          {
+            "hex": "#120c09",
+            "share": 0.262
+          },
+          {
+            "hex": "#362e27",
+            "share": 0.225
+          },
+          {
+            "hex": "#d7d8de",
+            "share": 0.108
+          },
+          {
+            "hex": "#89898b",
+            "share": 0.095
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monets-house-giverny/commons-4.jpg",
+      "title": "File:Giverny.panorama.jardin de Monet.1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Giverny.panorama.jardin_de_Monet.1.jpg",
+      "author": "Popolon",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4713,
+      "height": 2067,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#657346",
+            "share": 0.262
+          },
+          {
+            "hex": "#1b251c",
+            "share": 0.204
+          },
+          {
+            "hex": "#3f4a36",
+            "share": 0.195
+          },
+          {
+            "hex": "#9abbd7",
+            "share": 0.193
+          },
+          {
+            "hex": "#888e65",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#9abbd7"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Monet's house in Giverny.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5a3122",
+        "share": 0.376
+      },
+      {
+        "hex": "#ab8857",
+        "share": 0.199
+      },
+      {
+        "hex": "#805e39",
+        "share": 0.177
+      },
+      {
+        "hex": "#d1b187",
+        "share": 0.165
+      },
+      {
+        "hex": "#3c332b",
+        "share": 0.083
+      }
+    ],
+    "strongest": "#5a3122"
+  }
+}

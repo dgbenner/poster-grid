@@ -1,0 +1,316 @@
+{
+  "id": "brandenburg-gate",
+  "name": "Brandenburg Gate",
+  "lat": 52.5163,
+  "lng": 13.3777,
+  "enrichedAt": "2026-10-11T01:21:39.809Z",
+  "place": {
+    "town": "Berlin",
+    "locality": "Mitte",
+    "county": "Berlin",
+    "adminArea": null,
+    "region": null,
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.5163&lon=13.3777&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Mitte, Berlin, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "boltanski-missing-house",
+        "name": "Boltanski, The Missing House",
+        "km": 1.74
+      },
+      {
+        "id": "berlin-street-chess",
+        "name": "Berlin Street Chess",
+        "km": 1.89
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 2.29
+      },
+      {
+        "id": "umlauftank-2-circulating-tank",
+        "name": "Umlauftank 2 (Circulating Tank)",
+        "km": 3.49
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "boltanski-missing-house",
+        "name": "Boltanski, The Missing House",
+        "km": 1.7
+      },
+      {
+        "id": "berlin-street-chess",
+        "name": "Berlin Street Chess",
+        "km": 1.9
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 2.3
+      },
+      {
+        "id": "umlauftank-2-circulating-tank",
+        "name": "Umlauftank 2 (Circulating Tank)",
+        "km": 3.5
+      },
+      {
+        "id": "erholungspark-marzahn-chinese-garden",
+        "name": "Erholungspark Marzahn — Chinese Garden",
+        "km": 13.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Brandenburg Gate",
+      "description": "Triumphal arch and gate in Berlin, Germany",
+      "extract": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany. One of the best-known landmarks of the country, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow.",
+      "url": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+      "coordinates": {
+        "lat": 52.5163,
+        "lng": 13.3777
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Berlin",
+      "description": "Capital and largest city of Germany",
+      "extract": "Berlin is the capital and largest city of Germany. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union (EU). The metropolis is also one of the states of Germany, being the third-smallest state in the country by area. Berlin is surrounded by the state of Brandenburg, bordering Brandenburg's capital Potsdam to the southwest. The urban area of Berlin has a population of 4.5 million, making it the second most populous in Germany after the Ruhr. The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's second-largest metropolitan region after the Rhine-Ruhr region, as well as the fifth-biggest metropolitan region by GDP in the EU. Berlin is a global city of culture, politics, media and science.",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "km": 1.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/3840px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/brandenburg-gate/own-brandenburg-gate.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/brandenburg-gate.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2c94e6",
+            "share": 0.431
+          },
+          {
+            "hex": "#302220",
+            "share": 0.166
+          },
+          {
+            "hex": "#ba8330",
+            "share": 0.165
+          },
+          {
+            "hex": "#7b5122",
+            "share": 0.157
+          },
+          {
+            "hex": "#d1b768",
+            "share": 0.08
+          }
+        ],
+        "strongest": "#2c94e6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brandenburg-gate/commons-1.jpg",
+      "title": "File:Berlin-Brandenburg Gate overview.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Berlin-Brandenburg_Gate_overview.jpg",
+      "author": "Cezary p at Polish Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 3864,
+      "height": 1807,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#827a67",
+            "share": 0.298
+          },
+          {
+            "hex": "#9ba4b0",
+            "share": 0.233
+          },
+          {
+            "hex": "#8a96a8",
+            "share": 0.19
+          },
+          {
+            "hex": "#bbad8c",
+            "share": 0.18
+          },
+          {
+            "hex": "#484630",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#bbad8c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brandenburg-gate/commons-2.jpg",
+      "title": "File:Brandenburg Gate, Berlin Germany.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate,_Berlin_Germany.jpg",
+      "author": "Skepticalism",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3104,
+      "height": 3104,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c8a784",
+            "share": 0.307
+          },
+          {
+            "hex": "#2c3038",
+            "share": 0.2
+          },
+          {
+            "hex": "#4e494a",
+            "share": 0.2
+          },
+          {
+            "hex": "#9d826e",
+            "share": 0.147
+          },
+          {
+            "hex": "#74655c",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#c8a784"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brandenburg-gate/commons-3.jpg",
+      "title": "File:Brandenburg Gate - Flickr - The Central Intelligence Agency (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_-_Flickr_-_The_Central_Intelligence_Agency_(1).jpg",
+      "author": "The Central Intelligence Agency",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1408,
+      "height": 1056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#afb0b5",
+            "share": 0.35
+          },
+          {
+            "hex": "#5d5e61",
+            "share": 0.247
+          },
+          {
+            "hex": "#88898e",
+            "share": 0.228
+          },
+          {
+            "hex": "#e3e5e9",
+            "share": 0.098
+          },
+          {
+            "hex": "#343437",
+            "share": 0.077
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brandenburg-gate/commons-4.jpg",
+      "title": "File:Brandenburg Gate cross sections (5960).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_cross_sections_(5960).jpg",
+      "author": "Carl Gotthard Langhans",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3000,
+      "height": 2403,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f3e6d6",
+            "share": 0.383
+          },
+          {
+            "hex": "#f5eadc",
+            "share": 0.249
+          },
+          {
+            "hex": "#dab5a4",
+            "share": 0.158
+          },
+          {
+            "hex": "#e7d4c2",
+            "share": 0.122
+          },
+          {
+            "hex": "#b09885",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#dab5a4"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#2c94e6",
+        "share": 0.431
+      },
+      {
+        "hex": "#302220",
+        "share": 0.166
+      },
+      {
+        "hex": "#ba8330",
+        "share": 0.165
+      },
+      {
+        "hex": "#7b5122",
+        "share": 0.157
+      },
+      {
+        "hex": "#d1b768",
+        "share": 0.08
+      }
+    ],
+    "strongest": "#2c94e6"
+  }
+}

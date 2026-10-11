@@ -1,0 +1,17 @@
+{
+  "name": "poster-grid",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lab": "node scripts/serve.mjs",
+    "fetch-pins": "node scripts/fetch-pins.mjs",
+    "enrich": "node scripts/enrich.mjs",
+    "posters": "node scripts/make-posters.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
+    "playwright": "^1.64.0",
+    "sharp": "^0.34.5",
+    "zod": "^4.6.5"
+  }
+}

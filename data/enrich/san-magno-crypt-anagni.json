@@ -1,0 +1,242 @@
+{
+  "id": "san-magno-crypt-anagni",
+  "name": "Crypt of San Magno, Anagni",
+  "lat": 41.7375,
+  "lng": 13.1547,
+  "enrichedAt": "2026-10-11T01:21:43.768Z",
+  "place": {
+    "town": "Anagni",
+    "locality": null,
+    "county": "Frosinone",
+    "adminArea": "Frosinone",
+    "region": "Lazio",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.7375&lon=13.1547&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "San Filippo, Anagni, Frosinone, Lazio, 03012, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Anagni",
+      "description": "Comune in Lazio, Italy",
+      "extract": "Anagni is an ancient town and comune in the province of Frosinone, Lazio, in the hills east-southeast of Rome. It is a historical and artistic centre of the Latin Valley.",
+      "url": "https://en.wikipedia.org/wiki/Anagni",
+      "coordinates": {
+        "lat": 41.74222222,
+        "lng": 13.15833333
+      },
+      "km": 0.6,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/26/View_of_Anagni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Anagni",
+      "description": "Comune in Lazio, Italy",
+      "extract": "Anagni is an ancient town and comune in the province of Frosinone, Lazio, in the hills east-southeast of Rome. It is a historical and artistic centre of the Latin Valley.",
+      "url": "https://en.wikipedia.org/wiki/Anagni",
+      "coordinates": {
+        "lat": 41.74222222,
+        "lng": 13.15833333
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/26/View_of_Anagni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Fully frescoed medieval crypt in the \"City of Popes,\" SE of Rome.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/san-magno-crypt-anagni/own-san-magno-crypt-anagni.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/san-magno-crypt-anagni.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6d655d",
+            "share": 0.258
+          },
+          {
+            "hex": "#8e8982",
+            "share": 0.239
+          },
+          {
+            "hex": "#0b0806",
+            "share": 0.193
+          },
+          {
+            "hex": "#463d36",
+            "share": 0.183
+          },
+          {
+            "hex": "#bab3a2",
+            "share": 0.128
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/san-magno-crypt-anagni/commons-1.jpg",
+      "title": "File:Cattedrale di Santa Maria (Anagni) con campanile.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_(Anagni)_con_campanile.JPG",
+      "author": "Livioandronico2013",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3888,
+      "height": 5184,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1d1a15",
+            "share": 0.288
+          },
+          {
+            "hex": "#bdc7d2",
+            "share": 0.212
+          },
+          {
+            "hex": "#625a4f",
+            "share": 0.203
+          },
+          {
+            "hex": "#413930",
+            "share": 0.19
+          },
+          {
+            "hex": "#a3acb7",
+            "share": 0.107
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/san-magno-crypt-anagni/commons-2.jpg",
+      "title": "File:Palazzo dei papi, Anagni.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Palazzo_dei_papi,_Anagni.jpg",
+      "author": "Livioandronico2013",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3888,
+      "height": 3419,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a09e9f",
+            "share": 0.297
+          },
+          {
+            "hex": "#817e7e",
+            "share": 0.269
+          },
+          {
+            "hex": "#575454",
+            "share": 0.206
+          },
+          {
+            "hex": "#2a2624",
+            "share": 0.155
+          },
+          {
+            "hex": "#fafafa",
+            "share": 0.073
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/san-magno-crypt-anagni/commons-3.jpg",
+      "title": "File:Femmina con prole.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Femmina_con_prole.jpg",
+      "author": "Ivan.quiselli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2161,
+      "height": 1439,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#97bee3",
+            "share": 0.269
+          },
+          {
+            "hex": "#a1c8ee",
+            "share": 0.252
+          },
+          {
+            "hex": "#88aed3",
+            "share": 0.227
+          },
+          {
+            "hex": "#add3fa",
+            "share": 0.218
+          },
+          {
+            "hex": "#7796b5",
+            "share": 0.034
+          }
+        ],
+        "strongest": "#add3fa"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Anagni ekron.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:View of Anagni.jpg",
+      "why": "licence Copyrighted free use"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6d655d",
+        "share": 0.258
+      },
+      {
+        "hex": "#8e8982",
+        "share": 0.239
+      },
+      {
+        "hex": "#0b0806",
+        "share": 0.193
+      },
+      {
+        "hex": "#463d36",
+        "share": 0.183
+      },
+      {
+        "hex": "#bab3a2",
+        "share": 0.128
+      }
+    ],
+    "strongest": null
+  }
+}

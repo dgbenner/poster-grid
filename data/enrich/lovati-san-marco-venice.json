@@ -1,0 +1,298 @@
+{
+  "id": "lovati-san-marco-venice",
+  "name": "August Lovati, San Marco",
+  "lat": 45.4341,
+  "lng": 12.3388,
+  "enrichedAt": "2026-10-11T01:21:41.947Z",
+  "place": {
+    "town": "Venice",
+    "locality": "Venezia-Murano-Burano",
+    "county": "Venezia",
+    "adminArea": "Venezia",
+    "region": "Veneto",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.4341&lon=12.3388&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Venezia-Murano-Burano, Burano, Venice, Venezia, Veneto, 30142, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "la-fenice-venice",
+        "name": "La Fenice opera house",
+        "km": 0.39
+      },
+      {
+        "id": "venice-carnival",
+        "name": "Venice Carnival",
+        "km": 0.49
+      },
+      {
+        "id": "support-quinn-venice",
+        "name": "Lorenzo Quinn, Support (2017)",
+        "km": 0.59
+      },
+      {
+        "id": "venice",
+        "name": "Venice (the city)",
+        "km": 1.96
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "la-fenice-venice",
+        "name": "La Fenice opera house",
+        "km": 0.4
+      },
+      {
+        "id": "venice-carnival",
+        "name": "Venice Carnival",
+        "km": 0.5
+      },
+      {
+        "id": "support-quinn-venice",
+        "name": "Lorenzo Quinn, Support (2017)",
+        "km": 0.6
+      },
+      {
+        "id": "venice",
+        "name": "Venice (the city)",
+        "km": 2
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Venice",
+      "description": "City in Veneto, Italy",
+      "extract": "Venice is a coastal city in northeastern Italy and the capital of the region of Veneto, as well as the Metropolitan City of Venice. It is built on a group of 126 islands that are separated by expanses of open water and by canals; portions of the city are linked by 472 bridges.",
+      "url": "https://en.wikipedia.org/wiki/Venice",
+      "coordinates": {
+        "lat": 45.4375,
+        "lng": 12.33583333
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/3840px-Venezia_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Painting (1852–1921).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/lovati-san-marco-venice/own-lovati-san-marco-venice.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/lovati-san-marco-venice.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a59875",
+            "share": 0.529
+          },
+          {
+            "hex": "#dddcd5",
+            "share": 0.163
+          },
+          {
+            "hex": "#0a0a0a",
+            "share": 0.126
+          },
+          {
+            "hex": "#6f6049",
+            "share": 0.124
+          },
+          {
+            "hex": "#acaeaa",
+            "share": 0.058
+          }
+        ],
+        "strongest": "#a59875"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lovati-san-marco-venice/commons-1.jpg",
+      "title": "File:San Marco, 30100 Venice, Italy - panoramio (906).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:San_Marco,_30100_Venice,_Italy_-_panoramio_(906).jpg",
+      "author": "Lothar John",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2448,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a88c9",
+            "share": 0.461
+          },
+          {
+            "hex": "#686162",
+            "share": 0.174
+          },
+          {
+            "hex": "#948f8c",
+            "share": 0.162
+          },
+          {
+            "hex": "#323032",
+            "share": 0.105
+          },
+          {
+            "hex": "#bdb9b7",
+            "share": 0.098
+          }
+        ],
+        "strongest": "#5a88c9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lovati-san-marco-venice/commons-2.jpg",
+      "title": "File:Piazza San Marco (3).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(3).jpg",
+      "author": "Michał Bulsa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#766c6d",
+            "share": 0.285
+          },
+          {
+            "hex": "#b0b0bc",
+            "share": 0.199
+          },
+          {
+            "hex": "#514849",
+            "share": 0.194
+          },
+          {
+            "hex": "#cdcbd4",
+            "share": 0.182
+          },
+          {
+            "hex": "#262122",
+            "share": 0.14
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lovati-san-marco-venice/commons-3.jpg",
+      "title": "File:Piazza San Marco (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(2).jpg",
+      "author": "Michał Bulsa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#685e5e",
+            "share": 0.352
+          },
+          {
+            "hex": "#c6c9db",
+            "share": 0.273
+          },
+          {
+            "hex": "#867c7b",
+            "share": 0.166
+          },
+          {
+            "hex": "#b0b3c3",
+            "share": 0.115
+          },
+          {
+            "hex": "#3c3536",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#c6c9db"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lovati-san-marco-venice/commons-4.jpg",
+      "title": "File:Venezia San Marco (35231324284).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Venezia_San_Marco_(35231324284).jpg",
+      "author": "Jorge Franganillo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2717,
+      "height": 4077,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#28557f",
+            "share": 0.286
+          },
+          {
+            "hex": "#837467",
+            "share": 0.272
+          },
+          {
+            "hex": "#4b4039",
+            "share": 0.154
+          },
+          {
+            "hex": "#8fa1b2",
+            "share": 0.153
+          },
+          {
+            "hex": "#cad8e6",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#28557f"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a59875",
+        "share": 0.529
+      },
+      {
+        "hex": "#dddcd5",
+        "share": 0.163
+      },
+      {
+        "hex": "#0a0a0a",
+        "share": 0.126
+      },
+      {
+        "hex": "#6f6049",
+        "share": 0.124
+      },
+      {
+        "hex": "#acaeaa",
+        "share": 0.058
+      }
+    ],
+    "strongest": "#a59875"
+  }
+}

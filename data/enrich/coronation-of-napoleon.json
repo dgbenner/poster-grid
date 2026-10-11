@@ -1,0 +1,264 @@
+{
+  "id": "coronation-of-napoleon",
+  "name": "David, The Coronation of Napoleon",
+  "lat": 48.8606,
+  "lng": 2.3376,
+  "enrichedAt": "2026-10-11T01:21:40.509Z",
+  "place": {
+    "town": "Paris",
+    "locality": "1st Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8606&lon=2.3376&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Saint-Germain-l'Auxerrois, 1st Arrondissement, Paris, Ile-de-France, Metropolitan France, 75001, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 0
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 0.41
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0.81
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 0.81
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 1.15
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 1.16
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.33
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.46
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 1.7
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 1.81
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 2.64
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.15
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 3.16
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 4.08
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 4.08
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 0
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 0.4
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0.8
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 0.8
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 1.2
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 1.2
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.3
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.5
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 1.7
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 1.8
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 2.6
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.1
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 3.2
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 4.1
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 4.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 1.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The enormous canvas behind the Mona Lisa at the Louvre (\"infinitely cooler,\" per the post).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/coronation-of-napoleon/own-coronation-of-napoleon.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/coronation-of-napoleon.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#494639",
+            "share": 0.291
+          },
+          {
+            "hex": "#76705b",
+            "share": 0.203
+          },
+          {
+            "hex": "#adbdca",
+            "share": 0.198
+          },
+          {
+            "hex": "#1e1e1e",
+            "share": 0.18
+          },
+          {
+            "hex": "#c0a679",
+            "share": 0.128
+          }
+        ],
+        "strongest": "#c0a679"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#494639",
+        "share": 0.291
+      },
+      {
+        "hex": "#76705b",
+        "share": 0.203
+      },
+      {
+        "hex": "#adbdca",
+        "share": 0.198
+      },
+      {
+        "hex": "#1e1e1e",
+        "share": 0.18
+      },
+      {
+        "hex": "#c0a679",
+        "share": 0.128
+      }
+    ],
+    "strongest": "#c0a679"
+  }
+}

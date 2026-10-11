@@ -1,0 +1,40 @@
+{
+  "id": "german-observation-tower-guernsey",
+  "name": "German Observation Tower, Guernsey",
+  "lat": 49.4239,
+  "lng": -2.6722,
+  "enrichedAt": "2026-10-11T01:21:40.288Z",
+  "place": {
+    "town": null,
+    "locality": null,
+    "county": "Guernsey",
+    "adminArea": null,
+    "region": null,
+    "country": "Guernsey",
+    "sovereign": "Guernsey",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.4239&lon=-2.6722&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Guernsey"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "A WWII German fortification, so it belongs with the UK/British Isles set, not Germany.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [],
+  "rejectedImages": [],
+  "colors": null
+}

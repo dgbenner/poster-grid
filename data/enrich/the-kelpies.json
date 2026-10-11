@@ -1,0 +1,288 @@
+{
+  "id": "the-kelpies",
+  "name": "The Kelpies",
+  "lat": 56.0197,
+  "lng": -3.7556,
+  "enrichedAt": "2026-10-11T01:21:30.667Z",
+  "place": {
+    "town": "Falkirk",
+    "locality": "Middlefield",
+    "county": "Falkirk",
+    "adminArea": "Falkirk",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.0197&lon=-3.7556&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Middlefield, Falkirk, Scotland, FK2 9EN, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "falkirk-wheel",
+        "name": "Falkirk Wheel",
+        "km": 5.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "The Kelpies",
+      "description": "Sculpture by Andy Scott",
+      "extract": "The Kelpies are a pair of monumental steel horse-heads between the Scottish towns of Falkirk and Grangemouth. They stand next to the M9 motorway and form the eastern gateway of the Forth and Clyde Canal, which meets the River Carron here. Each head is 30 metres (98 ft) high and weighs approximately 300 tonnes (47,000 st).",
+      "url": "https://en.wikipedia.org/wiki/The_Kelpies",
+      "coordinates": {
+        "lat": 56.0192,
+        "lng": -3.7557
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/The_Kelpies_at_The_Helix_in_Falkirk%2C_Scotland%2C_June_2014.jpg/3840px-The_Kelpies_at_The_Helix_in_Falkirk%2C_Scotland%2C_June_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Falkirk",
+      "description": "Town in Central Lowlands, Scotland",
+      "extract": "Falkirk is a town in the Central Lowlands of Scotland, historically within the county of Stirlingshire. It lies in the Forth Valley, 23+1⁄2 miles northwest of Edinburgh and 20+1⁄2 miles (33 km) northeast of Glasgow.",
+      "url": "https://en.wikipedia.org/wiki/Falkirk",
+      "coordinates": {
+        "lat": 55.99944444,
+        "lng": -3.78472222
+      },
+      "km": 2.9,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/29/FalkirkHighStreet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Two 30m steel horse-heads by Andy Scott.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/the-kelpies/own-the-kelpies.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/the-kelpies.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a1a5ad",
+            "share": 0.312
+          },
+          {
+            "hex": "#80868d",
+            "share": 0.249
+          },
+          {
+            "hex": "#4e514a",
+            "share": 0.162
+          },
+          {
+            "hex": "#4f74a6",
+            "share": 0.157
+          },
+          {
+            "hex": "#c9c8c9",
+            "share": 0.12
+          }
+        ],
+        "strongest": "#4f74a6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-kelpies/commons-1.jpg",
+      "title": "File:The Kelpies at The Helix in Falkirk, Scotland, June 2014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Kelpies_at_The_Helix_in_Falkirk,_Scotland,_June_2014.jpg",
+      "author": "Steven Straiton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9a9fa8",
+            "share": 0.336
+          },
+          {
+            "hex": "#7a7e81",
+            "share": 0.205
+          },
+          {
+            "hex": "#c3c3c5",
+            "share": 0.167
+          },
+          {
+            "hex": "#5075a6",
+            "share": 0.16
+          },
+          {
+            "hex": "#484c43",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#5075a6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-kelpies/commons-2.jpg",
+      "title": "File:The Kelpies at The Helix in Falkirk, Scotland, June 2014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Kelpies_at_The_Helix_in_Falkirk,_Scotland,_June_2014.jpg",
+      "author": "Steven Straiton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9a9fa8",
+            "share": 0.336
+          },
+          {
+            "hex": "#7a7e81",
+            "share": 0.205
+          },
+          {
+            "hex": "#c3c3c5",
+            "share": 0.167
+          },
+          {
+            "hex": "#5075a6",
+            "share": 0.16
+          },
+          {
+            "hex": "#484c43",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#5075a6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-kelpies/commons-3.jpg",
+      "title": "File:The Kelpies - geograph.org.uk - 6644150.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Kelpies_-_geograph.org.uk_-_6644150.jpg",
+      "author": "Les Hull",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b5bac1",
+            "share": 0.312
+          },
+          {
+            "hex": "#96a0a9",
+            "share": 0.234
+          },
+          {
+            "hex": "#656566",
+            "share": 0.227
+          },
+          {
+            "hex": "#343432",
+            "share": 0.137
+          },
+          {
+            "hex": "#dee0e1",
+            "share": 0.089
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-kelpies/commons-4.jpg",
+      "title": "File:The Kelpies - geograph.org.uk - 8165657.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Kelpies_-_geograph.org.uk_-_8165657.jpg",
+      "author": "habiloid",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2704,
+      "height": 3698,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#60686c",
+            "share": 0.264
+          },
+          {
+            "hex": "#a0b2c8",
+            "share": 0.263
+          },
+          {
+            "hex": "#c2cdd7",
+            "share": 0.191
+          },
+          {
+            "hex": "#8d9194",
+            "share": 0.143
+          },
+          {
+            "hex": "#3a3e3b",
+            "share": 0.139
+          }
+        ],
+        "strongest": "#a0b2c8"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Kelpies under construction.jpeg",
+      "why": "too small"
+    },
+    {
+      "title": "File:The Kelpies at Edinburgh Airport - geograph.org.uk - 2580937.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:The Kelpies - geograph.org.uk - 5168596.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a1a5ad",
+        "share": 0.312
+      },
+      {
+        "hex": "#80868d",
+        "share": 0.249
+      },
+      {
+        "hex": "#4e514a",
+        "share": 0.162
+      },
+      {
+        "hex": "#4f74a6",
+        "share": 0.157
+      },
+      {
+        "hex": "#c9c8c9",
+        "share": 0.12
+      }
+    ],
+    "strongest": "#4f74a6"
+  }
+}

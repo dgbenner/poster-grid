@@ -1,0 +1,113 @@
+{
+  "id": "diga-della-verzasca",
+  "name": "Diga della Verzasca",
+  "lat": 46.2586,
+  "lng": 8.8003,
+  "enrichedAt": "2026-10-11T01:21:45.377Z",
+  "place": {
+    "town": "Verzasca",
+    "locality": null,
+    "county": "Distretto di Locarno",
+    "adminArea": "Distretto di Locarno",
+    "region": "Ticino",
+    "country": "Switzerland",
+    "sovereign": "Switzerland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=46.2586&lon=8.8003&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Motta, Verzasca, Circolo della Verzasca, Distretto di Locarno, Ticino, 6637, Switzerland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Verzasca, Switzerland",
+      "description": "Municipality in Ticino, Switzerland",
+      "extract": "Verzasca is a municipality in the district of Locarno in the canton of Ticino in Switzerland.",
+      "url": "https://en.wikipedia.org/wiki/Verzasca%2C_Switzerland",
+      "coordinates": {
+        "lat": 46.22111111,
+        "lng": 8.86
+      },
+      "km": 6.2,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2011-06-06_18-06-02_Switzerland_Cantone_Ticino_Lavertezzo_4vl.jpg/3840px-2011-06-06_18-06-02_Switzerland_Cantone_Ticino_Lavertezzo_4vl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "220m concrete arch dam famed for the GoldenEye bungee jump made iconic by James Bond.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/diga-della-verzasca/own-diga-della-verzasca.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/diga-della-verzasca.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5c5a5b",
+            "share": 0.292
+          },
+          {
+            "hex": "#a7a4a2",
+            "share": 0.208
+          },
+          {
+            "hex": "#818083",
+            "share": 0.186
+          },
+          {
+            "hex": "#cec9c3",
+            "share": 0.167
+          },
+          {
+            "hex": "#38373b",
+            "share": 0.146
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5c5a5b",
+        "share": 0.292
+      },
+      {
+        "hex": "#a7a4a2",
+        "share": 0.208
+      },
+      {
+        "hex": "#818083",
+        "share": 0.186
+      },
+      {
+        "hex": "#cec9c3",
+        "share": 0.167
+      },
+      {
+        "hex": "#38373b",
+        "share": 0.146
+      }
+    ],
+    "strongest": null
+  }
+}

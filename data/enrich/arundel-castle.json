@@ -1,0 +1,272 @@
+{
+  "id": "arundel-castle",
+  "name": "Arundel Castle",
+  "lat": 50.856,
+  "lng": -0.554,
+  "enrichedAt": "2026-10-11T01:21:34.782Z",
+  "place": {
+    "town": "Arun",
+    "locality": "Arundel",
+    "county": "West Sussex",
+    "adminArea": "West Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.856&lon=-0.554&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Arundel, Arun, West Sussex, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "halnaker-tree-tunnel",
+        "name": "Halnaker Tree Tunnel",
+        "km": 11.5
+      },
+      {
+        "id": "crawley-the-cure",
+        "name": "Crawley (Robert Smith / The Cure)",
+        "km": 38.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Arundel Castle",
+      "description": "Castle in West Sussex, England",
+      "extract": "Arundel Castle is a restored and remodelled medieval castle in Arundel, West Sussex, England. It was established by Roger de Montgomery in the 11th century. The castle was damaged in the English Civil War and then restored in the late 18th and early 19th centuries by the 11th Duke of Norfolk. Further restoration and embellishment was undertaken from the 1890s by Charles Alban Buckler for the 15th Duke.",
+      "url": "https://en.wikipedia.org/wiki/Arundel_Castle",
+      "coordinates": {
+        "lat": 50.85611111,
+        "lng": -0.55361111
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/1_castle_arundel_aerial_pano_2017.jpg/3840px-1_castle_arundel_aerial_pano_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Seat of the Dukes of Norfolk above a storybook town.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/arundel-castle/own-arundel-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/arundel-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#546129",
+            "share": 0.23
+          },
+          {
+            "hex": "#9e998e",
+            "share": 0.209
+          },
+          {
+            "hex": "#314218",
+            "share": 0.207
+          },
+          {
+            "hex": "#7a7e5d",
+            "share": 0.205
+          },
+          {
+            "hex": "#dfe2ec",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#314218"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arundel-castle/commons-1.jpg",
+      "title": "File:1 castle arundel aerial pano 2017.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1_castle_arundel_aerial_pano_2017.jpg",
+      "author": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 9696,
+      "height": 4016,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#344618",
+            "share": 0.251
+          },
+          {
+            "hex": "#808266",
+            "share": 0.248
+          },
+          {
+            "hex": "#5b672f",
+            "share": 0.207
+          },
+          {
+            "hex": "#a3a09b",
+            "share": 0.168
+          },
+          {
+            "hex": "#e2e4ec",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#344618"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arundel-castle/commons-2.jpg",
+      "title": "File:1 castle arundel aerial pano 2017.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1_castle_arundel_aerial_pano_2017.jpg",
+      "author": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 9696,
+      "height": 4016,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#344618",
+            "share": 0.251
+          },
+          {
+            "hex": "#808266",
+            "share": 0.248
+          },
+          {
+            "hex": "#5b672f",
+            "share": 0.207
+          },
+          {
+            "hex": "#a3a09b",
+            "share": 0.168
+          },
+          {
+            "hex": "#e2e4ec",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#344618"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arundel-castle/commons-3.jpg",
+      "title": "File:Arundel Castle -West Sussex, England-12Aug2007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arundel_Castle_-West_Sussex,_England-12Aug2007.jpg",
+      "author": "Mark Tollerman from London, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3872,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#83c1f6",
+            "share": 0.276
+          },
+          {
+            "hex": "#1e2320",
+            "share": 0.227
+          },
+          {
+            "hex": "#d3cdc6",
+            "share": 0.179
+          },
+          {
+            "hex": "#9a9b80",
+            "share": 0.164
+          },
+          {
+            "hex": "#545c4e",
+            "share": 0.154
+          }
+        ],
+        "strongest": "#83c1f6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arundel-castle/commons-4.jpg",
+      "title": "File:Arundel Castle - motte and quadrangle, England (18 April 2006).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arundel_Castle_-_motte_and_quadrangle,_England_(18_April_2006).jpg",
+      "author": "The original uploader was 98octane at English Wikipedia.",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 1200,
+      "height": 900,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d6308",
+            "share": 0.253
+          },
+          {
+            "hex": "#e2e8e8",
+            "share": 0.25
+          },
+          {
+            "hex": "#242711",
+            "share": 0.245
+          },
+          {
+            "hex": "#caaf83",
+            "share": 0.147
+          },
+          {
+            "hex": "#6c6240",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#4d6308"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Arundel Castle, from, A series of picturesque views of seats of the noblemen and gentlemen of Great Britain and Ireland (1840).jpg",
+      "why": "licence No restrictions"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#546129",
+        "share": 0.23
+      },
+      {
+        "hex": "#9e998e",
+        "share": 0.209
+      },
+      {
+        "hex": "#314218",
+        "share": 0.207
+      },
+      {
+        "hex": "#7a7e5d",
+        "share": 0.205
+      },
+      {
+        "hex": "#dfe2ec",
+        "share": 0.149
+      }
+    ],
+    "strongest": "#314218"
+  }
+}

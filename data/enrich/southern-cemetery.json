@@ -1,0 +1,302 @@
+{
+  "id": "southern-cemetery",
+  "name": "Southern Cemetery",
+  "lat": 53.4291789,
+  "lng": -2.2590361,
+  "enrichedAt": "2026-10-11T01:21:47.293Z",
+  "place": {
+    "town": "Manchester",
+    "locality": "West Didsbury",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4291789&lon=-2.2590361&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "West Didsbury, Manchester, Greater Manchester, England, M20 1LH, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "manchester-bridge",
+        "name": "Manchester Bridge (Joy Division footbridge)",
+        "km": 4.72
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "manchester-bridge",
+        "name": "Manchester Bridge (Joy Division footbridge)",
+        "km": 4.7
+      },
+      {
+        "id": "hacienda-site",
+        "name": "Haçienda site",
+        "km": 5.1
+      },
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 5.4
+      },
+      {
+        "id": "salford-lads-club",
+        "name": "Salford Lads Club",
+        "km": 5.6
+      },
+      {
+        "id": "strawberry-studios",
+        "name": "Strawberry Studios",
+        "km": 7.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Southern Cemetery, Manchester",
+      "description": "Large cemetery in Manchester, England",
+      "extract": "Southern Cemetery is a large municipal cemetery in Chorlton-cum-Hardy, Manchester, England, 3 miles (4.8 km) south of the city centre. It opened in 1879 and is owned and administered by Manchester City Council. It is the largest municipal cemetery in the United Kingdom and the second largest in Europe.",
+      "url": "https://en.wikipedia.org/wiki/Southern_Cemetery%2C_Manchester",
+      "coordinates": {
+        "lat": 53.4286,
+        "lng": -2.2582
+      },
+      "km": 0.1,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Southern_Cemetery%2C_Manchester_-_geograph.org.uk_-_1200101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Manchester",
+      "description": "City and metropolitan borough in England",
+      "extract": "Manchester is a city and metropolitan borough in North West England, at the centre of the eponymous county of Greater Manchester. It had a population of over 589,000 in 2024. It borders the Cheshire Plain to the south, the Pennines to the north and east, and the city of Salford to the west. The two cities and the surrounding towns form one of the United Kingdom's most populous conurbations, the Greater Manchester Built-up Area, which has a population of 2.87 million.",
+      "url": "https://en.wikipedia.org/wiki/Manchester",
+      "coordinates": {
+        "lat": 53.47944444,
+        "lng": -2.24527778
+      },
+      "km": 5.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Manchester's largest cemetery, resting place of music legends including Tony Wilson of Factory Records.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/southern-cemetery/own-southern-cemetery.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/southern-cemetery.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#21251e",
+            "share": 0.258
+          },
+          {
+            "hex": "#4a504b",
+            "share": 0.208
+          },
+          {
+            "hex": "#eff5fb",
+            "share": 0.2
+          },
+          {
+            "hex": "#9cbcdf",
+            "share": 0.169
+          },
+          {
+            "hex": "#7c7f7e",
+            "share": 0.165
+          }
+        ],
+        "strongest": "#9cbcdf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/southern-cemetery/commons-1.jpg",
+      "title": "File:Mature Trees in Southern Cemetery Manchester.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mature_Trees_in_Southern_Cemetery_Manchester.jpg",
+      "author": "Briangeorge1945",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3648,
+      "height": 3223,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2f501d",
+            "share": 0.286
+          },
+          {
+            "hex": "#172212",
+            "share": 0.234
+          },
+          {
+            "hex": "#4e7c2f",
+            "share": 0.231
+          },
+          {
+            "hex": "#789e64",
+            "share": 0.183
+          },
+          {
+            "hex": "#bdd0b7",
+            "share": 0.065
+          }
+        ],
+        "strongest": "#2f501d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/southern-cemetery/commons-2.jpg",
+      "title": "File:North Chapel, Southern Cemetery.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:North_Chapel,_Southern_Cemetery.JPG",
+      "author": "Plucas58",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cadbf3",
+            "share": 0.295
+          },
+          {
+            "hex": "#5e5c4e",
+            "share": 0.274
+          },
+          {
+            "hex": "#817f77",
+            "share": 0.246
+          },
+          {
+            "hex": "#23271f",
+            "share": 0.111
+          },
+          {
+            "hex": "#afc4e1",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#cadbf3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/southern-cemetery/commons-3.jpg",
+      "title": "File:North Chapel Exterior - Southern Cemetery Manchester showing flower beds.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:North_Chapel_Exterior_-_Southern_Cemetery_Manchester_showing_flower_beds.jpg",
+      "author": "Briangeorge1945",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5472,
+      "height": 2126,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#77755b",
+            "share": 0.29
+          },
+          {
+            "hex": "#4b4830",
+            "share": 0.264
+          },
+          {
+            "hex": "#b3a478",
+            "share": 0.231
+          },
+          {
+            "hex": "#c34e27",
+            "share": 0.11
+          },
+          {
+            "hex": "#7ea916",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#7ea916"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/southern-cemetery/commons-4.jpg",
+      "title": "File:North Chapel Interior - Southern Cemetery Manchester.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:North_Chapel_Interior_-_Southern_Cemetery_Manchester.jpg",
+      "author": "Briangeorge1945",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5418,
+      "height": 3566,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#aba98c",
+            "share": 0.326
+          },
+          {
+            "hex": "#9d8e5a",
+            "share": 0.24
+          },
+          {
+            "hex": "#624f2e",
+            "share": 0.202
+          },
+          {
+            "hex": "#291b0d",
+            "share": 0.154
+          },
+          {
+            "hex": "#d2d8d1",
+            "share": 0.078
+          }
+        ],
+        "strongest": "#624f2e"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#21251e",
+        "share": 0.258
+      },
+      {
+        "hex": "#4a504b",
+        "share": 0.208
+      },
+      {
+        "hex": "#eff5fb",
+        "share": 0.2
+      },
+      {
+        "hex": "#9cbcdf",
+        "share": 0.169
+      },
+      {
+        "hex": "#7c7f7e",
+        "share": 0.165
+      }
+    ],
+    "strongest": "#9cbcdf"
+  }
+}

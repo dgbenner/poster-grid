@@ -1,0 +1,217 @@
+{
+  "id": "halnaker-tree-tunnel",
+  "name": "Halnaker Tree Tunnel",
+  "lat": 50.8738,
+  "lng": -0.7147,
+  "enrichedAt": "2026-10-11T01:21:47.003Z",
+  "place": {
+    "town": "Chichester",
+    "locality": "Boxgrove",
+    "county": "West Sussex",
+    "adminArea": "West Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.8738&lon=-0.7147&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Boxgrove, Halnaker, Chichester, West Sussex, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "arundel-castle",
+        "name": "Arundel Castle",
+        "km": 11.5
+      },
+      {
+        "id": "crawley-the-cure",
+        "name": "Crawley (Robert Smith / The Cure)",
+        "km": 45.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Halnaker",
+      "description": "Hamlet in West Sussex, England",
+      "extract": "Halnaker is a hamlet in the Chichester district of West Sussex, England. It lies on the A285 road 3.5 miles (5.6 km) north-east of Chichester, where it follows the line of the Roman road to London called Stane Street. There is a pub called The Anglesey Arms. Goodwood House is north-west of the village. North-east of the village Halnaker Windmill stands on 128 metre/420 feet high Halnaker Hill, a southern outpost of the South Downs. It is in the civil parish of Boxgrove.",
+      "url": "https://en.wikipedia.org/wiki/Halnaker",
+      "coordinates": {
+        "lat": 50.86508,
+        "lng": -0.71193
+      },
+      "km": 1,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Halnaker_Windmill.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Chichester",
+      "description": "City in West Sussex, England",
+      "extract": "Chichester is a cathedral city and civil parish in the Chichester district of West Sussex, England. It is the only city in West Sussex and is its county town. In 2021 the parish had a population of 29,407. It was a Roman and Anglo-Saxon settlement and a major market town from those times through Norman and medieval times to the present day. It is the seat of the Church of England Diocese of Chichester and is home to a 12th-century cathedral.",
+      "url": "https://en.wikipedia.org/wiki/Chichester",
+      "coordinates": {
+        "lat": 50.8365,
+        "lng": -0.7792
+      },
+      "km": 6.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_Market_Cross_Chichester_1026826_20230815_0001.jpg/3840px-The_Market_Cross_Chichester_1026826_20230815_0001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Atmospheric tunnel of overarching trees along an ancient byway and Roman road near Halnaker, leading to a historic windmill.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/halnaker-tree-tunnel/own-halnaker-tree-tunnel.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/halnaker-tree-tunnel.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#696d76",
+            "share": 0.258
+          },
+          {
+            "hex": "#3c434e",
+            "share": 0.214
+          },
+          {
+            "hex": "#9f9ea0",
+            "share": 0.207
+          },
+          {
+            "hex": "#484611",
+            "share": 0.204
+          },
+          {
+            "hex": "#7a6331",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#484611"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/halnaker-tree-tunnel/commons-1.jpg",
+      "title": "File:In Halnaker Park - geograph.org.uk - 2104706.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:In_Halnaker_Park_-_geograph.org.uk_-_2104706.jpg",
+      "author": "Colin Smith",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#648230",
+            "share": 0.403
+          },
+          {
+            "hex": "#394745",
+            "share": 0.176
+          },
+          {
+            "hex": "#d4deef",
+            "share": 0.146
+          },
+          {
+            "hex": "#636661",
+            "share": 0.142
+          },
+          {
+            "hex": "#9f928d",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#648230"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/halnaker-tree-tunnel/commons-2.jpg",
+      "title": "File:Halnaker Park - geograph.org.uk - 2104659.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Halnaker_Park_-_geograph.org.uk_-_2104659.jpg",
+      "author": "Colin Smith",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#869d3e",
+            "share": 0.327
+          },
+          {
+            "hex": "#29321c",
+            "share": 0.25
+          },
+          {
+            "hex": "#566446",
+            "share": 0.173
+          },
+          {
+            "hex": "#d4e7f8",
+            "share": 0.146
+          },
+          {
+            "hex": "#859590",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#869d3e"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Halnaker Windmill.JPG",
+      "why": "too small"
+    },
+    {
+      "title": "File:Halnaker Manor House (geograph 3815807).jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#696d76",
+        "share": 0.258
+      },
+      {
+        "hex": "#3c434e",
+        "share": 0.214
+      },
+      {
+        "hex": "#9f9ea0",
+        "share": 0.207
+      },
+      {
+        "hex": "#484611",
+        "share": 0.204
+      },
+      {
+        "hex": "#7a6331",
+        "share": 0.117
+      }
+    ],
+    "strongest": "#484611"
+  }
+}

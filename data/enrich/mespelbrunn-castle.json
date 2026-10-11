@@ -1,0 +1,269 @@
+{
+  "id": "mespelbrunn-castle",
+  "name": "Mespelbrunn Castle",
+  "lat": 49.9111,
+  "lng": 9.2917,
+  "enrichedAt": "2026-10-11T01:21:39.244Z",
+  "place": {
+    "town": "Mespelbrunn",
+    "locality": "Mespelbrunn",
+    "county": "Landkreis Aschaffenburg",
+    "adminArea": "Landkreis Aschaffenburg",
+    "region": "Bavaria",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.9111&lon=9.2917&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Mespelbrunn, Mespelbrunn (VGem), Landkreis Aschaffenburg, Bavaria, 63875, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Mespelbrunn Castle",
+      "description": "Palace in Mespelbrunn, Germany",
+      "extract": "Mespelbrunn Castle is a late-medieval/early-Renaissance moated castle on the territory of the town of Mespelbrunn, between Frankfurt and Würzburg, built in a tributary valley of the Elsava valley, within the Spessart forest. It is a popular tourist attraction and has become a famous Spessart landmark.",
+      "url": "https://en.wikipedia.org/wiki/Mespelbrunn_Castle",
+      "coordinates": {
+        "lat": 49.905556,
+        "lng": 9.307222
+      },
+      "km": 1.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Wasserschloss_Mespelbrunn%2C_6_edit01.jpg/3840px-Wasserschloss_Mespelbrunn%2C_6_edit01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Mespelbrunn",
+      "description": "Municipality in Bavaria, Germany",
+      "extract": "Mespelbrunn is a municipality in the Aschaffenburg district in the Regierungsbezirk of Lower Franconia (Unterfranken) in Bavaria, Germany and a member of the Verwaltungsgemeinschaft of Mespelbrunn, whose seat is in Heimbuchenthal.",
+      "url": "https://en.wikipedia.org/wiki/Mespelbrunn",
+      "coordinates": {
+        "lat": 49.91666667,
+        "lng": 9.28333333
+      },
+      "km": 0.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Wasserschloss_Mespelbrunn%2C_6.jpg/3840px-Wasserschloss_Mespelbrunn%2C_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Moated Renaissance water-castle in the Spessart.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/mespelbrunn-castle/own-mespelbrunn-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/mespelbrunn-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2f2e1e",
+            "share": 0.292
+          },
+          {
+            "hex": "#e0c49e",
+            "share": 0.197
+          },
+          {
+            "hex": "#5d8db3",
+            "share": 0.192
+          },
+          {
+            "hex": "#807159",
+            "share": 0.16
+          },
+          {
+            "hex": "#91b6ce",
+            "share": 0.16
+          }
+        ],
+        "strongest": "#e0c49e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mespelbrunn-castle/commons-1.jpg",
+      "title": "File:Wasserschloss Mespelbrunn, 6 edit01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wasserschloss_Mespelbrunn,_6_edit01.jpg",
+      "author": "Rainer Lippert, Edit by Muhammad Mahdi Karim",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 4873,
+      "height": 3130,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#565b3f",
+            "share": 0.301
+          },
+          {
+            "hex": "#2a3026",
+            "share": 0.254
+          },
+          {
+            "hex": "#6db6e1",
+            "share": 0.219
+          },
+          {
+            "hex": "#898077",
+            "share": 0.145
+          },
+          {
+            "hex": "#c3d0cd",
+            "share": 0.081
+          }
+        ],
+        "strongest": "#6db6e1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mespelbrunn-castle/commons-2.jpg",
+      "title": "File:Mespelbrunn 04.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mespelbrunn_04.jpg",
+      "author": "The original uploader was Presse03 at German Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#807e7d",
+            "share": 0.259
+          },
+          {
+            "hex": "#605c59",
+            "share": 0.236
+          },
+          {
+            "hex": "#d5cfcc",
+            "share": 0.197
+          },
+          {
+            "hex": "#a3a4a5",
+            "share": 0.16
+          },
+          {
+            "hex": "#302f2c",
+            "share": 0.148
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mespelbrunn-castle/commons-3.jpg",
+      "title": "File:Wasserschloss Mespelbrunn, 6 edit01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wasserschloss_Mespelbrunn,_6_edit01.jpg",
+      "author": "Rainer Lippert, Edit by Muhammad Mahdi Karim",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 4873,
+      "height": 3130,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#565b3f",
+            "share": 0.301
+          },
+          {
+            "hex": "#2a3026",
+            "share": 0.254
+          },
+          {
+            "hex": "#6db6e1",
+            "share": 0.219
+          },
+          {
+            "hex": "#898077",
+            "share": 0.145
+          },
+          {
+            "hex": "#c3d0cd",
+            "share": 0.081
+          }
+        ],
+        "strongest": "#6db6e1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mespelbrunn-castle/commons-4.jpg",
+      "title": "File:Wasserschloss von Mespelbrunn.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wasserschloss_von_Mespelbrunn.jpg",
+      "author": "Hendrik Suerken",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f6f6f8",
+            "share": 0.283
+          },
+          {
+            "hex": "#161b0a",
+            "share": 0.277
+          },
+          {
+            "hex": "#37361b",
+            "share": 0.236
+          },
+          {
+            "hex": "#5f523c",
+            "share": 0.159
+          },
+          {
+            "hex": "#a29e98",
+            "share": 0.045
+          }
+        ],
+        "strongest": "#37361b"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#2f2e1e",
+        "share": 0.292
+      },
+      {
+        "hex": "#e0c49e",
+        "share": 0.197
+      },
+      {
+        "hex": "#5d8db3",
+        "share": 0.192
+      },
+      {
+        "hex": "#807159",
+        "share": 0.16
+      },
+      {
+        "hex": "#91b6ce",
+        "share": 0.16
+      }
+    ],
+    "strongest": "#e0c49e"
+  }
+}

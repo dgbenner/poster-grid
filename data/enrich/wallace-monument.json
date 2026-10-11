@@ -1,0 +1,298 @@
+{
+  "id": "wallace-monument",
+  "name": "National Wallace Monument",
+  "lat": 56.1378,
+  "lng": -3.9192,
+  "enrichedAt": "2026-10-11T01:21:30.612Z",
+  "place": {
+    "town": "Stirling",
+    "locality": "Causewayhead",
+    "county": "Stirling",
+    "adminArea": "Stirling",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.1378&lon=-3.9192&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Causewayhead, Stirling, Scotland, FK9 5JR, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Wallace Monument",
+      "description": "Tower on the summit of Abbey Craig in Scotland",
+      "extract": "The National Wallace Monument is a 67 m (220 ft) tower on the shoulder of the Abbey Craig, a hilltop overlooking Stirling in Scotland. It commemorates Sir William Wallace, a 13th- and 14th-century Scottish hero.",
+      "url": "https://en.wikipedia.org/wiki/Wallace_Monument",
+      "coordinates": {
+        "lat": 56.13861111,
+        "lng": -3.92027778
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_Wallace_Monument%2C_Stirling.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Stirling",
+      "description": "City in Scotland",
+      "extract": "Stirling is a city in central Scotland, 26 miles (42 km) north-east of Glasgow and 37 miles (60 km) north-west of Edinburgh. The city is surrounded by rich farmland and had a royal citadel, the medieval old town with its merchants and tradesmen, the Old Bridge and the port are all linked in to its history. Situated on the River Forth, Stirling is the administrative centre for the Stirling council area, and is traditionally the county town and historic county of Stirlingshire. Stirling's key position as the lowest bridging point of the River Forth before it broadens towards the Firth of Forth made it a focal point for travel north or south. It has been said that \"Stirling, like a huge brooch clasps Highlands and Lowlands together\". The city's status as \"Gateway to the Highlands\" also historically lent it great strategic importance—the credo \"he who holds Stirling, holds Scotland\" is sometimes attributed to Robert the Bruce.",
+      "url": "https://en.wikipedia.org/wiki/Stirling",
+      "coordinates": {
+        "lat": 56.1166,
+        "lng": -3.9369
+      },
+      "km": 2.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/28/Stirling_Castle_%285455709703%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Victorian tower over Stirling; holds Wallace’s great two-handed sword.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/wallace-monument/own-wallace-monument.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/wallace-monument.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b3cef8",
+            "share": 0.323
+          },
+          {
+            "hex": "#55585c",
+            "share": 0.266
+          },
+          {
+            "hex": "#a0beef",
+            "share": 0.197
+          },
+          {
+            "hex": "#e3edfc",
+            "share": 0.11
+          },
+          {
+            "hex": "#a29f9c",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#b3cef8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wallace-monument/commons-1.jpg",
+      "title": "File:The Wallace Monument, Stirling.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Wallace_Monument,_Stirling.JPG",
+      "author": "Sgmiller4038",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3053,
+      "height": 4423,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b2cef8",
+            "share": 0.355
+          },
+          {
+            "hex": "#55595c",
+            "share": 0.262
+          },
+          {
+            "hex": "#9ebdee",
+            "share": 0.162
+          },
+          {
+            "hex": "#e3ecfb",
+            "share": 0.114
+          },
+          {
+            "hex": "#a29e9c",
+            "share": 0.107
+          }
+        ],
+        "strongest": "#b2cef8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wallace-monument/commons-2.jpg",
+      "title": "File:William Wallace Statue Wallace Monument 2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:William_Wallace_Statue_Wallace_Monument_2024.jpg",
+      "author": "Karmapolisedinburgh",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#78726b",
+            "share": 0.305
+          },
+          {
+            "hex": "#8f8b85",
+            "share": 0.299
+          },
+          {
+            "hex": "#524f4e",
+            "share": 0.142
+          },
+          {
+            "hex": "#f4fafc",
+            "share": 0.137
+          },
+          {
+            "hex": "#242223",
+            "share": 0.117
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wallace-monument/commons-3.jpg",
+      "title": "File:Wallace Monument - geograph.org.uk - 7553664.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wallace_Monument_-_geograph.org.uk_-_7553664.jpg",
+      "author": "don cload",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b8bfc9",
+            "share": 0.311
+          },
+          {
+            "hex": "#6b5f4c",
+            "share": 0.25
+          },
+          {
+            "hex": "#363424",
+            "share": 0.183
+          },
+          {
+            "hex": "#d3d7e0",
+            "share": 0.179
+          },
+          {
+            "hex": "#8a847d",
+            "share": 0.076
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/wallace-monument/commons-4.jpg",
+      "title": "File:The Wallace Monument near Stirling - geograph.org.uk - 6434421.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Wallace_Monument_near_Stirling_-_geograph.org.uk_-_6434421.jpg",
+      "author": "Colin Park",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1201,
+      "height": 1802,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#353232",
+            "share": 0.243
+          },
+          {
+            "hex": "#87756b",
+            "share": 0.243
+          },
+          {
+            "hex": "#778ec2",
+            "share": 0.203
+          },
+          {
+            "hex": "#98afe0",
+            "share": 0.18
+          },
+          {
+            "hex": "#c2d6f5",
+            "share": 0.131
+          }
+        ],
+        "strongest": "#c2d6f5"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Wallace Monument , Stirling, Scotland, in Autumn.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Looking NE from the Wallace Monument - geograph.org.uk - 1027441.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Wallace Monument - geograph.org.uk - 832316.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Wallace Monument - geograph.org.uk - 1623916.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Ben Lomond at sunset as seen from the Wallace Monument - geograph.org.uk - 1645597.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Wallace Monument - geograph.org.uk - 1304735.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Wallace Monument - geograph.org.uk - 947181.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#b3cef8",
+        "share": 0.323
+      },
+      {
+        "hex": "#55585c",
+        "share": 0.266
+      },
+      {
+        "hex": "#a0beef",
+        "share": 0.197
+      },
+      {
+        "hex": "#e3edfc",
+        "share": 0.11
+      },
+      {
+        "hex": "#a29f9c",
+        "share": 0.103
+      }
+    ],
+    "strongest": "#b3cef8"
+  }
+}

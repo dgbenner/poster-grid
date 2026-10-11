@@ -1,0 +1,334 @@
+{
+  "id": "ziggy-stardust-plaque",
+  "name": "Ziggy Stardust Plaque",
+  "lat": 51.5108635,
+  "lng": -0.1394041,
+  "enrichedAt": "2026-10-11T01:21:45.615Z",
+  "place": {
+    "town": "London",
+    "locality": "Mayfair",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Westminster",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.5108635&lon=-0.1394041&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "East Marylebone, Mayfair, City of Westminster, Greater London, England, W1T 3PP, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 1.28
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 2.34
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 2.47
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 3.14
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 3.25
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 3.57
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 1.3
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 2.3
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 2.5
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 3.1
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 3.3
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 3.6
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 10.3
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 11.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "City of Westminster",
+      "description": "City and borough in London, England",
+      "extract": "The City of Westminster is a London borough with city status in Greater London, England. It is the site of the United Kingdom's Houses of Parliament and much of the British government. It contains a large part of central London, including most of the West End, such as the major shopping areas around Oxford Street, Regent Street, Piccadilly and Bond Street, and the entertainment district of Soho. Many London landmarks are within the borough, including Buckingham Palace, Westminster Abbey, Whitehall, Westminster Cathedral, 10 Downing Street, and Trafalgar Square.",
+      "url": "https://en.wikipedia.org/wiki/City_of_Westminster",
+      "coordinates": {
+        "lat": 51.51222222,
+        "lng": -0.16333333
+      },
+      "km": 1.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg/3840px-Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Plaque marking the Heddon Street spot where David Bowie's Ziggy Stardust album cover was photographed in 1972.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/ziggy-stardust-plaque/own-ziggy-stardust-plaque.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/ziggy-stardust-plaque.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7b6a60",
+            "share": 0.261
+          },
+          {
+            "hex": "#524a48",
+            "share": 0.255
+          },
+          {
+            "hex": "#a9c7ec",
+            "share": 0.207
+          },
+          {
+            "hex": "#261f1f",
+            "share": 0.148
+          },
+          {
+            "hex": "#a69889",
+            "share": 0.128
+          }
+        ],
+        "strongest": "#a9c7ec"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ziggy-stardust-plaque/commons-1.jpg",
+      "title": "File:Gavin Turk's backwards blue plaque.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gavin_Turk%27s_backwards_blue_plaque.jpg",
+      "author": "Matt Brown",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b4545",
+            "share": 0.355
+          },
+          {
+            "hex": "#816f57",
+            "share": 0.192
+          },
+          {
+            "hex": "#272317",
+            "share": 0.154
+          },
+          {
+            "hex": "#dfbb78",
+            "share": 0.154
+          },
+          {
+            "hex": "#f8f8e0",
+            "share": 0.145
+          }
+        ],
+        "strongest": "#dfbb78"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ziggy-stardust-plaque/commons-2.jpg",
+      "title": "File:Stop Trump demo Regent Street 9486.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stop_Trump_demo_Regent_Street_9486.jpg",
+      "author": "ClemRutter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c2c3c5",
+            "share": 0.25
+          },
+          {
+            "hex": "#645c59",
+            "share": 0.218
+          },
+          {
+            "hex": "#9e948b",
+            "share": 0.215
+          },
+          {
+            "hex": "#292426",
+            "share": 0.206
+          },
+          {
+            "hex": "#f6f7fa",
+            "share": 0.112
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ziggy-stardust-plaque/commons-3.jpg",
+      "title": "File:Starman pub on Heddon Street 2024-10-20.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Starman_pub_on_Heddon_Street_2024-10-20.jpg",
+      "author": "Matt Brown",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4858,
+      "height": 3916,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#847776",
+            "share": 0.27
+          },
+          {
+            "hex": "#9c939a",
+            "share": 0.269
+          },
+          {
+            "hex": "#322420",
+            "share": 0.207
+          },
+          {
+            "hex": "#614a3e",
+            "share": 0.168
+          },
+          {
+            "hex": "#84cef5",
+            "share": 0.086
+          }
+        ],
+        "strongest": "#84cef5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/ziggy-stardust-plaque/commons-4.jpg",
+      "title": "File:Detail of 15 Heddon Street - geograph.org.uk - 7774426.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Detail_of_15_Heddon_Street_-_geograph.org.uk_-_7774426.jpg",
+      "author": "Stephen Richards",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 928,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#767368",
+            "share": 0.292
+          },
+          {
+            "hex": "#95938b",
+            "share": 0.283
+          },
+          {
+            "hex": "#4f4c41",
+            "share": 0.166
+          },
+          {
+            "hex": "#191917",
+            "share": 0.14
+          },
+          {
+            "hex": "#bdbfbd",
+            "share": 0.119
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Ziggy Green, Mayfair, 2025-10-23.jpg",
+      "why": "logo/map/album filter"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7b6a60",
+        "share": 0.261
+      },
+      {
+        "hex": "#524a48",
+        "share": 0.255
+      },
+      {
+        "hex": "#a9c7ec",
+        "share": 0.207
+      },
+      {
+        "hex": "#261f1f",
+        "share": 0.148
+      },
+      {
+        "hex": "#a69889",
+        "share": 0.128
+      }
+    ],
+    "strongest": "#a9c7ec"
+  }
+}

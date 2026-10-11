@@ -1,0 +1,280 @@
+{
+  "id": "mercedes-benz-museum",
+  "name": "Mercedes-Benz Museum, Stuttgart",
+  "lat": 48.7884,
+  "lng": 9.2342,
+  "enrichedAt": "2026-10-11T01:21:40.178Z",
+  "place": {
+    "town": "Stuttgart",
+    "locality": "Bad Cannstatt",
+    "county": "Baden-Württemberg",
+    "adminArea": null,
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.7884&lon=9.2342&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Wasen, Bad Cannstatt, Stuttgart, Baden-Württemberg, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "heidelberg-castle",
+        "name": "Heidelberg Castle",
+        "km": 78.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Mercedes-Benz Museum",
+      "description": "Automobile museum in Stuttgart, Germany",
+      "extract": "The Mercedes-Benz Museum is an automobile museum in Stuttgart, Germany. It covers the history of the Mercedes-Benz brand and the brands associated with it. Stuttgart is home to the Mercedes-Benz brand and the international headquarters of the Mercedes-Benz Group.",
+      "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_Museum",
+      "coordinates": {
+        "lat": 48.78855,
+        "lng": 9.23376
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mercedes-Benz_Museum_201312_08_blue_hour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Stuttgart",
+      "description": "Capital of Baden-Württemberg, Germany",
+      "extract": "Stuttgart is the capital and largest city of the German state of Baden-Württemberg. It is located on the Neckar river in a fertile valley known as the Stuttgarter Kessel and lies an hour from the Swabian Jura and the Black Forest. Stuttgart has a population of 613,111 as of 2023, making it the sixth largest city in Germany, while over 2.8 million people live in the city's administrative region and nearly 5.5 million people live in its metropolitan area, making it the fourth largest metropolitan area in Germany. The city's metropolitan area is consistently ranked among the top 5 European metropolitan areas by GDP. Mercer listed Stuttgart as 21st on its 2015 list of cities by quality of living; innovation agency 2thinknow ranked the city 22nd globally out of 441 cities in its Innovation Cities Index; and the Globalization and World Cities Research Network ranked the city as a Beta-status global city in their 2020 survey. Stuttgart was one of the host cities for the official tournaments of the 1974 and 2006 FIFA World Cups.",
+      "url": "https://en.wikipedia.org/wiki/Stuttgart",
+      "coordinates": {
+        "lat": 48.7775,
+        "lng": 9.18
+      },
+      "km": 4.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg/3840px-Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/mercedes-benz-museum/own-mercedes-benz-museum.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/mercedes-benz-museum.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.563
+          },
+          {
+            "hex": "#aaaecd",
+            "share": 0.311
+          },
+          {
+            "hex": "#595566",
+            "share": 0.052
+          },
+          {
+            "hex": "#8d8585",
+            "share": 0.046
+          },
+          {
+            "hex": "#36313e",
+            "share": 0.029
+          }
+        ],
+        "strongest": "#aaaecd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mercedes-benz-museum/commons-1.jpg",
+      "title": "File:Mercedes Benz Museum, Stuttgart, Germany.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_Museum,_Stuttgart,_Germany.jpg",
+      "author": "Saptarshi Pal",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4320,
+      "height": 3240,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6ca3d4",
+            "share": 0.275
+          },
+          {
+            "hex": "#5780b0",
+            "share": 0.209
+          },
+          {
+            "hex": "#2d313a",
+            "share": 0.192
+          },
+          {
+            "hex": "#bdc2cb",
+            "share": 0.163
+          },
+          {
+            "hex": "#546278",
+            "share": 0.161
+          }
+        ],
+        "strongest": "#6ca3d4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mercedes-benz-museum/commons-2.jpg",
+      "title": "File:Mercedes Benz Museum in Stuttgart (15364082140).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_Museum_in_Stuttgart_(15364082140).jpg",
+      "author": "Simon_sees",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4608,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bacad9",
+            "share": 0.386
+          },
+          {
+            "hex": "#e2e6e9",
+            "share": 0.192
+          },
+          {
+            "hex": "#697385",
+            "share": 0.186
+          },
+          {
+            "hex": "#2c323b",
+            "share": 0.121
+          },
+          {
+            "hex": "#929fb2",
+            "share": 0.115
+          }
+        ],
+        "strongest": "#bacad9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mercedes-benz-museum/commons-3.jpg",
+      "title": "File:Mercedes Benz Museum, Stuttgart (9645874573).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_Museum,_Stuttgart_(9645874573).jpg",
+      "author": "Curimedia | P H O T O G R A P H Y",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1200,
+      "height": 800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#888582",
+            "share": 0.25
+          },
+          {
+            "hex": "#e4e6e6",
+            "share": 0.225
+          },
+          {
+            "hex": "#b5b3b1",
+            "share": 0.193
+          },
+          {
+            "hex": "#535350",
+            "share": 0.178
+          },
+          {
+            "hex": "#212321",
+            "share": 0.154
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mercedes-benz-museum/commons-4.jpg",
+      "title": "File:Legend Room, Mercedes-Benz Museum, Stuttgart (9649301108).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Legend_Room,_Mercedes-Benz_Museum,_Stuttgart_(9649301108).jpg",
+      "author": "Curimedia | P H O T O G R A P H Y",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1200,
+      "height": 800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0b100d",
+            "share": 0.297
+          },
+          {
+            "hex": "#21221c",
+            "share": 0.26
+          },
+          {
+            "hex": "#3c3b37",
+            "share": 0.19
+          },
+          {
+            "hex": "#616162",
+            "share": 0.182
+          },
+          {
+            "hex": "#c8a9a3",
+            "share": 0.07
+          }
+        ],
+        "strongest": "#c8a9a3"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Mercedes Benz Museum Stuttgart.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.563
+      },
+      {
+        "hex": "#aaaecd",
+        "share": 0.311
+      },
+      {
+        "hex": "#595566",
+        "share": 0.052
+      },
+      {
+        "hex": "#8d8585",
+        "share": 0.046
+      },
+      {
+        "hex": "#36313e",
+        "share": 0.029
+      }
+    ],
+    "strongest": "#aaaecd"
+  }
+}

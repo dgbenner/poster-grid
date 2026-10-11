@@ -1,0 +1,275 @@
+{
+  "id": "falkirk-wheel",
+  "name": "Falkirk Wheel",
+  "lat": 56.0036,
+  "lng": -3.8419,
+  "enrichedAt": "2026-10-11T01:21:30.672Z",
+  "place": {
+    "town": "Stenhousemuir",
+    "locality": "The Valley",
+    "county": "Falkirk",
+    "adminArea": "Falkirk",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.0036&lon=-3.8419&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "The Valley, Stenhousemuir, Falkirk, Scotland, FK5 3JA, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "the-kelpies",
+        "name": "The Kelpies",
+        "km": 5.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Falkirk Wheel",
+      "description": "Rotating boat lift in Scotland",
+      "extract": "The Falkirk Wheel is a rotating boat lift in Tamfourhill, Falkirk, in central Scotland, connecting the Forth and Clyde Canal with the Union Canal. It opened in 2002 as part of the Millennium Link project, reconnecting the two canals for the first time since the 1930s.",
+      "url": "https://en.wikipedia.org/wiki/Falkirk_Wheel",
+      "coordinates": {
+        "lat": 56.00027778,
+        "lng": -3.84166667
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cd/FalkirkWheelSide_2004_SeanMcClean.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Stenhousemuir",
+      "description": "Human settlement in Scotland",
+      "extract": "Stenhousemuir is a town in the Central Lowlands of Scotland. It lies within the Falkirk council area of Scotland. The town is two miles north-northwest of Falkirk and directly adjoins to Larbert in the west, where the nearest rail access is located. The villages of Carron and Carronshore adjoin Stenhousemuir to the east but to a lesser extent. Historically, Stenhousemuir lies with the historic county of Stirlingshire. At the 2001 census it showed that it had a resident population of 10,351 but according to a 2009 estimate this was revised to around 10,190 residents. The combined population of the four localities in 2011 was 24,722, representing about 15% of the Falkirk council area total.",
+      "url": "https://en.wikipedia.org/wiki/Stenhousemuir",
+      "coordinates": {
+        "lat": 56.028,
+        "lng": -3.806
+      },
+      "km": 3.5,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Larbert_and_Stenhousemuir_from_the_air_%28geograph_5229642%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The world’s only rotating boat lift, joining two canals.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/falkirk-wheel/own-falkirk-wheel.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/falkirk-wheel.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a1afc9",
+            "share": 0.235
+          },
+          {
+            "hex": "#40433c",
+            "share": 0.226
+          },
+          {
+            "hex": "#757574",
+            "share": 0.207
+          },
+          {
+            "hex": "#668dce",
+            "share": 0.169
+          },
+          {
+            "hex": "#cfd5e4",
+            "share": 0.163
+          }
+        ],
+        "strongest": "#668dce"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/falkirk-wheel/commons-1.jpg",
+      "title": "File:Falkirk Wheel Boat Lifting.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Falkirk_Wheel_Boat_Lifting.jpg",
+      "author": "Z22",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5870,
+      "height": 3912,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b6cae7",
+            "share": 0.25
+          },
+          {
+            "hex": "#3a3939",
+            "share": 0.206
+          },
+          {
+            "hex": "#919187",
+            "share": 0.193
+          },
+          {
+            "hex": "#161413",
+            "share": 0.188
+          },
+          {
+            "hex": "#5f6164",
+            "share": 0.164
+          }
+        ],
+        "strongest": "#b6cae7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/falkirk-wheel/commons-2.jpg",
+      "title": "File:Falkirk Wheel locking mechanisms.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Falkirk_Wheel_locking_mechanisms.jpg",
+      "author": "Z22",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1397,
+      "height": 1048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2e2d32",
+            "share": 0.307
+          },
+          {
+            "hex": "#1b1b23",
+            "share": 0.271
+          },
+          {
+            "hex": "#4b4a4c",
+            "share": 0.208
+          },
+          {
+            "hex": "#736f6b",
+            "share": 0.122
+          },
+          {
+            "hex": "#b7b1a3",
+            "share": 0.091
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/falkirk-wheel/commons-3.jpg",
+      "title": "File:Falkirk Wheel panorama.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Falkirk_Wheel_panorama.jpg",
+      "author": "Cameron Lyall at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1200,
+      "height": 423,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#285795",
+            "share": 0.341
+          },
+          {
+            "hex": "#4e5051",
+            "share": 0.222
+          },
+          {
+            "hex": "#474d1e",
+            "share": 0.188
+          },
+          {
+            "hex": "#212724",
+            "share": 0.134
+          },
+          {
+            "hex": "#6883a2",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#285795"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/falkirk-wheel/commons-4.jpg",
+      "title": "File:Falkirk Wheel upper aqueduct door.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Falkirk_Wheel_upper_aqueduct_door.jpg",
+      "author": "Z22",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5458,
+      "height": 3634,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#303542",
+            "share": 0.299
+          },
+          {
+            "hex": "#9ea8b5",
+            "share": 0.231
+          },
+          {
+            "hex": "#7e8186",
+            "share": 0.175
+          },
+          {
+            "hex": "#58585b",
+            "share": 0.17
+          },
+          {
+            "hex": "#e7f1f9",
+            "share": 0.124
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a1afc9",
+        "share": 0.235
+      },
+      {
+        "hex": "#40433c",
+        "share": 0.226
+      },
+      {
+        "hex": "#757574",
+        "share": 0.207
+      },
+      {
+        "hex": "#668dce",
+        "share": 0.169
+      },
+      {
+        "hex": "#cfd5e4",
+        "share": 0.163
+      }
+    ],
+    "strongest": "#668dce"
+  }
+}

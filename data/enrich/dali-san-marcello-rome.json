@@ -1,0 +1,360 @@
+{
+  "id": "dali-san-marcello-rome",
+  "name": "Salvador Dalí at San Marcello al Corso",
+  "lat": 41.8987,
+  "lng": 12.4805,
+  "enrichedAt": "2026-10-11T01:21:41.807Z",
+  "place": {
+    "town": "Rome",
+    "locality": "Municipio Roma I",
+    "county": "Roma Capitale",
+    "adminArea": "Roma Capitale",
+    "region": "Lazio",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.8987&lon=12.4805&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Municipio Roma I, Rome, Roma Capitale, Lazio, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 0.07
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 0.3
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 0.76
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.27
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 1.96
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 1.97
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 2.2
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 2.24
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 2.26
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 2.39
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 2.39
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 0.1
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 0.3
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 0.8
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.3
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "San Marcello al Corso",
+      "description": "Church in Rome, Italy",
+      "extract": "San Marcello al Corso is an ancient titular and conventual church in Rome, Italy. It has been served by friars of the Servite Order since c. 1375 and is the headquarters of their General Curia. The cardinal-protector of the church is normally of the order of cardinal priests, currently Giuseppe Betori.",
+      "url": "https://en.wikipedia.org/wiki/San_Marcello_al_Corso",
+      "coordinates": {
+        "lat": 41.89868056,
+        "lng": 12.48176111
+      },
+      "km": 0.1,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/San_Marcello_al_Corso_-_Facade.jpg/3840px-San_Marcello_al_Corso_-_Facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Rome",
+      "description": "Capital and largest city of Italy",
+      "extract": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country within Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church.",
+      "url": "https://en.wikipedia.org/wiki/Rome",
+      "coordinates": {
+        "lat": 41.89333333,
+        "lng": 12.48277778
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Salvador Dalí work at the church of San Marcello al Corso.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/dali-san-marcello-rome/own-dali-san-marcello-rome.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/dali-san-marcello-rome.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.595
+          },
+          {
+            "hex": "#3b362a",
+            "share": 0.179
+          },
+          {
+            "hex": "#261f16",
+            "share": 0.094
+          },
+          {
+            "hex": "#13110d",
+            "share": 0.066
+          },
+          {
+            "hex": "#675132",
+            "share": 0.065
+          }
+        ],
+        "strongest": "#675132"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dali-san-marcello-rome/commons-1.jpg",
+      "title": "File:San Marcello al Corso - Facade.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:San_Marcello_al_Corso_-_Facade.jpg",
+      "author": "Columnsss",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4898,
+      "height": 5781,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#295194",
+            "share": 0.31
+          },
+          {
+            "hex": "#908c8c",
+            "share": 0.222
+          },
+          {
+            "hex": "#b2afb1",
+            "share": 0.215
+          },
+          {
+            "hex": "#67605c",
+            "share": 0.141
+          },
+          {
+            "hex": "#312b26",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#295194"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dali-san-marcello-rome/commons-2.jpg",
+      "title": "File:San Marcello al Corso - Facade.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:San_Marcello_al_Corso_-_Facade.jpg",
+      "author": "Columnsss",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4898,
+      "height": 5781,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#295194",
+            "share": 0.31
+          },
+          {
+            "hex": "#908c8c",
+            "share": 0.222
+          },
+          {
+            "hex": "#b2afb1",
+            "share": 0.215
+          },
+          {
+            "hex": "#67605c",
+            "share": 0.141
+          },
+          {
+            "hex": "#312b26",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#295194"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dali-san-marcello-rome/commons-3.jpg",
+      "title": "File:San Marcello al Corso - Interior.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:San_Marcello_al_Corso_-_Interior.jpg",
+      "author": "Columnsss",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 8734,
+      "height": 5735,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#46240c",
+            "share": 0.301
+          },
+          {
+            "hex": "#623c20",
+            "share": 0.252
+          },
+          {
+            "hex": "#291103",
+            "share": 0.192
+          },
+          {
+            "hex": "#835837",
+            "share": 0.186
+          },
+          {
+            "hex": "#ad8a6b",
+            "share": 0.069
+          }
+        ],
+        "strongest": "#46240c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dali-san-marcello-rome/commons-4.jpg",
+      "title": "File:Interior of Galleria Doria Pamphilj, Rome 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Galleria_Doria_Pamphilj,_Rome_03.jpg",
+      "author": "Lamelolguy",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2304,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#090808",
+            "share": 0.326
+          },
+          {
+            "hex": "#1f1713",
+            "share": 0.253
+          },
+          {
+            "hex": "#36271e",
+            "share": 0.238
+          },
+          {
+            "hex": "#5a3c2b",
+            "share": 0.144
+          },
+          {
+            "hex": "#ae6f46",
+            "share": 0.039
+          }
+        ],
+        "strongest": "#36271e"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:San Marcello02.jpg",
+      "why": "map/logo category"
+    },
+    {
+      "title": "File:INGORTP - Bandiera d’Istituto.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.595
+      },
+      {
+        "hex": "#3b362a",
+        "share": 0.179
+      },
+      {
+        "hex": "#261f16",
+        "share": 0.094
+      },
+      {
+        "hex": "#13110d",
+        "share": 0.066
+      },
+      {
+        "hex": "#675132",
+        "share": 0.065
+      }
+    ],
+    "strongest": "#675132"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "id": "merstham-phonebox-graveyard",
+  "name": "Merstham phone-box graveyard",
+  "lat": 51.27,
+  "lng": -0.149,
+  "enrichedAt": "2026-10-11T01:21:33.546Z",
+  "place": {
+    "town": "Reigate and Banstead",
+    "locality": null,
+    "county": "Surrey",
+    "adminArea": "Surrey",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.27&lon=-0.149&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Sunacre, Merstham, Reigate and Banstead, Surrey, England, RH1 3BD, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Merstham",
+      "description": "Town in Surrey, England",
+      "extract": "Merstham is a town in the borough of Reigate and Banstead in Surrey, England. It lies 17 miles south of Charing Cross just beyond the Greater London border. Part of the North Downs Way runs along the northern boundary of the town. Merstham has community associations, an early medieval church and a football club.",
+      "url": "https://en.wikipedia.org/wiki/Merstham",
+      "coordinates": {
+        "lat": 51.264,
+        "lng": -0.153
+      },
+      "km": 0.7,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/08/Merstham_Church_-_geograph.org.uk_-_1296447.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Reigate and Banstead",
+      "description": "Borough and non-metropolitan district in England",
+      "extract": "Reigate and Banstead is a local government district with borough status in Surrey, England. Its council is based in Reigate and the borough also includes the towns of Banstead, Horley and Redhill. Parts of the borough are within the Surrey Hills, a designated Area of Outstanding Natural Beauty. Northern parts of the borough, including Banstead, lie inside the M25 motorway which encircles London.",
+      "url": "https://en.wikipedia.org/wiki/Reigate_and_Banstead",
+      "coordinates": {
+        "lat": 51.249,
+        "lng": -0.16
+      },
+      "km": 2.5,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Reigate_Town_Centre_-_geograph.org.uk_-_1042922.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "A field of retired red K6 phone boxes awaiting restoration.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/merstham-phonebox-graveyard/own-merstham-phonebox-graveyard.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/merstham-phonebox-graveyard.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.444
+          },
+          {
+            "hex": "#777d85",
+            "share": 0.163
+          },
+          {
+            "hex": "#3a2a24",
+            "share": 0.152
+          },
+          {
+            "hex": "#584b48",
+            "share": 0.131
+          },
+          {
+            "hex": "#a7aeb3",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#3a2a24"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/merstham-phonebox-graveyard/commons-1.jpg",
+      "title": "File:Graveyard, Merstham - geograph.org.uk - 7375432.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Graveyard,_Merstham_-_geograph.org.uk_-_7375432.jpg",
+      "author": "Robin Webster",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4b5748",
+            "share": 0.285
+          },
+          {
+            "hex": "#717565",
+            "share": 0.278
+          },
+          {
+            "hex": "#919b8b",
+            "share": 0.199
+          },
+          {
+            "hex": "#2a3629",
+            "share": 0.187
+          },
+          {
+            "hex": "#d9e1dd",
+            "share": 0.051
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/merstham-phonebox-graveyard/commons-2.jpg",
+      "title": "File:Graveyard, Merstham - geograph.org.uk - 7375356.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Graveyard,_Merstham_-_geograph.org.uk_-_7375356.jpg",
+      "author": "Robin Webster",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#64715c",
+            "share": 0.304
+          },
+          {
+            "hex": "#465a39",
+            "share": 0.291
+          },
+          {
+            "hex": "#263418",
+            "share": 0.182
+          },
+          {
+            "hex": "#eff3f4",
+            "share": 0.117
+          },
+          {
+            "hex": "#9ea991",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#263418"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/merstham-phonebox-graveyard/commons-3.jpg",
+      "title": "File:Woodland east of railway cutting, Merstham - geograph.org.uk - 7375429.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Woodland_east_of_railway_cutting,_Merstham_-_geograph.org.uk_-_7375429.jpg",
+      "author": "Robin Webster",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#585c47",
+            "share": 0.307
+          },
+          {
+            "hex": "#6f7160",
+            "share": 0.256
+          },
+          {
+            "hex": "#daf2f5",
+            "share": 0.214
+          },
+          {
+            "hex": "#354135",
+            "share": 0.137
+          },
+          {
+            "hex": "#849db5",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/merstham-phonebox-graveyard/commons-4.jpg",
+      "title": "File:Former siding - geograph.org.uk - 8226338.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Former_siding_-_geograph.org.uk_-_8226338.jpg",
+      "author": "Ian Capper",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 678,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8b8358",
+            "share": 0.261
+          },
+          {
+            "hex": "#6d773b",
+            "share": 0.229
+          },
+          {
+            "hex": "#4e5b27",
+            "share": 0.221
+          },
+          {
+            "hex": "#2d3a19",
+            "share": 0.157
+          },
+          {
+            "hex": "#a69974",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#4e5b27"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Merstham Church - geograph.org.uk - 1296447.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Quality Street, Merstham - geograph.org.uk - 743781.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:South Merstham Anglican Church - geograph.org.uk - 22672.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:St Katharine's church Merstham, east end - geograph.org.uk - 1473603.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Old bridge abutments by Merstham Tunnel (Quarry Line) - geograph.org.uk - 5024487.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:St. Katharine's Church, Merstham - geograph.org.uk - 1407727.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Merstham orig tunnel south portal.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.444
+      },
+      {
+        "hex": "#777d85",
+        "share": 0.163
+      },
+      {
+        "hex": "#3a2a24",
+        "share": 0.152
+      },
+      {
+        "hex": "#584b48",
+        "share": 0.131
+      },
+      {
+        "hex": "#a7aeb3",
+        "share": 0.11
+      }
+    ],
+    "strongest": "#3a2a24"
+  }
+}

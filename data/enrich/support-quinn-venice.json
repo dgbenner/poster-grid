@@ -1,0 +1,298 @@
+{
+  "id": "support-quinn-venice",
+  "name": "Lorenzo Quinn, Support (2017)",
+  "lat": 45.4344,
+  "lng": 12.3312,
+  "enrichedAt": "2026-10-11T01:21:41.959Z",
+  "place": {
+    "town": "Venice",
+    "locality": "Venezia-Murano-Burano",
+    "county": "Venezia",
+    "adminArea": "Venezia",
+    "region": "Veneto",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.4344&lon=12.3312&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Venezia-Murano-Burano, Burano, Venice, Venezia, Veneto, 30142, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "la-fenice-venice",
+        "name": "La Fenice opera house",
+        "km": 0.22
+      },
+      {
+        "id": "venice-carnival",
+        "name": "Venice Carnival",
+        "km": 0.54
+      },
+      {
+        "id": "lovati-san-marco-venice",
+        "name": "August Lovati, San Marco",
+        "km": 0.59
+      },
+      {
+        "id": "venice",
+        "name": "Venice (the city)",
+        "km": 1.42
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "la-fenice-venice",
+        "name": "La Fenice opera house",
+        "km": 0.2
+      },
+      {
+        "id": "venice-carnival",
+        "name": "Venice Carnival",
+        "km": 0.5
+      },
+      {
+        "id": "lovati-san-marco-venice",
+        "name": "August Lovati, San Marco",
+        "km": 0.6
+      },
+      {
+        "id": "venice",
+        "name": "Venice (the city)",
+        "km": 1.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Venice",
+      "description": "City in Veneto, Italy",
+      "extract": "Venice is a coastal city in northeastern Italy and the capital of the region of Veneto, as well as the Metropolitan City of Venice. It is built on a group of 126 islands that are separated by expanses of open water and by canals; portions of the city are linked by 472 bridges.",
+      "url": "https://en.wikipedia.org/wiki/Venice",
+      "coordinates": {
+        "lat": 45.4375,
+        "lng": 12.33583333
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/3840px-Venezia_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Giant hands rising from the Grand Canal.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/support-quinn-venice/own-support-quinn-venice.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/support-quinn-venice.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1e1f1e",
+            "share": 0.342
+          },
+          {
+            "hex": "#36332c",
+            "share": 0.255
+          },
+          {
+            "hex": "#68503f",
+            "share": 0.197
+          },
+          {
+            "hex": "#000000",
+            "share": 0.125
+          },
+          {
+            "hex": "#999388",
+            "share": 0.081
+          }
+        ],
+        "strongest": "#68503f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/support-quinn-venice/commons-1.jpg",
+      "title": "File:Venezia , Veneto - panoramio (13).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Venezia_,_Veneto_-_panoramio_(13).jpg",
+      "author": "Kaz Ish",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#241e19",
+            "share": 0.371
+          },
+          {
+            "hex": "#0a0908",
+            "share": 0.199
+          },
+          {
+            "hex": "#aecde7",
+            "share": 0.185
+          },
+          {
+            "hex": "#433a34",
+            "share": 0.183
+          },
+          {
+            "hex": "#7e6e64",
+            "share": 0.063
+          }
+        ],
+        "strongest": "#aecde7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/support-quinn-venice/commons-2.jpg",
+      "title": "File:Rio Menuo incroce San Anzolo Venezia.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rio_Menuo_incroce_San_Anzolo_Venezia.jpg",
+      "author": "Abxbay",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#605042",
+            "share": 0.243
+          },
+          {
+            "hex": "#86756c",
+            "share": 0.23
+          },
+          {
+            "hex": "#bca08e",
+            "share": 0.193
+          },
+          {
+            "hex": "#ded1c3",
+            "share": 0.173
+          },
+          {
+            "hex": "#29231a",
+            "share": 0.161
+          }
+        ],
+        "strongest": "#ded1c3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/support-quinn-venice/commons-3.jpg",
+      "title": "File:Rio Tera d Mandola corte.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rio_Tera_d_Mandola_corte.jpg",
+      "author": "Abxbay",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#654226",
+            "share": 0.285
+          },
+          {
+            "hex": "#e2e2db",
+            "share": 0.234
+          },
+          {
+            "hex": "#866745",
+            "share": 0.211
+          },
+          {
+            "hex": "#2d1c11",
+            "share": 0.154
+          },
+          {
+            "hex": "#a69071",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#654226"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/support-quinn-venice/commons-4.jpg",
+      "title": "File:Rio de San Anzolo verso il sud.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rio_de_San_Anzolo_verso_il_sud.jpg",
+      "author": "Abxbay",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5c625e",
+            "share": 0.264
+          },
+          {
+            "hex": "#b1aaa6",
+            "share": 0.203
+          },
+          {
+            "hex": "#d4d2ce",
+            "share": 0.199
+          },
+          {
+            "hex": "#8c807d",
+            "share": 0.186
+          },
+          {
+            "hex": "#343531",
+            "share": 0.149
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#1e1f1e",
+        "share": 0.342
+      },
+      {
+        "hex": "#36332c",
+        "share": 0.255
+      },
+      {
+        "hex": "#68503f",
+        "share": 0.197
+      },
+      {
+        "hex": "#000000",
+        "share": 0.125
+      },
+      {
+        "hex": "#999388",
+        "share": 0.081
+      }
+    ],
+    "strongest": "#68503f"
+  }
+}

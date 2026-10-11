@@ -1,0 +1,254 @@
+{
+  "id": "joy-division-liguria",
+  "name": "\"Celebrating Joy Division,\" Liguria (Sestri Levante area)",
+  "lat": 44.271,
+  "lng": 9.3923,
+  "enrichedAt": "2026-10-11T01:21:45.089Z",
+  "place": {
+    "town": "Sestri Levante",
+    "locality": null,
+    "county": "Genoa",
+    "adminArea": "Genoa",
+    "region": "Liguria",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.271&lon=9.3923&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Riva Trigoso, Sestri Levante, Genoa, Liguria, 16039, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "portofino",
+        "name": "Portofino",
+        "km": 15
+      },
+      {
+        "id": "staglieno-cemetery",
+        "name": "Staglieno / Monumental Cemetery, Genoa",
+        "km": 39.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Flagged: exact spot uncertain from the copy; a Joy Division tribute.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/joy-division-liguria/own-joy-division-liguria.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/joy-division-liguria.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cac7bf",
+            "share": 0.266
+          },
+          {
+            "hex": "#7a705d",
+            "share": 0.215
+          },
+          {
+            "hex": "#564c3c",
+            "share": 0.199
+          },
+          {
+            "hex": "#a5a197",
+            "share": 0.176
+          },
+          {
+            "hex": "#050506",
+            "share": 0.145
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/joy-division-liguria/commons-1.jpg",
+      "title": "File:Passeggiata a mare, Sestri Levante, Liguria, Italy - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Passeggiata_a_mare,_Sestri_Levante,_Liguria,_Italy_-_1.jpg",
+      "author": "Emanuela Meme Giudic…",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#736e69",
+            "share": 0.299
+          },
+          {
+            "hex": "#1f1b15",
+            "share": 0.275
+          },
+          {
+            "hex": "#aa977d",
+            "share": 0.199
+          },
+          {
+            "hex": "#463627",
+            "share": 0.141
+          },
+          {
+            "hex": "#f1dbbc",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#f1dbbc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/joy-division-liguria/commons-2.jpg",
+      "title": "File:Passeggiata a mare, Sestri Levante, Liguria, Italy - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Passeggiata_a_mare,_Sestri_Levante,_Liguria,_Italy_-_2.jpg",
+      "author": "Emanuela Meme Giudic…",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#81766e",
+            "share": 0.307
+          },
+          {
+            "hex": "#655b52",
+            "share": 0.281
+          },
+          {
+            "hex": "#ab9d8c",
+            "share": 0.166
+          },
+          {
+            "hex": "#3f3c2f",
+            "share": 0.161
+          },
+          {
+            "hex": "#e8e4d7",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#e8e4d7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/joy-division-liguria/commons-3.jpg",
+      "title": "File:Passeggiata a mare, Sestri Levante, Liguria, Italy - 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Passeggiata_a_mare,_Sestri_Levante,_Liguria,_Italy_-_3.jpg",
+      "author": "Emanuela Meme Giudic…",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#333436",
+            "share": 0.336
+          },
+          {
+            "hex": "#bed9ed",
+            "share": 0.189
+          },
+          {
+            "hex": "#595048",
+            "share": 0.182
+          },
+          {
+            "hex": "#9b805f",
+            "share": 0.16
+          },
+          {
+            "hex": "#e3c98f",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#bed9ed"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/joy-division-liguria/commons-4.jpg",
+      "title": "File:Sestri Levante, Liguria (8858795313).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sestri_Levante,_Liguria_(8858795313).jpg",
+      "author": "Michal Osmenda from Brussels, Belgium",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3264,
+      "height": 2208,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9bc7ed",
+            "share": 0.287
+          },
+          {
+            "hex": "#735d48",
+            "share": 0.251
+          },
+          {
+            "hex": "#22252a",
+            "share": 0.217
+          },
+          {
+            "hex": "#ac9677",
+            "share": 0.176
+          },
+          {
+            "hex": "#e2d5a4",
+            "share": 0.069
+          }
+        ],
+        "strongest": "#9bc7ed"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#cac7bf",
+        "share": 0.266
+      },
+      {
+        "hex": "#7a705d",
+        "share": 0.215
+      },
+      {
+        "hex": "#564c3c",
+        "share": 0.199
+      },
+      {
+        "hex": "#a5a197",
+        "share": 0.176
+      },
+      {
+        "hex": "#050506",
+        "share": 0.145
+      }
+    ],
+    "strongest": null
+  }
+}

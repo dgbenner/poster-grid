@@ -1,0 +1,269 @@
+{
+  "id": "marienburg-castle",
+  "name": "Marienburg Castle",
+  "lat": 52.0844,
+  "lng": 9.8264,
+  "enrichedAt": "2026-10-11T01:21:39.501Z",
+  "place": {
+    "town": "Gronau",
+    "locality": null,
+    "county": "Landkreis Hildesheim",
+    "adminArea": "Landkreis Hildesheim",
+    "region": "Lower Saxony",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.0844&lon=9.8264&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Barfelde, Gronau, Samtgemeinde Leinebergland, Landkreis Hildesheim, Lower Saxony, 31028, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Marienburg Castle (Hanover)",
+      "description": "Castle in Lower Saxony, Germany",
+      "extract": "Marienburg Castle is a Gothic Revival castle in Lower Saxony, Germany. It is located 15 kilometres (9.3 mi) north-west of Hildesheim, and around 30 kilometres (19 mi) south of Hanover, in the municipality of Pattensen. A summer residence of the House of Welf in the past, it is now owned by the Marienburg Castle Foundation chaired by former owner Ernst August of Hanover but publicly funded in part by the state of Lower Saxony.",
+      "url": "https://en.wikipedia.org/wiki/Marienburg_Castle_(Hanover)",
+      "coordinates": {
+        "lat": 52.17229,
+        "lng": 9.7665
+      },
+      "km": 10.6,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Schloss_Marienburg_im_herbstlichen_Abendlicht.jpg/3840px-Schloss_Marienburg_im_herbstlichen_Abendlicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Gronau, Lower Saxony",
+      "description": "Town in Lower Saxony, Germany",
+      "extract": "Gronau is a town and a municipality in the district of Hildesheim, in Lower Saxony, Germany. It is situated on the River Leine, approximately 15 km southwest of Hildesheim, and 35 km south of Hanover. Since 1 November 2016, the former municipalities Banteln, Betheln, Brüggen, Despetal and Rheden are part of the municipality Gronau.",
+      "url": "https://en.wikipedia.org/wiki/Gronau%2C_Lower_Saxony",
+      "coordinates": {
+        "lat": 52.06666667,
+        "lng": 9.78333333
+      },
+      "km": 3.5,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Gronau_%28Leine%29_in_HI.svg/1920px-Gronau_%28Leine%29_in_HI.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "19th-c. neo-Gothic, brooding under storm skies.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/marienburg-castle/own-marienburg-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/marienburg-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#584c31",
+            "share": 0.285
+          },
+          {
+            "hex": "#8d9498",
+            "share": 0.213
+          },
+          {
+            "hex": "#1f1b15",
+            "share": 0.185
+          },
+          {
+            "hex": "#696966",
+            "share": 0.182
+          },
+          {
+            "hex": "#b8bec1",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#584c31"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marienburg-castle/commons-1.jpg",
+      "title": "File:Schloss Marienburg im herbstlichen Abendlicht.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Marienburg_im_herbstlichen_Abendlicht.jpg",
+      "author": "GZagatta",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4560,
+      "height": 3035,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d5d5d1",
+            "share": 0.247
+          },
+          {
+            "hex": "#312408",
+            "share": 0.233
+          },
+          {
+            "hex": "#979c9e",
+            "share": 0.223
+          },
+          {
+            "hex": "#644917",
+            "share": 0.215
+          },
+          {
+            "hex": "#a4721b",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#644917"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marienburg-castle/commons-2.jpg",
+      "title": "File:Aerial image of Marienburg Castle (view from the south).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Marienburg_Castle_(view_from_the_south).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4800,
+      "height": 3600,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#394d2b",
+            "share": 0.289
+          },
+          {
+            "hex": "#1e2f20",
+            "share": 0.212
+          },
+          {
+            "hex": "#7f7e79",
+            "share": 0.195
+          },
+          {
+            "hex": "#5d6649",
+            "share": 0.188
+          },
+          {
+            "hex": "#b3afab",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#394d2b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marienburg-castle/commons-3.jpg",
+      "title": "File:Castle Marienburg in Lower Saxony.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle_Marienburg_in_Lower_Saxony.jpg",
+      "author": "Michael Gäbler",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1767,
+      "height": 1335,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#232910",
+            "share": 0.251
+          },
+          {
+            "hex": "#505024",
+            "share": 0.238
+          },
+          {
+            "hex": "#7e7241",
+            "share": 0.233
+          },
+          {
+            "hex": "#f8f6f0",
+            "share": 0.154
+          },
+          {
+            "hex": "#c0ad71",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#505024"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marienburg-castle/commons-4.jpg",
+      "title": "File:Marienburg Castle in summer.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marienburg_Castle_in_summer.jpg",
+      "author": "Michael Gäbler",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2839,
+      "height": 2108,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#576839",
+            "share": 0.333
+          },
+          {
+            "hex": "#87c1ee",
+            "share": 0.323
+          },
+          {
+            "hex": "#313f2e",
+            "share": 0.179
+          },
+          {
+            "hex": "#9cd0f2",
+            "share": 0.104
+          },
+          {
+            "hex": "#919187",
+            "share": 0.061
+          }
+        ],
+        "strongest": "#87c1ee"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#584c31",
+        "share": 0.285
+      },
+      {
+        "hex": "#8d9498",
+        "share": 0.213
+      },
+      {
+        "hex": "#1f1b15",
+        "share": 0.185
+      },
+      {
+        "hex": "#696966",
+        "share": 0.182
+      },
+      {
+        "hex": "#b8bec1",
+        "share": 0.134
+      }
+    ],
+    "strongest": "#584c31"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "san-gimignano",
+  "name": "San Gimignano",
+  "lat": 43.4677,
+  "lng": 11.0431,
+  "enrichedAt": "2026-10-11T01:21:42.025Z",
+  "place": {
+    "town": "San Gimignano",
+    "locality": null,
+    "county": "Siena",
+    "adminArea": "Siena",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.4677&lon=11.0431&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Signano, Le Balze, San Gimignano, Siena, Tuscany, 53037, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "monteriggioni",
+        "name": "Monteriggioni",
+        "km": 16.9
+      },
+      {
+        "id": "siena",
+        "name": "Siena",
+        "km": 28.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "San Gimignano",
+      "description": "UNESCO World Heritage Site",
+      "extract": "San Gimignano is a small walled medieval hill town in the province of Siena, Tuscany, north-central Italy. Known as the Town of Five Towers, San Gimignano is famous for its medieval architecture, unique in the preservation of about a dozen of its tower houses, which, with its hilltop setting and encircling walls, form \"an unforgettable skyline\". Within the walls, the well-preserved buildings include notable examples of both Romanesque and Gothic architecture, with outstanding examples of secular buildings as well as churches. The Palazzo Comunale, the Collegiata and Church of Sant'Agostino contain frescos, including cycles dating from the 14th and 15th centuries. The \"Historic Centre of San Gimignano\" is a UNESCO World Heritage Site. The town is also known for saffron, its dry-aged and saffron infused Golden Ham, pecorino cheese, and local white wine—Vernaccia di San Gimignano—produced from the ancient variety of Vernaccia grape grown on the sandstone hillsides of the area.",
+      "url": "https://en.wikipedia.org/wiki/San_Gimignano",
+      "coordinates": {
+        "lat": 43.468,
+        "lng": 11.042
+      },
+      "km": 0.1,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/1_Aerial_pano_san_gimignano_%282%29a.jpg/3840px-1_Aerial_pano_san_gimignano_%282%29a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "San Gimignano",
+      "description": "UNESCO World Heritage Site",
+      "extract": "San Gimignano is a small walled medieval hill town in the province of Siena, Tuscany, north-central Italy. Known as the Town of Five Towers, San Gimignano is famous for its medieval architecture, unique in the preservation of about a dozen of its tower houses, which, with its hilltop setting and encircling walls, form \"an unforgettable skyline\". Within the walls, the well-preserved buildings include notable examples of both Romanesque and Gothic architecture, with outstanding examples of secular buildings as well as churches. The Palazzo Comunale, the Collegiata and Church of Sant'Agostino contain frescos, including cycles dating from the 14th and 15th centuries. The \"Historic Centre of San Gimignano\" is a UNESCO World Heritage Site. The town is also known for saffron, its dry-aged and saffron infused Golden Ham, pecorino cheese, and local white wine—Vernaccia di San Gimignano—produced from the ancient variety of Vernaccia grape grown on the sandstone hillsides of the area.",
+      "url": "https://en.wikipedia.org/wiki/San_Gimignano",
+      "coordinates": {
+        "lat": 43.468,
+        "lng": 11.042
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/1_Aerial_pano_san_gimignano_%282%29a.jpg/3840px-1_Aerial_pano_san_gimignano_%282%29a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The \"Town of Fine Towers.\"",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/san-gimignano/own-san-gimignano.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/san-gimignano.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.456
+          },
+          {
+            "hex": "#53555e",
+            "share": 0.174
+          },
+          {
+            "hex": "#583c31",
+            "share": 0.144
+          },
+          {
+            "hex": "#2e292b",
+            "share": 0.136
+          },
+          {
+            "hex": "#9d643a",
+            "share": 0.09
+          }
+        ],
+        "strongest": "#9d643a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/san-gimignano/commons-1.jpg",
+      "title": "File:1 Aerial pano san gimignano (2)a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1_Aerial_pano_san_gimignano_(2)a.jpg",
+      "author": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6496,
+      "height": 4563,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#655b52",
+            "share": 0.227
+          },
+          {
+            "hex": "#2c3219",
+            "share": 0.211
+          },
+          {
+            "hex": "#8e7066",
+            "share": 0.208
+          },
+          {
+            "hex": "#454630",
+            "share": 0.205
+          },
+          {
+            "hex": "#d1a484",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#d1a484"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/san-gimignano/commons-2.jpg",
+      "title": "File:1 Aerial pano san gimignano (2)a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1_Aerial_pano_san_gimignano_(2)a.jpg",
+      "author": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6496,
+      "height": 4563,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#655b52",
+            "share": 0.227
+          },
+          {
+            "hex": "#2c3219",
+            "share": 0.211
+          },
+          {
+            "hex": "#8e7066",
+            "share": 0.208
+          },
+          {
+            "hex": "#454630",
+            "share": 0.205
+          },
+          {
+            "hex": "#d1a484",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#d1a484"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/san-gimignano/commons-3.jpg",
+      "title": "File:Panorama San Gimignano.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panorama_San_Gimignano.jpg",
+      "author": "WikiRomaWiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 9504,
+      "height": 6336,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a6c0d3",
+            "share": 0.342
+          },
+          {
+            "hex": "#414c2a",
+            "share": 0.206
+          },
+          {
+            "hex": "#706d4a",
+            "share": 0.203
+          },
+          {
+            "hex": "#a59071",
+            "share": 0.168
+          },
+          {
+            "hex": "#95b1c3",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#a6c0d3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/san-gimignano/commons-4.jpg",
+      "title": "File:Piazza del Duomo - San Gimignano.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazza_del_Duomo_-_San_Gimignano.jpg",
+      "author": "Francesco Gasparetti from Senigallia, Italy",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3008,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d4d7da",
+            "share": 0.259
+          },
+          {
+            "hex": "#504b46",
+            "share": 0.237
+          },
+          {
+            "hex": "#8bb1de",
+            "share": 0.228
+          },
+          {
+            "hex": "#242223",
+            "share": 0.224
+          },
+          {
+            "hex": "#8f897d",
+            "share": 0.052
+          }
+        ],
+        "strongest": "#8bb1de"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.456
+      },
+      {
+        "hex": "#53555e",
+        "share": 0.174
+      },
+      {
+        "hex": "#583c31",
+        "share": 0.144
+      },
+      {
+        "hex": "#2e292b",
+        "share": 0.136
+      },
+      {
+        "hex": "#9d643a",
+        "share": 0.09
+      }
+    ],
+    "strongest": "#9d643a"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "auditorium-maurice-ravel",
+  "name": "Auditorium Maurice-Ravel, Lyon",
+  "lat": 45.7621,
+  "lng": 4.8554,
+  "enrichedAt": "2026-10-11T01:21:41.565Z",
+  "place": {
+    "town": "Lyon",
+    "locality": "3rd Arrondissement",
+    "county": "Métropole de Lyon",
+    "adminArea": "Métropole de Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.7621&lon=4.8554&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Saint-Amour, 3rd Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69003, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Maurice Ravel Auditorium",
+      "description": "Concert Hall in Lyon, France",
+      "extract": "The Maurice Ravel Auditorium is a concert hall located in Part-Dieu, the 3rd district of Lyon. It was originally built for the National Orchestra of Lyon and is their residence hall. It is also one of the first buildings in France to be built with prestressed concrete.",
+      "url": "https://en.wikipedia.org/wiki/Maurice_Ravel_Auditorium",
+      "coordinates": {
+        "lat": 45.76161111,
+        "lng": 4.85275278
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6e/Maurice-Ravel_Auditorium%2C_Lyon.jpg/3840px-Maurice-Ravel_Auditorium%2C_Lyon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Lyon",
+      "description": "City in France",
+      "extract": "Lyon is a city in France. It is located at the confluence of the rivers Rhône and Saône, to the northwest of the French Alps, 391 km (243 mi) southeast of Paris, 278 km (173 mi) north of Marseille, and 113 km (70 mi) southwest of Geneva, Switzerland.",
+      "url": "https://en.wikipedia.org/wiki/Lyon",
+      "coordinates": {
+        "lat": 45.7675,
+        "lng": 4.835
+      },
+      "km": 1.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/3840px-Lyon-part-dieu-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Concert hall dedicated to Ravel's legacy.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/auditorium-maurice-ravel/own-auditorium-maurice-ravel.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/auditorium-maurice-ravel.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.396
+          },
+          {
+            "hex": "#f3f3f3",
+            "share": 0.225
+          },
+          {
+            "hex": "#c7c7c7",
+            "share": 0.202
+          },
+          {
+            "hex": "#848484",
+            "share": 0.1
+          },
+          {
+            "hex": "#4b4d4d",
+            "share": 0.077
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/auditorium-maurice-ravel/commons-1.jpg",
+      "title": "File:Orgue Auditorium de Lyon 11.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Orgue_Auditorium_de_Lyon_11.JPG",
+      "author": "Claire Delamarche",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1229,
+      "height": 922,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#562923",
+            "share": 0.332
+          },
+          {
+            "hex": "#271c1b",
+            "share": 0.308
+          },
+          {
+            "hex": "#944826",
+            "share": 0.175
+          },
+          {
+            "hex": "#db7d2d",
+            "share": 0.103
+          },
+          {
+            "hex": "#6a41a2",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#944826"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/auditorium-maurice-ravel/commons-2.jpg",
+      "title": "File:Orgue auditorium lyon.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Orgue_auditorium_lyon.jpg",
+      "author": "Erclairbair",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3393,
+      "height": 2767,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1e0d0a",
+            "share": 0.444
+          },
+          {
+            "hex": "#0b0704",
+            "share": 0.247
+          },
+          {
+            "hex": "#3a261c",
+            "share": 0.17
+          },
+          {
+            "hex": "#68584c",
+            "share": 0.077
+          },
+          {
+            "hex": "#a39a8d",
+            "share": 0.063
+          }
+        ],
+        "strongest": "#3a261c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/auditorium-maurice-ravel/commons-3.jpg",
+      "title": "File:Lyon 3e - Travaux d'extension du centre commercial de La Part-Dieu, février 2019 - Vue d'ensemble.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lyon_3e_-_Travaux_d%27extension_du_centre_commercial_de_La_Part-Dieu,_f%C3%A9vrier_2019_-_Vue_d%27ensemble.jpg",
+      "author": "Romainbehar",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4128,
+      "height": 3096,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f9fdfd",
+            "share": 0.421
+          },
+          {
+            "hex": "#6a6c6e",
+            "share": 0.186
+          },
+          {
+            "hex": "#464343",
+            "share": 0.165
+          },
+          {
+            "hex": "#a2a097",
+            "share": 0.135
+          },
+          {
+            "hex": "#dacdaf",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#dacdaf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/auditorium-maurice-ravel/commons-4.jpg",
+      "title": "File:Lyon 3e - Toit du centre commercial de La Part-Dieu.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lyon_3e_-_Toit_du_centre_commercial_de_La_Part-Dieu.jpg",
+      "author": "Romainbehar",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4128,
+      "height": 3096,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#716260",
+            "share": 0.351
+          },
+          {
+            "hex": "#f6fcfd",
+            "share": 0.28
+          },
+          {
+            "hex": "#ddeaf0",
+            "share": 0.138
+          },
+          {
+            "hex": "#998778",
+            "share": 0.136
+          },
+          {
+            "hex": "#524443",
+            "share": 0.095
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.396
+      },
+      {
+        "hex": "#f3f3f3",
+        "share": 0.225
+      },
+      {
+        "hex": "#c7c7c7",
+        "share": 0.202
+      },
+      {
+        "hex": "#848484",
+        "share": 0.1
+      },
+      {
+        "hex": "#4b4d4d",
+        "share": 0.077
+      }
+    ],
+    "strongest": null
+  }
+}

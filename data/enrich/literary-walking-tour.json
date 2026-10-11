@@ -1,0 +1,478 @@
+{
+  "id": "literary-walking-tour",
+  "name": "Literary Walking Tour",
+  "lat": 55.9472,
+  "lng": -3.1956,
+  "enrichedAt": "2026-10-11T01:21:30.186Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9472&lon=-3.1956&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.17
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.19
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.31
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.33
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.34
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.38
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.41
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.42
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.53
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.55
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.6
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.14
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1.17
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.39
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.45
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.59
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.13
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.18
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 4.02
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.11
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.57
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.2
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.2
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.3
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.3
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.4
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.4
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.4
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.5
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.6
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.6
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.1
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1.2
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.4
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.5
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.6
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.1
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.2
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 4
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.1
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.6
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 12.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Edinburgh Literary Pub Tour — Burns, Stevenson, Rankin. Starts Grassmarket.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "literary"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/literary-walking-tour/own-literary-walking-tour.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/literary-walking-tour.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#48504a",
+            "share": 0.263
+          },
+          {
+            "hex": "#64a7ef",
+            "share": 0.259
+          },
+          {
+            "hex": "#d9ccc6",
+            "share": 0.175
+          },
+          {
+            "hex": "#152220",
+            "share": 0.17
+          },
+          {
+            "hex": "#7f7968",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#64a7ef"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/literary-walking-tour/commons-1.jpg",
+      "title": "File:Edinburgh Festival fireworks 2009 Force Field (3894240033).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Festival_fireworks_2009_Force_Field_(3894240033).jpg",
+      "author": "subberculture",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2272,
+      "height": 1704,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#060605",
+            "share": 0.483
+          },
+          {
+            "hex": "#110f0e",
+            "share": 0.278
+          },
+          {
+            "hex": "#2a2639",
+            "share": 0.109
+          },
+          {
+            "hex": "#5c557c",
+            "share": 0.066
+          },
+          {
+            "hex": "#c6bcd2",
+            "share": 0.063
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/literary-walking-tour/commons-2.jpg",
+      "title": "File:Edinburgh Festival fireworks 2009 Ba-doosh! (3894236281).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Festival_fireworks_2009_Ba-doosh!_(3894236281).jpg",
+      "author": "subberculture",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2272,
+      "height": 1704,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eef3f0",
+            "share": 0.249
+          },
+          {
+            "hex": "#b4d7cb",
+            "share": 0.217
+          },
+          {
+            "hex": "#22332a",
+            "share": 0.202
+          },
+          {
+            "hex": "#7eab9d",
+            "share": 0.183
+          },
+          {
+            "hex": "#4a7666",
+            "share": 0.148
+          }
+        ],
+        "strongest": "#b4d7cb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/literary-walking-tour/commons-3.jpg",
+      "title": "File:Edinburgh Festival fireworks 2009 Windish (3894234961).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Festival_fireworks_2009_Windish_(3894234961).jpg",
+      "author": "subberculture",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2272,
+      "height": 1704,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#040404",
+            "share": 0.654
+          },
+          {
+            "hex": "#101010",
+            "share": 0.12
+          },
+          {
+            "hex": "#756b72",
+            "share": 0.08
+          },
+          {
+            "hex": "#3c373a",
+            "share": 0.074
+          },
+          {
+            "hex": "#c7b8b6",
+            "share": 0.071
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/literary-walking-tour/commons-4.jpg",
+      "title": "File:Edinburgh Festival fireworks 2009 Big Blue (3895025798).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Festival_fireworks_2009_Big_Blue_(3895025798).jpg",
+      "author": "subberculture",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2272,
+      "height": 1704,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#080807",
+            "share": 0.505
+          },
+          {
+            "hex": "#030303",
+            "share": 0.294
+          },
+          {
+            "hex": "#1d171a",
+            "share": 0.098
+          },
+          {
+            "hex": "#4c2d30",
+            "share": 0.088
+          },
+          {
+            "hex": "#937f82",
+            "share": 0.016
+          }
+        ],
+        "strongest": "#4c2d30"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:The Castle at night from the Grassmarket - geograph.org.uk - 3452401.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#48504a",
+        "share": 0.263
+      },
+      {
+        "hex": "#64a7ef",
+        "share": 0.259
+      },
+      {
+        "hex": "#d9ccc6",
+        "share": 0.175
+      },
+      {
+        "hex": "#152220",
+        "share": 0.17
+      },
+      {
+        "hex": "#7f7968",
+        "share": 0.134
+      }
+    ],
+    "strongest": "#64a7ef"
+  }
+}

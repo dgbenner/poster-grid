@@ -1,0 +1,311 @@
+{
+  "id": "berlin-street-chess",
+  "name": "Berlin Street Chess",
+  "lat": 52.52,
+  "lng": 13.405,
+  "enrichedAt": "2026-10-11T01:21:40.044Z",
+  "place": {
+    "town": "Berlin",
+    "locality": "Mitte",
+    "county": "Berlin",
+    "adminArea": null,
+    "region": null,
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.52&lon=13.405&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Mitte, Berlin, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "boltanski-missing-house",
+        "name": "Boltanski, The Missing House",
+        "km": 0.67
+      },
+      {
+        "id": "brandenburg-gate",
+        "name": "Brandenburg Gate",
+        "km": 1.89
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 1.98
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "boltanski-missing-house",
+        "name": "Boltanski, The Missing House",
+        "km": 0.7
+      },
+      {
+        "id": "brandenburg-gate",
+        "name": "Brandenburg Gate",
+        "km": 1.9
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 2
+      },
+      {
+        "id": "umlauftank-2-circulating-tank",
+        "name": "Umlauftank 2 (Circulating Tank)",
+        "km": 5.4
+      },
+      {
+        "id": "erholungspark-marzahn-chinese-garden",
+        "name": "Erholungspark Marzahn — Chinese Garden",
+        "km": 11.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Berlin",
+      "description": "Capital and largest city of Germany",
+      "extract": "Berlin is the capital and largest city of Germany. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union (EU). The metropolis is also one of the states of Germany, being the third-smallest state in the country by area. Berlin is surrounded by the state of Brandenburg, bordering Brandenburg's capital Potsdam to the southwest. The urban area of Berlin has a population of 4.5 million, making it the second most populous in Germany after the Ruhr. The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's second-largest metropolitan region after the Rhine-Ruhr region, as well as the fifth-biggest metropolitan region by GDP in the EU. Berlin is a global city of culture, politics, media and science.",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "km": 0,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/3840px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Berlin",
+      "description": "Capital and largest city of Germany",
+      "extract": "Berlin is the capital and largest city of Germany. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union (EU). The metropolis is also one of the states of Germany, being the third-smallest state in the country by area. Berlin is surrounded by the state of Brandenburg, bordering Brandenburg's capital Potsdam to the southwest. The urban area of Berlin has a population of 4.5 million, making it the second most populous in Germany after the Ruhr. The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's second-largest metropolitan region after the Rhine-Ruhr region, as well as the fifth-biggest metropolitan region by GDP in the EU. Berlin is a global city of culture, politics, media and science.",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/3840px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The open-air chess scene.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "chess"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/berlin-street-chess/own-berlin-street-chess.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/berlin-street-chess.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.407
+          },
+          {
+            "hex": "#737172",
+            "share": 0.193
+          },
+          {
+            "hex": "#2b2b2c",
+            "share": 0.149
+          },
+          {
+            "hex": "#49484a",
+            "share": 0.131
+          },
+          {
+            "hex": "#aba7a7",
+            "share": 0.12
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/berlin-street-chess/commons-1.jpg",
+      "title": "File:Museumsinsel Berlin Juli 2021 1 (cropped) b.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped)_b.jpg",
+      "author": "File:Museumsinsel Berlin Juli 2021 1 (cropped).jpg: Kasa Fue derivative work: Georgfotoart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5464,
+      "height": 3186,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#556f87",
+            "share": 0.247
+          },
+          {
+            "hex": "#434d59",
+            "share": 0.233
+          },
+          {
+            "hex": "#c0d6e8",
+            "share": 0.23
+          },
+          {
+            "hex": "#1f292c",
+            "share": 0.181
+          },
+          {
+            "hex": "#8a9daf",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#c0d6e8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/berlin-street-chess/commons-2.jpg",
+      "title": "File:150418 Konzerthaus Berlin Gendarmenmarkt.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg",
+      "author": "Ansgar Koreng",
+      "license": "CC BY 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+      "width": 5462,
+      "height": 3641,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3683d1",
+            "share": 0.258
+          },
+          {
+            "hex": "#3e4c61",
+            "share": 0.24
+          },
+          {
+            "hex": "#c1b09c",
+            "share": 0.2
+          },
+          {
+            "hex": "#8b8279",
+            "share": 0.161
+          },
+          {
+            "hex": "#5b9bdc",
+            "share": 0.141
+          }
+        ],
+        "strongest": "#3683d1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/berlin-street-chess/commons-3.jpg",
+      "title": "File:16-07-04-Abflug-Berlin-DSC 0122.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:16-07-04-Abflug-Berlin-DSC_0122.jpg",
+      "author": "Ralf Roletschek",
+      "license": "CC BY-SA 3.0 at",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#736967",
+            "share": 0.248
+          },
+          {
+            "hex": "#41454a",
+            "share": 0.232
+          },
+          {
+            "hex": "#5d5859",
+            "share": 0.229
+          },
+          {
+            "hex": "#907b71",
+            "share": 0.154
+          },
+          {
+            "hex": "#29343b",
+            "share": 0.137
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/berlin-street-chess/commons-4.jpg",
+      "title": "File:Berlin, Mitte, Behrenstrasse, Berliner Bank 05.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Behrenstrasse,_Berliner_Bank_05.jpg",
+      "author": "Jörg Zägel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2664,
+      "height": 2270,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c7273",
+            "share": 0.238
+          },
+          {
+            "hex": "#4784cc",
+            "share": 0.227
+          },
+          {
+            "hex": "#a2a49f",
+            "share": 0.225
+          },
+          {
+            "hex": "#d1d0ca",
+            "share": 0.177
+          },
+          {
+            "hex": "#373e40",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#4784cc"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.407
+      },
+      {
+        "hex": "#737172",
+        "share": 0.193
+      },
+      {
+        "hex": "#2b2b2c",
+        "share": 0.149
+      },
+      {
+        "hex": "#49484a",
+        "share": 0.131
+      },
+      {
+        "hex": "#aba7a7",
+        "share": 0.12
+      }
+    ],
+    "strongest": null
+  }
+}

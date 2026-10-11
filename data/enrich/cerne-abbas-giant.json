@@ -1,0 +1,302 @@
+{
+  "id": "cerne-abbas-giant",
+  "name": "Cerne Abbas Giant",
+  "lat": 50.8136679,
+  "lng": -2.4748234,
+  "enrichedAt": "2026-10-11T01:21:45.767Z",
+  "place": {
+    "town": "Cerne Abbas",
+    "locality": "Cerne Abbas",
+    "county": "Dorset",
+    "adminArea": "Dorset",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.8136679&lon=-2.4748234&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cerne Abbas, Dorset, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Cerne Abbas Giant",
+      "description": "Hill figure near Cerne Abbas in Dorset",
+      "extract": "The Cerne Abbas Giant, or Cerne Giant, is a hill figure near the village of Cerne Abbas, in Dorset, England. It is currently owned by the National Trust, and listed as a scheduled monument of England. Measuring 55 metres (180 ft) in length, the hill figure depicts a bald, nude male with a prominent erection, holding his left hand out to the side and wielding a large club in his right hand. Like many other hill figures, the Cerne Giant is formed by shallow trenches cut into the turf and backfilled with chalk rubble.",
+      "url": "https://en.wikipedia.org/wiki/Cerne_Abbas_Giant",
+      "coordinates": {
+        "lat": 50.813676,
+        "lng": -2.4747
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Cerne Abbas",
+      "description": "Village in Dorset, England",
+      "extract": "Cerne Abbas is a village and civil parish in Dorset in southern England. It lies in the Dorset Council administrative area in the Cerne Valley in the Dorset Downs. The village lies just east of the A352 road 10 km (6 mi) north of Dorchester. At the 2021 census, the parish had a population of 858.",
+      "url": "https://en.wikipedia.org/wiki/Cerne_Abbas",
+      "coordinates": {
+        "lat": 50.8095,
+        "lng": -2.481
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cerne_Abbas_church_and_Royal_Oak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Giant chalk hill figure cut into a Dorset hillside, possibly of Saxon or later origin.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/cerne-abbas-giant/own-cerne-abbas-giant.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/cerne-abbas-giant.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5e6f53",
+            "share": 0.313
+          },
+          {
+            "hex": "#728766",
+            "share": 0.253
+          },
+          {
+            "hex": "#8fa282",
+            "share": 0.184
+          },
+          {
+            "hex": "#4a5b45",
+            "share": 0.158
+          },
+          {
+            "hex": "#adc39a",
+            "share": 0.091
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cerne-abbas-giant/commons-1.jpg",
+      "title": "File:The Cerne Abbas Giant - 004.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Cerne_Abbas_Giant_-_004.jpg",
+      "author": "PeteHarlow",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1408,
+      "height": 928,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#94a292",
+            "share": 0.334
+          },
+          {
+            "hex": "#728b78",
+            "share": 0.256
+          },
+          {
+            "hex": "#aac3ad",
+            "share": 0.189
+          },
+          {
+            "hex": "#406e60",
+            "share": 0.128
+          },
+          {
+            "hex": "#113f42",
+            "share": 0.093
+          }
+        ],
+        "strongest": "#113f42"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cerne-abbas-giant/commons-2.jpg",
+      "title": "File:The Cerne Abbas Giant - 012.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Cerne_Abbas_Giant_-_012.jpg",
+      "author": "PeteHarlow",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1280,
+      "height": 1024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#79866f",
+            "share": 0.273
+          },
+          {
+            "hex": "#99aa90",
+            "share": 0.271
+          },
+          {
+            "hex": "#5b644f",
+            "share": 0.184
+          },
+          {
+            "hex": "#bdcab0",
+            "share": 0.164
+          },
+          {
+            "hex": "#21282a",
+            "share": 0.108
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cerne-abbas-giant/commons-3.jpg",
+      "title": "File:The Cerne Abbas Giant - 007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Cerne_Abbas_Giant_-_007.jpg",
+      "author": "PeteHarlow",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1408,
+      "height": 928,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#93a490",
+            "share": 0.265
+          },
+          {
+            "hex": "#4a645c",
+            "share": 0.256
+          },
+          {
+            "hex": "#6b8677",
+            "share": 0.239
+          },
+          {
+            "hex": "#b2c2af",
+            "share": 0.132
+          },
+          {
+            "hex": "#22363e",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#22363e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cerne-abbas-giant/commons-4.jpg",
+      "title": "File:The Cerne Abbas Giant - 006.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Cerne_Abbas_Giant_-_006.jpg",
+      "author": "PeteHarlow",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1408,
+      "height": 928,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#899e84",
+            "share": 0.332
+          },
+          {
+            "hex": "#6e8a6d",
+            "share": 0.261
+          },
+          {
+            "hex": "#4c6d54",
+            "share": 0.154
+          },
+          {
+            "hex": "#164133",
+            "share": 0.134
+          },
+          {
+            "hex": "#a6c09c",
+            "share": 0.12
+          }
+        ],
+        "strongest": "#164133"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Cerne-abbas-giant-1764.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cerne-abbas-giant-1842.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cerne-abbas-giant-1891-ordnance-survey.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cerne-abbas-giant-1892-plenderleath.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cerne-abbas-giant-2001-cropped.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cerne Abbas Giant's phallus.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cerne Abbas Giant Renovation (10) - geograph.org.uk - 970091.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cerne Giant at Cerne Abbas - geograph.org.uk - 1593650.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5e6f53",
+        "share": 0.313
+      },
+      {
+        "hex": "#728766",
+        "share": 0.253
+      },
+      {
+        "hex": "#8fa282",
+        "share": 0.184
+      },
+      {
+        "hex": "#4a5b45",
+        "share": 0.158
+      },
+      {
+        "hex": "#adc39a",
+        "share": 0.091
+      }
+    ],
+    "strongest": null
+  }
+}

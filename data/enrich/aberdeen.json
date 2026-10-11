@@ -1,0 +1,265 @@
+{
+  "id": "aberdeen",
+  "name": "Aberdeen",
+  "lat": 57.1497,
+  "lng": -2.0943,
+  "enrichedAt": "2026-10-11T01:21:34.087Z",
+  "place": {
+    "town": "Aberdeen City",
+    "locality": "City Centre",
+    "county": "Aberdeen City",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=57.1497&lon=-2.0943&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "City Centre, Aberdeen City, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Aberdeen",
+      "description": "Third most populous city of Scotland",
+      "extract": "Aberdeen is a port city in North East Scotland, and is the third most populous Scottish city. Historically, Aberdeen was within the historic county of Aberdeenshire, but is now separate from the council area of Aberdeenshire. Aberdeen City Council is one of Scotland's 32 local authorities. Aberdeen has a population of \n198,590 (2020) for the main urban area and \n220,690 (2020) for the wider settlement including outlying localities, making it the United Kingdom's 39th most populous built-up area. Aberdeen has a long, sandy coastline and features an oceanic climate, with cool summers and mild, rainy winters.",
+      "url": "https://en.wikipedia.org/wiki/Aberdeen",
+      "coordinates": {
+        "lat": 57.15,
+        "lng": -2.11
+      },
+      "km": 0.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%2B_%22Silver_City%22_wird_Aberdeen_wegen_seiner_vielen_Granitgeb%C3%A4ude_genannt._07.jpg/3840px-%2B_%22Silver_City%22_wird_Aberdeen_wegen_seiner_vielen_Granitgeb%C3%A4ude_genannt._07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The Granite City — Old Aberdeen, the harbour, gateway to Royal Deeside.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/aberdeen/own-aberdeen.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/aberdeen.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9d9e95",
+            "share": 0.288
+          },
+          {
+            "hex": "#404646",
+            "share": 0.185
+          },
+          {
+            "hex": "#7795c6",
+            "share": 0.181
+          },
+          {
+            "hex": "#70756a",
+            "share": 0.177
+          },
+          {
+            "hex": "#bcc9db",
+            "share": 0.169
+          }
+        ],
+        "strongest": "#7795c6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/aberdeen/commons-1.jpg",
+      "title": "File:+ \"Silver City\" wird Aberdeen wegen seiner vielen Granitgebäude genannt. 07.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%2B_%22Silver_City%22_wird_Aberdeen_wegen_seiner_vielen_Granitgeb%C3%A4ude_genannt._07.jpg",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5798,
+      "height": 3450,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e8f84",
+            "share": 0.29
+          },
+          {
+            "hex": "#a3b0be",
+            "share": 0.281
+          },
+          {
+            "hex": "#49504d",
+            "share": 0.263
+          },
+          {
+            "hex": "#6186c4",
+            "share": 0.1
+          },
+          {
+            "hex": "#d6e2ef",
+            "share": 0.066
+          }
+        ],
+        "strongest": "#6186c4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/aberdeen/commons-2.jpg",
+      "title": "File:+ \"Silver City\" wird Aberdeen wegen seiner vielen Granitgebäude genannt. 07.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%2B_%22Silver_City%22_wird_Aberdeen_wegen_seiner_vielen_Granitgeb%C3%A4ude_genannt._07.jpg",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5798,
+      "height": 3450,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e8f84",
+            "share": 0.29
+          },
+          {
+            "hex": "#a3b0be",
+            "share": 0.281
+          },
+          {
+            "hex": "#49504d",
+            "share": 0.263
+          },
+          {
+            "hex": "#6186c4",
+            "share": 0.1
+          },
+          {
+            "hex": "#d6e2ef",
+            "share": 0.066
+          }
+        ],
+        "strongest": "#6186c4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/aberdeen/commons-3.jpg",
+      "title": "File:07 25 and an almost Deserted Union Street Aberdeen , Bar 1 Van ...... Never ever seen it this Deserted even @ 4am drunk.... (49738301873).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:07_25_and_an_almost_Deserted_Union_Street_Aberdeen_,_Bar_1_Van_......_Never_ever_seen_it_this_Deserted_even_@_4am_drunk...._(49738301873).jpg",
+      "author": "Rab Lawrence from Aberdeen/Scotland",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 8256,
+      "height": 5504,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1f3e58",
+            "share": 0.291
+          },
+          {
+            "hex": "#f9f8f5",
+            "share": 0.269
+          },
+          {
+            "hex": "#455f76",
+            "share": 0.178
+          },
+          {
+            "hex": "#0e1d2b",
+            "share": 0.158
+          },
+          {
+            "hex": "#7c8e9c",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#1f3e58"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/aberdeen/commons-4.jpg",
+      "title": "File:Aberdeen Airport terminal close up 23-03-11.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Aberdeen_Airport_terminal_close_up_23-03-11.JPG",
+      "author": "Gregory Deryckère",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#898783",
+            "share": 0.322
+          },
+          {
+            "hex": "#615e5b",
+            "share": 0.195
+          },
+          {
+            "hex": "#94a6c2",
+            "share": 0.194
+          },
+          {
+            "hex": "#332f2f",
+            "share": 0.147
+          },
+          {
+            "hex": "#bac4d6",
+            "share": 0.142
+          }
+        ],
+        "strongest": "#94a6c2"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Aberdeen, Union Street, Tram 9.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Aberdeen, the Town House - geograph.org.uk - 3831834.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#9d9e95",
+        "share": 0.288
+      },
+      {
+        "hex": "#404646",
+        "share": 0.185
+      },
+      {
+        "hex": "#7795c6",
+        "share": 0.181
+      },
+      {
+        "hex": "#70756a",
+        "share": 0.177
+      },
+      {
+        "hex": "#bcc9db",
+        "share": 0.169
+      }
+    ],
+    "strongest": "#7795c6"
+  }
+}

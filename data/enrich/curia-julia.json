@@ -1,0 +1,351 @@
+{
+  "id": "curia-julia",
+  "name": "Curia Julia",
+  "lat": 41.8929598,
+  "lng": 12.4853978,
+  "enrichedAt": "2026-10-11T01:21:47.236Z",
+  "place": {
+    "town": "Rome",
+    "locality": "Municipio Roma I",
+    "county": "Roma Capitale",
+    "adminArea": "Roma Capitale",
+    "region": "Lazio",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.8929598&lon=12.4853978&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Campitelli, Municipio Roma I, Rome, Roma Capitale, Lazio, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 0.76
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 0.82
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 0.94
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.94
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2.42
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 2.54
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 2.79
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 2.8
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 2.81
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 3.03
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 3.03
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 0.8
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 0.8
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 0.9
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.9
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Curia Julia",
+      "description": "Ancient Roman senate house",
+      "extract": "The Curia Julia is the third named curia, or senate house, in the ancient city of Rome. It was built in 44 BC, when Julius Caesar replaced Faustus Cornelius Sulla's reconstructed Curia Cornelia, which had replaced the Curia Hostilia. Caesar did so to redesign both spaces within the Comitium and the Roman Forum. The alterations within the Comitium reduced the prominence of the Senate and cleared the original space.",
+      "url": "https://en.wikipedia.org/wiki/Curia_Julia",
+      "coordinates": {
+        "lat": 41.8929,
+        "lng": 12.4854
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/00/Curia_Iulia_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Rome",
+      "description": "Capital and largest city of Italy",
+      "extract": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country within Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church.",
+      "url": "https://en.wikipedia.org/wiki/Rome",
+      "coordinates": {
+        "lat": 41.89333333,
+        "lng": 12.48277778
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ancient Roman Senate house in the Roman Forum, remarkably well-preserved near the Arch of Septimius Severus.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/curia-julia/own-curia-julia.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/curia-julia.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b9b498",
+            "share": 0.258
+          },
+          {
+            "hex": "#473f32",
+            "share": 0.224
+          },
+          {
+            "hex": "#827c6f",
+            "share": 0.213
+          },
+          {
+            "hex": "#b5c6c6",
+            "share": 0.18
+          },
+          {
+            "hex": "#c8d6d6",
+            "share": 0.124
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/curia-julia/commons-1.jpg",
+      "title": "File:Curia Julia LFO 05.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Curia_Julia_LFO_05.jpg",
+      "author": "Luistxo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1c1c1f",
+            "share": 0.281
+          },
+          {
+            "hex": "#585652",
+            "share": 0.222
+          },
+          {
+            "hex": "#8e867a",
+            "share": 0.221
+          },
+          {
+            "hex": "#2e2d2d",
+            "share": 0.177
+          },
+          {
+            "hex": "#ddd7cd",
+            "share": 0.098
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/curia-julia/commons-2.jpg",
+      "title": "File:Facade of Curia Julia - Rome 2016.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Facade_of_Curia_Julia_-_Rome_2016.jpg",
+      "author": "José Luiz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3456,
+      "height": 5184,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2d2823",
+            "share": 0.265
+          },
+          {
+            "hex": "#7092cf",
+            "share": 0.259
+          },
+          {
+            "hex": "#d6d0c8",
+            "share": 0.219
+          },
+          {
+            "hex": "#6b655d",
+            "share": 0.169
+          },
+          {
+            "hex": "#a69f93",
+            "share": 0.088
+          }
+        ],
+        "strongest": "#7092cf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/curia-julia/commons-3.jpg",
+      "title": "File:Curia Julia LFO 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Curia_Julia_LFO_01.jpg",
+      "author": "Luistxo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2a272c",
+            "share": 0.251
+          },
+          {
+            "hex": "#474245",
+            "share": 0.232
+          },
+          {
+            "hex": "#d3cdca",
+            "share": 0.221
+          },
+          {
+            "hex": "#aba29c",
+            "share": 0.187
+          },
+          {
+            "hex": "#7a7472",
+            "share": 0.109
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/curia-julia/commons-4.jpg",
+      "title": "File:Curia Julia (15051736808).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Curia_Julia_(15051736808).jpg",
+      "author": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b3ac9f",
+            "share": 0.318
+          },
+          {
+            "hex": "#15191b",
+            "share": 0.299
+          },
+          {
+            "hex": "#6f6a5d",
+            "share": 0.16
+          },
+          {
+            "hex": "#568dd2",
+            "share": 0.126
+          },
+          {
+            "hex": "#6fa7e7",
+            "share": 0.098
+          }
+        ],
+        "strongest": "#6fa7e7"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#b9b498",
+        "share": 0.258
+      },
+      {
+        "hex": "#473f32",
+        "share": 0.224
+      },
+      {
+        "hex": "#827c6f",
+        "share": 0.213
+      },
+      {
+        "hex": "#b5c6c6",
+        "share": 0.18
+      },
+      {
+        "hex": "#c8d6d6",
+        "share": 0.124
+      }
+    ],
+    "strongest": null
+  }
+}

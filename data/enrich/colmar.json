@@ -1,0 +1,269 @@
+{
+  "id": "colmar",
+  "name": "Colmar (Alsace)",
+  "lat": 48.0794,
+  "lng": 7.3585,
+  "enrichedAt": "2026-10-11T01:21:41.452Z",
+  "place": {
+    "town": "Colmar",
+    "locality": null,
+    "county": "Haut-Rhin",
+    "adminArea": "Haut-Rhin",
+    "region": "Grand Est",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.0794&lon=7.3585&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Colmar, Colmar-Ribeauvillé, Haut-Rhin, European Collectivity of Alsace, Grand Est, Metropolitan France, 68000, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Colmar",
+      "description": "City in Alsace, France",
+      "extract": "Colmar is a city and commune in the Haut-Rhin department and Alsace region of north-eastern France. The third-largest commune in Alsace, it is the seat of the prefecture of the Haut-Rhin department and of the subprefecture of the Colmar-Ribeauvillé arrondissement.",
+      "url": "https://en.wikipedia.org/wiki/Colmar",
+      "coordinates": {
+        "lat": 48.0817,
+        "lng": 7.3556
+      },
+      "km": 0.3,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/View_of_%C3%89glise_Saint-Martin_%2843833049001%29.jpg/3840px-View_of_%C3%89glise_Saint-Martin_%2843833049001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Colmar",
+      "description": "City in Alsace, France",
+      "extract": "Colmar is a city and commune in the Haut-Rhin department and Alsace region of north-eastern France. The third-largest commune in Alsace, it is the seat of the prefecture of the Haut-Rhin department and of the subprefecture of the Colmar-Ribeauvillé arrondissement.",
+      "url": "https://en.wikipedia.org/wiki/Colmar",
+      "coordinates": {
+        "lat": 48.0817,
+        "lng": 7.3556
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/View_of_%C3%89glise_Saint-Martin_%2843833049001%29.jpg/3840px-View_of_%C3%89glise_Saint-Martin_%2843833049001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Storybook half-timbered town.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/colmar/own-colmar.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/colmar.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#020202",
+            "share": 0.315
+          },
+          {
+            "hex": "#393131",
+            "share": 0.202
+          },
+          {
+            "hex": "#635657",
+            "share": 0.189
+          },
+          {
+            "hex": "#968380",
+            "share": 0.171
+          },
+          {
+            "hex": "#e2bc9f",
+            "share": 0.122
+          }
+        ],
+        "strongest": "#e2bc9f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/colmar/commons-1.jpg",
+      "title": "File:View of Église Saint-Martin (43833049001).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_%C3%89glise_Saint-Martin_(43833049001).jpg",
+      "author": "--sinava-- from Berlin",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5463,
+      "height": 3915,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f574c",
+            "share": 0.278
+          },
+          {
+            "hex": "#3d361f",
+            "share": 0.247
+          },
+          {
+            "hex": "#867979",
+            "share": 0.242
+          },
+          {
+            "hex": "#27b2f7",
+            "share": 0.136
+          },
+          {
+            "hex": "#c1a99c",
+            "share": 0.098
+          }
+        ],
+        "strongest": "#27b2f7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/colmar/commons-2.jpg",
+      "title": "File:''The Little Vintner of Colmar'' by Frédéric Auguste Bartholdi (Princeton replica).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%27%27The_Little_Vintner_of_Colmar%27%27_by_Fr%C3%A9d%C3%A9ric_Auguste_Bartholdi_(Princeton_replica).jpg",
+      "author": "Djkeddie",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2448,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b1aba4",
+            "share": 0.288
+          },
+          {
+            "hex": "#949183",
+            "share": 0.275
+          },
+          {
+            "hex": "#6e7864",
+            "share": 0.246
+          },
+          {
+            "hex": "#cbcac5",
+            "share": 0.105
+          },
+          {
+            "hex": "#424944",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/colmar/commons-3.jpg",
+      "title": "File:Château d'eau, Colmar.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27eau,_Colmar.jpg",
+      "author": "Russ Bowling from USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2304,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e3edf7",
+            "share": 0.242
+          },
+          {
+            "hex": "#624d2b",
+            "share": 0.22
+          },
+          {
+            "hex": "#8b6f62",
+            "share": 0.192
+          },
+          {
+            "hex": "#373817",
+            "share": 0.178
+          },
+          {
+            "hex": "#aea3a2",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#624d2b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/colmar/commons-4.jpg",
+      "title": "File:Colmar (31617330537).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Colmar_(31617330537).jpg",
+      "author": "Jorge Franganillo from Barcelona, Spain",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4512,
+      "height": 3008,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7c6e5a",
+            "share": 0.322
+          },
+          {
+            "hex": "#5b4f3f",
+            "share": 0.286
+          },
+          {
+            "hex": "#a6947e",
+            "share": 0.173
+          },
+          {
+            "hex": "#362f25",
+            "share": 0.158
+          },
+          {
+            "hex": "#f1f4f6",
+            "share": 0.061
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#020202",
+        "share": 0.315
+      },
+      {
+        "hex": "#393131",
+        "share": 0.202
+      },
+      {
+        "hex": "#635657",
+        "share": 0.189
+      },
+      {
+        "hex": "#968380",
+        "share": 0.171
+      },
+      {
+        "hex": "#e2bc9f",
+        "share": 0.122
+      }
+    ],
+    "strongest": "#e2bc9f"
+  }
+}

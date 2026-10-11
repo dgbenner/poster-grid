@@ -1,0 +1,455 @@
+{
+  "id": "puddles-paris-1",
+  "name": "Puddles in Paris",
+  "lat": 48.8566,
+  "lng": 2.3522,
+  "enrichedAt": "2026-10-11T01:21:40.947Z",
+  "place": {
+    "town": "Paris",
+    "locality": "4th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8566&lon=2.3522&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier Saint-Merri, 4th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75004, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 0.75
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.16
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.16
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 1.91
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 1.91
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 2.27
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 2.31
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 2.36
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 2.67
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 2.95
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 3.05
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 3.06
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 3.39
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.72
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 4.23
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 0.8
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.2
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.2
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 1.9
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 1.9
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 2.3
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 2.3
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 2.4
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 2.7
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 2.9
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 3
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 3.1
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 3.4
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.7
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 4.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 0,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Your reflection-photography series; Haussmann façades and figures mirrored in rain.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/puddles-paris-1/own-puddles-paris-1.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/puddles-paris-1.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010100",
+            "share": 0.41
+          },
+          {
+            "hex": "#cdbd9d",
+            "share": 0.162
+          },
+          {
+            "hex": "#605343",
+            "share": 0.156
+          },
+          {
+            "hex": "#96876e",
+            "share": 0.137
+          },
+          {
+            "hex": "#34271f",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#cdbd9d"
+      }
+    },
+    {
+      "kind": "personal",
+      "file": "data/images/puddles-paris-1/own-puddles-paris-2.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/puddles-paris-2.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ababac",
+            "share": 0.264
+          },
+          {
+            "hex": "#bdbdbf",
+            "share": 0.241
+          },
+          {
+            "hex": "#7d7c7c",
+            "share": 0.232
+          },
+          {
+            "hex": "#959595",
+            "share": 0.222
+          },
+          {
+            "hex": "#0f0c0c",
+            "share": 0.041
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/puddles-paris-1/commons-1.jpg",
+      "title": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
+      "author": "Yann Caradec from Paris, France",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4592,
+      "height": 2870,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c7d5e8",
+            "share": 0.262
+          },
+          {
+            "hex": "#7d8a9b",
+            "share": 0.216
+          },
+          {
+            "hex": "#56616c",
+            "share": 0.197
+          },
+          {
+            "hex": "#a3b9d3",
+            "share": 0.19
+          },
+          {
+            "hex": "#2c393e",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#c7d5e8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/puddles-paris-1/commons-2.jpg",
+      "title": "File:Basilique du Sacré-Cœur de Montmartre, Paris 18e 140223 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre,_Paris_18e_140223_2.jpg",
+      "author": "DXR",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4394,
+      "height": 5492,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#275983",
+            "share": 0.275
+          },
+          {
+            "hex": "#888a89",
+            "share": 0.227
+          },
+          {
+            "hex": "#bab6ae",
+            "share": 0.223
+          },
+          {
+            "hex": "#487298",
+            "share": 0.158
+          },
+          {
+            "hex": "#4d4c49",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#275983"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/puddles-paris-1/commons-3.jpg",
+      "title": "File:Boulevard Périphérique vu depuis Boulevard Auteuil - Paris XVI (FR75) - 2021-08-11 - 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Boulevard_P%C3%A9riph%C3%A9rique_vu_depuis_Boulevard_Auteuil_-_Paris_XVI_(FR75)_-_2021-08-11_-_3.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a7a09f",
+            "share": 0.273
+          },
+          {
+            "hex": "#51564a",
+            "share": 0.203
+          },
+          {
+            "hex": "#262d27",
+            "share": 0.194
+          },
+          {
+            "hex": "#80807f",
+            "share": 0.191
+          },
+          {
+            "hex": "#9fc7f9",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#9fc7f9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/puddles-paris-1/commons-4.jpg",
+      "title": "File:Catacombes De Paris.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Catacombes_De_Paris.jpg",
+      "author": "albany_tim",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3145,
+      "height": 1975,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#13100d",
+            "share": 0.294
+          },
+          {
+            "hex": "#332911",
+            "share": 0.243
+          },
+          {
+            "hex": "#584915",
+            "share": 0.24
+          },
+          {
+            "hex": "#bdb57b",
+            "share": 0.119
+          },
+          {
+            "hex": "#83732b",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#584915"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010100",
+        "share": 0.41
+      },
+      {
+        "hex": "#cdbd9d",
+        "share": 0.162
+      },
+      {
+        "hex": "#605343",
+        "share": 0.156
+      },
+      {
+        "hex": "#96876e",
+        "share": 0.137
+      },
+      {
+        "hex": "#34271f",
+        "share": 0.135
+      }
+    ],
+    "strongest": "#cdbd9d"
+  }
+}

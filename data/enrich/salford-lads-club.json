@@ -1,0 +1,311 @@
+{
+  "id": "salford-lads-club",
+  "name": "Salford Lads Club",
+  "lat": 53.4793,
+  "lng": -2.2649,
+  "enrichedAt": "2026-10-11T01:21:32.627Z",
+  "place": {
+    "town": "Salford",
+    "locality": "Lower Broughton",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4793&lon=-2.2649&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Blackfriars, Lower Broughton, Salford, Greater Manchester, England, M3 6JH, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 0.68
+      },
+      {
+        "id": "hacienda-site",
+        "name": "Haçienda site",
+        "km": 0.9
+      },
+      {
+        "id": "manchester-bridge",
+        "name": "Manchester Bridge (Joy Division footbridge)",
+        "km": 1.57
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 0.7
+      },
+      {
+        "id": "hacienda-site",
+        "name": "Haçienda site",
+        "km": 0.9
+      },
+      {
+        "id": "manchester-bridge",
+        "name": "Manchester Bridge (Joy Division footbridge)",
+        "km": 1.6
+      },
+      {
+        "id": "southern-cemetery",
+        "name": "Southern Cemetery",
+        "km": 5.6
+      },
+      {
+        "id": "strawberry-studios",
+        "name": "Strawberry Studios",
+        "km": 10.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Salford Lads' Club",
+      "description": "Recreational club in Salford, England",
+      "extract": "Salford Lads' Club is a recreational club in the Ordsall area of Salford, Greater Manchester, England. Located on the corner of St Ignatius Walk and Coronation Street, it was established in 1903 as purpose-built club for boys, but today welcomes people of both sexes and runs a range of activities including sport, and creative and cultural events. The club also receives visitors from around the world on dedicated open days, with merchandise sales helping to support its operation.",
+      "url": "https://en.wikipedia.org/wiki/Salford_Lads'_Club",
+      "coordinates": {
+        "lat": 53.47686944,
+        "lng": -2.27438056
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Club%2C_St_Ignatius_Way%2C_Salford_-_geograph.org.uk_-_7866478.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Salford",
+      "description": "City in Greater Manchester, England",
+      "extract": "Salford is a city in Greater Manchester, England, on the western bank of the River Irwell which forms its boundary with Manchester city centre. Landmarks include the former town hall, Salford Cathedral, Salford Lads' Club and St Philip's Church. In 2021 it had a population of 129,794. The demonym for people from Salford is Salfordian.",
+      "url": "https://en.wikipedia.org/wiki/Salford",
+      "coordinates": {
+        "lat": 53.483,
+        "lng": -2.2931
+      },
+      "km": 1.9,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Manchester_%26_Salford_Skyline_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The Smiths’ Queen Is Dead inner-sleeve doorway.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/salford-lads-club/own-salford-lads-club.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/salford-lads-club.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#875852",
+            "share": 0.33
+          },
+          {
+            "hex": "#c46f5c",
+            "share": 0.312
+          },
+          {
+            "hex": "#3f4238",
+            "share": 0.131
+          },
+          {
+            "hex": "#f9f8fa",
+            "share": 0.126
+          },
+          {
+            "hex": "#9e9397",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#c46f5c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/salford-lads-club/commons-1.jpg",
+      "title": "File:Salford Lads Club (6).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salford_Lads_Club_(6).jpg",
+      "author": "Rept0n1x",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d8dbdb",
+            "share": 0.416
+          },
+          {
+            "hex": "#3e2f28",
+            "share": 0.317
+          },
+          {
+            "hex": "#78412c",
+            "share": 0.147
+          },
+          {
+            "hex": "#d16722",
+            "share": 0.087
+          },
+          {
+            "hex": "#9e9186",
+            "share": 0.033
+          }
+        ],
+        "strongest": "#d16722"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/salford-lads-club/commons-2.jpg",
+      "title": "File:Salford Lads Club (Northwest View - 01).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salford_Lads_Club_(Northwest_View_-_01).jpg",
+      "author": "Doyle of London",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4447,
+      "height": 3273,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fefefe",
+            "share": 0.346
+          },
+          {
+            "hex": "#935545",
+            "share": 0.279
+          },
+          {
+            "hex": "#58463c",
+            "share": 0.21
+          },
+          {
+            "hex": "#867872",
+            "share": 0.142
+          },
+          {
+            "hex": "#bbb6b8",
+            "share": 0.023
+          }
+        ],
+        "strongest": "#935545"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/salford-lads-club/commons-3.jpg",
+      "title": "File:Club, St Ignatius Way, Salford - geograph.org.uk - 7866478.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Club,_St_Ignatius_Way,_Salford_-_geograph.org.uk_-_7866478.jpg",
+      "author": "Stephen Richards",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 687,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fbfbfb",
+            "share": 0.291
+          },
+          {
+            "hex": "#6f3f31",
+            "share": 0.277
+          },
+          {
+            "hex": "#606460",
+            "share": 0.211
+          },
+          {
+            "hex": "#353d20",
+            "share": 0.191
+          },
+          {
+            "hex": "#96999b",
+            "share": 0.03
+          }
+        ],
+        "strongest": "#6f3f31"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/salford-lads-club/commons-4.jpg",
+      "title": "File:Cathedral Church of St John the Evangelist, Salford.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cathedral_Church_of_St_John_the_Evangelist,_Salford.jpg",
+      "author": "Richerman",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2286,
+      "height": 2805,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a513c",
+            "share": 0.218
+          },
+          {
+            "hex": "#6e7a82",
+            "share": 0.21
+          },
+          {
+            "hex": "#93815d",
+            "share": 0.204
+          },
+          {
+            "hex": "#acb6bd",
+            "share": 0.2
+          },
+          {
+            "hex": "#8b9aa9",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#93815d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#875852",
+        "share": 0.33
+      },
+      {
+        "hex": "#c46f5c",
+        "share": 0.312
+      },
+      {
+        "hex": "#3f4238",
+        "share": 0.131
+      },
+      {
+        "hex": "#f9f8fa",
+        "share": 0.126
+      },
+      {
+        "hex": "#9e9397",
+        "share": 0.101
+      }
+    ],
+    "strongest": "#c46f5c"
+  }
+}

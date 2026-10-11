@@ -1,0 +1,466 @@
+{
+  "id": "craigmillar-castle",
+  "name": "Craigmillar Castle",
+  "lat": 55.9292,
+  "lng": -3.138,
+  "enrichedAt": "2026-10-11T01:21:30.275Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Craigmillar",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9292&lon=-3.138&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Craigmillar, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.23
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 3.37
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 3.44
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 3.64
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 3.81
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 3.97
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 3.99
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 4
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 4.02
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 4.04
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 4.11
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 4.19
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 4.2
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 4.29
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 4.32
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 4.42
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 4.43
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.2
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 3.4
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 3.4
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 3.6
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 3.8
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 4
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 4
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 4
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 4
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 4
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 4.1
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 4.2
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 4.2
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 4.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 4.3
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 4.4
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 4.4
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 5.6
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 6
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 6.3
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 8.3
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 16.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Craigmillar Castle",
+      "description": "Castle in City of Edinburgh, Scotland",
+      "extract": "Craigmillar Castle is a ruined medieval castle in Edinburgh, Scotland. It is three miles (4.8 km) south-east of the city centre, on a low hill to the south of the modern suburb of Craigmillar. The Preston family of Craigmillar, the local feudal barons, began building the castle in the late 14th century and building works continued through the 15th and 16th centuries. In 1660, the castle was sold to Sir John Gilmour, Lord President of the Court of Session, who breathed new life into the ageing castle. The Gilmours left Craigmillar in the 18th century for a more modern residence, nearby Inch House, and the castle fell into ruin. It is now in the care of Historic Environment Scotland as a scheduled monument, and is open to the public.",
+      "url": "https://en.wikipedia.org/wiki/Craigmillar_Castle",
+      "coordinates": {
+        "lat": 55.9259,
+        "lng": -3.1406
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Craigmillar_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 4.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Best-preserved medieval castle near the city; Mary, Queen of Scots' bolt-hole.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/craigmillar-castle/own-craigmillar-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/craigmillar-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5485d2",
+            "share": 0.358
+          },
+          {
+            "hex": "#0f1609",
+            "share": 0.199
+          },
+          {
+            "hex": "#9d8b83",
+            "share": 0.172
+          },
+          {
+            "hex": "#5b5a40",
+            "share": 0.16
+          },
+          {
+            "hex": "#9bb5ea",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#5485d2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/craigmillar-castle/commons-1.jpg",
+      "title": "File:Craigmillar Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Craigmillar_Castle.jpg",
+      "author": "Photograph by Stuart Yeates, from en:Flickr",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5485d1",
+            "share": 0.356
+          },
+          {
+            "hex": "#0e1607",
+            "share": 0.198
+          },
+          {
+            "hex": "#9d8b83",
+            "share": 0.173
+          },
+          {
+            "hex": "#5a5a3e",
+            "share": 0.159
+          },
+          {
+            "hex": "#9bb5ea",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#5485d1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/craigmillar-castle/commons-2.jpg",
+      "title": "File:Craigmillar Castle by Thomas Hearne and William Byrne - GMII.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Craigmillar_Castle_by_Thomas_Hearne_and_William_Byrne_-_GMII.jpg",
+      "author": "Thomas Hearne / William Byrne / Adam Cuerden",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 7592,
+      "height": 6160,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c8c2b0",
+            "share": 0.267
+          },
+          {
+            "hex": "#e6dfcc",
+            "share": 0.241
+          },
+          {
+            "hex": "#716a5f",
+            "share": 0.219
+          },
+          {
+            "hex": "#4e4942",
+            "share": 0.149
+          },
+          {
+            "hex": "#968e80",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#e6dfcc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/craigmillar-castle/commons-3.jpg",
+      "title": "File:Craigmillar Castle engraving by William Miller after Turner R546.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Craigmillar_Castle_engraving_by_William_Miller_after_Turner_R546.jpg",
+      "author": "William Miller",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2079,
+      "height": 2564,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f8f8f8",
+            "share": 0.413
+          },
+          {
+            "hex": "#767676",
+            "share": 0.191
+          },
+          {
+            "hex": "#d7d7d7",
+            "share": 0.159
+          },
+          {
+            "hex": "#ababab",
+            "share": 0.12
+          },
+          {
+            "hex": "#3c3c3c",
+            "share": 0.116
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/craigmillar-castle/commons-4.jpg",
+      "title": "File:Craigmillar Castle - panoramio (5).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Craigmillar_Castle_-_panoramio_(5).jpg",
+      "author": "Luca Sironi",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 4896,
+      "height": 3672,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f9fafb",
+            "share": 0.361
+          },
+          {
+            "hex": "#455410",
+            "share": 0.341
+          },
+          {
+            "hex": "#3d3b33",
+            "share": 0.125
+          },
+          {
+            "hex": "#d0d9dc",
+            "share": 0.113
+          },
+          {
+            "hex": "#62605b",
+            "share": 0.06
+          }
+        ],
+        "strongest": "#455410"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5485d2",
+        "share": 0.358
+      },
+      {
+        "hex": "#0f1609",
+        "share": 0.199
+      },
+      {
+        "hex": "#9d8b83",
+        "share": 0.172
+      },
+      {
+        "hex": "#5b5a40",
+        "share": 0.16
+      },
+      {
+        "hex": "#9bb5ea",
+        "share": 0.111
+      }
+    ],
+    "strongest": "#5485d2"
+  }
+}

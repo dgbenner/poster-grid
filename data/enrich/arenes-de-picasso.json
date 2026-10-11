@@ -1,0 +1,286 @@
+{
+  "id": "arenes-de-picasso",
+  "name": "Les Arènes de Picasso, Noisy-le-Grand",
+  "lat": 48.8419,
+  "lng": 2.5462,
+  "enrichedAt": "2026-10-11T01:21:40.854Z",
+  "place": {
+    "town": "Noisy-le-Grand",
+    "locality": "Quartier Ouest",
+    "county": "Seine-Saint-Denis",
+    "adminArea": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8419&lon=2.5462&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier Ouest, Noisy-le-Grand, Le Raincy, Seine-Saint-Denis, Ile-de-France, Metropolitan France, 93160, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "espaces-dabraxas",
+        "name": "Les Espaces d'Abraxas, Noisy-le-Grand",
+        "km": 0.45
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "espaces-dabraxas",
+        "name": "Les Espaces d'Abraxas, Noisy-le-Grand",
+        "km": 0.5
+      },
+      {
+        "id": "fifth-element-cite-du-cinema",
+        "name": "La Cité du Cinéma, Saint-Denis",
+        "km": 17.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Noisy-le-Grand",
+      "description": "Commune in Île-de-France, France",
+      "extract": "Noisy-le-Grand or simply Noisy is a commune in the eastern outer suburbs of Paris, France.",
+      "url": "https://en.wikipedia.org/wiki/Noisy-le-Grand",
+      "coordinates": {
+        "lat": 48.8478,
+        "lng": 2.5528
+      },
+      "km": 0.8,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mairie_Noisy_Grand_24.jpg/3840px-Mairie_Noisy_Grand_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Noisy-le-Grand",
+      "description": "Commune in Île-de-France, France",
+      "extract": "Noisy-le-Grand or simply Noisy is a commune in the eastern outer suburbs of Paris, France.",
+      "url": "https://en.wikipedia.org/wiki/Noisy-le-Grand",
+      "coordinates": {
+        "lat": 48.8478,
+        "lng": 2.5528
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mairie_Noisy_Grand_24.jpg/3840px-Mairie_Noisy_Grand_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Manuel Núñez Yanowsky's disc-shaped social-housing complex, 1984; central sculpture by Miguel Berrocal.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/arenes-de-picasso/own-arenes-de-picasso.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/arenes-de-picasso.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#747a74",
+            "share": 0.34
+          },
+          {
+            "hex": "#57594c",
+            "share": 0.21
+          },
+          {
+            "hex": "#b8b9af",
+            "share": 0.181
+          },
+          {
+            "hex": "#92968e",
+            "share": 0.155
+          },
+          {
+            "hex": "#181d12",
+            "share": 0.114
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arenes-de-picasso/commons-1.jpg",
+      "title": "File:Mairie Noisy Grand 24.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mairie_Noisy_Grand_24.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4886,
+      "height": 4030,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#52535c",
+            "share": 0.336
+          },
+          {
+            "hex": "#72aef8",
+            "share": 0.291
+          },
+          {
+            "hex": "#888684",
+            "share": 0.195
+          },
+          {
+            "hex": "#2b3034",
+            "share": 0.096
+          },
+          {
+            "hex": "#bbced9",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#72aef8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arenes-de-picasso/commons-2.jpg",
+      "title": "File:Arenes Picasso Noisy-Le-Grand.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Arenes_Picasso_Noisy-Le-Grand.JPG",
+      "author": "VilleNoisyLeGrand",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5520,
+      "height": 3680,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e5f1fa",
+            "share": 0.291
+          },
+          {
+            "hex": "#6e7171",
+            "share": 0.198
+          },
+          {
+            "hex": "#d3bfaf",
+            "share": 0.195
+          },
+          {
+            "hex": "#999fa0",
+            "share": 0.187
+          },
+          {
+            "hex": "#3e4143",
+            "share": 0.128
+          }
+        ],
+        "strongest": "#d3bfaf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arenes-de-picasso/commons-3.jpg",
+      "title": "File:Mairie Noisy Grand 24.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mairie_Noisy_Grand_24.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4886,
+      "height": 4030,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#52535c",
+            "share": 0.336
+          },
+          {
+            "hex": "#72aef8",
+            "share": 0.291
+          },
+          {
+            "hex": "#888684",
+            "share": 0.195
+          },
+          {
+            "hex": "#2b3034",
+            "share": 0.096
+          },
+          {
+            "hex": "#bbced9",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#72aef8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arenes-de-picasso/commons-4.jpg",
+      "title": "File:Plaque Place Jean Baptiste Clément - Noisy-le-Grand (FR93) - 2021-10-10 - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Plaque_Place_Jean_Baptiste_Cl%C3%A9ment_-_Noisy-le-Grand_(FR93)_-_2021-10-10_-_1.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3238,
+      "height": 1881,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#234c4a",
+            "share": 0.283
+          },
+          {
+            "hex": "#0f3631",
+            "share": 0.271
+          },
+          {
+            "hex": "#cac8b3",
+            "share": 0.186
+          },
+          {
+            "hex": "#949a8f",
+            "share": 0.141
+          },
+          {
+            "hex": "#586e68",
+            "share": 0.118
+          }
+        ],
+        "strongest": "#0f3631"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#747a74",
+        "share": 0.34
+      },
+      {
+        "hex": "#57594c",
+        "share": 0.21
+      },
+      {
+        "hex": "#b8b9af",
+        "share": 0.181
+      },
+      {
+        "hex": "#92968e",
+        "share": 0.155
+      },
+      {
+        "hex": "#181d12",
+        "share": 0.114
+      }
+    ],
+    "strongest": null
+  }
+}

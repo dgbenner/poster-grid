@@ -1,0 +1,265 @@
+{
+  "id": "castello-di-vezio-lake-como",
+  "name": "Castello di Vezio, Lake Como",
+  "lat": 45.9876,
+  "lng": 9.2861,
+  "enrichedAt": "2026-10-11T01:21:44.210Z",
+  "place": {
+    "town": "Varenna",
+    "locality": null,
+    "county": "Lecco",
+    "adminArea": "Lecco",
+    "region": "Lombardy",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.9876&lon=9.2861&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Pino, Varenna, Lecco, Lombardy, 23829, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Castello di Vezio",
+      "description": "Castle in northern Italy",
+      "extract": "Castello di Vezio is a castle located nearby Varenna and Perledo, northern Italy. Characterized in the main tower by square merlons, similar to Cly Castle in Aosta Valley, it commands the Lake Como. It was once connected by walls to the village of Varenna below.",
+      "url": "https://en.wikipedia.org/wiki/Castello_di_Vezio",
+      "coordinates": {
+        "lat": 46.01083333,
+        "lng": 9.28666667
+      },
+      "km": 2.6,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Castillo_de_Vezio%2C_Varenna%2C_Italia%2C_2016-06-25%2C_DD_01.jpg/3840px-Castillo_de_Vezio%2C_Varenna%2C_Italia%2C_2016-06-25%2C_DD_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The white \"ghost\" sculptures in the grounds.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/castello-di-vezio-lake-como/own-castello-di-vezio-lake-como.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/castello-di-vezio-lake-como.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9cabc3",
+            "share": 0.341
+          },
+          {
+            "hex": "#5e663c",
+            "share": 0.278
+          },
+          {
+            "hex": "#3b4938",
+            "share": 0.176
+          },
+          {
+            "hex": "#80815b",
+            "share": 0.14
+          },
+          {
+            "hex": "#c7a588",
+            "share": 0.065
+          }
+        ],
+        "strongest": "#9cabc3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castello-di-vezio-lake-como/commons-1.jpg",
+      "title": "File:Castillo de Vezio, Varenna, Italia, 2016-06-25, DD 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castillo_de_Vezio,_Varenna,_Italia,_2016-06-25,_DD_01.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6708,
+      "height": 4542,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9cabc3",
+            "share": 0.339
+          },
+          {
+            "hex": "#60683d",
+            "share": 0.279
+          },
+          {
+            "hex": "#3c4b37",
+            "share": 0.191
+          },
+          {
+            "hex": "#82835c",
+            "share": 0.126
+          },
+          {
+            "hex": "#c8a689",
+            "share": 0.065
+          }
+        ],
+        "strongest": "#9cabc3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castello-di-vezio-lake-como/commons-2.jpg",
+      "title": "File:Castillo de Vezio, Varenna, Italia, 2016-06-25, DD 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castillo_de_Vezio,_Varenna,_Italia,_2016-06-25,_DD_01.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6708,
+      "height": 4542,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9cabc3",
+            "share": 0.339
+          },
+          {
+            "hex": "#60683d",
+            "share": 0.279
+          },
+          {
+            "hex": "#3c4b37",
+            "share": 0.191
+          },
+          {
+            "hex": "#82835c",
+            "share": 0.126
+          },
+          {
+            "hex": "#c8a689",
+            "share": 0.065
+          }
+        ],
+        "strongest": "#9cabc3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castello-di-vezio-lake-como/commons-3.jpg",
+      "title": "File:Vezio Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vezio_Castle.jpg",
+      "author": "Codobai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#71807c",
+            "share": 0.428
+          },
+          {
+            "hex": "#5e6847",
+            "share": 0.257
+          },
+          {
+            "hex": "#737c53",
+            "share": 0.17
+          },
+          {
+            "hex": "#47523f",
+            "share": 0.118
+          },
+          {
+            "hex": "#b4b0a0",
+            "share": 0.027
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castello-di-vezio-lake-como/commons-4.jpg",
+      "title": "File:Blowing a kiss (Unsplash).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Blowing_a_kiss_(Unsplash).jpg",
+      "author": "Alex Blăjan alexb",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4912,
+      "height": 7360,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#060502",
+            "share": 0.459
+          },
+          {
+            "hex": "#a36219",
+            "share": 0.149
+          },
+          {
+            "hex": "#211807",
+            "share": 0.138
+          },
+          {
+            "hex": "#dfa133",
+            "share": 0.136
+          },
+          {
+            "hex": "#5c3f08",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#5c3f08"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Lake Como Lecco Arm 1.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Little tower castle Vezio.JPG",
+      "why": "licence GPL"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#9cabc3",
+        "share": 0.341
+      },
+      {
+        "hex": "#5e663c",
+        "share": 0.278
+      },
+      {
+        "hex": "#3b4938",
+        "share": 0.176
+      },
+      {
+        "hex": "#80815b",
+        "share": 0.14
+      },
+      {
+        "hex": "#c7a588",
+        "share": 0.065
+      }
+    ],
+    "strongest": "#9cabc3"
+  }
+}

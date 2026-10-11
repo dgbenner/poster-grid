@@ -1,0 +1,285 @@
+{
+  "id": "crawley-the-cure",
+  "name": "Crawley (Robert Smith / The Cure)",
+  "lat": 51.1091,
+  "lng": -0.1872,
+  "enrichedAt": "2026-10-11T01:21:32.993Z",
+  "place": {
+    "town": "Crawley",
+    "locality": null,
+    "county": "West Sussex",
+    "adminArea": "West Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.1091&lon=-0.1872&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Stone Cottage  Farm, Broadfield, Crawley, West Sussex, England, RH11 9BE, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "arundel-castle",
+        "name": "Arundel Castle",
+        "km": 38.1
+      },
+      {
+        "id": "halnaker-tree-tunnel",
+        "name": "Halnaker Tree Tunnel",
+        "km": 45.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Crawley",
+      "description": "Town and borough in West Sussex, England",
+      "extract": "Crawley is a town and borough in West Sussex, England. It is 28 miles (45 km) south of London, 18 miles (29 km) north of Brighton and Hove, and 32 miles (51 km) north-east of the county town of Chichester. Crawley covers an area of 17.36 square miles (44.96 km2) and had a population of 118,493 at the time of the 2021 Census. Southern parts of the borough lie immediately next to the High Weald National Landscape.",
+      "url": "https://en.wikipedia.org/wiki/Crawley",
+      "coordinates": {
+        "lat": 51.10916667,
+        "lng": -0.18722222
+      },
+      "km": 0,
+      "matchedBy": "town",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Queens_Square%2C_Crawley_%28geograph_5814836%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Crawley",
+      "description": "Town and borough in West Sussex, England",
+      "extract": "Crawley is a town and borough in West Sussex, England. It is 28 miles (45 km) south of London, 18 miles (29 km) north of Brighton and Hove, and 32 miles (51 km) north-east of the county town of Chichester. Crawley covers an area of 17.36 square miles (44.96 km2) and had a population of 118,493 at the time of the 2021 Census. Southern parts of the borough lie immediately next to the High Weald National Landscape.",
+      "url": "https://en.wikipedia.org/wiki/Crawley",
+      "coordinates": {
+        "lat": 51.10916667,
+        "lng": -0.18722222
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Queens_Square%2C_Crawley_%28geograph_5814836%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Where The Cure formed. No single landmark — NME’s town guide is the reference.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/crawley-the-cure/own-crawley-the-cure.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/crawley-the-cure.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#585b49",
+            "share": 0.24
+          },
+          {
+            "hex": "#818165",
+            "share": 0.238
+          },
+          {
+            "hex": "#c3d2e1",
+            "share": 0.222
+          },
+          {
+            "hex": "#a1a393",
+            "share": 0.152
+          },
+          {
+            "hex": "#33352a",
+            "share": 0.148
+          }
+        ],
+        "strongest": "#c3d2e1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crawley-the-cure/commons-1.jpg",
+      "title": "File:34-36 High Street, Crawley (IoE Code 363353).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:34-36_High_Street,_Crawley_(IoE_Code_363353).jpg",
+      "author": "The Voice of Hassocks",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1500,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#403e44",
+            "share": 0.397
+          },
+          {
+            "hex": "#5e5e63",
+            "share": 0.184
+          },
+          {
+            "hex": "#81929e",
+            "share": 0.166
+          },
+          {
+            "hex": "#12151a",
+            "share": 0.161
+          },
+          {
+            "hex": "#fcfcfa",
+            "share": 0.092
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crawley-the-cure/commons-2.jpg",
+      "title": "File:Autocar, 02 V 1177, London to Brighton Veteran Car Run 2018, in Crawley.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Autocar,_02_V_1177,_London_to_Brighton_Veteran_Car_Run_2018,_in_Crawley.jpg",
+      "author": "Recent Runes",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2592,
+      "height": 1456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f5e5e",
+            "share": 0.373
+          },
+          {
+            "hex": "#40403e",
+            "share": 0.229
+          },
+          {
+            "hex": "#161c1b",
+            "share": 0.176
+          },
+          {
+            "hex": "#8c8f95",
+            "share": 0.148
+          },
+          {
+            "hex": "#dee0e7",
+            "share": 0.074
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crawley-the-cure/commons-3.jpg",
+      "title": "File:Bewbush Leisure Centre, Crawley.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bewbush_Leisure_Centre,_Crawley.jpg",
+      "author": "Recent Runes",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4096,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6ea3dc",
+            "share": 0.312
+          },
+          {
+            "hex": "#595529",
+            "share": 0.276
+          },
+          {
+            "hex": "#202738",
+            "share": 0.271
+          },
+          {
+            "hex": "#5f6a7f",
+            "share": 0.112
+          },
+          {
+            "hex": "#cfd0d4",
+            "share": 0.029
+          }
+        ],
+        "strongest": "#6ea3dc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crawley-the-cure/commons-4.jpg",
+      "title": "File:Broadfield House, Crawley (IoE Code 363333).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Broadfield_House,_Crawley_(IoE_Code_363333).jpg",
+      "author": "The Voice of Hassocks",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2200,
+      "height": 1600,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c9e3fc",
+            "share": 0.385
+          },
+          {
+            "hex": "#22301f",
+            "share": 0.353
+          },
+          {
+            "hex": "#474d47",
+            "share": 0.11
+          },
+          {
+            "hex": "#7a7e7e",
+            "share": 0.089
+          },
+          {
+            "hex": "#b0b5b7",
+            "share": 0.063
+          }
+        ],
+        "strongest": "#22301f"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:August 2011 in Crawley's historic High Street (q) - geograph.org.uk - 2555359.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#585b49",
+        "share": 0.24
+      },
+      {
+        "hex": "#818165",
+        "share": 0.238
+      },
+      {
+        "hex": "#c3d2e1",
+        "share": 0.222
+      },
+      {
+        "hex": "#a1a393",
+        "share": 0.152
+      },
+      {
+        "hex": "#33352a",
+        "share": 0.148
+      }
+    ],
+    "strongest": "#c3d2e1"
+  }
+}

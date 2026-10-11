@@ -1,0 +1,274 @@
+{
+  "id": "newcastle",
+  "name": "Newcastle (Black Gate, Dog Leap Stairs)",
+  "lat": 54.9697,
+  "lng": -1.6113,
+  "enrichedAt": "2026-10-11T01:21:32.483Z",
+  "place": {
+    "town": "Newcastle upon Tyne",
+    "locality": "Grainger Town",
+    "county": "Tyne and Wear",
+    "adminArea": "Tyne and Wear",
+    "region": "North East",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=54.9697&lon=-1.6113&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Grainger Town, Newcastle upon Tyne, Tyne and Wear, North East, England, NE1 5JF, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Newcastle upon Tyne",
+      "description": "City in England",
+      "extract": "Newcastle upon Tyne, or simply Newcastle, is a city and metropolitan borough in Tyne and Wear, England. While the hyphenated form of the name, Newcastle-upon-Tyne, is sometimes seen, correct usage is generally unhyphenated.",
+      "url": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+      "coordinates": {
+        "lat": 54.9738,
+        "lng": -1.6131
+      },
+      "km": 0.5,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg/3840px-Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Newcastle upon Tyne",
+      "description": "City in England",
+      "extract": "Newcastle upon Tyne, or simply Newcastle, is a city and metropolitan borough in Tyne and Wear, England. While the hyphenated form of the name, Newcastle-upon-Tyne, is sometimes seen, correct usage is generally unhyphenated.",
+      "url": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+      "coordinates": {
+        "lat": 54.9738,
+        "lng": -1.6131
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg/3840px-Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The castle Black Gate and the steep Dog Leap Stairs down to the Quayside.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/newcastle/own-newcastle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/newcastle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5d6e79",
+            "share": 0.305
+          },
+          {
+            "hex": "#a2c7f0",
+            "share": 0.266
+          },
+          {
+            "hex": "#928f85",
+            "share": 0.205
+          },
+          {
+            "hex": "#b6b7ad",
+            "share": 0.162
+          },
+          {
+            "hex": "#1c242b",
+            "share": 0.063
+          }
+        ],
+        "strongest": "#a2c7f0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/newcastle/commons-1.jpg",
+      "title": "File:Newcastle-upon-Tyne-bridges-and-skyline cropped.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg",
+      "author": "JimmyGuano",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 2076,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e89a7",
+            "share": 0.242
+          },
+          {
+            "hex": "#b7c5d1",
+            "share": 0.225
+          },
+          {
+            "hex": "#4d6b93",
+            "share": 0.183
+          },
+          {
+            "hex": "#464549",
+            "share": 0.182
+          },
+          {
+            "hex": "#94a7bb",
+            "share": 0.169
+          }
+        ],
+        "strongest": "#4d6b93"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/newcastle/commons-2.jpg",
+      "title": "File:Newcastle-upon-Tyne-bridges-and-skyline cropped.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg",
+      "author": "JimmyGuano",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 2076,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#373432",
+            "share": 0.294
+          },
+          {
+            "hex": "#191917",
+            "share": 0.259
+          },
+          {
+            "hex": "#b3af7c",
+            "share": 0.226
+          },
+          {
+            "hex": "#635f5d",
+            "share": 0.158
+          },
+          {
+            "hex": "#eeeded",
+            "share": 0.064
+          }
+        ],
+        "strongest": "#b3af7c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/newcastle/commons-3.jpg",
+      "title": "File:Newcastle-upon-Tyne from New Chatham engraving by William Miller after T Allom.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Newcastle-upon-Tyne_from_New_Chatham_engraving_by_William_Miller_after_T_Allom.jpg",
+      "author": "William Miller",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2495,
+      "height": 1686,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#252c21",
+            "share": 0.292
+          },
+          {
+            "hex": "#bdd7f5",
+            "share": 0.243
+          },
+          {
+            "hex": "#4c4c49",
+            "share": 0.197
+          },
+          {
+            "hex": "#77716e",
+            "share": 0.162
+          },
+          {
+            "hex": "#8a9fc2",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#bdd7f5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/newcastle/commons-4.jpg",
+      "title": "File:Newcastle upon Tyne - Central Arcade - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Newcastle_upon_Tyne_-_Central_Arcade_-_2.jpg",
+      "author": "Benjamin Smith",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4390,
+      "height": 4390,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fdfcfc",
+            "share": 0.314
+          },
+          {
+            "hex": "#6a7d42",
+            "share": 0.219
+          },
+          {
+            "hex": "#3d4b25",
+            "share": 0.187
+          },
+          {
+            "hex": "#9a9a78",
+            "share": 0.14
+          },
+          {
+            "hex": "#cdc3af",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#3d4b25"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Newcastle upon Tyne, England.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5d6e79",
+        "share": 0.305
+      },
+      {
+        "hex": "#a2c7f0",
+        "share": 0.266
+      },
+      {
+        "hex": "#928f85",
+        "share": 0.205
+      },
+      {
+        "hex": "#b6b7ad",
+        "share": 0.162
+      },
+      {
+        "hex": "#1c242b",
+        "share": 0.063
+      }
+    ],
+    "strongest": "#a2c7f0"
+  }
+}

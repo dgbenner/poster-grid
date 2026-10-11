@@ -1,0 +1,331 @@
+{
+  "id": "tate-britain",
+  "name": "Tate Britain / Turner",
+  "lat": 51.4911,
+  "lng": -0.1278,
+  "enrichedAt": "2026-10-11T01:21:34.339Z",
+  "place": {
+    "town": "London",
+    "locality": "Millbank",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Westminster",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4911&lon=-0.1278&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Westminster, Millbank, City of Westminster, Greater London, England, SW1P 3JX, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 1.56
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 2.34
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 2.87
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 3.15
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 1.6
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 2.3
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 2.9
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 3.1
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 5.4
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 5.7
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 9
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 11.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Tate Britain",
+      "description": "Art museum in London, England",
+      "extract": "Tate Britain, known from 1897 to 1932 as the National Gallery of British Art and from 1932 to 2000 as the Tate Gallery, is an art museum on Millbank in the City of Westminster in London, England. It is part of the Tate network of galleries in England, with Tate Modern, Tate Liverpool and Tate St Ives. Founded by Sir Henry Tate, it houses a substantial collection of the art of the United Kingdom since Tudor times, and in particular has large holdings of the works of J. M. W. Turner, who bequeathed all his own collection to the nation. It is one of the largest museums in the country. In 2021, it ranked 50th on the list of most-visited art museums in the world.",
+      "url": "https://en.wikipedia.org/wiki/Tate_Britain",
+      "coordinates": {
+        "lat": 51.4911,
+        "lng": -0.1275
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Tate_Britain_%285822081512%29_%282%29.jpg/3840px-Tate_Britain_%285822081512%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "City of Westminster",
+      "description": "City and borough in London, England",
+      "extract": "The City of Westminster is a London borough with city status in Greater London, England. It is the site of the United Kingdom's Houses of Parliament and much of the British government. It contains a large part of central London, including most of the West End, such as the major shopping areas around Oxford Street, Regent Street, Piccadilly and Bond Street, and the entertainment district of Soho. Many London landmarks are within the borough, including Buckingham Palace, Westminster Abbey, Whitehall, Westminster Cathedral, 10 Downing Street, and Trafalgar Square.",
+      "url": "https://en.wikipedia.org/wiki/City_of_Westminster",
+      "coordinates": {
+        "lat": 51.51222222,
+        "lng": -0.16333333
+      },
+      "km": 3.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg/3840px-Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The Clore’s Turner bequest — the reason to come.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/tate-britain/own-tate-turner.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/tate-turner.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#020101",
+            "share": 0.258
+          },
+          {
+            "hex": "#dccaab",
+            "share": 0.219
+          },
+          {
+            "hex": "#c2955d",
+            "share": 0.208
+          },
+          {
+            "hex": "#d4b484",
+            "share": 0.184
+          },
+          {
+            "hex": "#986739",
+            "share": 0.131
+          }
+        ],
+        "strongest": "#d4b484"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tate-britain/commons-1.jpg",
+      "title": "File:Tate Britain (5822081512) (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tate_Britain_(5822081512)_(2).jpg",
+      "author": "Tony Hisgett from Birmingham, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4744,
+      "height": 3452,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c5d7eb",
+            "share": 0.283
+          },
+          {
+            "hex": "#4c473a",
+            "share": 0.258
+          },
+          {
+            "hex": "#222413",
+            "share": 0.224
+          },
+          {
+            "hex": "#756f65",
+            "share": 0.131
+          },
+          {
+            "hex": "#a59f96",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#c5d7eb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tate-britain/commons-2.jpg",
+      "title": "File:Flatford Mill (Scene on a Navigable River) by John Constable, Tate Britain.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Flatford_Mill_(Scene_on_a_Navigable_River)_by_John_Constable,_Tate_Britain.JPG",
+      "author": "John Constable",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2620,
+      "height": 2090,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3a362a",
+            "share": 0.271
+          },
+          {
+            "hex": "#554f3d",
+            "share": 0.238
+          },
+          {
+            "hex": "#aeb6bb",
+            "share": 0.204
+          },
+          {
+            "hex": "#726a58",
+            "share": 0.18
+          },
+          {
+            "hex": "#859198",
+            "share": 0.107
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tate-britain/commons-3.jpg",
+      "title": "File:Leighton Athlete Wrestling with a Python 01 Tate Britain.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leighton_Athlete_Wrestling_with_a_Python_01_Tate_Britain.jpg",
+      "author": "Frederic Leighton",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2027,
+      "height": 2976,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d2ccc2",
+            "share": 0.308
+          },
+          {
+            "hex": "#626056",
+            "share": 0.217
+          },
+          {
+            "hex": "#302e2f",
+            "share": 0.202
+          },
+          {
+            "hex": "#bc9e53",
+            "share": 0.138
+          },
+          {
+            "hex": "#999080",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#bc9e53"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tate-britain/commons-4.jpg",
+      "title": "File:Tate Britain (5822081512) (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tate_Britain_(5822081512)_(2).jpg",
+      "author": "Tony Hisgett from Birmingham, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4744,
+      "height": 3452,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c5d7eb",
+            "share": 0.283
+          },
+          {
+            "hex": "#4c473a",
+            "share": 0.258
+          },
+          {
+            "hex": "#222413",
+            "share": 0.224
+          },
+          {
+            "hex": "#756f65",
+            "share": 0.131
+          },
+          {
+            "hex": "#a59f96",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#c5d7eb"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#020101",
+        "share": 0.258
+      },
+      {
+        "hex": "#dccaab",
+        "share": 0.219
+      },
+      {
+        "hex": "#c2955d",
+        "share": 0.208
+      },
+      {
+        "hex": "#d4b484",
+        "share": 0.184
+      },
+      {
+        "hex": "#986739",
+        "share": 0.131
+      }
+    ],
+    "strongest": "#d4b484"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "prague-astronomical-clock",
+  "name": "Prague Astronomical Clock (1410)",
+  "lat": 50.087,
+  "lng": 14.4208,
+  "enrichedAt": "2026-10-11T01:21:40.295Z",
+  "place": {
+    "town": "Prague",
+    "locality": "Old Town",
+    "county": "Prague",
+    "adminArea": null,
+    "region": null,
+    "country": "Czechia",
+    "sovereign": "Czechia",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.087&lon=14.4208&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, obvod Praha 1, Prague, 116 65, Czechia"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Prague astronomical clock",
+      "description": "Medieval astronomical clock in the Czech Republic",
+      "extract": "The Prague astronomical clock, or Prague Orloj, is a medieval astronomical clock attached to the Old Town Hall in Prague, the capital of the Czech Republic.",
+      "url": "https://en.wikipedia.org/wiki/Prague_astronomical_clock",
+      "coordinates": {
+        "lat": 50.08700833,
+        "lng": 14.42091667
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Astronomical_Clock_%288341899828%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Prague",
+      "description": "Capital and largest city of the Czech Republic",
+      "extract": "Prague is the capital and largest city of the Czech Republic and the historical capital of Bohemia. Located on the Vltava River, the city has a population of about 1.4 million, making it the twelfth-largest city in the European Union. Its metropolitan area is home to approximately 2.3 million people.",
+      "url": "https://en.wikipedia.org/wiki/Prague",
+      "coordinates": {
+        "lat": 50.0875,
+        "lng": 14.42138889
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The world's oldest operating astronomical clock; was misfiled in the Germany screenshots.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/prague-astronomical-clock/own-prague-astronomical-clock.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/prague-astronomical-clock.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#544b46",
+            "share": 0.245
+          },
+          {
+            "hex": "#7c7164",
+            "share": 0.207
+          },
+          {
+            "hex": "#332c2a",
+            "share": 0.194
+          },
+          {
+            "hex": "#cbb8a6",
+            "share": 0.186
+          },
+          {
+            "hex": "#a49481",
+            "share": 0.167
+          }
+        ],
+        "strongest": "#cbb8a6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/prague-astronomical-clock/commons-1.jpg",
+      "title": "File:Czech-2013-Prague-Astronomical clock face.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg",
+      "author": "Godot13",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5000,
+      "height": 3763,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#463f34",
+            "share": 0.229
+          },
+          {
+            "hex": "#1c1716",
+            "share": 0.213
+          },
+          {
+            "hex": "#8d8a6d",
+            "share": 0.208
+          },
+          {
+            "hex": "#6a6249",
+            "share": 0.184
+          },
+          {
+            "hex": "#b9a871",
+            "share": 0.165
+          }
+        ],
+        "strongest": "#b9a871"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/prague-astronomical-clock/commons-2.jpg",
+      "title": "File:Prague Astronomical Clock Detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prague_Astronomical_Clock_Detail.jpg",
+      "author": "Gklka",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3888,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#25231e",
+            "share": 0.264
+          },
+          {
+            "hex": "#b2ac9e",
+            "share": 0.263
+          },
+          {
+            "hex": "#847b71",
+            "share": 0.175
+          },
+          {
+            "hex": "#4c4641",
+            "share": 0.169
+          },
+          {
+            "hex": "#f4e2a5",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#f4e2a5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/prague-astronomical-clock/commons-3.jpg",
+      "title": "File:Statues on Prague Astronomical Clock 2014-01 (landscape mode) 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Statues_on_Prague_Astronomical_Clock_2014-01_(landscape_mode)_3.jpg",
+      "author": "Sebaso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#99a1a3",
+            "share": 0.227
+          },
+          {
+            "hex": "#5a5654",
+            "share": 0.211
+          },
+          {
+            "hex": "#c8c0b0",
+            "share": 0.2
+          },
+          {
+            "hex": "#807a74",
+            "share": 0.19
+          },
+          {
+            "hex": "#2f2c2c",
+            "share": 0.173
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/prague-astronomical-clock/commons-4.jpg",
+      "title": "File:Statues on Prague Astronomical Clock 2014-01 (landscape mode) 4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Statues_on_Prague_Astronomical_Clock_2014-01_(landscape_mode)_4.jpg",
+      "author": "Sebaso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#504f57",
+            "share": 0.257
+          },
+          {
+            "hex": "#69727f",
+            "share": 0.233
+          },
+          {
+            "hex": "#c5bcab",
+            "share": 0.186
+          },
+          {
+            "hex": "#909193",
+            "share": 0.17
+          },
+          {
+            "hex": "#2e2a2d",
+            "share": 0.154
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#544b46",
+        "share": 0.245
+      },
+      {
+        "hex": "#7c7164",
+        "share": 0.207
+      },
+      {
+        "hex": "#332c2a",
+        "share": 0.194
+      },
+      {
+        "hex": "#cbb8a6",
+        "share": 0.186
+      },
+      {
+        "hex": "#a49481",
+        "share": 0.167
+      }
+    ],
+    "strongest": "#cbb8a6"
+  }
+}

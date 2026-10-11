@@ -1,0 +1,274 @@
+{
+  "id": "chateau-de-pierrefonds",
+  "name": "Château de Pierrefonds (Oise)",
+  "lat": 49.3478,
+  "lng": 2.9794,
+  "enrichedAt": "2026-10-11T01:21:41.517Z",
+  "place": {
+    "town": "Pierrefonds",
+    "locality": null,
+    "county": "Oise",
+    "adminArea": "Oise",
+    "region": "Hauts-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.3478&lon=2.9794&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Maison Forestière du Voliard, Pierrefonds, Compiègne, Oise, Hauts-de-France, Metropolitan France, 60350, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Château de Pierrefonds",
+      "description": "Castle in France",
+      "extract": "The Château de Pierrefonds is a castle situated in the commune of Pierrefonds in the Oise department in the Hauts-de-France region, Northern France.",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Pierrefonds",
+      "coordinates": {
+        "lat": 49.34694444,
+        "lng": 2.98027778
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ch%C3%A2teau_de_Pierrefonds_vu_depuis_le_Parc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Pierrefonds, Oise",
+      "description": "Commune in Hauts-de-France, France",
+      "extract": "Pierrefonds is a commune in the French department of Oise, Hauts-de-France, northern France, known for its Château de Pierrefonds.",
+      "url": "https://en.wikipedia.org/wiki/Pierrefonds%2C_Oise",
+      "coordinates": {
+        "lat": 49.3517,
+        "lng": 2.9813
+      },
+      "km": 0.5,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ch%C3%A2teau_de_Pierrefonds%2C_Main_entrance.jpg/3840px-Ch%C3%A2teau_de_Pierrefonds%2C_Main_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Viollet-le-Duc's romantic reconstruction.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/chateau-de-pierrefonds/own-chateau-de-pierrefonds.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/chateau-de-pierrefonds.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b8d2f3",
+            "share": 0.382
+          },
+          {
+            "hex": "#4a5530",
+            "share": 0.261
+          },
+          {
+            "hex": "#252f1e",
+            "share": 0.227
+          },
+          {
+            "hex": "#7a7d7f",
+            "share": 0.066
+          },
+          {
+            "hex": "#b4b1ae",
+            "share": 0.063
+          }
+        ],
+        "strongest": "#b8d2f3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-pierrefonds/commons-1.jpg",
+      "title": "File:Chateau de Pierrefonds, France - April 2012.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chateau_de_Pierrefonds,_France_-_April_2012.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 7235,
+      "height": 5096,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3a3d36",
+            "share": 0.268
+          },
+          {
+            "hex": "#6195c4",
+            "share": 0.228
+          },
+          {
+            "hex": "#656762",
+            "share": 0.213
+          },
+          {
+            "hex": "#93b8d9",
+            "share": 0.201
+          },
+          {
+            "hex": "#b6aa95",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#6195c4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-pierrefonds/commons-2.jpg",
+      "title": "File:Chateau de Pierrefonds.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chateau_de_Pierrefonds.jpg",
+      "author": "Eric Pouhier",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2048,
+      "height": 1362,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#094fb8",
+            "share": 0.374
+          },
+          {
+            "hex": "#beb5a8",
+            "share": 0.212
+          },
+          {
+            "hex": "#898377",
+            "share": 0.175
+          },
+          {
+            "hex": "#4b4e47",
+            "share": 0.142
+          },
+          {
+            "hex": "#101212",
+            "share": 0.097
+          }
+        ],
+        "strongest": "#094fb8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-pierrefonds/commons-3.jpg",
+      "title": "File:Pierrefonds, the Château de Jonval.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Pierrefonds,_the_Ch%C3%A2teau_de_Jonval.JPG",
+      "author": "Dguendel",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2727,
+      "height": 1761,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#606955",
+            "share": 0.351
+          },
+          {
+            "hex": "#7d8178",
+            "share": 0.208
+          },
+          {
+            "hex": "#d5dae0",
+            "share": 0.151
+          },
+          {
+            "hex": "#414940",
+            "share": 0.149
+          },
+          {
+            "hex": "#b0a7a1",
+            "share": 0.141
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-pierrefonds/commons-4.jpg",
+      "title": "File:Chateau de Pierrefonds - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chateau_de_Pierrefonds_-_panoramio.jpg",
+      "author": "Mister No",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b8ac9f",
+            "share": 0.278
+          },
+          {
+            "hex": "#91877a",
+            "share": 0.264
+          },
+          {
+            "hex": "#6a6d5a",
+            "share": 0.218
+          },
+          {
+            "hex": "#435034",
+            "share": 0.16
+          },
+          {
+            "hex": "#eae9e1",
+            "share": 0.079
+          }
+        ],
+        "strongest": "#435034"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Château de Pierrefonds vu depuis le Parc.jpg",
+      "why": "licence FAL"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#b8d2f3",
+        "share": 0.382
+      },
+      {
+        "hex": "#4a5530",
+        "share": 0.261
+      },
+      {
+        "hex": "#252f1e",
+        "share": 0.227
+      },
+      {
+        "hex": "#7a7d7f",
+        "share": 0.066
+      },
+      {
+        "hex": "#b4b1ae",
+        "share": 0.063
+      }
+    ],
+    "strongest": "#b8d2f3"
+  }
+}

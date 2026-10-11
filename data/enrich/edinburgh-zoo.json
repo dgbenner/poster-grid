@@ -1,0 +1,466 @@
+{
+  "id": "edinburgh-zoo",
+  "name": "Edinburgh Zoo",
+  "lat": 55.9426,
+  "lng": -3.2686,
+  "enrichedAt": "2026-10-11T01:21:29.946Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Corstorphine",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9426&lon=-3.2686&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Corstorphine, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 3.4
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 4.33
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 4.46
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 4.57
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 4.59
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 4.61
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 4.62
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 4.63
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 4.8
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 4.88
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 4.9
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 4.91
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 4.94
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 4.99
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 3.4
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 4.3
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 4.5
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 4.6
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 4.6
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 4.6
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 4.6
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 4.6
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 4.8
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 4.9
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 4.9
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 4.9
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 4.9
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 5
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 5.5
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 5.6
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 5.9
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 6.1
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 6.7
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 7.2
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 8.3
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 8.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Edinburgh Zoo",
+      "description": "Zoo in Edinburgh, Scotland",
+      "extract": "Edinburgh Zoo, formerly the Scottish National Zoological Park, is an 82-acre (33 ha) non-profit zoological park in the Corstorphine area of Edinburgh, Scotland.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh_Zoo",
+      "coordinates": {
+        "lat": 55.9425,
+        "lng": -3.27
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/Logo_of_Edinburgh_Zoo.svg/330px-Logo_of_Edinburgh_Zoo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 5.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Penguin parade and the UK’s only koalas.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "wildlife"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-zoo/commons-1.jpg",
+      "title": "File:Pygoscelis papua -Edinburgh Zoo -Scotland-8a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pygoscelis_papua_-Edinburgh_Zoo_-Scotland-8a.jpg",
+      "author": "billfromesm",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2152,
+      "height": 1426,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#43443c",
+            "share": 0.255
+          },
+          {
+            "hex": "#a4a2a1",
+            "share": 0.212
+          },
+          {
+            "hex": "#756e67",
+            "share": 0.2
+          },
+          {
+            "hex": "#1e2116",
+            "share": 0.189
+          },
+          {
+            "hex": "#d5cec8",
+            "share": 0.144
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-zoo/commons-2.jpg",
+      "title": "File:Edinburgh,-134-Corstorphine-Road,-Edinburgh-Zoo,-Lodge,-Gates-And-Gate-Piers-(Q17810344).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh,-134-Corstorphine-Road,-Edinburgh-Zoo,-Lodge,-Gates-And-Gate-Piers-(Q17810344).jpg",
+      "author": "Andycatlincom",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 10021,
+      "height": 3946,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#98abc2",
+            "share": 0.339
+          },
+          {
+            "hex": "#758895",
+            "share": 0.198
+          },
+          {
+            "hex": "#182e32",
+            "share": 0.19
+          },
+          {
+            "hex": "#4a615f",
+            "share": 0.157
+          },
+          {
+            "hex": "#dce6ef",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#182e32"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-zoo/commons-3.jpg",
+      "title": "File:2016 - May Zoo Visit (26761462290).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2016_-_May_Zoo_Visit_(26761462290).jpg",
+      "author": "marsupium photography",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2888,
+      "height": 2888,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1d201c",
+            "share": 0.353
+          },
+          {
+            "hex": "#323631",
+            "share": 0.201
+          },
+          {
+            "hex": "#9c9893",
+            "share": 0.172
+          },
+          {
+            "hex": "#c1c6c9",
+            "share": 0.162
+          },
+          {
+            "hex": "#645d51",
+            "share": 0.113
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-zoo/commons-4.jpg",
+      "title": "File:Edinburgh,-Corstorphine-Road,-K6-Telephone-Kiosk-(Q17794593).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh,-Corstorphine-Road,-K6-Telephone-Kiosk-(Q17794593).jpg",
+      "author": "Andycatlincom",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 9995,
+      "height": 3951,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#817f82",
+            "share": 0.277
+          },
+          {
+            "hex": "#9ca4a9",
+            "share": 0.263
+          },
+          {
+            "hex": "#565c62",
+            "share": 0.216
+          },
+          {
+            "hex": "#372a36",
+            "share": 0.185
+          },
+          {
+            "hex": "#ccd5db",
+            "share": 0.059
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Penguins Edinburgh Zoo 2004 SMC.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Edinburgh Zoo - geograph.org.uk - 2371247.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Entrance to Edinburgh Zoo - geograph.org.uk - 1298030.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Flamingoes in Edinburgh Zoo - geograph.org.uk - 4253785.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Edinburgh Zoo - geograph.org.uk - 2901891.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Edinburgh Zoo bus - geograph.org.uk - 2379805.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Holiday Inn at Edinburgh Zoo - geograph.org.uk - 2901893.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Edinburgh Zoo - geograph.org.uk - 2379803.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Edinburgh Zoo - gate lodge - geograph.org.uk - 2379806.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Edinburgh Zoo - maintenance and administration buildings - geograph.org.uk - 2379798.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Holiday Inn, Edinburgh - geograph.org.uk - 4253783.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Holiday Inn, Edinburgh - geograph.org.uk - 5442344.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#43443c",
+        "share": 0.255
+      },
+      {
+        "hex": "#a4a2a1",
+        "share": 0.212
+      },
+      {
+        "hex": "#756e67",
+        "share": 0.2
+      },
+      {
+        "hex": "#1e2116",
+        "share": 0.189
+      },
+      {
+        "hex": "#d5cec8",
+        "share": 0.144
+      }
+    ],
+    "strongest": null
+  }
+}

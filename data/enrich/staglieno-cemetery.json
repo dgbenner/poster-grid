@@ -1,0 +1,314 @@
+{
+  "id": "staglieno-cemetery",
+  "name": "Staglieno / Monumental Cemetery, Genoa",
+  "lat": 44.4338,
+  "lng": 8.9531,
+  "enrichedAt": "2026-10-11T01:21:43.640Z",
+  "place": {
+    "town": "Genoa",
+    "locality": "Media Val Bisagno",
+    "county": "Genoa",
+    "adminArea": "Genoa",
+    "region": "Liguria",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.4338&lon=8.9531&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Media Val Bisagno, Genoa, Liguria, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "portofino",
+        "name": "Portofino",
+        "km": 25
+      },
+      {
+        "id": "joy-division-liguria",
+        "name": "\"Celebrating Joy Division,\" Liguria (Sestri Levante area)",
+        "km": 39.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Monumental Cemetery of Staglieno",
+      "description": "Cemetery in Genoa, Italy",
+      "extract": "The Cimitero monumentale di Staglieno is an extensive monumental cemetery located on a hillside in the district of Staglieno of Genoa, Italy, famous for its monumental sculpture. Covering an area of more than a square kilometre, it is one of the largest cemeteries in Europe.",
+      "url": "https://en.wikipedia.org/wiki/Monumental_Cemetery_of_Staglieno",
+      "coordinates": {
+        "lat": 44.430156,
+        "lng": 8.950327
+      },
+      "km": 0.5,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Genova-Staglieno-IMG_2008.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Genoa",
+      "description": "Largest city in Liguria, Italy",
+      "extract": "Genoa is the sixth-largest city in Italy and the capital of the region of Liguria in northern Italy. As of 2026, 566,247 people live within the city's administrative limits. While its metropolitan city has 820,691 inhabitants, more than 1.5 million people live in the wider metropolitan area stretching along the Italian Riviera.",
+      "url": "https://en.wikipedia.org/wiki/Genoa",
+      "coordinates": {
+        "lat": 44.40722222,
+        "lng": 8.93388889
+      },
+      "km": 3.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Piazza_de_Ferrari%2C_Genoa.jpg/3840px-Piazza_de_Ferrari%2C_Genoa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Monumental funerary sculpture; one grave was used on the cover of Joy Division's \"Love Will Tear Us Apart.\"",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/staglieno-cemetery/own-staglieno-cemetery.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/staglieno-cemetery.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#060605",
+            "share": 0.328
+          },
+          {
+            "hex": "#1f1e1c",
+            "share": 0.268
+          },
+          {
+            "hex": "#454640",
+            "share": 0.158
+          },
+          {
+            "hex": "#82827d",
+            "share": 0.145
+          },
+          {
+            "hex": "#d0cec4",
+            "share": 0.101
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "personal",
+      "file": "data/images/staglieno-cemetery/own-staglieno-cemetery-2.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/staglieno-cemetery-2.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#221c15",
+            "share": 0.273
+          },
+          {
+            "hex": "#000000",
+            "share": 0.23
+          },
+          {
+            "hex": "#6c635e",
+            "share": 0.229
+          },
+          {
+            "hex": "#49423b",
+            "share": 0.195
+          },
+          {
+            "hex": "#b5a7a1",
+            "share": 0.073
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/staglieno-cemetery/commons-1.jpg",
+      "title": "File:Cimitero Monumentale di Staglieno 05 - Tomba Ribaudo (Pellicola).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cimitero_Monumentale_di_Staglieno_05_-_Tomba_Ribaudo_(Pellicola).jpg",
+      "author": "Daniele Libero Campi Martucci",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1000,
+      "height": 667,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#080808",
+            "share": 0.274
+          },
+          {
+            "hex": "#858d91",
+            "share": 0.271
+          },
+          {
+            "hex": "#606768",
+            "share": 0.193
+          },
+          {
+            "hex": "#323535",
+            "share": 0.152
+          },
+          {
+            "hex": "#b4b9c1",
+            "share": 0.11
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/staglieno-cemetery/commons-2.jpg",
+      "title": "File:Genova-Staglieno-IMG 2008.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Genova-Staglieno-IMG_2008.JPG",
+      "author": "Twice25 &amp; Rinina25",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 2592,
+      "height": 1944,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#52281e",
+            "share": 0.246
+          },
+          {
+            "hex": "#9e9b93",
+            "share": 0.224
+          },
+          {
+            "hex": "#7e786d",
+            "share": 0.196
+          },
+          {
+            "hex": "#c6cacb",
+            "share": 0.167
+          },
+          {
+            "hex": "#635142",
+            "share": 0.166
+          }
+        ],
+        "strongest": "#52281e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/staglieno-cemetery/commons-3.jpg",
+      "title": "File:Genova - Cimitero di Staglieno - Statua della Fede e Pantheon.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Genova_-_Cimitero_di_Staglieno_-_Statua_della_Fede_e_Pantheon.jpg",
+      "author": "Twice25 e Rinina25",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 1200,
+      "height": 1600,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c97bd",
+            "share": 0.278
+          },
+          {
+            "hex": "#343523",
+            "share": 0.255
+          },
+          {
+            "hex": "#14160d",
+            "share": 0.201
+          },
+          {
+            "hex": "#90846d",
+            "share": 0.138
+          },
+          {
+            "hex": "#cdc0ab",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#6c97bd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/staglieno-cemetery/commons-4.jpg",
+      "title": "File:Tomba Famiglia Appiani (Cimitero di Staglieno).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomba_Famiglia_Appiani_(Cimitero_di_Staglieno).jpg",
+      "author": "Anselmoorsi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c5c5c5",
+            "share": 0.225
+          },
+          {
+            "hex": "#0d0d0d",
+            "share": 0.215
+          },
+          {
+            "hex": "#686868",
+            "share": 0.207
+          },
+          {
+            "hex": "#949494",
+            "share": 0.18
+          },
+          {
+            "hex": "#363636",
+            "share": 0.173
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#060605",
+        "share": 0.328
+      },
+      {
+        "hex": "#1f1e1c",
+        "share": 0.268
+      },
+      {
+        "hex": "#454640",
+        "share": 0.158
+      },
+      {
+        "hex": "#82827d",
+        "share": 0.145
+      },
+      {
+        "hex": "#d0cec4",
+        "share": 0.101
+      }
+    ],
+    "strongest": null
+  }
+}

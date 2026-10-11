@@ -1,0 +1,269 @@
+{
+  "id": "lake-district",
+  "name": "Lake District (Keswick, Scafell Pike)",
+  "lat": 54.6013,
+  "lng": -3.1347,
+  "enrichedAt": "2026-10-11T01:21:32.497Z",
+  "place": {
+    "town": "Keswick",
+    "locality": null,
+    "county": "Cumbria",
+    "adminArea": "Cumberland",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=54.6013&lon=-3.1347&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Keswick, Cumberland, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Lake District",
+      "description": "Mountainous region and national park in North West England",
+      "extract": "The Lake District, also known as the Lakes or Lakeland, is a mountainous region and national park in Cumbria, North West England. It is famous for its landscape, including its lakes, coast, and mountains, and for its literary associations with Beatrix Potter, John Ruskin, Arthur Ransome, and the Lake Poets.",
+      "url": "https://en.wikipedia.org/wiki/Lake_District",
+      "coordinates": {
+        "lat": 54.5,
+        "lng": -3.16666667
+      },
+      "km": 11.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Derwent_Water%2C_Lake_District%2C_Cumbria_-_June_2009.jpg/3840px-Derwent_Water%2C_Lake_District%2C_Cumbria_-_June_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Keswick, Cumbria",
+      "description": "Town and civil parish in Cumbria, England",
+      "extract": "Keswick is a market town and civil parish in the Cumberland unitary authority area of Cumbria, England. It lies within the Lake District National Park, just north of Derwentwater and 4 mi (6.4 km) from Bassenthwaite Lake. The parish had a population of 4,658 at the 2021 census.",
+      "url": "https://en.wikipedia.org/wiki/Keswick%2C_Cumbria",
+      "coordinates": {
+        "lat": 54.6008,
+        "lng": -3.1375
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/The_Parish_Church_of_Keswick%2C_St_John_-_geograph.org.uk_-_475546.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Keswick + Derwentwater as a base; Scafell Pike, England’s highest, to the south.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/lake-district/own-lake-district.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/lake-district.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#798694",
+            "share": 0.295
+          },
+          {
+            "hex": "#2f4140",
+            "share": 0.192
+          },
+          {
+            "hex": "#96a8b8",
+            "share": 0.179
+          },
+          {
+            "hex": "#c7ccce",
+            "share": 0.177
+          },
+          {
+            "hex": "#946037",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#946037"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lake-district/commons-1.jpg",
+      "title": "File:Derwent Water, Lake District, Cumbria - June 2009.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Derwent_Water,_Lake_District,_Cumbria_-_June_2009.jpg",
+      "author": "User:Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 6121,
+      "height": 3086,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#788692",
+            "share": 0.284
+          },
+          {
+            "hex": "#304140",
+            "share": 0.194
+          },
+          {
+            "hex": "#c6cbcd",
+            "share": 0.188
+          },
+          {
+            "hex": "#93a6b6",
+            "share": 0.177
+          },
+          {
+            "hex": "#966136",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#966136"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lake-district/commons-2.jpg",
+      "title": "File:A591 road, Lake District - June 2009 Edit 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A591_road,_Lake_District_-_June_2009_Edit_1.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5000,
+      "height": 2573,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8696a6",
+            "share": 0.246
+          },
+          {
+            "hex": "#4c5b22",
+            "share": 0.214
+          },
+          {
+            "hex": "#253314",
+            "share": 0.203
+          },
+          {
+            "hex": "#ccced3",
+            "share": 0.169
+          },
+          {
+            "hex": "#83902a",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#83902a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lake-district/commons-3.jpg",
+      "title": "File:Catbells Northern Ascent, Lake District - June 2009.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Catbells_Northern_Ascent,_Lake_District_-_June_2009.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 9835,
+      "height": 4074,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cdd4e0",
+            "share": 0.297
+          },
+          {
+            "hex": "#3d5032",
+            "share": 0.252
+          },
+          {
+            "hex": "#7c802e",
+            "share": 0.198
+          },
+          {
+            "hex": "#53737d",
+            "share": 0.178
+          },
+          {
+            "hex": "#a1a9a8",
+            "share": 0.075
+          }
+        ],
+        "strongest": "#7c802e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lake-district/commons-4.jpg",
+      "title": "File:Derwent Water, Lake District, Cumbria - June 2009.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Derwent_Water,_Lake_District,_Cumbria_-_June_2009.jpg",
+      "author": "User:Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 6121,
+      "height": 3086,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#788692",
+            "share": 0.284
+          },
+          {
+            "hex": "#304140",
+            "share": 0.194
+          },
+          {
+            "hex": "#c6cbcd",
+            "share": 0.188
+          },
+          {
+            "hex": "#93a6b6",
+            "share": 0.177
+          },
+          {
+            "hex": "#966136",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#966136"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#798694",
+        "share": 0.295
+      },
+      {
+        "hex": "#2f4140",
+        "share": 0.192
+      },
+      {
+        "hex": "#96a8b8",
+        "share": 0.179
+      },
+      {
+        "hex": "#c7ccce",
+        "share": 0.177
+      },
+      {
+        "hex": "#946037",
+        "share": 0.157
+      }
+    ],
+    "strongest": "#946037"
+  }
+}

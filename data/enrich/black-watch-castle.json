@@ -1,0 +1,192 @@
+{
+  "id": "black-watch-castle",
+  "name": "Black Watch Castle & Museum",
+  "lat": 56.4006,
+  "lng": -3.4675,
+  "enrichedAt": "2026-10-11T01:21:32.407Z",
+  "place": {
+    "town": "Ruthvenfield",
+    "locality": null,
+    "county": "Perth and Kinross",
+    "adminArea": "Perth and Kinross",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.4006&lon=-3.4675&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "East Huntingtower, Ruthvenfield, Perth and Kinross, Scotland, PH1 3XX, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Balhousie Castle, regimental home of the Black Watch.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/black-watch-castle/own-black-watch-castle.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/black-watch-castle.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.562
+          },
+          {
+            "hex": "#163719",
+            "share": 0.166
+          },
+          {
+            "hex": "#1b2d46",
+            "share": 0.117
+          },
+          {
+            "hex": "#161a1e",
+            "share": 0.092
+          },
+          {
+            "hex": "#246015",
+            "share": 0.063
+          }
+        ],
+        "strongest": "#163719"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/black-watch-castle/commons-1.jpg",
+      "title": "File:Letham St Mark's Church - geograph.org.uk - 7936733.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Letham_St_Mark%27s_Church_-_geograph.org.uk_-_7936733.jpg",
+      "author": "Scott Cormie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5184,
+      "height": 3888,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3d3d39",
+            "share": 0.355
+          },
+          {
+            "hex": "#cbd9eb",
+            "share": 0.204
+          },
+          {
+            "hex": "#656052",
+            "share": 0.181
+          },
+          {
+            "hex": "#e1e5e9",
+            "share": 0.157
+          },
+          {
+            "hex": "#b5a47b",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#cbd9eb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/black-watch-castle/commons-2.jpg",
+      "title": "File:Holly bush bird feeder - geograph.org.uk - 2207746.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Holly_bush_bird_feeder_-_geograph.org.uk_-_2207746.jpg",
+      "author": "Jackie Proven",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1600,
+      "height": 1557,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2f3b1f",
+            "share": 0.332
+          },
+          {
+            "hex": "#48552e",
+            "share": 0.269
+          },
+          {
+            "hex": "#1d2415",
+            "share": 0.245
+          },
+          {
+            "hex": "#777c58",
+            "share": 0.106
+          },
+          {
+            "hex": "#c2c2b3",
+            "share": 0.048
+          }
+        ],
+        "strongest": "#2f3b1f"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Letham - geograph.org.uk - 2172039.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Roundabout Letham - geograph.org.uk - 2480914.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Roundabout, Letham - geograph.org.uk - 1506486.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Kingswell Terrace, Letham - geograph.org.uk - 2480904.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Tweedsmuir Road, Letham - geograph.org.uk - 2480911.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.562
+      },
+      {
+        "hex": "#163719",
+        "share": 0.166
+      },
+      {
+        "hex": "#1b2d46",
+        "share": 0.117
+      },
+      {
+        "hex": "#161a1e",
+        "share": 0.092
+      },
+      {
+        "hex": "#246015",
+        "share": 0.063
+      }
+    ],
+    "strongest": "#163719"
+  }
+}

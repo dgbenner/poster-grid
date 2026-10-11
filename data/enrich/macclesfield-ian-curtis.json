@@ -1,0 +1,329 @@
+{
+  "id": "macclesfield-ian-curtis",
+  "name": "Macclesfield — Ian Curtis",
+  "lat": 53.2587,
+  "lng": -2.125,
+  "enrichedAt": "2026-10-11T01:21:32.697Z",
+  "place": {
+    "town": "Macclesfield",
+    "locality": null,
+    "county": "Cheshire",
+    "adminArea": "Cheshire East",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.2587&lon=-2.125&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Macclesfield, Cheshire East, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "ian-curtis-memorial-stone",
+        "name": "Ian Curtis Memorial Stone",
+        "km": 1.21
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "ian-curtis-memorial-stone",
+        "name": "Ian Curtis Memorial Stone",
+        "km": 1.2
+      },
+      {
+        "id": "jodrell-bank-observatory",
+        "name": "Jodrell Bank Observatory",
+        "km": 12.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Macclesfield",
+      "description": "Town and civil parish in Cheshire, England",
+      "extract": "Macclesfield is a market town and civil parish in the unitary authority of Cheshire East, Cheshire, England. It is sited on the River Bollin and the edge of the Cheshire Plain, with Macclesfield Forest to its east; the town lies 16 miles (26 km) south of Manchester and 38 miles (61 km) east of Chester.",
+      "url": "https://en.wikipedia.org/wiki/Macclesfield",
+      "coordinates": {
+        "lat": 53.25,
+        "lng": -2.13
+      },
+      "km": 1,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Macclesfield_Town_Hall_%2816339763521%29.jpg/3840px-Macclesfield_Town_Hall_%2816339763521%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Macclesfield",
+      "description": "Town and civil parish in Cheshire, England",
+      "extract": "Macclesfield is a market town and civil parish in the unitary authority of Cheshire East, Cheshire, England. It is sited on the River Bollin and the edge of the Cheshire Plain, with Macclesfield Forest to its east; the town lies 16 miles (26 km) south of Manchester and 38 miles (61 km) east of Chester.",
+      "url": "https://en.wikipedia.org/wiki/Macclesfield",
+      "coordinates": {
+        "lat": 53.25,
+        "lng": -2.13
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Macclesfield_Town_Hall_%2816339763521%29.jpg/3840px-Macclesfield_Town_Hall_%2816339763521%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "House on Barton St, the mural, and the memorial stone in Macclesfield Cemetery.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/macclesfield-ian-curtis/own-ian-curtis-memorial-1.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/ian-curtis-memorial-1.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.312
+          },
+          {
+            "hex": "#312a28",
+            "share": 0.257
+          },
+          {
+            "hex": "#dacdc5",
+            "share": 0.166
+          },
+          {
+            "hex": "#60514c",
+            "share": 0.137
+          },
+          {
+            "hex": "#a58782",
+            "share": 0.13
+          }
+        ],
+        "strongest": "#dacdc5"
+      }
+    },
+    {
+      "kind": "personal",
+      "file": "data/images/macclesfield-ian-curtis/own-ian-curtis-memorial-2.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/ian-curtis-memorial-2.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#060605",
+            "share": 0.246
+          },
+          {
+            "hex": "#adaaa3",
+            "share": 0.205
+          },
+          {
+            "hex": "#e3e2de",
+            "share": 0.199
+          },
+          {
+            "hex": "#77736b",
+            "share": 0.193
+          },
+          {
+            "hex": "#413e38",
+            "share": 0.156
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/macclesfield-ian-curtis/commons-1.jpg",
+      "title": "File:Macclesfield Town Hall (16339763521).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Macclesfield_Town_Hall_(16339763521).jpg",
+      "author": "Smith &amp; Brown",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2e2e28",
+            "share": 0.268
+          },
+          {
+            "hex": "#645640",
+            "share": 0.251
+          },
+          {
+            "hex": "#138fe0",
+            "share": 0.227
+          },
+          {
+            "hex": "#8b877b",
+            "share": 0.133
+          },
+          {
+            "hex": "#7eadd6",
+            "share": 0.121
+          }
+        ],
+        "strongest": "#138fe0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/macclesfield-ian-curtis/commons-2.jpg",
+      "title": "File:MADS Theatre Macclesfield.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:MADS_Theatre_Macclesfield.jpg",
+      "author": "Smurfy",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3540,
+      "height": 4720,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c1cbdc",
+            "share": 0.249
+          },
+          {
+            "hex": "#675245",
+            "share": 0.223
+          },
+          {
+            "hex": "#2b2e28",
+            "share": 0.187
+          },
+          {
+            "hex": "#9a7b69",
+            "share": 0.174
+          },
+          {
+            "hex": "#6ca0cc",
+            "share": 0.167
+          }
+        ],
+        "strongest": "#6ca0cc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/macclesfield-ian-curtis/commons-3.jpg",
+      "title": "File:Macclesfield Canal, Marple.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Macclesfield_Canal,_Marple.jpg",
+      "author": "Benjamin Shaw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ebeff7",
+            "share": 0.295
+          },
+          {
+            "hex": "#4b4d42",
+            "share": 0.256
+          },
+          {
+            "hex": "#2c3126",
+            "share": 0.215
+          },
+          {
+            "hex": "#64676d",
+            "share": 0.153
+          },
+          {
+            "hex": "#929aa7",
+            "share": 0.081
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/macclesfield-ian-curtis/commons-4.jpg",
+      "title": "File:Macclesfield Heritage Centre, former Sunday School.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Macclesfield_Heritage_Centre,_former_Sunday_School.JPG",
+      "author": "Mike in Macc",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4272,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6d4f3c",
+            "share": 0.362
+          },
+          {
+            "hex": "#816855",
+            "share": 0.247
+          },
+          {
+            "hex": "#d6e1ea",
+            "share": 0.159
+          },
+          {
+            "hex": "#413727",
+            "share": 0.12
+          },
+          {
+            "hex": "#9a8f7f",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#6d4f3c"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Church of St Michael, Macclesfield – Savage Chapel - geograph.org.uk - 5667327.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Macclesfield Forest+Trentabank.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.312
+      },
+      {
+        "hex": "#312a28",
+        "share": 0.257
+      },
+      {
+        "hex": "#dacdc5",
+        "share": 0.166
+      },
+      {
+        "hex": "#60514c",
+        "share": 0.137
+      },
+      {
+        "hex": "#a58782",
+        "share": 0.13
+      }
+    ],
+    "strongest": "#dacdc5"
+  }
+}

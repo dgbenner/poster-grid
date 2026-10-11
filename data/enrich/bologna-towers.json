@@ -1,0 +1,286 @@
+{
+  "id": "bologna-towers",
+  "name": "Bologna — the towers",
+  "lat": 44.4949,
+  "lng": 11.3465,
+  "enrichedAt": "2026-10-11T01:21:42.541Z",
+  "place": {
+    "town": "Bologna",
+    "locality": "Santo Stefano",
+    "county": "Bologna",
+    "adminArea": "Bologna",
+    "region": "Emilia-Romagna",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.4949&lon=11.3465&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Santo Stefano, Monte Donato, Bologna, Emilia-Romagna, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "two-towers-of-bologna-asinelli-and-garisenda",
+        "name": "Two Towers of Bologna (Asinelli and Garisenda)",
+        "km": 0.09
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "two-towers-of-bologna-asinelli-and-garisenda",
+        "name": "Two Towers of Bologna (Asinelli and Garisenda)",
+        "km": 0.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Bologna",
+      "description": "Capital and largest city of Emilia-Romagna, Italy",
+      "extract": "Bologna is the capital and largest city of the Emilia-Romagna region in northern Italy. It is the seventh most populous city in Italy, with 391,473 inhabitants from 150 different nationalities. Its metropolitan province is home to more than 1 million people as of 2026. Bologna is most famous for being the home to the oldest university in continuous operation, the University of Bologna, established in AD 1088.",
+      "url": "https://en.wikipedia.org/wiki/Bologna",
+      "coordinates": {
+        "lat": 44.49388889,
+        "lng": 11.34277778
+      },
+      "km": 0.3,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Torri_di_Bologna%2C_Bologna.jpg/3840px-Torri_di_Bologna%2C_Bologna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bologna",
+      "description": "Capital and largest city of Emilia-Romagna, Italy",
+      "extract": "Bologna is the capital and largest city of the Emilia-Romagna region in northern Italy. It is the seventh most populous city in Italy, with 391,473 inhabitants from 150 different nationalities. Its metropolitan province is home to more than 1 million people as of 2026. Bologna is most famous for being the home to the oldest university in continuous operation, the University of Bologna, established in AD 1088.",
+      "url": "https://en.wikipedia.org/wiki/Bologna",
+      "coordinates": {
+        "lat": 44.49388889,
+        "lng": 11.34277778
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Torri_di_Bologna%2C_Bologna.jpg/3840px-Torri_di_Bologna%2C_Bologna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "\"Manhattan of the Middle Ages\"; ~180 towers in the 12th c., the tallest 97 m still standing (30 of 100 remain).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bologna-towers/own-bologna-towers.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bologna-towers.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4b3231",
+            "share": 0.289
+          },
+          {
+            "hex": "#6b73a5",
+            "share": 0.235
+          },
+          {
+            "hex": "#010101",
+            "share": 0.193
+          },
+          {
+            "hex": "#92593e",
+            "share": 0.162
+          },
+          {
+            "hex": "#9faad6",
+            "share": 0.121
+          }
+        ],
+        "strongest": "#92593e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bologna-towers/commons-1.jpg",
+      "title": "File:Torri di Bologna, Bologna.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Torri_di_Bologna,_Bologna.jpg",
+      "author": "Fabio Ciminelli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8fb4da",
+            "share": 0.305
+          },
+          {
+            "hex": "#977d79",
+            "share": 0.268
+          },
+          {
+            "hex": "#5fa1d4",
+            "share": 0.163
+          },
+          {
+            "hex": "#5f4f53",
+            "share": 0.135
+          },
+          {
+            "hex": "#d0a68f",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#8fb4da"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bologna-towers/commons-2.jpg",
+      "title": "File:Alberti History of Bologna 1590.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Alberti_History_of_Bologna_1590.jpg",
+      "author": "Leandro Alberti",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3287,
+      "height": 4394,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#969494",
+            "share": 0.251
+          },
+          {
+            "hex": "#adacab",
+            "share": 0.243
+          },
+          {
+            "hex": "#c5c2bf",
+            "share": 0.219
+          },
+          {
+            "hex": "#e2deda",
+            "share": 0.19
+          },
+          {
+            "hex": "#767574",
+            "share": 0.097
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bologna-towers/commons-3.jpg",
+      "title": "File:Archiginnasio ora blu Bologna.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Archiginnasio_ora_blu_Bologna.jpg",
+      "author": "Wwikiwalter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 7240,
+      "height": 4784,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1e130b",
+            "share": 0.342
+          },
+          {
+            "hex": "#342722",
+            "share": 0.326
+          },
+          {
+            "hex": "#67513c",
+            "share": 0.17
+          },
+          {
+            "hex": "#be9058",
+            "share": 0.089
+          },
+          {
+            "hex": "#6fb6c2",
+            "share": 0.073
+          }
+        ],
+        "strongest": "#be9058"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bologna-towers/commons-4.jpg",
+      "title": "File:Basilica di San Luca.. Bologna.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Luca.._Bologna.jpg",
+      "author": "Maretta Angelini",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1369,
+      "height": 1137,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#786b15",
+            "share": 0.32
+          },
+          {
+            "hex": "#444c13",
+            "share": 0.271
+          },
+          {
+            "hex": "#4fabe3",
+            "share": 0.215
+          },
+          {
+            "hex": "#99cce2",
+            "share": 0.13
+          },
+          {
+            "hex": "#ae945f",
+            "share": 0.065
+          }
+        ],
+        "strongest": "#786b15"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:A week before the German surrender in Italy, sappers of 136 Indian Railway Maintenance Company set about repairing some of the extensive damage in the railyards of Bologna, Italy.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4b3231",
+        "share": 0.289
+      },
+      {
+        "hex": "#6b73a5",
+        "share": 0.235
+      },
+      {
+        "hex": "#010101",
+        "share": 0.193
+      },
+      {
+        "hex": "#92593e",
+        "share": 0.162
+      },
+      {
+        "hex": "#9faad6",
+        "share": 0.121
+      }
+    ],
+    "strongest": "#92593e"
+  }
+}

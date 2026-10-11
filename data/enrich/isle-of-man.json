@@ -1,0 +1,274 @@
+{
+  "id": "isle-of-man",
+  "name": "Isle of Man",
+  "lat": 54.0786,
+  "lng": -4.6539,
+  "enrichedAt": "2026-10-11T01:21:34.821Z",
+  "place": {
+    "town": "Castletown",
+    "locality": null,
+    "county": "Rushen",
+    "adminArea": "Rushen",
+    "region": null,
+    "country": "Isle of Man",
+    "sovereign": "Isle of Man",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=54.0786&lon=-4.6539&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Red Gap, Castletown, Rushen, IM9 1HF, Isle of Man"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Isle of Man",
+      "description": "British Crown Dependency in the Irish Sea",
+      "extract": "The Isle of Man, also known simply as Man or Mann, is a self-governing British Crown Dependency in the Irish Sea, between Great Britain and Ireland. As head of state, Charles III holds the title Lord of Mann and is represented by a Lieutenant Governor. The government of the United Kingdom is responsible for the Isle of Man's military defence and represents it abroad, but the Isle of Man still has a separate international identity.",
+      "url": "https://en.wikipedia.org/wiki/Isle_of_Man",
+      "coordinates": {
+        "lat": 54.235,
+        "lng": -4.525
+      },
+      "km": 19.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Isle_of_Mann.svg/960px-Flag_of_the_Isle_of_Mann.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Castletown, Isle of Man",
+      "description": "Town on the Isle of Man",
+      "extract": "Castletown  is a town in the Isle of Man, geographically within the historical parish of Malew but administered separately. Lying at the south of the island, it was the Manx capital until 1869. The centre of town is dominated by Castle Rushen, a well-preserved medieval castle, originally built for a Viking king.",
+      "url": "https://en.wikipedia.org/wiki/Castletown%2C_Isle_of_Man",
+      "coordinates": {
+        "lat": 54.074,
+        "lng": -4.654
+      },
+      "km": 0.5,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Castle_Rushen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Castle Rushen, Snaefell, the steam railways, Manx wallabies. (Pinned at Castle Rushen.)",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/isle-of-man/own-isle-of-man.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/isle-of-man.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cf142b",
+            "share": 0.905
+          },
+          {
+            "hex": "#dddedb",
+            "share": 0.031
+          },
+          {
+            "hex": "#c90920",
+            "share": 0.024
+          },
+          {
+            "hex": "#b69079",
+            "share": 0.022
+          },
+          {
+            "hex": "#b8494a",
+            "share": 0.018
+          }
+        ],
+        "strongest": "#cf142b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/isle-of-man/commons-1.jpg",
+      "title": "File:Cmglee Douglas Isle of Man aerial view.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Douglas_Isle_of_Man_aerial_view.jpg",
+      "author": "Cmglee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3200,
+      "height": 4800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#05779f",
+            "share": 0.278
+          },
+          {
+            "hex": "#095963",
+            "share": 0.27
+          },
+          {
+            "hex": "#3a6f67",
+            "share": 0.253
+          },
+          {
+            "hex": "#7c8175",
+            "share": 0.131
+          },
+          {
+            "hex": "#e4cab0",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#05779f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/isle-of-man/commons-2.jpg",
+      "title": "File:Douglas Sea Terminal - Isle of Man - kingsley - 20-APR-09.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Douglas_Sea_Terminal_-_Isle_of_Man_-_kingsley_-_20-APR-09.jpg",
+      "author": "Gregory J Kingsley",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1b202b",
+            "share": 0.361
+          },
+          {
+            "hex": "#9fb6d5",
+            "share": 0.233
+          },
+          {
+            "hex": "#c0d1e4",
+            "share": 0.213
+          },
+          {
+            "hex": "#414448",
+            "share": 0.109
+          },
+          {
+            "hex": "#7a7774",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#9fb6d5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/isle-of-man/commons-3.jpg",
+      "title": "File:Isle of Man Peel Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Isle_of_Man_Peel_Castle.jpg",
+      "author": "Finn Bjorklid",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2272,
+      "height": 1704,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#aeceed",
+            "share": 0.223
+          },
+          {
+            "hex": "#34352d",
+            "share": 0.222
+          },
+          {
+            "hex": "#656151",
+            "share": 0.206
+          },
+          {
+            "hex": "#75a4d5",
+            "share": 0.193
+          },
+          {
+            "hex": "#787f83",
+            "share": 0.155
+          }
+        ],
+        "strongest": "#aeceed"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/isle-of-man/commons-4.jpg",
+      "title": "File:The Legs of Man - Isle of Man Triskelion - kingsley - 19-APR-09.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Legs_of_Man_-_Isle_of_Man_Triskelion_-_kingsley_-_19-APR-09.jpg",
+      "author": "Gregory J Kingsley",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#95a3bc",
+            "share": 0.536
+          },
+          {
+            "hex": "#3a3d24",
+            "share": 0.172
+          },
+          {
+            "hex": "#6c6e4b",
+            "share": 0.167
+          },
+          {
+            "hex": "#8c877c",
+            "share": 0.09
+          },
+          {
+            "hex": "#cdc6bc",
+            "share": 0.035
+          }
+        ],
+        "strongest": "#95a3bc"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Douglas Isle of Man welcome sign.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#cf142b",
+        "share": 0.905
+      },
+      {
+        "hex": "#dddedb",
+        "share": 0.031
+      },
+      {
+        "hex": "#c90920",
+        "share": 0.024
+      },
+      {
+        "hex": "#b69079",
+        "share": 0.022
+      },
+      {
+        "hex": "#b8494a",
+        "share": 0.018
+      }
+    ],
+    "strongest": "#cf142b"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "cliffs-of-moher",
+  "name": "Cliffs of Moher",
+  "lat": 52.9715,
+  "lng": -9.4309,
+  "enrichedAt": "2026-10-11T01:21:38.762Z",
+  "place": {
+    "town": "West Clare Municipal District",
+    "locality": null,
+    "county": "County Clare",
+    "adminArea": "County Clare",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.9715&lon=-9.4309&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Lislorkan North, Ballysteen ED, West Clare Municipal District, County Clare, Munster, V95 KN9T, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Cliffs of Moher",
+      "description": "Sea cliffs in County Clare, Ireland",
+      "extract": "The Cliffs of Moher are sea cliffs located at the southwestern edge of the Burren region in County Clare, Ireland. They run for about 14 kilometres. At their southern end, they rise 120 metres (390 ft) above the Atlantic Ocean at Hag's Head, and, 8 kilometres to the north, they reach their maximum height of 214 metres (702 ft) just north of O'Brien's Tower, a round stone tower near the midpoint of the cliffs, built in 1835 by Sir Cornelius O'Brien, then continue at lower heights. The closest settlements are the villages of Liscannor 6 km to the south, and Doolin 7 km to the north.",
+      "url": "https://en.wikipedia.org/wiki/Cliffs_of_Moher",
+      "coordinates": {
+        "lat": 52.97175056,
+        "lng": -9.42633389
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Cliffs-Of-Moher-OBriens-From-South.JPG/3840px-Cliffs-Of-Moher-OBriens-From-South.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "UNESCO sea cliffs on the edge of the Burren; ~9 miles long, rising to 702 ft, with O'Brien's Tower; ~1.6 million visitors a year.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/cliffs-of-moher/own-cliffs-of-moher.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/cliffs-of-moher.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.313
+          },
+          {
+            "hex": "#5a6650",
+            "share": 0.222
+          },
+          {
+            "hex": "#35402f",
+            "share": 0.174
+          },
+          {
+            "hex": "#85969e",
+            "share": 0.157
+          },
+          {
+            "hex": "#b7cddd",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#b7cddd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cliffs-of-moher/commons-1.jpg",
+      "title": "File:Cliffs-Of-Moher-OBriens-From-South.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Cliffs-Of-Moher-OBriens-From-South.JPG",
+      "author": "Bjørn Christian Tørrissen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e6a4c",
+            "share": 0.248
+          },
+          {
+            "hex": "#184474",
+            "share": 0.225
+          },
+          {
+            "hex": "#868079",
+            "share": 0.205
+          },
+          {
+            "hex": "#3d75b2",
+            "share": 0.165
+          },
+          {
+            "hex": "#b7d4f3",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#184474"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cliffs-of-moher/commons-2.jpg",
+      "title": "File:Cliffs-of-Moher-From-Beach-2012.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Cliffs-of-Moher-From-Beach-2012.JPG",
+      "author": "Bjørn Christian Tørrissen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1920,
+      "height": 3424,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4361a9",
+            "share": 0.237
+          },
+          {
+            "hex": "#211b1b",
+            "share": 0.203
+          },
+          {
+            "hex": "#524744",
+            "share": 0.197
+          },
+          {
+            "hex": "#d4e0f5",
+            "share": 0.184
+          },
+          {
+            "hex": "#859bce",
+            "share": 0.18
+          }
+        ],
+        "strongest": "#4361a9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cliffs-of-moher/commons-3.jpg",
+      "title": "File:Cliffs of Moher, County Clare, Ireland.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cliffs_of_Moher,_County_Clare,_Ireland.jpg",
+      "author": "Barney Murphy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#405966",
+            "share": 0.256
+          },
+          {
+            "hex": "#2d3537",
+            "share": 0.234
+          },
+          {
+            "hex": "#82abe2",
+            "share": 0.199
+          },
+          {
+            "hex": "#5b84c1",
+            "share": 0.184
+          },
+          {
+            "hex": "#bad6f0",
+            "share": 0.127
+          }
+        ],
+        "strongest": "#82abe2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cliffs-of-moher/commons-4.jpg",
+      "title": "File:Cliffs of Moher postcard circa 1890–1900.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cliffs_of_Moher_postcard_circa_1890%E2%80%931900.jpg",
+      "author": "Library of Congress, Prints and Photographs Division, Washington, D.C. 20540 USA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3707,
+      "height": 2770,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f9f2de",
+            "share": 0.283
+          },
+          {
+            "hex": "#715d43",
+            "share": 0.234
+          },
+          {
+            "hex": "#4f3d26",
+            "share": 0.188
+          },
+          {
+            "hex": "#957f63",
+            "share": 0.172
+          },
+          {
+            "hex": "#aeb6a1",
+            "share": 0.122
+          }
+        ],
+        "strongest": "#4f3d26"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.313
+      },
+      {
+        "hex": "#5a6650",
+        "share": 0.222
+      },
+      {
+        "hex": "#35402f",
+        "share": 0.174
+      },
+      {
+        "hex": "#85969e",
+        "share": 0.157
+      },
+      {
+        "hex": "#b7cddd",
+        "share": 0.135
+      }
+    ],
+    "strongest": "#b7cddd"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "id": "lichtenstein-castle",
+  "name": "Lichtenstein Castle",
+  "lat": 48.4061,
+  "lng": 9.2575,
+  "enrichedAt": "2026-10-11T01:21:39.051Z",
+  "place": {
+    "town": "Honau",
+    "locality": null,
+    "county": "Landkreis Reutlingen",
+    "adminArea": "Landkreis Reutlingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.4061&lon=9.2575&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Traifelberg, Honau, Lichtenstein, Landkreis Reutlingen, Baden-Württemberg, 72805, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Lichtenstein Castle (Württemberg)",
+      "description": "Tourist attraction in southern Germany",
+      "extract": "Lichtenstein Castle is a privately owned Gothic Revival castle located in the Swabian Jura of southern Germany. It was designed by Carl Alexander Heideloff and its name means \"shining stone\" or \"bright stone\". The castle overlooks the Echaz valley near Honau, Reutlingen, in the state of Baden-Württemberg. The modern castle was inspired by Wilhelm Hauff's 1826 novel Lichtenstein and was built in 1840–1842. The ruins of an older medieval castle are a few hundred meters away.",
+      "url": "https://en.wikipedia.org/wiki/Lichtenstein_Castle_(W%C3%BCrttemberg)",
+      "coordinates": {
+        "lat": 48.40666667,
+        "lng": 9.25805556
+      },
+      "km": 0.1,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Lichtenstein_04-2010.jpg/3840px-Schloss_Lichtenstein_04-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "19th-c. cliff-edge \"fairy-tale castle of Württemberg.\"",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/lichtenstein-castle/own-lichtenstein-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/lichtenstein-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#abb9c2",
+            "share": 0.236
+          },
+          {
+            "hex": "#d3dde1",
+            "share": 0.227
+          },
+          {
+            "hex": "#080807",
+            "share": 0.205
+          },
+          {
+            "hex": "#5c554e",
+            "share": 0.204
+          },
+          {
+            "hex": "#878989",
+            "share": 0.129
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lichtenstein-castle/commons-1.jpg",
+      "title": "File:Schloss Lichtenstein 04-2010.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Lichtenstein_04-2010.jpg",
+      "author": "-donald-",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3888,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b3025",
+            "share": 0.299
+          },
+          {
+            "hex": "#594b3e",
+            "share": 0.229
+          },
+          {
+            "hex": "#959cb0",
+            "share": 0.204
+          },
+          {
+            "hex": "#c3bbbb",
+            "share": 0.149
+          },
+          {
+            "hex": "#84756f",
+            "share": 0.119
+          }
+        ],
+        "strongest": "#3b3025"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lichtenstein-castle/commons-2.jpg",
+      "title": "File:Lichtenstein - Lichtenstein Castle - inside 2012 (aka).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lichtenstein_-_Lichtenstein_Castle_-_inside_2012_(aka).jpg",
+      "author": "André Karwath aka Aka",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "width": 7802,
+      "height": 6200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c9ad2",
+            "share": 0.29
+          },
+          {
+            "hex": "#434f38",
+            "share": 0.272
+          },
+          {
+            "hex": "#202a1a",
+            "share": 0.192
+          },
+          {
+            "hex": "#747670",
+            "share": 0.137
+          },
+          {
+            "hex": "#aca59c",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#6c9ad2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lichtenstein-castle/commons-3.jpg",
+      "title": "File:Meister von Schloß Lichtenstein 001.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Meister_von_Schlo%C3%9F_Lichtenstein_001.jpg",
+      "author": "Master of Schloss Lichtenstein",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1576,
+      "height": 2763,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1c140e",
+            "share": 0.249
+          },
+          {
+            "hex": "#7e5429",
+            "share": 0.243
+          },
+          {
+            "hex": "#503419",
+            "share": 0.229
+          },
+          {
+            "hex": "#ac8b50",
+            "share": 0.182
+          },
+          {
+            "hex": "#d4c6a5",
+            "share": 0.098
+          }
+        ],
+        "strongest": "#7e5429"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/lichtenstein-castle/commons-4.jpg",
+      "title": "File:Schloss Lichtenstein 04-2010.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Lichtenstein_04-2010.jpg",
+      "author": "-donald-",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3888,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b3025",
+            "share": 0.299
+          },
+          {
+            "hex": "#594b3e",
+            "share": 0.229
+          },
+          {
+            "hex": "#959cb0",
+            "share": 0.204
+          },
+          {
+            "hex": "#c3bbbb",
+            "share": 0.149
+          },
+          {
+            "hex": "#84756f",
+            "share": 0.119
+          }
+        ],
+        "strongest": "#3b3025"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Abbruch des Forsthauses auf dem Lichtenstein.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#abb9c2",
+        "share": 0.236
+      },
+      {
+        "hex": "#d3dde1",
+        "share": 0.227
+      },
+      {
+        "hex": "#080807",
+        "share": 0.205
+      },
+      {
+        "hex": "#5c554e",
+        "share": 0.204
+      },
+      {
+        "hex": "#878989",
+        "share": 0.129
+      }
+    ],
+    "strongest": null
+  }
+}

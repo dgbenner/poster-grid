@@ -1,0 +1,269 @@
+{
+  "id": "dresden",
+  "name": "Dresden",
+  "lat": 51.0504,
+  "lng": 13.7373,
+  "enrichedAt": "2026-10-11T01:21:39.697Z",
+  "place": {
+    "town": "Dresden",
+    "locality": "Innere Altstadt",
+    "county": "Saxony",
+    "adminArea": null,
+    "region": "Saxony",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.0504&lon=13.7373&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Innere Altstadt, Altstadt, Dresden, Saxony, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Dresden",
+      "description": "Capital city of Saxony, Germany",
+      "extract": "Dresden is the capital city of the German state of Saxony and its second most populous city after Leipzig. It is the 12th most populous city of Germany, the fourth largest by area, and the third-most populous city in the area of former East Germany, after Berlin and Leipzig. Dresden's urban area comprises the towns of Freital, Pirna, Radebeul, Meissen, Coswig, Radeberg, and Heidenau and has around 790,000 inhabitants. The Dresden metropolitan area has over 1.3 million inhabitants.",
+      "url": "https://en.wikipedia.org/wiki/Dresden",
+      "coordinates": {
+        "lat": 51.05,
+        "lng": 13.74
+      },
+      "km": 0.2,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/3840px-DD-Schloss-gp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Dresden",
+      "description": "Capital city of Saxony, Germany",
+      "extract": "Dresden is the capital city of the German state of Saxony and its second most populous city after Leipzig. It is the 12th most populous city of Germany, the fourth largest by area, and the third-most populous city in the area of former East Germany, after Berlin and Leipzig. Dresden's urban area comprises the towns of Freital, Pirna, Radebeul, Meissen, Coswig, Radeberg, and Heidenau and has around 790,000 inhabitants. The Dresden metropolitan area has over 1.3 million inhabitants.",
+      "url": "https://en.wikipedia.org/wiki/Dresden",
+      "coordinates": {
+        "lat": 51.05,
+        "lng": 13.74
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/3840px-DD-Schloss-gp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The Zwinger, Frauenkirche and old town rebuilt from WWII ruins, much from scratch in the last 20 years.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/dresden/own-dresden.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/dresden.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.324
+          },
+          {
+            "hex": "#6585d4",
+            "share": 0.209
+          },
+          {
+            "hex": "#8a7b52",
+            "share": 0.179
+          },
+          {
+            "hex": "#51493a",
+            "share": 0.178
+          },
+          {
+            "hex": "#c7a897",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#6585d4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dresden/commons-1.jpg",
+      "title": "File:DD-Schloss-gp.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:DD-Schloss-gp.jpg",
+      "author": "User:Kolossos",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 7231,
+      "height": 4294,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4f83b8",
+            "share": 0.291
+          },
+          {
+            "hex": "#736148",
+            "share": 0.241
+          },
+          {
+            "hex": "#6fa0ca",
+            "share": 0.209
+          },
+          {
+            "hex": "#333120",
+            "share": 0.159
+          },
+          {
+            "hex": "#ae9674",
+            "share": 0.1
+          }
+        ],
+        "strongest": "#4f83b8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dresden/commons-2.jpg",
+      "title": "File:100130 150006 Dresden Frauenkirche winter blue sky-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg",
+      "author": "Netopyr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3075,
+      "height": 4559,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#396797",
+            "share": 0.451
+          },
+          {
+            "hex": "#ab976f",
+            "share": 0.203
+          },
+          {
+            "hex": "#7f7259",
+            "share": 0.142
+          },
+          {
+            "hex": "#454034",
+            "share": 0.136
+          },
+          {
+            "hex": "#aab3bb",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#396797"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dresden/commons-3.jpg",
+      "title": "File:20070110100DR Dresden-Friedrichstadt Yenidze Weißeritzstr 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20070110100DR_Dresden-Friedrichstadt_Yenidze_Wei%C3%9Feritzstr_3.jpg",
+      "author": "Jörg Blobelt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2045,
+      "height": 1955,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#508dd6",
+            "share": 0.323
+          },
+          {
+            "hex": "#4d5058",
+            "share": 0.247
+          },
+          {
+            "hex": "#74a9f0",
+            "share": 0.177
+          },
+          {
+            "hex": "#d1c3bc",
+            "share": 0.138
+          },
+          {
+            "hex": "#968c89",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#508dd6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dresden/commons-4.jpg",
+      "title": "File:20121011070DR Dresden Altmarkt Haus Altmarkt + Wasserspiele.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20121011070DR_Dresden_Altmarkt_Haus_Altmarkt_%2B_Wasserspiele.jpg",
+      "author": "Jörg Blobelt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2907,
+      "height": 2500,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2764b7",
+            "share": 0.247
+          },
+          {
+            "hex": "#a59888",
+            "share": 0.216
+          },
+          {
+            "hex": "#67615b",
+            "share": 0.212
+          },
+          {
+            "hex": "#22262c",
+            "share": 0.162
+          },
+          {
+            "hex": "#d8cbb7",
+            "share": 0.162
+          }
+        ],
+        "strongest": "#2764b7"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.324
+      },
+      {
+        "hex": "#6585d4",
+        "share": 0.209
+      },
+      {
+        "hex": "#8a7b52",
+        "share": 0.179
+      },
+      {
+        "hex": "#51493a",
+        "share": 0.178
+      },
+      {
+        "hex": "#c7a897",
+        "share": 0.11
+      }
+    ],
+    "strongest": "#6585d4"
+  }
+}

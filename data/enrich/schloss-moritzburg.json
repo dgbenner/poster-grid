@@ -1,0 +1,256 @@
+{
+  "id": "schloss-moritzburg",
+  "name": "Schloss Moritzburg",
+  "lat": 51.1672,
+  "lng": 13.6803,
+  "enrichedAt": "2026-10-11T01:21:39.476Z",
+  "place": {
+    "town": "Dippelsdorf",
+    "locality": null,
+    "county": "Meissen",
+    "adminArea": "Meissen",
+    "region": "Saxony",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.1672&lon=13.6803&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Dippelsdorf, Moritzburg, Meissen, Saxony, 01468, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Moritzburg, Saxony",
+      "description": "Municipality in Saxony, Germany",
+      "extract": "Moritzburg is a municipality in the district of Meissen in Saxony, Germany, between Meissen itself, an early centre of Saxony, and today's capital Dresden. It is most famous for its Baroque castle, Schloss Moritzburg.",
+      "url": "https://en.wikipedia.org/wiki/Moritzburg%2C_Saxony",
+      "coordinates": {
+        "lat": 51.165,
+        "lng": 13.67944444
+      },
+      "km": 0.3,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Schloss-Moritzburg-von-S%C3%BCd-West-2012-001-a.jpg/3840px-Schloss-Moritzburg-von-S%C3%BCd-West-2012-001-a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Baroque moated hunting palace.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/schloss-moritzburg/own-schloss-moritzburg.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/schloss-moritzburg.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#45352c",
+            "share": 0.305
+          },
+          {
+            "hex": "#7e5e4b",
+            "share": 0.218
+          },
+          {
+            "hex": "#aa887a",
+            "share": 0.197
+          },
+          {
+            "hex": "#c3b7b3",
+            "share": 0.194
+          },
+          {
+            "hex": "#0f0d0c",
+            "share": 0.086
+          }
+        ],
+        "strongest": "#45352c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-moritzburg/commons-1.jpg",
+      "title": "File:Schloss-Moritzburg-von-Süd-West-2012-001-a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss-Moritzburg-von-S%C3%BCd-West-2012-001-a.jpg",
+      "author": "Schloss_Moritzburg_von_Süd-West.jpg: Christian Skubich derivative work: Dontworry",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#72767d",
+            "share": 0.282
+          },
+          {
+            "hex": "#594c3e",
+            "share": 0.237
+          },
+          {
+            "hex": "#4a95e1",
+            "share": 0.204
+          },
+          {
+            "hex": "#1285e9",
+            "share": 0.141
+          },
+          {
+            "hex": "#89a7c4",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#4a95e1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-moritzburg/commons-2.jpg",
+      "title": "File:Schloss Moritzburg im Mai.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Moritzburg_im_Mai.jpg",
+      "author": "Bordetella1",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#607337",
+            "share": 0.329
+          },
+          {
+            "hex": "#d8d5cf",
+            "share": 0.204
+          },
+          {
+            "hex": "#79814b",
+            "share": 0.169
+          },
+          {
+            "hex": "#a39b8f",
+            "share": 0.153
+          },
+          {
+            "hex": "#26321a",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#607337"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-moritzburg/commons-3.jpg",
+      "title": "File:Bahnhofstraße 17 Moritzburg (3).JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bahnhofstra%C3%9Fe_17_Moritzburg_(3).JPG",
+      "author": "Richard Riemerschmid (Architekt)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 2248,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2e2419",
+            "share": 0.27
+          },
+          {
+            "hex": "#574734",
+            "share": 0.223
+          },
+          {
+            "hex": "#7d6c60",
+            "share": 0.194
+          },
+          {
+            "hex": "#bb9883",
+            "share": 0.162
+          },
+          {
+            "hex": "#c8d3e2",
+            "share": 0.151
+          }
+        ],
+        "strongest": "#2e2419"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-moritzburg/commons-4.jpg",
+      "title": "File:20250211.Moritzburg Castle.-039.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20250211.Moritzburg_Castle.-039.jpg",
+      "author": "Bybbisch94",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 9248,
+      "height": 6936,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#918f87",
+            "share": 0.455
+          },
+          {
+            "hex": "#d5b16e",
+            "share": 0.191
+          },
+          {
+            "hex": "#8a695a",
+            "share": 0.152
+          },
+          {
+            "hex": "#5f3d35",
+            "share": 0.133
+          },
+          {
+            "hex": "#a5bece",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#d5b16e"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#45352c",
+        "share": 0.305
+      },
+      {
+        "hex": "#7e5e4b",
+        "share": 0.218
+      },
+      {
+        "hex": "#aa887a",
+        "share": 0.197
+      },
+      {
+        "hex": "#c3b7b3",
+        "share": 0.194
+      },
+      {
+        "hex": "#0f0d0c",
+        "share": 0.086
+      }
+    ],
+    "strongest": "#45352c"
+  }
+}

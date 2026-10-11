@@ -1,0 +1,486 @@
+{
+  "id": "camera-obscura",
+  "name": "Camera Obscura",
+  "lat": 55.9489,
+  "lng": -3.1953,
+  "enrichedAt": "2026-10-11T01:21:29.876Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9489&lon=-3.1953&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.03
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.16
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.19
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.27
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.29
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.3
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.32
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.34
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.38
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.41
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.41
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1.02
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.04
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.31
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.4
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.5
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.01
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.15
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.83
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.19
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.62
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.2
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.2
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.3
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.3
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.3
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.3
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.3
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.4
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.4
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.4
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.3
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.4
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.5
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.2
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.8
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.2
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.6
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 12.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Camera Obscura, Edinburgh",
+      "description": "Tourist attraction in Scotland",
+      "extract": "Camera Obscura & World of Illusions is a tourist attraction located in Outlook Tower on the Castlehill section of the Royal Mile close to Edinburgh Castle. The original attraction was founded by entrepreneur Maria Theresa Short in 1835 and was exhibited on Calton Hill. Outlook Tower has been a museum since the late 1890s and is currently home to many interactive exhibits, including the original camera obscura.",
+      "url": "https://en.wikipedia.org/wiki/Camera_Obscura%2C_Edinburgh",
+      "coordinates": {
+        "lat": 55.949,
+        "lng": -3.1956
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/en/0/0d/Camera_Obscura_Edinburgh_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Victorian rooftop camera + five floors of optical illusions.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/camera-obscura/own-camera-obscura.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/camera-obscura.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f0f8fc",
+            "share": 0.333
+          },
+          {
+            "hex": "#282727",
+            "share": 0.217
+          },
+          {
+            "hex": "#606160",
+            "share": 0.21
+          },
+          {
+            "hex": "#828485",
+            "share": 0.2
+          },
+          {
+            "hex": "#b0b6bf",
+            "share": 0.039
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camera-obscura/commons-1.jpg",
+      "title": "File:Camera obscura 5814-michelides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Camera_obscura_5814-michelides.jpg",
+      "author": "Christian Michelides",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2123,
+      "height": 1417,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#171023",
+            "share": 0.266
+          },
+          {
+            "hex": "#192444",
+            "share": 0.225
+          },
+          {
+            "hex": "#48283c",
+            "share": 0.223
+          },
+          {
+            "hex": "#243a72",
+            "share": 0.184
+          },
+          {
+            "hex": "#794a60",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#243a72"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camera-obscura/commons-2.jpg",
+      "title": "File:Camera obscura 5832-michelides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Camera_obscura_5832-michelides.jpg",
+      "author": "Christian Michelides",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2123,
+      "height": 1417,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0d3ecf",
+            "share": 0.285
+          },
+          {
+            "hex": "#08229a",
+            "share": 0.221
+          },
+          {
+            "hex": "#2d5fec",
+            "share": 0.211
+          },
+          {
+            "hex": "#020955",
+            "share": 0.148
+          },
+          {
+            "hex": "#718cf6",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#0d3ecf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camera-obscura/commons-3.jpg",
+      "title": "File:Camera obscura 5873-michelides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Camera_obscura_5873-michelides.jpg",
+      "author": "Christian Michelides",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2123,
+      "height": 1417,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#494c40",
+            "share": 0.263
+          },
+          {
+            "hex": "#0b0a0b",
+            "share": 0.219
+          },
+          {
+            "hex": "#2a2d25",
+            "share": 0.213
+          },
+          {
+            "hex": "#358357",
+            "share": 0.196
+          },
+          {
+            "hex": "#3fc88f",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#358357"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camera-obscura/commons-4.jpg",
+      "title": "File:Camera obscura 5909-michelides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Camera_obscura_5909-michelides.jpg",
+      "author": "Christian Michelides",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2123,
+      "height": 1417,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#03040f",
+            "share": 0.325
+          },
+          {
+            "hex": "#061534",
+            "share": 0.241
+          },
+          {
+            "hex": "#14305f",
+            "share": 0.219
+          },
+          {
+            "hex": "#3d5792",
+            "share": 0.142
+          },
+          {
+            "hex": "#9f98be",
+            "share": 0.072
+          }
+        ],
+        "strongest": "#14305f"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#f0f8fc",
+        "share": 0.333
+      },
+      {
+        "hex": "#282727",
+        "share": 0.217
+      },
+      {
+        "hex": "#606160",
+        "share": 0.21
+      },
+      {
+        "hex": "#828485",
+        "share": 0.2
+      },
+      {
+        "hex": "#b0b6bf",
+        "share": 0.039
+      }
+    ],
+    "strongest": null
+  }
+}

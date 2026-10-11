@@ -1,0 +1,341 @@
+{
+  "id": "black-friar-pub",
+  "name": "The Black Friar",
+  "lat": 51.5121,
+  "lng": -0.1037,
+  "enrichedAt": "2026-10-11T01:21:34.401Z",
+  "place": {
+    "town": "London",
+    "locality": "Blackfriars",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "City of London",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.5121&lon=-0.1037&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Blackfriars, City of London, Greater London, England, EC4V 6BJ, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 1.81
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 2.47
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 2.87
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 4.02
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 4.4
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 1.8
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 2.5
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 2.9
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 4
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 4.4
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 5.6
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 8.1
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 13.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "The Black Friar, Blackfriars",
+      "description": "Pub in London, England",
+      "extract": "The Black Friar is a Grade II* listed public house on Queen Victoria Street in Blackfriars, London, England.",
+      "url": "https://en.wikipedia.org/wiki/The_Black_Friar%2C_Blackfriars",
+      "coordinates": {
+        "lat": 51.5121,
+        "lng": -0.1037
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/Black-Friar-Pub-Londres-230819.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "City of London",
+      "description": "Central business district of London, England",
+      "extract": "The City of London is a city, ceremonial county and local government district in England. Established by the Romans around 47 AD as Londinium, it forms the historic centre of the wider London metropolis. Surrounded by the modern ceremonial county of Greater London, the City is a unique local authority area governed by the City of London Corporation, which is led by the Lord Mayor of London. It is included as part of the region of England governed by the Greater London Authority, which shares local government powers in the region with the councils of 32 London boroughs and the City of London Corporation.",
+      "url": "https://en.wikipedia.org/wiki/City_of_London",
+      "coordinates": {
+        "lat": 51.51555556,
+        "lng": -0.09305556
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bank_junction_-_2020-09-20_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Arts-and-Crafts pub all in marble and copper, shaped like a wedge.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "food"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/black-friar-pub/own-black-friar-pub.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/black-friar-pub.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f554d",
+            "share": 0.252
+          },
+          {
+            "hex": "#2b2a26",
+            "share": 0.238
+          },
+          {
+            "hex": "#040404",
+            "share": 0.205
+          },
+          {
+            "hex": "#858699",
+            "share": 0.159
+          },
+          {
+            "hex": "#b2bad4",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#b2bad4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/black-friar-pub/commons-1.jpg",
+      "title": "File:Black-Friar-Pub-Londres-230819.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Black-Friar-Pub-Londres-230819.jpg",
+      "author": "FDV",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2965,
+      "height": 2965,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#82939d",
+            "share": 0.277
+          },
+          {
+            "hex": "#5a6464",
+            "share": 0.225
+          },
+          {
+            "hex": "#2d3b3b",
+            "share": 0.173
+          },
+          {
+            "hex": "#aedaef",
+            "share": 0.165
+          },
+          {
+            "hex": "#bca78f",
+            "share": 0.161
+          }
+        ],
+        "strongest": "#aedaef"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/black-friar-pub/commons-2.jpg",
+      "title": "File:The Black Friar Pub, London (8484525709).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Black_Friar_Pub,_London_(8484525709).jpg",
+      "author": "Love Art Nouveau",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#757672",
+            "share": 0.292
+          },
+          {
+            "hex": "#9f9a90",
+            "share": 0.196
+          },
+          {
+            "hex": "#f5f2ea",
+            "share": 0.189
+          },
+          {
+            "hex": "#cdc6b6",
+            "share": 0.172
+          },
+          {
+            "hex": "#3f454e",
+            "share": 0.151
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/black-friar-pub/commons-3.jpg",
+      "title": "File:The Black Friar Pub, London (8485584566).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Black_Friar_Pub,_London_(8485584566).jpg",
+      "author": "Love Art Nouveau",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#642408",
+            "share": 0.262
+          },
+          {
+            "hex": "#904812",
+            "share": 0.256
+          },
+          {
+            "hex": "#361309",
+            "share": 0.223
+          },
+          {
+            "hex": "#b67e4a",
+            "share": 0.175
+          },
+          {
+            "hex": "#efce9d",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#642408"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/black-friar-pub/commons-4.jpg",
+      "title": "File:The Black Friar Pub, London (8485588830).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Black_Friar_Pub,_London_(8485588830).jpg",
+      "author": "Love Art Nouveau",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a96025",
+            "share": 0.278
+          },
+          {
+            "hex": "#76370f",
+            "share": 0.269
+          },
+          {
+            "hex": "#d69952",
+            "share": 0.206
+          },
+          {
+            "hex": "#311106",
+            "share": 0.163
+          },
+          {
+            "hex": "#efdaad",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#76370f"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Black Friar Pub, London (8475355639).jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5f554d",
+        "share": 0.252
+      },
+      {
+        "hex": "#2b2a26",
+        "share": 0.238
+      },
+      {
+        "hex": "#040404",
+        "share": 0.205
+      },
+      {
+        "hex": "#858699",
+        "share": 0.159
+      },
+      {
+        "hex": "#b2bad4",
+        "share": 0.146
+      }
+    ],
+    "strongest": "#b2bad4"
+  }
+}

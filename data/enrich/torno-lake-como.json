@@ -1,0 +1,288 @@
+{
+  "id": "torno-lake-como",
+  "name": "Torno, Lake Como",
+  "lat": 45.8443,
+  "lng": 9.1135,
+  "enrichedAt": "2026-10-11T01:21:43.588Z",
+  "place": {
+    "town": "Blevio",
+    "locality": null,
+    "county": "Como",
+    "adminArea": "Como",
+    "region": "Lombardy",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.8443&lon=9.1135&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Monti di Cazzanore, Cazzanore, Blevio, Como, Lombardy, 22034, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "villa-del-balbianello-lenno",
+        "name": "Villa del Balbianello, Lenno (Lake Como)",
+        "km": 15.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Lake Como",
+      "description": "Lake in Lombardy, Italy",
+      "extract": "Lake Como, also known as Lario, is a lake of glacial origin in Lombardy, Italy. It has an area of 146 km2 (56 sq mi), making it the third-largest lake in Italy, after Lake Garda and Lake Maggiore. At over 400 metres (1,300 ft) deep, it is one of the deepest lakes in Europe. Its characteristic \"Y\" shape resulted from the movement of the ancient Adda glacier, which was diverted by the mountainous terrain and carved the three branches.",
+      "url": "https://en.wikipedia.org/wiki/Lake_Como",
+      "coordinates": {
+        "lat": 46,
+        "lng": 9.26666667
+      },
+      "km": 21,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sentiero_del_Viandante_DSC_6340_%2814020554463%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Blevio",
+      "description": "Comune in Lombardy, Italy",
+      "extract": "Blevio is a comune (municipality) in the Province of Como in the Italian region Lombardy. It is situated approximately 40 kilometres (25 mi) north of Milan and 2 kilometres (1 mi) northeast of Como, overlooking the eastern shore of Lake Como from hilly slopes that rise from an elevation of 200 metres (660 ft).",
+      "url": "https://en.wikipedia.org/wiki/Blevio",
+      "coordinates": {
+        "lat": 45.8389,
+        "lng": 9.1024
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Blevio_from_Lake_Como_ferry.jpg/3840px-Blevio_from_Lake_Como_ferry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Lakeside village.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/torno-lake-como/own-torno-lake-como.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/torno-lake-como.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7593a3",
+            "share": 0.309
+          },
+          {
+            "hex": "#bccede",
+            "share": 0.258
+          },
+          {
+            "hex": "#20555b",
+            "share": 0.179
+          },
+          {
+            "hex": "#0d688f",
+            "share": 0.142
+          },
+          {
+            "hex": "#a0984b",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#0d688f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/torno-lake-como/commons-1.jpg",
+      "title": "File:Clarkson Frederick Stanfield (1793-1867) - Lake Como - N00406 - National Gallery.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Clarkson_Frederick_Stanfield_(1793-1867)_-_Lake_Como_-_N00406_-_National_Gallery.jpg",
+      "author": "Clarkson Frederick Stanfield",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1148,
+      "height": 698,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2e2d23",
+            "share": 0.239
+          },
+          {
+            "hex": "#adb0b5",
+            "share": 0.207
+          },
+          {
+            "hex": "#949398",
+            "share": 0.201
+          },
+          {
+            "hex": "#62533e",
+            "share": 0.185
+          },
+          {
+            "hex": "#7a746e",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#62533e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/torno-lake-como/commons-2.jpg",
+      "title": "File:Como lake in Italy.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Como_lake_in_Italy.jpg",
+      "author": "[[User:KhrystynaMogyliuk]]",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5000,
+      "height": 3333,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#afb4bc",
+            "share": 0.293
+          },
+          {
+            "hex": "#9aa2aa",
+            "share": 0.218
+          },
+          {
+            "hex": "#485456",
+            "share": 0.187
+          },
+          {
+            "hex": "#222926",
+            "share": 0.169
+          },
+          {
+            "hex": "#667071",
+            "share": 0.132
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/torno-lake-como/commons-3.jpg",
+      "title": "File:Good como lake photo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Good_como_lake_photo.jpg",
+      "author": "Thunderbirds12345",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2848,
+      "height": 2134,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5c6c76",
+            "share": 0.29
+          },
+          {
+            "hex": "#3b4d53",
+            "share": 0.218
+          },
+          {
+            "hex": "#b9cfe4",
+            "share": 0.214
+          },
+          {
+            "hex": "#898c8c",
+            "share": 0.142
+          },
+          {
+            "hex": "#91acc8",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#b9cfe4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/torno-lake-como/commons-4.jpg",
+      "title": "File:Monte San Primo - lago di Como.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Monte_San_Primo_-_lago_di_Como.jpg",
+      "author": "Mario Falcetti",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 5120,
+      "height": 3840,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#165de7",
+            "share": 0.257
+          },
+          {
+            "hex": "#273d1f",
+            "share": 0.238
+          },
+          {
+            "hex": "#54702b",
+            "share": 0.228
+          },
+          {
+            "hex": "#1a3e87",
+            "share": 0.151
+          },
+          {
+            "hex": "#97c5e7",
+            "share": 0.126
+          }
+        ],
+        "strongest": "#165de7"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Lake Como Lecco Arm 1.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:View of Lake Como from Villa Monastero, Varenna.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Villa Balbianello on Como Lake 8.jpg",
+      "why": "logo/map/album filter"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7593a3",
+        "share": 0.309
+      },
+      {
+        "hex": "#bccede",
+        "share": 0.258
+      },
+      {
+        "hex": "#20555b",
+        "share": 0.179
+      },
+      {
+        "hex": "#0d688f",
+        "share": 0.142
+      },
+      {
+        "hex": "#a0984b",
+        "share": 0.113
+      }
+    ],
+    "strongest": "#0d688f"
+  }
+}

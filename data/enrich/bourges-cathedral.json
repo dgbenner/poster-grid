@@ -1,0 +1,274 @@
+{
+  "id": "bourges-cathedral",
+  "name": "Bourges Cathedral",
+  "lat": 47.0822,
+  "lng": 2.3989,
+  "enrichedAt": "2026-10-11T01:21:41.251Z",
+  "place": {
+    "town": "Bourges",
+    "locality": "Port-Sec Nord",
+    "county": "Cher",
+    "adminArea": "Cher",
+    "region": "Centre-Val de Loire",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.0822&lon=2.3989&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Port-Sec Nord, Bourges, Cher, Centre-Val de Loire, Metropolitan France, 18000, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Bourges Cathedral",
+      "description": "Cathedral in Bourges, Cher, France",
+      "extract": "Bourges Cathedral or the Cathedral of Saint Stephen of Bourges is a Roman Catholic church located in Bourges, France. The cathedral is dedicated to Saint Stephen and is the seat of the Archbishop of Bourges. Built atop an earlier Romanesque church from 1195 until 1230, it is largely in the High Gothic or Classic Gothic architectural style and was constructed at about the same time as Chartres Cathedral. The cathedral is particularly known for the great size and unity of its interior, the sculptural decoration of its portals, and the large collection of 13th century stained glass windows. Owing to its quintessential Gothic architecture, the cathedral was declared a UNESCO World Heritage Site in 1992.",
+      "url": "https://en.wikipedia.org/wiki/Bourges_Cathedral",
+      "coordinates": {
+        "lat": 47.08194444,
+        "lng": 2.39944444
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Cath%C3%A9drale_Saint-%C3%89tienne_7SC2336CFP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bourges",
+      "description": "Commune in Centre-Val de Loire, France",
+      "extract": "Bourges is a commune in central France on the river Yèvre. It is the capital of the department of Cher, and also was the capital city of the former province of Berry. It is part of the Centre-Val de Loire region of France.",
+      "url": "https://en.wikipedia.org/wiki/Bourges",
+      "coordinates": {
+        "lat": 47.07944444,
+        "lng": 2.39583333
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bourges.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Gardens and medieval streets (the Bette Davis / Petrified Forest reference).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bourges-cathedral/own-bourges-cathedral.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bourges-cathedral.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8f8266",
+            "share": 0.295
+          },
+          {
+            "hex": "#2469a6",
+            "share": 0.273
+          },
+          {
+            "hex": "#c3b390",
+            "share": 0.22
+          },
+          {
+            "hex": "#504635",
+            "share": 0.126
+          },
+          {
+            "hex": "#357bb9",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#2469a6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bourges-cathedral/commons-1.jpg",
+      "title": "File:Bourges Cathedral Southern nave.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bourges_Cathedral_Southern_nave.jpg",
+      "author": "Ymblanter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3534,
+      "height": 6000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#49433f",
+            "share": 0.289
+          },
+          {
+            "hex": "#363230",
+            "share": 0.283
+          },
+          {
+            "hex": "#5f594f",
+            "share": 0.164
+          },
+          {
+            "hex": "#242020",
+            "share": 0.144
+          },
+          {
+            "hex": "#827760",
+            "share": 0.12
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bourges-cathedral/commons-2.jpg",
+      "title": "File:Bourges-Kathedrale-134-Fenster-Joseph-2008-gje.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bourges-Kathedrale-134-Fenster-Joseph-2008-gje.jpg",
+      "author": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2610,
+      "height": 1954,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#170e11",
+            "share": 0.348
+          },
+          {
+            "hex": "#561c18",
+            "share": 0.299
+          },
+          {
+            "hex": "#464b7f",
+            "share": 0.156
+          },
+          {
+            "hex": "#a2523f",
+            "share": 0.105
+          },
+          {
+            "hex": "#77a2cd",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#561c18"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bourges-cathedral/commons-3.jpg",
+      "title": "File:Bourges (18) Cathédrale Saint-Étienne - Extérieur - Portail Saint-Guillaume - 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bourges_(18)_Cath%C3%A9drale_Saint-%C3%89tienne_-_Ext%C3%A9rieur_-_Portail_Saint-Guillaume_-_02.jpg",
+      "author": "GO69",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8b8c8d",
+            "share": 0.291
+          },
+          {
+            "hex": "#7a7672",
+            "share": 0.246
+          },
+          {
+            "hex": "#9ba0a6",
+            "share": 0.193
+          },
+          {
+            "hex": "#625950",
+            "share": 0.188
+          },
+          {
+            "hex": "#352f2d",
+            "share": 0.081
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bourges-cathedral/commons-4.jpg",
+      "title": "File:Bourges (18) Cathédrale Saint-Étienne - Extérieur - Portail Saint-Étienne - 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bourges_(18)_Cath%C3%A9drale_Saint-%C3%89tienne_-_Ext%C3%A9rieur_-_Portail_Saint-%C3%89tienne_-_03.jpg",
+      "author": "GO69",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e8e8f",
+            "share": 0.232
+          },
+          {
+            "hex": "#7a7671",
+            "share": 0.224
+          },
+          {
+            "hex": "#5f554b",
+            "share": 0.202
+          },
+          {
+            "hex": "#a0a6ad",
+            "share": 0.193
+          },
+          {
+            "hex": "#3a3027",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#3a3027"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Bourges, Cathédrale Saint-Étienne PM 37475.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#8f8266",
+        "share": 0.295
+      },
+      {
+        "hex": "#2469a6",
+        "share": 0.273
+      },
+      {
+        "hex": "#c3b390",
+        "share": 0.22
+      },
+      {
+        "hex": "#504635",
+        "share": 0.126
+      },
+      {
+        "hex": "#357bb9",
+        "share": 0.085
+      }
+    ],
+    "strongest": "#2469a6"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": "hohenzollern-castle",
+  "name": "Hohenzollern Castle",
+  "lat": 48.3236,
+  "lng": 8.9678,
+  "enrichedAt": "2026-10-11T01:21:39.144Z",
+  "place": {
+    "town": "Bisingen",
+    "locality": null,
+    "county": "Zollernalbkreis",
+    "adminArea": "Zollernalbkreis",
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.3236&lon=8.9678&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Zollerberg, Zimmern, Bisingen, VVG der Gemeinde Bisingen, Zollernalbkreis, Baden-Württemberg, 72379, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Hohenzollern Castle",
+      "description": "Castle in Baden-Württemberg, Germany",
+      "extract": "Hohenzollern Castle is the ancestral seat of the formerly imperial House of Hohenzollern. The third of three hilltop castles built on the site, it is located atop Mount Hohenzollern, above and south of Hechingen, on the edge of the Swabian Jura in central Baden-Württemberg, Germany. The name derives from Söller (terrace), from the Latin solarium.",
+      "url": "https://en.wikipedia.org/wiki/Hohenzollern_Castle",
+      "coordinates": {
+        "lat": 48.32319444,
+        "lng": 8.96772222
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Hohenzollern_10-2016.jpg/3840px-Burg_Hohenzollern_10-2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bisingen",
+      "description": "German municipality",
+      "extract": "Bisingen is a municipality in the Zollernalbkreis district of Baden-Württemberg, Germany.",
+      "url": "https://en.wikipedia.org/wiki/Bisingen",
+      "coordinates": {
+        "lat": 48.31194444,
+        "lng": 8.91777778
+      },
+      "km": 3.9,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ausblick_nach_Westen%2C_Bisingen_vom_Traufgang_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "19th-c.; ancestral seat of the Prussian kings, on a lone peak.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/hohenzollern-castle/own-hohenzollern-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/hohenzollern-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2d312a",
+            "share": 0.376
+          },
+          {
+            "hex": "#555c59",
+            "share": 0.248
+          },
+          {
+            "hex": "#877e76",
+            "share": 0.172
+          },
+          {
+            "hex": "#63482f",
+            "share": 0.109
+          },
+          {
+            "hex": "#000000",
+            "share": 0.095
+          }
+        ],
+        "strongest": "#63482f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenzollern-castle/commons-1.jpg",
+      "title": "File:Adlertor Hohenzollern Castle 2.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Adlertor_Hohenzollern_Castle_2.JPG",
+      "author": "böhringer friedrich",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "width": 2080,
+      "height": 3004,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#706956",
+            "share": 0.349
+          },
+          {
+            "hex": "#5c523d",
+            "share": 0.299
+          },
+          {
+            "hex": "#c7d2d0",
+            "share": 0.145
+          },
+          {
+            "hex": "#332d20",
+            "share": 0.12
+          },
+          {
+            "hex": "#a49b87",
+            "share": 0.086
+          }
+        ],
+        "strongest": "#5c523d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenzollern-castle/commons-2.jpg",
+      "title": "File:Aerial view of Hohenzollern Castle (2017).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Hohenzollern_Castle_(2017).jpg",
+      "author": "Olga Ernst",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4242,
+      "height": 2724,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#748854",
+            "share": 0.28
+          },
+          {
+            "hex": "#72881c",
+            "share": 0.268
+          },
+          {
+            "hex": "#dfc8b5",
+            "share": 0.171
+          },
+          {
+            "hex": "#4e682f",
+            "share": 0.149
+          },
+          {
+            "hex": "#b3a48a",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#72881c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenzollern-castle/commons-3.jpg",
+      "title": "File:Interior of Christuskapelle (Hohenzollern Castle); Hohenzollern Castle in 2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Christuskapelle_(Hohenzollern_Castle);_Hohenzollern_Castle_in_2024.jpg",
+      "author": "Qwertzu111111",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1848,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#584a3d",
+            "share": 0.277
+          },
+          {
+            "hex": "#372c24",
+            "share": 0.239
+          },
+          {
+            "hex": "#353848",
+            "share": 0.232
+          },
+          {
+            "hex": "#7f7167",
+            "share": 0.16
+          },
+          {
+            "hex": "#b2a7a2",
+            "share": 0.092
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenzollern-castle/commons-4.jpg",
+      "title": "File:Castle Hohenzollern (52589516320).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle_Hohenzollern_(52589516320).jpg",
+      "author": "Andreas Kretschmer",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1728,
+      "height": 2160,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#101b0c",
+            "share": 0.288
+          },
+          {
+            "hex": "#343922",
+            "share": 0.239
+          },
+          {
+            "hex": "#55563b",
+            "share": 0.185
+          },
+          {
+            "hex": "#a5b0b5",
+            "share": 0.165
+          },
+          {
+            "hex": "#6d7c82",
+            "share": 0.122
+          }
+        ],
+        "strongest": "#343922"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Burg Hohenzollern 10-2016.jpg",
+      "why": "licence FAL"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#2d312a",
+        "share": 0.376
+      },
+      {
+        "hex": "#555c59",
+        "share": 0.248
+      },
+      {
+        "hex": "#877e76",
+        "share": 0.172
+      },
+      {
+        "hex": "#63482f",
+        "share": 0.109
+      },
+      {
+        "hex": "#000000",
+        "share": 0.095
+      }
+    ],
+    "strongest": "#63482f"
+  }
+}

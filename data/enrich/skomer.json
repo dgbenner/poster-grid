@@ -1,0 +1,275 @@
+{
+  "id": "skomer",
+  "name": "Skomer (puffins)",
+  "lat": 51.735,
+  "lng": -5.295,
+  "enrichedAt": "2026-10-11T01:21:34.698Z",
+  "place": {
+    "town": "Marloes",
+    "locality": "Marloes and St. Brides",
+    "county": "Pembrokeshire",
+    "adminArea": "Pembrokeshire",
+    "region": null,
+    "country": "Wales",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.735&lon=-5.295&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Marloes and St. Brides, Marloes, Pembrokeshire, Wales, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "st-davids-head",
+        "name": "St David's Head ponies, Pembrokeshire",
+        "km": 19.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Skomer",
+      "description": "Island in Pembrokeshire, Marloes and St Brides, Wales",
+      "extract": "Skomer or Skomer Island is an island off the coast of Pembrokeshire, in the community of Marloes and St Brides in west Wales. It is well known for its wildlife: around half the world's population of Manx shearwaters nest on the island, the Atlantic puffin colony is the largest in southern Britain, and the Skomer vole is unique to the island. Skomer is a national nature reserve, a Site of Special Scientific Interest and a Special Protection Area. It is surrounded by a marine nature reserve and is managed by the Wildlife Trust of South and West Wales.",
+      "url": "https://en.wikipedia.org/wiki/Skomer",
+      "coordinates": {
+        "lat": 51.7375,
+        "lng": -5.295
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Skomer_from_Martin%27s_Haven_%287101%29_%28cropped%29.jpg/3840px-Skomer_from_Martin%27s_Haven_%287101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Marloes",
+      "description": "Village and parish in Pembrokeshire, Wales",
+      "extract": "Marloes is a village and parish in Pembrokeshire, Wales, on the Marloes Peninsula 7 miles (11 km) west of Milford Haven and forms the western tip of the southern shore of St Brides Bay. It is within part of the Pembrokeshire Coast National Park. The parish has 6 miles (9.7 km) of mainland coastline accessible throughout by the Pembrokeshire Coast Path and, together with St Brides, constitutes the community of Marloes and St Brides. In 2001, the population was 323.",
+      "url": "https://en.wikipedia.org/wiki/Marloes",
+      "coordinates": {
+        "lat": 51.73,
+        "lng": -5.19
+      },
+      "km": 7.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Marloes_peninsula%2C_Pembrokeshire_coast%2C_Wales%2C_UK.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Island seabird colony — puffins up close in early summer. Boat from Martin’s Haven.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "wildlife"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/skomer/own-skomer.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/skomer.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7394a8",
+            "share": 0.286
+          },
+          {
+            "hex": "#c2d4e5",
+            "share": 0.267
+          },
+          {
+            "hex": "#b9cfe5",
+            "share": 0.198
+          },
+          {
+            "hex": "#87a5bc",
+            "share": 0.14
+          },
+          {
+            "hex": "#8e9077",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#c2d4e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/skomer/commons-1.jpg",
+      "title": "File:Skomer from Martin's Haven (7101) (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Skomer_from_Martin%27s_Haven_(7101)_(cropped).jpg",
+      "author": "Nilfanion",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3883,
+      "height": 1940,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7494a8",
+            "share": 0.289
+          },
+          {
+            "hex": "#c2d5e5",
+            "share": 0.266
+          },
+          {
+            "hex": "#b9d0e5",
+            "share": 0.2
+          },
+          {
+            "hex": "#88a6bb",
+            "share": 0.141
+          },
+          {
+            "hex": "#8e8f76",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#c2d5e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/skomer/commons-2.jpg",
+      "title": "File:Skomer-NorthHaven.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Skomer-NorthHaven.jpg",
+      "author": "Skrrp",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2016,
+      "height": 1512,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#41512e",
+            "share": 0.306
+          },
+          {
+            "hex": "#dcecf6",
+            "share": 0.264
+          },
+          {
+            "hex": "#273123",
+            "share": 0.198
+          },
+          {
+            "hex": "#accadd",
+            "share": 0.146
+          },
+          {
+            "hex": "#5b7883",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#accadd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/skomer/commons-3.jpg",
+      "title": "File:Skomer-WickLand.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Skomer-WickLand.jpg",
+      "author": "Skrrp",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2016,
+      "height": 1512,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#838e50",
+            "share": 0.318
+          },
+          {
+            "hex": "#8f996f",
+            "share": 0.221
+          },
+          {
+            "hex": "#59645a",
+            "share": 0.166
+          },
+          {
+            "hex": "#99c1cc",
+            "share": 0.161
+          },
+          {
+            "hex": "#333d3d",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#838e50"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/skomer/commons-4.jpg",
+      "title": "File:Skomer-WickPuffin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Skomer-WickPuffin.jpg",
+      "author": "Skrrp",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2016,
+      "height": 1512,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#343c34",
+            "share": 0.261
+          },
+          {
+            "hex": "#bea188",
+            "share": 0.245
+          },
+          {
+            "hex": "#4c5345",
+            "share": 0.201
+          },
+          {
+            "hex": "#d1b79d",
+            "share": 0.179
+          },
+          {
+            "hex": "#989c69",
+            "share": 0.114
+          }
+        ],
+        "strongest": "#d1b79d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7394a8",
+        "share": 0.286
+      },
+      {
+        "hex": "#c2d4e5",
+        "share": 0.267
+      },
+      {
+        "hex": "#b9cfe5",
+        "share": 0.198
+      },
+      {
+        "hex": "#87a5bc",
+        "share": 0.14
+      },
+      {
+        "hex": "#8e9077",
+        "share": 0.109
+      }
+    ],
+    "strongest": "#c2d4e5"
+  }
+}

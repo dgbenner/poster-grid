@@ -1,0 +1,272 @@
+{
+  "id": "st-conans-kirk",
+  "name": "St Conan's Kirk",
+  "lat": 56.4039,
+  "lng": -5.0297,
+  "enrichedAt": "2026-10-11T01:21:30.453Z",
+  "place": {
+    "town": "Lochawe",
+    "locality": null,
+    "county": "Argyll and Bute",
+    "adminArea": "Argyll and Bute",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.4039&lon=-5.0297&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Drishaig, Lochawe, Argyll and Bute, Scotland, PA33 1AJ, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "st-peter-s-seminary",
+        "name": "St Peter's Seminary",
+        "km": 53.9
+      },
+      {
+        "id": "machir-bay",
+        "name": "Machir Bay (Islay)",
+        "km": 111.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "St Conan's Kirk",
+      "description": "Church in Argyll and Bute, Scotland",
+      "extract": "St Conan's Kirk is located in the village of Loch Awe in Argyll and Bute, Scotland. In a 2016 Royal Incorporation of Architects in Scotland public poll it was voted one of the Top 10 buildings in Scotland of the last 100 years. It was established as a chapel of ease by the Campbells of Innis Chonan. The church is protected as a category A listed building.",
+      "url": "https://en.wikipedia.org/wiki/St_Conan's_Kirk",
+      "coordinates": {
+        "lat": 56.39527778,
+        "lng": -5.05416667
+      },
+      "km": 1.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a9/St_Conan%27s_Kirk_View_From_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Eccentric lochside church stitched from every era of Scottish architecture.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/st-conans-kirk/own-st-conans-kirk.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/st-conans-kirk.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3a3f33",
+            "share": 0.266
+          },
+          {
+            "hex": "#21231f",
+            "share": 0.262
+          },
+          {
+            "hex": "#5a5e56",
+            "share": 0.231
+          },
+          {
+            "hex": "#ebeced",
+            "share": 0.167
+          },
+          {
+            "hex": "#9aa0a4",
+            "share": 0.073
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-conans-kirk/commons-1.jpg",
+      "title": "File:Argyll and Bute - St Conan’s Kirk - 20240906142906.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Argyll_and_Bute_-_St_Conan%E2%80%99s_Kirk_-_20240906142906.jpg",
+      "author": "Delane13",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#100d0b",
+            "share": 0.488
+          },
+          {
+            "hex": "#927250",
+            "share": 0.167
+          },
+          {
+            "hex": "#2b2017",
+            "share": 0.123
+          },
+          {
+            "hex": "#b6a89a",
+            "share": 0.118
+          },
+          {
+            "hex": "#583e2e",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#927250"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-conans-kirk/commons-2.jpg",
+      "title": "File:St. Conan's Kirk Robert of Bruce Chapel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Conan%27s_Kirk_Robert_of_Bruce_Chapel.jpg",
+      "author": "Diane Snider",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2756,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#514c4d",
+            "share": 0.328
+          },
+          {
+            "hex": "#323136",
+            "share": 0.257
+          },
+          {
+            "hex": "#f4f5f6",
+            "share": 0.246
+          },
+          {
+            "hex": "#807d7d",
+            "share": 0.091
+          },
+          {
+            "hex": "#b8b6b7",
+            "share": 0.078
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-conans-kirk/commons-3.jpg",
+      "title": "File:St Conan's Kirk Chancel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St_Conan%27s_Kirk_Chancel.jpg",
+      "author": "Diane Snider",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#695943",
+            "share": 0.315
+          },
+          {
+            "hex": "#1c1814",
+            "share": 0.252
+          },
+          {
+            "hex": "#41352b",
+            "share": 0.184
+          },
+          {
+            "hex": "#a47664",
+            "share": 0.172
+          },
+          {
+            "hex": "#e5dac7",
+            "share": 0.077
+          }
+        ],
+        "strongest": "#695943"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-conans-kirk/commons-4.jpg",
+      "title": "File:St Conan's Kirk Dog Downspout.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St_Conan%27s_Kirk_Dog_Downspout.jpg",
+      "author": "Diane Snider",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2304,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c2d3e4",
+            "share": 0.271
+          },
+          {
+            "hex": "#25231b",
+            "share": 0.233
+          },
+          {
+            "hex": "#beb49f",
+            "share": 0.185
+          },
+          {
+            "hex": "#605847",
+            "share": 0.16
+          },
+          {
+            "hex": "#918772",
+            "share": 0.151
+          }
+        ],
+        "strongest": "#c2d3e4"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:St Conan's Kirk, Lochawe - geograph.org.uk - 381318.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3a3f33",
+        "share": 0.266
+      },
+      {
+        "hex": "#21231f",
+        "share": 0.262
+      },
+      {
+        "hex": "#5a5e56",
+        "share": 0.231
+      },
+      {
+        "hex": "#ebeced",
+        "share": 0.167
+      },
+      {
+        "hex": "#9aa0a4",
+        "share": 0.073
+      }
+    ],
+    "strongest": null
+  }
+}

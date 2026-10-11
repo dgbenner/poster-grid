@@ -1,0 +1,282 @@
+{
+  "id": "santa-maria-del-fiore-floor-mosaic",
+  "name": "Santa Maria del Fiore — floor mosaic",
+  "lat": 43.7731,
+  "lng": 11.256,
+  "enrichedAt": "2026-10-11T01:21:42.115Z",
+  "place": {
+    "town": "Florence",
+    "locality": "Quartiere 1",
+    "county": "Florence",
+    "adminArea": "Florence",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.7731&lon=11.256&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartiere 1, Florence, Tuscany, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "florence",
+        "name": "Florence",
+        "km": 0.39
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "florence",
+        "name": "Florence",
+        "km": 0.4
+      },
+      {
+        "id": "giambologna-appennine-colossus",
+        "name": "Giambologna's Appennine Colossus",
+        "km": 10.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Florence",
+      "description": "Largest city in Tuscany, Italy",
+      "extract": "Florence is the capital and most populous city of the Italian region of Tuscany, and, as of 2026, with a population of 361,625, the 8th most populous city in the country. It is also the capital of the eponymous metropolitan province, which counts 988,494 inhabitants, while Eurostat estimates that 696,767 people live in the urban area of Florence. The Metropolitan Area of Florence, Prato and Pistoia, constituted in 2000 over an area of roughly 4,800 square kilometres (1,850 sq mi), is home to 1.5 million people.",
+      "url": "https://en.wikipedia.org/wiki/Florence",
+      "coordinates": {
+        "lat": 43.77138889,
+        "lng": 11.25416667
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/3840px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The intricate marble inlay of Florence's cathedral.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/santa-maria-del-fiore-floor-mosaic/own-santa-maria-del-fiore-floor-mosaic.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/santa-maria-del-fiore-floor-mosaic.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ced9de",
+            "share": 0.278
+          },
+          {
+            "hex": "#857269",
+            "share": 0.249
+          },
+          {
+            "hex": "#5b4842",
+            "share": 0.219
+          },
+          {
+            "hex": "#b3957c",
+            "share": 0.134
+          },
+          {
+            "hex": "#405e70",
+            "share": 0.121
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santa-maria-del-fiore-floor-mosaic/commons-1.jpg",
+      "title": "File:Firenze - Florence - Cattedrale Santa Maria del Fiore - View on one of the 3D Floor Patterns in Multi-Coloured Marble in the Central Nave III.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Firenze_-_Florence_-_Cattedrale_Santa_Maria_del_Fiore_-_View_on_one_of_the_3D_Floor_Patterns_in_Multi-Coloured_Marble_in_the_Central_Nave_III.jpg",
+      "author": "Txllxt TxllxT",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 2016,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#655648",
+            "share": 0.277
+          },
+          {
+            "hex": "#847565",
+            "share": 0.214
+          },
+          {
+            "hex": "#43362b",
+            "share": 0.189
+          },
+          {
+            "hex": "#190c09",
+            "share": 0.167
+          },
+          {
+            "hex": "#ad9c88",
+            "share": 0.153
+          }
+        ],
+        "strongest": "#43362b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santa-maria-del-fiore-floor-mosaic/commons-2.jpg",
+      "title": "File:Cathedral of Santa Maria del Fiore, Firenze, Italy (Unsplash).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Santa_Maria_del_Fiore,_Firenze,_Italy_(Unsplash).jpg",
+      "author": "Ilya Orehov iliched",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5616,
+      "height": 3744,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#847158",
+            "share": 0.271
+          },
+          {
+            "hex": "#9cc6d3",
+            "share": 0.231
+          },
+          {
+            "hex": "#ebf5f8",
+            "share": 0.205
+          },
+          {
+            "hex": "#413326",
+            "share": 0.158
+          },
+          {
+            "hex": "#4886ab",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#9cc6d3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santa-maria-del-fiore-floor-mosaic/commons-3.jpg",
+      "title": "File:Imagen de WhatsApp 2025-01-27 a las 13.48.38 8e3f7723.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Imagen_de_WhatsApp_2025-01-27_a_las_13.48.38_8e3f7723.jpg",
+      "author": "AbrahamHRLP",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 1170,
+      "height": 1528,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7f7c75",
+            "share": 0.305
+          },
+          {
+            "hex": "#535455",
+            "share": 0.26
+          },
+          {
+            "hex": "#a8a59d",
+            "share": 0.2
+          },
+          {
+            "hex": "#272929",
+            "share": 0.122
+          },
+          {
+            "hex": "#dce7f0",
+            "share": 0.113
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santa-maria-del-fiore-floor-mosaic/commons-4.jpg",
+      "title": "File:Duomo, view from Piazzale Michelangelo - Florence, Italy - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Duomo,_view_from_Piazzale_Michelangelo_-_Florence,_Italy_-_panoramio.jpg",
+      "author": "Sergey Ashmarin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2577,
+      "height": 1831,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#424340",
+            "share": 0.242
+          },
+          {
+            "hex": "#98a6b9",
+            "share": 0.195
+          },
+          {
+            "hex": "#617b97",
+            "share": 0.193
+          },
+          {
+            "hex": "#b0bfcc",
+            "share": 0.19
+          },
+          {
+            "hex": "#827563",
+            "share": 0.18
+          }
+        ],
+        "strongest": "#617b97"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Florence, Dome Santa Maria del Fiore - panoramio - Frans-Banja Mulder (1).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Florence, Dome Santa Maria del Fiore - panoramio - Frans-Banja Mulder (2).jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#ced9de",
+        "share": 0.278
+      },
+      {
+        "hex": "#857269",
+        "share": 0.249
+      },
+      {
+        "hex": "#5b4842",
+        "share": 0.219
+      },
+      {
+        "hex": "#b3957c",
+        "share": 0.134
+      },
+      {
+        "hex": "#405e70",
+        "share": 0.121
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "id": "mary-kings-close",
+  "name": "Mary King's Close",
+  "lat": 55.9496,
+  "lng": -3.1903,
+  "enrichedAt": "2026-10-11T01:21:29.793Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9496&lon=-3.1903&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.02
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.06
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.16
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.3
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.32
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.34
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.35
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.38
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.42
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.46
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.61
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 0.72
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.75
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 0.99
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.18
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.69
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.87
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.1
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.68
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 3.97
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.94
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.1
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.2
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.3
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.3
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.4
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.4
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.4
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.5
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.6
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.7
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 0.7
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.2
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.7
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.9
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.1
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.7
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.9
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 13.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Mary King's Close",
+      "description": "Underground streets and tourist attraction in Edinburgh",
+      "extract": "Mary King's Close is a historic close located under the Edinburgh City Chambers building on the Royal Mile, in the historic Old Town area of Edinburgh, Scotland. It took its name from one Mary King, a merchant burgess who resided on the Close in the 17th century. The close was partially demolished and buried due to the building of the Royal Exchange in the year 1753, and later closed to the public for many years. The area became shrouded in myths and urban legends; tales of hauntings and murders abounded. In 1897, Andrew Chesney, the last resident remaining in Mary King's close, was given a compulsory purchase order for £400 and he left the close in 1902.",
+      "url": "https://en.wikipedia.org/wiki/Mary_King's_Close",
+      "coordinates": {
+        "lat": 55.95027778,
+        "lng": -3.19027778
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/Marykingsclose006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Warren of buried streets beneath the Royal Mile — guided tours only.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/mary-kings-close/own-mary-kings-close.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/mary-kings-close.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#32211c",
+            "share": 0.32
+          },
+          {
+            "hex": "#50382f",
+            "share": 0.279
+          },
+          {
+            "hex": "#140b0c",
+            "share": 0.19
+          },
+          {
+            "hex": "#725647",
+            "share": 0.168
+          },
+          {
+            "hex": "#c6a890",
+            "share": 0.043
+          }
+        ],
+        "strongest": "#32211c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mary-kings-close/commons-1.jpg",
+      "title": "File:Adam Smith - geograph.org.uk - 3725853.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Adam_Smith_-_geograph.org.uk_-_3725853.jpg",
+      "author": "Bill Boaden",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3872,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eaeaea",
+            "share": 0.292
+          },
+          {
+            "hex": "#464039",
+            "share": 0.274
+          },
+          {
+            "hex": "#292722",
+            "share": 0.211
+          },
+          {
+            "hex": "#665d53",
+            "share": 0.169
+          },
+          {
+            "hex": "#918e8d",
+            "share": 0.055
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mary-kings-close/commons-2.jpg",
+      "title": "File:Edinburgh DSC 3374 (8551222988).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_DSC_3374_(8551222988).jpg",
+      "author": "Dave Snowden",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1632,
+      "height": 2464,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f4248",
+            "share": 0.414
+          },
+          {
+            "hex": "#e1eefc",
+            "share": 0.215
+          },
+          {
+            "hex": "#232323",
+            "share": 0.147
+          },
+          {
+            "hex": "#717274",
+            "share": 0.126
+          },
+          {
+            "hex": "#a7c5e8",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#a7c5e8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mary-kings-close/commons-3.jpg",
+      "title": "File:DSCN6053 Mercat Cross.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:DSCN6053_Mercat_Cross.jpg",
+      "author": "AlasdairW",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3456,
+      "height": 4608,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#75726e",
+            "share": 0.239
+          },
+          {
+            "hex": "#8f9193",
+            "share": 0.235
+          },
+          {
+            "hex": "#fdfdfe",
+            "share": 0.221
+          },
+          {
+            "hex": "#514e4c",
+            "share": 0.156
+          },
+          {
+            "hex": "#aeb1b5",
+            "share": 0.149
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mary-kings-close/commons-4.jpg",
+      "title": "File:Mercat Cross, Edinburgh, 06.08.2015.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercat_Cross,_Edinburgh,_06.08.2015.jpg",
+      "author": "Liberaler Humanist",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3456,
+      "height": 5184,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1f70bd",
+            "share": 0.256
+          },
+          {
+            "hex": "#3a83cc",
+            "share": 0.234
+          },
+          {
+            "hex": "#629cd6",
+            "share": 0.193
+          },
+          {
+            "hex": "#282621",
+            "share": 0.184
+          },
+          {
+            "hex": "#867651",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#1f70bd"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Mercat Cross, High Street, Edinburgh.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Canongate Arms on the Mercat Cross - geograph.org.uk - 2377949.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Edinburgh Arms on the Mercat Cross - geograph.org.uk - 2377942.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Unicorn on the Mercat Cross - geograph.org.uk - 2377939.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#32211c",
+        "share": 0.32
+      },
+      {
+        "hex": "#50382f",
+        "share": 0.279
+      },
+      {
+        "hex": "#140b0c",
+        "share": 0.19
+      },
+      {
+        "hex": "#725647",
+        "share": 0.168
+      },
+      {
+        "hex": "#c6a890",
+        "share": 0.043
+      }
+    ],
+    "strongest": "#32211c"
+  }
+}

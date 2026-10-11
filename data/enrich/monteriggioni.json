@@ -1,0 +1,254 @@
+{
+  "id": "monteriggioni",
+  "name": "Monteriggioni",
+  "lat": 43.3909,
+  "lng": 11.2231,
+  "enrichedAt": "2026-10-11T01:21:42.043Z",
+  "place": {
+    "town": "Monteriggioni",
+    "locality": null,
+    "county": "Siena",
+    "adminArea": "Siena",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.3909&lon=11.2231&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Ripa, Monteriggioni, Siena, Tuscany, 53035, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "siena",
+        "name": "Siena",
+        "km": 11.8
+      },
+      {
+        "id": "san-gimignano",
+        "name": "San Gimignano",
+        "km": 16.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Italy's most intact walled medieval town; Dante used its turrets to picture the giants ringing the Inferno.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/monteriggioni/own-monteriggioni.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/monteriggioni.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6b564b",
+            "share": 0.252
+          },
+          {
+            "hex": "#a68e68",
+            "share": 0.213
+          },
+          {
+            "hex": "#f3eede",
+            "share": 0.195
+          },
+          {
+            "hex": "#d7c9a5",
+            "share": 0.189
+          },
+          {
+            "hex": "#332829",
+            "share": 0.151
+          }
+        ],
+        "strongest": "#d7c9a5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monteriggioni/commons-1.jpg",
+      "title": "File:Monteriggioni, Italy - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Monteriggioni,_Italy_-_panoramio.jpg",
+      "author": "Sergey Ashmarin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2978,
+      "height": 1500,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e2e9f1",
+            "share": 0.388
+          },
+          {
+            "hex": "#4c483d",
+            "share": 0.264
+          },
+          {
+            "hex": "#2c2d23",
+            "share": 0.23
+          },
+          {
+            "hex": "#756e67",
+            "share": 0.084
+          },
+          {
+            "hex": "#a0a6ad",
+            "share": 0.033
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monteriggioni/commons-2.jpg",
+      "title": "File:Monteriggioni (4598471611).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Monteriggioni_(4598471611).jpg",
+      "author": "Ivan PC from Vigo, Spain",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f3f3f",
+            "share": 0.326
+          },
+          {
+            "hex": "#1f1f1d",
+            "share": 0.243
+          },
+          {
+            "hex": "#f3f9fc",
+            "share": 0.161
+          },
+          {
+            "hex": "#b9bcbc",
+            "share": 0.151
+          },
+          {
+            "hex": "#877e71",
+            "share": 0.119
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monteriggioni/commons-3.jpg",
+      "title": "File:Borgo murato Monteriggioni 06.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Borgo_murato_Monteriggioni_06.jpg",
+      "author": "Diego Baglieri",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 6000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#725e47",
+            "share": 0.271
+          },
+          {
+            "hex": "#8cb6e5",
+            "share": 0.221
+          },
+          {
+            "hex": "#1f1814",
+            "share": 0.18
+          },
+          {
+            "hex": "#8a7762",
+            "share": 0.166
+          },
+          {
+            "hex": "#4b3d32",
+            "share": 0.161
+          }
+        ],
+        "strongest": "#8cb6e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/monteriggioni/commons-4.jpg",
+      "title": "File:Monteriggioni - borgo murato.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Monteriggioni_-_borgo_murato.jpg",
+      "author": "Maddy16869",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3316,
+      "height": 2072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7591ba",
+            "share": 0.438
+          },
+          {
+            "hex": "#687133",
+            "share": 0.203
+          },
+          {
+            "hex": "#363e2d",
+            "share": 0.166
+          },
+          {
+            "hex": "#9ba3b8",
+            "share": 0.117
+          },
+          {
+            "hex": "#898076",
+            "share": 0.077
+          }
+        ],
+        "strongest": "#7591ba"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6b564b",
+        "share": 0.252
+      },
+      {
+        "hex": "#a68e68",
+        "share": 0.213
+      },
+      {
+        "hex": "#f3eede",
+        "share": 0.195
+      },
+      {
+        "hex": "#d7c9a5",
+        "share": 0.189
+      },
+      {
+        "hex": "#332829",
+        "share": 0.151
+      }
+    ],
+    "strongest": "#d7c9a5"
+  }
+}

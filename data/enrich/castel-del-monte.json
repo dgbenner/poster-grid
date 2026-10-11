@@ -1,0 +1,269 @@
+{
+  "id": "castel-del-monte",
+  "name": "Castel del Monte, Apulia",
+  "lat": 41.0843,
+  "lng": 16.271,
+  "enrichedAt": "2026-10-11T01:21:43.704Z",
+  "place": {
+    "town": "Andria",
+    "locality": null,
+    "county": "Apulia",
+    "adminArea": null,
+    "region": "Apulia",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.0843&lon=16.271&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Masseria del Castello, Andria, Barletta-Andria-Trani, Apulia, 76123, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Castel del Monte, Apulia",
+      "description": "Medieval castle in Andria, Apulia, Italy",
+      "extract": "Castel del Monte is a 13th-century citadel and castle situated on a hill in Andria in the Apulia region of southeast Italy. It was built during the 1240s by King Frederick II, who had inherited the lands from his mother Constance of Sicily. In the 18th century, the castle's interior marbles and remaining furnishings were removed. It has neither a moat nor a drawbridge and some considered it never to have been intended as a defensive fortress. However, archaeological work has suggested that it originally had a curtain wall.",
+      "url": "https://en.wikipedia.org/wiki/Castel_del_Monte%2C_Apulia",
+      "coordinates": {
+        "lat": 41.0847535,
+        "lng": 16.2709346
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Castel_del_Monte_-_Andria.jpg/3840px-Castel_del_Monte_-_Andria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Andria",
+      "description": "Comune in Apulia, Italy",
+      "extract": "Andria is a city and comune (municipality) in the Apulia region of Southern Italy. It is an agricultural and service center, producing wine, olives and almonds. It is the fourth-largest municipality in the Apulia region and the largest municipality of the province of Barletta-Andria-Trani. It is known for the 13th-century Castel del Monte.",
+      "url": "https://en.wikipedia.org/wiki/Andria",
+      "coordinates": {
+        "lat": 41.21666667,
+        "lng": 16.3
+      },
+      "km": 14.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Castel_del_Monte_-_Andria.jpg/3840px-Castel_del_Monte_-_Andria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Frederick II's perfectly symmetrical octagonal castle, 1240s.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/castel-del-monte/own-castel-del-monte.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/castel-del-monte.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5b8ca3",
+            "share": 0.457
+          },
+          {
+            "hex": "#020302",
+            "share": 0.208
+          },
+          {
+            "hex": "#5d7b54",
+            "share": 0.134
+          },
+          {
+            "hex": "#2c4839",
+            "share": 0.13
+          },
+          {
+            "hex": "#a3b8be",
+            "share": 0.072
+          }
+        ],
+        "strongest": "#5b8ca3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castel-del-monte/commons-1.jpg",
+      "title": "File:Castel del Monte - Andria.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castel_del_Monte_-_Andria.jpg",
+      "author": "ParisTaras",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 8294,
+      "height": 5966,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#757375",
+            "share": 0.371
+          },
+          {
+            "hex": "#545050",
+            "share": 0.181
+          },
+          {
+            "hex": "#a0a4ab",
+            "share": 0.179
+          },
+          {
+            "hex": "#838e9b",
+            "share": 0.161
+          },
+          {
+            "hex": "#5079a1",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#5079a1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castel-del-monte/commons-2.jpg",
+      "title": "File:Aerial image of Castel del Monte (view from the south).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Castel_del_Monte_(view_from_the_south).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3400,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#445046",
+            "share": 0.418
+          },
+          {
+            "hex": "#344140",
+            "share": 0.23
+          },
+          {
+            "hex": "#656f53",
+            "share": 0.198
+          },
+          {
+            "hex": "#989785",
+            "share": 0.084
+          },
+          {
+            "hex": "#dad2c8",
+            "share": 0.07
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castel-del-monte/commons-3.jpg",
+      "title": "File:Castel del Monte, Italy 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castel_del_Monte,_Italy_03.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3704,
+      "height": 2469,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b8a98e",
+            "share": 0.41
+          },
+          {
+            "hex": "#97aec4",
+            "share": 0.187
+          },
+          {
+            "hex": "#c0c5c5",
+            "share": 0.159
+          },
+          {
+            "hex": "#6f95bb",
+            "share": 0.132
+          },
+          {
+            "hex": "#766a4e",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#b8a98e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castel-del-monte/commons-4.jpg",
+      "title": "File:Castel del Monte, Italy 15.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castel_del_Monte,_Italy_15.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#35251c",
+            "share": 0.34
+          },
+          {
+            "hex": "#988069",
+            "share": 0.26
+          },
+          {
+            "hex": "#cbb594",
+            "share": 0.155
+          },
+          {
+            "hex": "#709ad0",
+            "share": 0.135
+          },
+          {
+            "hex": "#59473a",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#709ad0"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5b8ca3",
+        "share": 0.457
+      },
+      {
+        "hex": "#020302",
+        "share": 0.208
+      },
+      {
+        "hex": "#5d7b54",
+        "share": 0.134
+      },
+      {
+        "hex": "#2c4839",
+        "share": 0.13
+      },
+      {
+        "hex": "#a3b8be",
+        "share": 0.072
+      }
+    ],
+    "strongest": "#5b8ca3"
+  }
+}

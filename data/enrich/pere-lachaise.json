@@ -1,0 +1,391 @@
+{
+  "id": "pere-lachaise",
+  "name": "Père Lachaise Cemetery",
+  "lat": 48.8614,
+  "lng": 2.3934,
+  "enrichedAt": "2026-10-11T01:21:40.583Z",
+  "place": {
+    "town": "Paris",
+    "locality": "20th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8614&lon=2.3934&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier du Père-Lachaise, 20th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75020, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 0.08
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3.06
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 3.74
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 4.08
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 4.08
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 4.66
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 4.67
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 4.89
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 4.89
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 0.1
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3.1
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 3.7
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 4.1
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 4.1
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 4.7
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 4.7
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 4.9
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 4.9
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 5
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 5.1
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 5.2
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 5.7
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 5.9
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 7.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Père Lachaise Cemetery",
+      "description": "Cemetery in Paris, France",
+      "extract": "Père Lachaise Cemetery is the largest cemetery in Paris, France, at 44 hectares.",
+      "url": "https://en.wikipedia.org/wiki/P%C3%A8re_Lachaise_Cemetery",
+      "coordinates": {
+        "lat": 48.86,
+        "lng": 2.395
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/12/Pere_Lachaise_Chemin_Errazu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 3.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "\"The greatest cemetery on Earth\"; resting place of Morrison, Chopin, Piaf, Wilde.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/pere-lachaise/own-pere-lachaise.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/pere-lachaise.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#949085",
+            "share": 0.244
+          },
+          {
+            "hex": "#030302",
+            "share": 0.223
+          },
+          {
+            "hex": "#68664f",
+            "share": 0.208
+          },
+          {
+            "hex": "#3b3e2a",
+            "share": 0.187
+          },
+          {
+            "hex": "#c3c1b3",
+            "share": 0.138
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pere-lachaise/commons-1.jpg",
+      "title": "File:Courvoisier - View of Pere Lachaise Cemetery from the Entrance.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Courvoisier_-_View_of_Pere_Lachaise_Cemetery_from_the_Entrance.jpg",
+      "author": "After Pierre Courvoisier",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1927,
+      "height": 1189,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b0c0bd",
+            "share": 0.361
+          },
+          {
+            "hex": "#6f7157",
+            "share": 0.192
+          },
+          {
+            "hex": "#3d402c",
+            "share": 0.164
+          },
+          {
+            "hex": "#92947d",
+            "share": 0.157
+          },
+          {
+            "hex": "#dbe1d6",
+            "share": 0.127
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pere-lachaise/commons-2.jpg",
+      "title": "File:Grave of Jean de La Fontaine, Père Lachaise Cemetery, Paris.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Jean_de_La_Fontaine,_P%C3%A8re_Lachaise_Cemetery,_Paris.jpg",
+      "author": "Philippe Burjot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1600,
+      "height": 900,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1d201c",
+            "share": 0.283
+          },
+          {
+            "hex": "#3b3c33",
+            "share": 0.203
+          },
+          {
+            "hex": "#656155",
+            "share": 0.197
+          },
+          {
+            "hex": "#948877",
+            "share": 0.175
+          },
+          {
+            "hex": "#cebea9",
+            "share": 0.142
+          }
+        ],
+        "strongest": "#cebea9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pere-lachaise/commons-3.jpg",
+      "title": "File:Faune du Cimetière du Père-Lachaise.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Faune_du_Cimeti%C3%A8re_du_P%C3%A8re-Lachaise.jpg",
+      "author": "Uticencis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1024,
+      "height": 576,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#393a20",
+            "share": 0.247
+          },
+          {
+            "hex": "#1d1c12",
+            "share": 0.232
+          },
+          {
+            "hex": "#596134",
+            "share": 0.221
+          },
+          {
+            "hex": "#88944f",
+            "share": 0.212
+          },
+          {
+            "hex": "#b2be8e",
+            "share": 0.088
+          }
+        ],
+        "strongest": "#393a20"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pere-lachaise/commons-4.jpg",
+      "title": "File:Pere Lachaise Chemin Errazu.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pere_Lachaise_Chemin_Errazu.jpg",
+      "author": "Peter Poradisch",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 1929,
+      "height": 1424,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#36412c",
+            "share": 0.257
+          },
+          {
+            "hex": "#161913",
+            "share": 0.23
+          },
+          {
+            "hex": "#5a5f50",
+            "share": 0.223
+          },
+          {
+            "hex": "#848283",
+            "share": 0.204
+          },
+          {
+            "hex": "#cfcccf",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#949085",
+        "share": 0.244
+      },
+      {
+        "hex": "#030302",
+        "share": 0.223
+      },
+      {
+        "hex": "#68664f",
+        "share": 0.208
+      },
+      {
+        "hex": "#3b3e2a",
+        "share": 0.187
+      },
+      {
+        "hex": "#c3c1b3",
+        "share": 0.138
+      }
+    ],
+    "strongest": null
+  }
+}

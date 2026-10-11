@@ -1,0 +1,261 @@
+{
+  "id": "jai-vilas-palace",
+  "name": "Jai Vilas Palace",
+  "lat": 26.2033,
+  "lng": 78.1591,
+  "enrichedAt": "2026-10-11T01:21:44.965Z",
+  "place": {
+    "town": null,
+    "locality": null,
+    "county": "Gird Tahsil",
+    "adminArea": "Gird Tahsil",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "sovereign": "India",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=26.2033&lon=78.1591&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Gwalior, Gird Tahsil, Gwalior, Madhya Pradesh, India"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "19th-century Scindia royal palace in Gwalior, famed for its opulent Durbar Hall with giant crystal chandeliers and European decor.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument",
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/jai-vilas-palace/own-jai-vilas-palace.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/jai-vilas-palace.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c67447",
+            "share": 0.278
+          },
+          {
+            "hex": "#e09f77",
+            "share": 0.223
+          },
+          {
+            "hex": "#9a4b24",
+            "share": 0.212
+          },
+          {
+            "hex": "#57220b",
+            "share": 0.171
+          },
+          {
+            "hex": "#f3e1cf",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#57220b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jai-vilas-palace/commons-1.jpg",
+      "title": "File:Kesar doodh or Saffron milk - a popular food item of North India.It is milk boiled with Saffron and sugar.This is a street vendor in Gwalior, Madhyapradesh in India selling Saffron milk.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kesar_doodh_or_Saffron_milk_-_a_popular_food_item_of_North_India.It_is_milk_boiled_with_Saffron_and_sugar.This_is_a_street_vendor_in_Gwalior,_Madhyapradesh_in_India_selling_Saffron_milk.jpg",
+      "author": "Shonamug",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 2250,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4c4343",
+            "share": 0.28
+          },
+          {
+            "hex": "#6f6564",
+            "share": 0.222
+          },
+          {
+            "hex": "#dfdbbe",
+            "share": 0.195
+          },
+          {
+            "hex": "#201e27",
+            "share": 0.169
+          },
+          {
+            "hex": "#939393",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#dfdbbe"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jai-vilas-palace/commons-2.jpg",
+      "title": "File:AY^ Every Inch A King- Shakespere At Inderganj Square Gwalior - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:AY%5E_Every_Inch_A_King-_Shakespere_At_Inderganj_Square_Gwalior_-_panoramio.jpg",
+      "author": "Gyanendra_Singh_Chau…",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a4cceb",
+            "share": 0.436
+          },
+          {
+            "hex": "#3c3d2c",
+            "share": 0.21
+          },
+          {
+            "hex": "#757347",
+            "share": 0.135
+          },
+          {
+            "hex": "#b4ac90",
+            "share": 0.135
+          },
+          {
+            "hex": "#dfded0",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#a4cceb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jai-vilas-palace/commons-3.jpg",
+      "title": "File:Every Inch A king -Shakespere ,Inderganj Chouraha Gwalior - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Every_Inch_A_king_-Shakespere_,Inderganj_Chouraha_Gwalior_-_panoramio.jpg",
+      "author": "Gyanendra_Singh_Chau…",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#afa285",
+            "share": 0.268
+          },
+          {
+            "hex": "#c0c2b5",
+            "share": 0.234
+          },
+          {
+            "hex": "#847d48",
+            "share": 0.229
+          },
+          {
+            "hex": "#4b4e2e",
+            "share": 0.187
+          },
+          {
+            "hex": "#f2f1e8",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#847d48"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jai-vilas-palace/commons-4.jpg",
+      "title": "File:AY^ Every Inch A King- Shakespeare At Inderganj Square Gwalior - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:AY%5E_Every_Inch_A_King-_Shakespeare_At_Inderganj_Square_Gwalior_-_panoramio.jpg",
+      "author": "Gyanendra_Singh_Chau…",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1472,
+      "height": 866,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a38b4f",
+            "share": 0.322
+          },
+          {
+            "hex": "#d0c4a3",
+            "share": 0.234
+          },
+          {
+            "hex": "#c3b595",
+            "share": 0.233
+          },
+          {
+            "hex": "#b3a386",
+            "share": 0.19
+          },
+          {
+            "hex": "#5a5d31",
+            "share": 0.021
+          }
+        ],
+        "strongest": "#a38b4f"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Shri Ram Mandir Gwalior - panoramio.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Old High court (Presently District Court ) Gwalior - panoramio.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Old High court (Presently District Court ) Gwalior - panoramio - Gyanendrasinghchauha….jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Jayendraganj Gwalior - panoramio.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#c67447",
+        "share": 0.278
+      },
+      {
+        "hex": "#e09f77",
+        "share": 0.223
+      },
+      {
+        "hex": "#9a4b24",
+        "share": 0.212
+      },
+      {
+        "hex": "#57220b",
+        "share": 0.171
+      },
+      {
+        "hex": "#f3e1cf",
+        "share": 0.116
+      }
+    ],
+    "strongest": "#57220b"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": "gaumont-de-funes-museum",
+  "name": "Gaumont / Louis de Funès Museum, Saint-Raphaël",
+  "lat": 43.4253,
+  "lng": 6.7686,
+  "enrichedAt": "2026-10-11T01:21:41.332Z",
+  "place": {
+    "town": "Saint-Raphaël",
+    "locality": null,
+    "county": "Var",
+    "adminArea": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.4253&lon=6.7686&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Saint-Raphaël, Draguignan, Var, Provence-Alpes-Côte d'Azur, Metropolitan France, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "relics-mary-magdalene",
+        "name": "Relics of Mary Magdalene, Basilique Sainte-Marie-Madeleine, Saint-Maximin-la-Sainte-Baume",
+        "km": 73.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Saint-Raphaël, Var",
+      "description": "Commune in Provence-Alpes-Côte d'Azur, France",
+      "extract": "Saint-Raphaël is a commune in the Var department, Provence-Alpes-Côte d'Azur region, Southeastern France.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Rapha%C3%ABl%2C_Var",
+      "coordinates": {
+        "lat": 43.4252,
+        "lng": 6.7684
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cd/MairieStRapha%C3%ABl.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Museum to France's favourite actor; tie-in with Gaumont, the world's oldest film studio.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/gaumont-de-funes-museum/own-gaumont-de-funes-museum.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/gaumont-de-funes-museum.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.542
+          },
+          {
+            "hex": "#ff1e24",
+            "share": 0.389
+          },
+          {
+            "hex": "#ff0000",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#ff1e24"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/gaumont-de-funes-museum/commons-1.jpg",
+      "title": "File:France v. Hongrie (Esterel Futnet Cup 2024) - Phase de poules - (Place Coullet) - (Saint-Raphaël, FR83) - 20-07-2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:France_v._Hongrie_(Esterel_Futnet_Cup_2024)_-_Phase_de_poules_-_(Place_Coullet)_-_(Saint-Rapha%C3%ABl,_FR83)_-_20-07-2024.jpg",
+      "author": "Manchesterunited1234",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4030,
+      "height": 1456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#302e2c",
+            "share": 0.293
+          },
+          {
+            "hex": "#5b524c",
+            "share": 0.236
+          },
+          {
+            "hex": "#aa4944",
+            "share": 0.2
+          },
+          {
+            "hex": "#978372",
+            "share": 0.142
+          },
+          {
+            "hex": "#d9c5a4",
+            "share": 0.128
+          }
+        ],
+        "strongest": "#aa4944"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/gaumont-de-funes-museum/commons-2.jpg",
+      "title": "File:TGV Duplex 208 Carmillon Saint-Raphaël-Valescure 4.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:TGV_Duplex_208_Carmillon_Saint-Rapha%C3%ABl-Valescure_4.JPG",
+      "author": "Hoff1980",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e2edf4",
+            "share": 0.307
+          },
+          {
+            "hex": "#86786a",
+            "share": 0.227
+          },
+          {
+            "hex": "#494948",
+            "share": 0.193
+          },
+          {
+            "hex": "#bfb6b3",
+            "share": 0.155
+          },
+          {
+            "hex": "#0f0f0f",
+            "share": 0.118
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/gaumont-de-funes-museum/commons-3.jpg",
+      "title": "File:TGV Réseau 4524 Saint-Raphaël-Valescure.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:TGV_R%C3%A9seau_4524_Saint-Rapha%C3%ABl-Valescure.JPG",
+      "author": "Hoff1980",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#332c2e",
+            "share": 0.215
+          },
+          {
+            "hex": "#f0f3f5",
+            "share": 0.21
+          },
+          {
+            "hex": "#7a6d66",
+            "share": 0.202
+          },
+          {
+            "hex": "#9f9893",
+            "share": 0.201
+          },
+          {
+            "hex": "#c8c5c3",
+            "share": 0.173
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/gaumont-de-funes-museum/commons-4.jpg",
+      "title": "File:TGV Réseau Duplex 601 Saint-Raphaël-Valescure.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:TGV_R%C3%A9seau_Duplex_601_Saint-Rapha%C3%ABl-Valescure.JPG",
+      "author": "Hoff1980",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d4d1c8",
+            "share": 0.256
+          },
+          {
+            "hex": "#807567",
+            "share": 0.232
+          },
+          {
+            "hex": "#aaa292",
+            "share": 0.228
+          },
+          {
+            "hex": "#99b8d3",
+            "share": 0.158
+          },
+          {
+            "hex": "#484239",
+            "share": 0.126
+          }
+        ],
+        "strongest": "#99b8d3"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.542
+      },
+      {
+        "hex": "#ff1e24",
+        "share": 0.389
+      },
+      {
+        "hex": "#ff0000",
+        "share": 0.068
+      }
+    ],
+    "strongest": "#ff1e24"
+  }
+}

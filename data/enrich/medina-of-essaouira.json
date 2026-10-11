@@ -1,0 +1,269 @@
+{
+  "id": "medina-of-essaouira",
+  "name": "Medina of Essaouira (formerly Mogador)",
+  "lat": 31.51272,
+  "lng": -9.76981,
+  "enrichedAt": "2026-10-11T01:21:40.466Z",
+  "place": {
+    "town": "Essaouira",
+    "locality": "Ahl Akādīr",
+    "county": "Pachalik d'Essaouira باشوية الصويرة",
+    "adminArea": "Pachalik d'Essaouira باشوية الصويرة",
+    "region": "Marrakech-Safi",
+    "country": "Morocco",
+    "sovereign": "Morocco",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=31.51272&lon=-9.76981&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Ahl Akādīr, Essaouira, Pachalik d'Essaouira باشوية الصويرة, Essaouira Province, Marrakech-Safi, 44100, Morocco"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Medina of Essaouira",
+      "description": "World Heritage site in Morocco",
+      "extract": "The Medina of Essaouira, formerly Mogador, is a Medina quarter in Essaouira, Morocco. It was designated by the UNESCO as a World Heritage Site in 2001.",
+      "url": "https://en.wikipedia.org/wiki/Medina_of_Essaouira",
+      "coordinates": {
+        "lat": 31.5144,
+        "lng": -9.7689
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%22Ein_Schmelztiegel_der_Kulturen%22._17.jpg/3840px-%22Ein_Schmelztiegel_der_Kulturen%22._17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Essaouira",
+      "description": "City in Marrakesh-Safi, Morocco",
+      "extract": "Essaouira, known until the 1960s as Mogador, is a port city on the Atlantic coast in western Morocco. It has 82,962 inhabitants as of 2024.",
+      "url": "https://en.wikipedia.org/wiki/Essaouira",
+      "coordinates": {
+        "lat": 31.51305556,
+        "lng": -9.76972222
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%22Ein_bemerkenswertes_historisches_Denkmal%22._16.jpg/3840px-%22Ein_bemerkenswertes_historisches_Denkmal%22._16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "A rare late-18th-century fortified town built on European military-architecture principles in a North African setting; UNESCO-listed.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/medina-of-essaouira/own-medina-of-essaouira.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/medina-of-essaouira.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9db3d5",
+            "share": 0.272
+          },
+          {
+            "hex": "#bbc9e0",
+            "share": 0.249
+          },
+          {
+            "hex": "#8e7969",
+            "share": 0.185
+          },
+          {
+            "hex": "#504034",
+            "share": 0.159
+          },
+          {
+            "hex": "#c0ac99",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#9db3d5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/medina-of-essaouira/commons-1.jpg",
+      "title": "File:\"Ein Schmelztiegel der Kulturen\". 17.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%22Ein_Schmelztiegel_der_Kulturen%22._17.jpg",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5906,
+      "height": 3937,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4c6798",
+            "share": 0.322
+          },
+          {
+            "hex": "#42474d",
+            "share": 0.279
+          },
+          {
+            "hex": "#7a6c60",
+            "share": 0.14
+          },
+          {
+            "hex": "#1b1d1f",
+            "share": 0.138
+          },
+          {
+            "hex": "#9d9998",
+            "share": 0.121
+          }
+        ],
+        "strongest": "#4c6798"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/medina-of-essaouira/commons-2.jpg",
+      "title": "File:Medina Street and Fortified Tower, Essaouira, Morocco.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Medina_Street_and_Fortified_Tower,_Essaouira,_Morocco.jpg",
+      "author": "CastlesCatalog",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3472,
+      "height": 4640,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2a2c38",
+            "share": 0.307
+          },
+          {
+            "hex": "#121117",
+            "share": 0.229
+          },
+          {
+            "hex": "#525656",
+            "share": 0.224
+          },
+          {
+            "hex": "#7a898e",
+            "share": 0.127
+          },
+          {
+            "hex": "#71c1f6",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#71c1f6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/medina-of-essaouira/commons-3.jpg",
+      "title": "File:Médina d'Essaouira (ancienne Mogador) 14.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9dina_d%27Essaouira_(ancienne_Mogador)_14.jpg",
+      "author": "Mounir Neddi",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7d5949",
+            "share": 0.27
+          },
+          {
+            "hex": "#56382f",
+            "share": 0.214
+          },
+          {
+            "hex": "#bed6f0",
+            "share": 0.204
+          },
+          {
+            "hex": "#23130e",
+            "share": 0.178
+          },
+          {
+            "hex": "#a67d66",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#bed6f0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/medina-of-essaouira/commons-4.jpg",
+      "title": "File:Médina d'Essaouira (ancienne Mogador) 15.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9dina_d%27Essaouira_(ancienne_Mogador)_15.jpg",
+      "author": "Mounir Neddi",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4795,
+      "height": 2437,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dfb698",
+            "share": 0.226
+          },
+          {
+            "hex": "#754e43",
+            "share": 0.22
+          },
+          {
+            "hex": "#cda285",
+            "share": 0.219
+          },
+          {
+            "hex": "#9d7e7d",
+            "share": 0.177
+          },
+          {
+            "hex": "#341a16",
+            "share": 0.159
+          }
+        ],
+        "strongest": "#dfb698"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#9db3d5",
+        "share": 0.272
+      },
+      {
+        "hex": "#bbc9e0",
+        "share": 0.249
+      },
+      {
+        "hex": "#8e7969",
+        "share": 0.185
+      },
+      {
+        "hex": "#504034",
+        "share": 0.159
+      },
+      {
+        "hex": "#c0ac99",
+        "share": 0.136
+      }
+    ],
+    "strongest": "#9db3d5"
+  }
+}

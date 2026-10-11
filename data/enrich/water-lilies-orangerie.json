@@ -1,0 +1,411 @@
+{
+  "id": "water-lilies-orangerie",
+  "name": "Monet's Water Lilies, Musée de l'Orangerie",
+  "lat": 48.8638,
+  "lng": 2.3226,
+  "enrichedAt": "2026-10-11T01:21:40.568Z",
+  "place": {
+    "town": "Paris",
+    "locality": "1st Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8638&lon=2.3226&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Saint-Germain-l'Auxerrois, 1st Arrondissement, Paris, Ile-de-France, Metropolitan France, 75001, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0.51
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 0.51
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 0.67
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 1.07
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.12
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.15
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.15
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.26
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 1.56
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 2.15
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 2.31
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 2.36
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.03
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0.5
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 0.5
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 0.7
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.1
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 1.1
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.2
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.2
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.3
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 1.6
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 2.1
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 2.3
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 2.4
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 5.2
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 5.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Musée de l'Orangerie",
+      "description": "Art museum in Paris",
+      "extract": "The Musée de l'Orangerie is an art gallery of Impressionist and Post-Impressionist paintings located in the west corner of the Tuileries Garden next to the Place de la Concorde in Paris. The museum is most famous as the permanent home of eight large Water Lilies murals by Claude Monet, and also contains works by Paul Cézanne, Henri Matisse, Amedeo Modigliani, Pablo Picasso, Pierre-Auguste Renoir, Henri Rousseau, Alfred Sisley, Chaïm Soutine, Maurice Utrillo, and others.",
+      "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l'Orangerie",
+      "coordinates": {
+        "lat": 48.86384535,
+        "lng": 2.32253834
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 2.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Monet's Water Lilies at the Musée de l'Orangerie.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/water-lilies-orangerie/own-water-lilies-orangerie.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/water-lilies-orangerie.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bfb6b2",
+            "share": 0.484
+          },
+          {
+            "hex": "#39474f",
+            "share": 0.162
+          },
+          {
+            "hex": "#928a88",
+            "share": 0.147
+          },
+          {
+            "hex": "#030303",
+            "share": 0.138
+          },
+          {
+            "hex": "#fafafa",
+            "share": 0.069
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/water-lilies-orangerie/commons-1.jpg",
+      "title": "File:Musée de L'Orangerie Water Lilies Room.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_L%27Orangerie_Water_Lilies_Room.jpg",
+      "author": "Brady Brenot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c1bdbb",
+            "share": 0.295
+          },
+          {
+            "hex": "#aea9a4",
+            "share": 0.278
+          },
+          {
+            "hex": "#ebebef",
+            "share": 0.146
+          },
+          {
+            "hex": "#918c85",
+            "share": 0.144
+          },
+          {
+            "hex": "#414848",
+            "share": 0.138
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/water-lilies-orangerie/commons-2.jpg",
+      "title": "File:Claude Monet - The Water Lilies - The Clouds - Google Art Project.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg",
+      "author": "Claude Monet",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 8889,
+      "height": 1345,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#545d63",
+            "share": 0.241
+          },
+          {
+            "hex": "#8a8f96",
+            "share": 0.23
+          },
+          {
+            "hex": "#39393b",
+            "share": 0.208
+          },
+          {
+            "hex": "#adacaa",
+            "share": 0.163
+          },
+          {
+            "hex": "#65747e",
+            "share": 0.159
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/water-lilies-orangerie/commons-3.jpg",
+      "title": "File:Musée de l’Orangerie exterior.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG",
+      "author": "Homonihilis",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#86837f",
+            "share": 0.297
+          },
+          {
+            "hex": "#e5ecf6",
+            "share": 0.197
+          },
+          {
+            "hex": "#666660",
+            "share": 0.185
+          },
+          {
+            "hex": "#a29f9a",
+            "share": 0.163
+          },
+          {
+            "hex": "#323830",
+            "share": 0.158
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/water-lilies-orangerie/commons-4.jpg",
+      "title": "File:Name of the Musée de l'Orangerie above the door.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Name_of_the_Mus%C3%A9e_de_l%27Orangerie_above_the_door.JPG",
+      "author": "JSquish",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c2b89e",
+            "share": 0.291
+          },
+          {
+            "hex": "#b9ad91",
+            "share": 0.245
+          },
+          {
+            "hex": "#aea283",
+            "share": 0.183
+          },
+          {
+            "hex": "#9b8b68",
+            "share": 0.142
+          },
+          {
+            "hex": "#84714b",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#c2b89e"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#bfb6b2",
+        "share": 0.484
+      },
+      {
+        "hex": "#39474f",
+        "share": 0.162
+      },
+      {
+        "hex": "#928a88",
+        "share": 0.147
+      },
+      {
+        "hex": "#030303",
+        "share": 0.138
+      },
+      {
+        "hex": "#fafafa",
+        "share": 0.069
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "id": "heidelberg-castle",
+  "name": "Heidelberg Castle",
+  "lat": 49.4106,
+  "lng": 8.7156,
+  "enrichedAt": "2026-10-11T01:21:39.055Z",
+  "place": {
+    "town": "Heidelberg",
+    "locality": "Altstadt",
+    "county": "Baden-Württemberg",
+    "adminArea": null,
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.4106&lon=8.7156&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Königstuhl, Altstadt, Heidelberg, Baden-Württemberg, 69117, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "mercedes-benz-museum",
+        "name": "Mercedes-Benz Museum, Stuttgart",
+        "km": 78.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Heidelberg",
+      "description": "City in Baden-Württemberg, Germany",
+      "extract": "Heidelberg is the fifth-largest city in the German state of Baden-Württemberg, and with a population of about 163,000, of which roughly a quarter consists of students, it is Germany's 51st-largest city. Located about 78 km (48 mi) south of Frankfurt, Heidelberg is part of the densely populated Rhine-Neckar Metropolitan Region which has its centre in Mannheim.",
+      "url": "https://en.wikipedia.org/wiki/Heidelberg",
+      "coordinates": {
+        "lat": 49.41666667,
+        "lng": 8.71666667
+      },
+      "km": 0.7,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/3840px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Heidelberg",
+      "description": "City in Baden-Württemberg, Germany",
+      "extract": "Heidelberg is the fifth-largest city in the German state of Baden-Württemberg, and with a population of about 163,000, of which roughly a quarter consists of students, it is Germany's 51st-largest city. Located about 78 km (48 mi) south of Frankfurt, Heidelberg is part of the densely populated Rhine-Neckar Metropolitan Region which has its centre in Mannheim.",
+      "url": "https://en.wikipedia.org/wiki/Heidelberg",
+      "coordinates": {
+        "lat": 49.41666667,
+        "lng": 8.71666667
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/3840px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "13th–17th c.; the great red-sandstone ruin above the Neckar.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/heidelberg-castle/own-heidelberg-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/heidelberg-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#22221d",
+            "share": 0.274
+          },
+          {
+            "hex": "#383329",
+            "share": 0.252
+          },
+          {
+            "hex": "#906955",
+            "share": 0.219
+          },
+          {
+            "hex": "#5f4c42",
+            "share": 0.144
+          },
+          {
+            "hex": "#c08d6b",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#c08d6b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/heidelberg-castle/commons-1.jpg",
+      "title": "File:Königstuhl, Heidelberg, U-17.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigstuhl,_Heidelberg,_U-17.jpg",
+      "author": "Jörg Braukmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 9479,
+      "height": 5000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#404935",
+            "share": 0.325
+          },
+          {
+            "hex": "#5f614a",
+            "share": 0.208
+          },
+          {
+            "hex": "#8a8175",
+            "share": 0.17
+          },
+          {
+            "hex": "#d5dde8",
+            "share": 0.167
+          },
+          {
+            "hex": "#222b18",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#d5dde8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/heidelberg-castle/commons-2.jpg",
+      "title": "File:2013.10.01.110919 Statues Ottheinrichsbau Castle Heidelberg.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2013.10.01.110919_Statues_Ottheinrichsbau_Castle_Heidelberg.jpg",
+      "author": "Hermann Luyken",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 1920,
+      "height": 1280,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#221610",
+            "share": 0.341
+          },
+          {
+            "hex": "#3c2920",
+            "share": 0.251
+          },
+          {
+            "hex": "#d6b58e",
+            "share": 0.157
+          },
+          {
+            "hex": "#997c60",
+            "share": 0.14
+          },
+          {
+            "hex": "#634c3b",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#d6b58e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/heidelberg-castle/commons-3.jpg",
+      "title": "File:The Schloss Castle in Heidelberg - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Schloss_Castle_in_Heidelberg_-_panoramio.jpg",
+      "author": "hakkun",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2272,
+      "height": 1704,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#625552",
+            "share": 0.275
+          },
+          {
+            "hex": "#847772",
+            "share": 0.256
+          },
+          {
+            "hex": "#fdfdfd",
+            "share": 0.216
+          },
+          {
+            "hex": "#9f9698",
+            "share": 0.156
+          },
+          {
+            "hex": "#2d3027",
+            "share": 0.096
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/heidelberg-castle/commons-4.jpg",
+      "title": "File:2002-04-02 Hauptstraße, Heidelberg IMG 0404.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2002-04-02_Hauptstra%C3%9Fe,_Heidelberg_IMG_0404.jpg",
+      "author": "Eckhard Henkel",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "width": 1563,
+      "height": 1172,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#493f3f",
+            "share": 0.298
+          },
+          {
+            "hex": "#665d5f",
+            "share": 0.293
+          },
+          {
+            "hex": "#938480",
+            "share": 0.163
+          },
+          {
+            "hex": "#242222",
+            "share": 0.154
+          },
+          {
+            "hex": "#c9c7c6",
+            "share": 0.092
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#22221d",
+        "share": 0.274
+      },
+      {
+        "hex": "#383329",
+        "share": 0.252
+      },
+      {
+        "hex": "#906955",
+        "share": 0.219
+      },
+      {
+        "hex": "#5f4c42",
+        "share": 0.144
+      },
+      {
+        "hex": "#c08d6b",
+        "share": 0.112
+      }
+    ],
+    "strongest": "#c08d6b"
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id": "bamburgh-castle",
+  "name": "Bamburgh Castle",
+  "lat": 55.6089,
+  "lng": -1.7096,
+  "enrichedAt": "2026-10-11T01:21:31.048Z",
+  "place": {
+    "town": "Bamburgh",
+    "locality": null,
+    "county": "Northumberland",
+    "adminArea": "Northumberland",
+    "region": "North East",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.6089&lon=-1.7096&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bamburgh, Northumberland, North East, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "lindisfarne-castle",
+        "name": "Lindisfarne Castle",
+        "km": 8.2
+      },
+      {
+        "id": "hadrians-wall",
+        "name": "Hadrian's Wall",
+        "km": 77.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Bamburgh Castle",
+      "description": "Medieval castle in Northumberland, England",
+      "extract": "Bamburgh Castle, on the northeast coast of England, by the village of Bamburgh in Northumberland, is a Grade I listed building.",
+      "url": "https://en.wikipedia.org/wiki/Bamburgh_Castle",
+      "coordinates": {
+        "lat": 55.608,
+        "lng": -1.709
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bamburgh_Castle%2C_beautiful_day.jpg/3840px-Bamburgh_Castle%2C_beautiful_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bamburgh",
+      "description": "Village in Northumberland, England",
+      "extract": "Bamburgh is a village and civil parish on the coast of Northumberland, England. It had a population of 454 in 2001, decreasing to 414 at the 2011 census.",
+      "url": "https://en.wikipedia.org/wiki/Bamburgh",
+      "coordinates": {
+        "lat": 55.604,
+        "lng": -1.722
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Front_Street%2C_Bamburgh_-_geograph.org.uk_-_1899378.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Vast castle on a dune crag above the Northumberland coast.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bamburgh-castle/own-bamburgh-castle-1.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bamburgh-castle-1.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.377
+          },
+          {
+            "hex": "#7b98c2",
+            "share": 0.213
+          },
+          {
+            "hex": "#46442a",
+            "share": 0.169
+          },
+          {
+            "hex": "#6d5f49",
+            "share": 0.168
+          },
+          {
+            "hex": "#b59078",
+            "share": 0.073
+          }
+        ],
+        "strongest": "#7b98c2"
+      }
+    },
+    {
+      "kind": "personal",
+      "file": "data/images/bamburgh-castle/own-bamburgh-castle-2.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bamburgh-castle-2.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.349
+          },
+          {
+            "hex": "#adc3db",
+            "share": 0.193
+          },
+          {
+            "hex": "#6e6543",
+            "share": 0.179
+          },
+          {
+            "hex": "#4a4628",
+            "share": 0.172
+          },
+          {
+            "hex": "#ad947f",
+            "share": 0.107
+          }
+        ],
+        "strongest": "#adc3db"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bamburgh-castle/commons-1.jpg",
+      "title": "File:Bamburgh Castle, beautiful day.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bamburgh_Castle,_beautiful_day.jpg",
+      "author": "Matthew Hartley",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4043,
+      "height": 3036,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e6c31",
+            "share": 0.246
+          },
+          {
+            "hex": "#99a9cb",
+            "share": 0.23
+          },
+          {
+            "hex": "#434711",
+            "share": 0.228
+          },
+          {
+            "hex": "#6685ba",
+            "share": 0.194
+          },
+          {
+            "hex": "#c3946e",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#434711"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bamburgh-castle/commons-2.jpg",
+      "title": "File:17 Bamburgh Castle (4).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:17_Bamburgh_Castle_(4).jpg",
+      "author": "Sean Arble",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4896,
+      "height": 2872,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7196bb",
+            "share": 0.451
+          },
+          {
+            "hex": "#60712e",
+            "share": 0.249
+          },
+          {
+            "hex": "#928d52",
+            "share": 0.139
+          },
+          {
+            "hex": "#364314",
+            "share": 0.125
+          },
+          {
+            "hex": "#3f7098",
+            "share": 0.037
+          }
+        ],
+        "strongest": "#7196bb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bamburgh-castle/commons-3.jpg",
+      "title": "File:Bamburgh Castle, Northumberland - geograph.org.uk - 3230299.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bamburgh_Castle,_Northumberland_-_geograph.org.uk_-_3230299.jpg",
+      "author": "John Sparshatt",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2719,
+      "height": 1710,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a6a4a",
+            "share": 0.338
+          },
+          {
+            "hex": "#dce0e9",
+            "share": 0.3
+          },
+          {
+            "hex": "#353e22",
+            "share": 0.141
+          },
+          {
+            "hex": "#8bb8e1",
+            "share": 0.126
+          },
+          {
+            "hex": "#a79786",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#8bb8e1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bamburgh-castle/commons-4.jpg",
+      "title": "File:Bamburgh Castle, beautiful day.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bamburgh_Castle,_beautiful_day.jpg",
+      "author": "Matthew Hartley",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4043,
+      "height": 3036,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e6c31",
+            "share": 0.246
+          },
+          {
+            "hex": "#99a9cb",
+            "share": 0.23
+          },
+          {
+            "hex": "#434711",
+            "share": 0.228
+          },
+          {
+            "hex": "#6685ba",
+            "share": 0.194
+          },
+          {
+            "hex": "#c3946e",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#434711"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Aerial photo of Bamburgh Castle - geograph.org.uk - 654112.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.377
+      },
+      {
+        "hex": "#7b98c2",
+        "share": 0.213
+      },
+      {
+        "hex": "#46442a",
+        "share": 0.169
+      },
+      {
+        "hex": "#6d5f49",
+        "share": 0.168
+      },
+      {
+        "hex": "#b59078",
+        "share": 0.073
+      }
+    ],
+    "strongest": "#7b98c2"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "donadea-castle",
+  "name": "Donadea Castle, Donadea Forest Park",
+  "lat": 53.3258,
+  "lng": -6.7547,
+  "enrichedAt": "2026-10-11T01:21:36.495Z",
+  "place": {
+    "town": null,
+    "locality": null,
+    "county": "County Kildare",
+    "adminArea": "County Kildare",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.3258&lon=-6.7547&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Staplestown, Timahoe North ED, The Municipal District of Clane — Maynooth, County Kildare, Leinster, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Ruined castle in a forest park; good any time of year.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [],
+  "rejectedImages": [],
+  "colors": null
+}

@@ -1,0 +1,217 @@
+{
+  "id": "balintore-castle",
+  "name": "Balintore Castle",
+  "lat": 56.7494,
+  "lng": -3.1308,
+  "enrichedAt": "2026-10-11T01:21:30.805Z",
+  "place": {
+    "town": null,
+    "locality": null,
+    "county": "Angus",
+    "adminArea": "Angus",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.7494&lon=-3.1308&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Angus, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Balintore Castle",
+      "description": "Castle in Scotland, built in 1860s",
+      "extract": "Balintore Castle is a Victorian Category A listed building in Scotland. The castle occupies an elevated site in moorland above Balintore village, a few miles north of the Loch of Lintrathen, near Kirriemuir, Angus.",
+      "url": "https://en.wikipedia.org/wiki/Balintore_Castle",
+      "coordinates": {
+        "lat": 56.7175,
+        "lng": -3.16111111
+      },
+      "km": 4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/e6/The_dark_side_of_Balintore_Castle_-_geograph.org.uk_-_7207523.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Victorian Gothic ruin one man is restoring single-handed.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/balintore-castle/own-balintore-castle.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/balintore-castle.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#575531",
+            "share": 0.309
+          },
+          {
+            "hex": "#353426",
+            "share": 0.255
+          },
+          {
+            "hex": "#777145",
+            "share": 0.186
+          },
+          {
+            "hex": "#a69b8f",
+            "share": 0.149
+          },
+          {
+            "hex": "#000000",
+            "share": 0.1
+          }
+        ],
+        "strongest": "#575531"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/balintore-castle/commons-1.jpg",
+      "title": "File:Balintore Castle gateway and drive - geograph.org.uk - 6974952.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Balintore_Castle_gateway_and_drive_-_geograph.org.uk_-_6974952.jpg",
+      "author": "Gordon Hatton",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5184,
+      "height": 3888,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a5628",
+            "share": 0.244
+          },
+          {
+            "hex": "#7f6d4c",
+            "share": 0.201
+          },
+          {
+            "hex": "#f1f1f0",
+            "share": 0.198
+          },
+          {
+            "hex": "#948062",
+            "share": 0.189
+          },
+          {
+            "hex": "#1f2415",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#4a5628"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/balintore-castle/commons-2.jpg",
+      "title": "File:The dark side of Balintore Castle - geograph.org.uk - 7207523.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_dark_side_of_Balintore_Castle_-_geograph.org.uk_-_7207523.jpg",
+      "author": "Aleks Scholz",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c0d4e7",
+            "share": 0.268
+          },
+          {
+            "hex": "#3a6109",
+            "share": 0.264
+          },
+          {
+            "hex": "#7b9cc2",
+            "share": 0.196
+          },
+          {
+            "hex": "#202a20",
+            "share": 0.153
+          },
+          {
+            "hex": "#484d46",
+            "share": 0.119
+          }
+        ],
+        "strongest": "#3a6109"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Balintore Castle - geograph.org.uk - 3967617.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Balintore Castle - geograph.org.uk - 839917.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:View to Balintore Castle from Easter Coul - geograph.org.uk - 1778264.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Ballintore castle.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Glen Dye - geograph.org.uk - 911699.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Cormaud Track - geograph.org.uk - 911717.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Glack of Corraich - geograph.org.uk - 911701.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Track, Cormaud - geograph.org.uk - 339987.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#575531",
+        "share": 0.309
+      },
+      {
+        "hex": "#353426",
+        "share": 0.255
+      },
+      {
+        "hex": "#777145",
+        "share": 0.186
+      },
+      {
+        "hex": "#a69b8f",
+        "share": 0.149
+      },
+      {
+        "hex": "#000000",
+        "share": 0.1
+      }
+    ],
+    "strongest": "#575531"
+  }
+}

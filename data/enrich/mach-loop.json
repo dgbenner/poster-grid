@@ -1,0 +1,286 @@
+{
+  "id": "mach-loop",
+  "name": "Mach Loop, Machynlleth",
+  "lat": 52.6333,
+  "lng": -3.85,
+  "enrichedAt": "2026-10-11T01:21:34.551Z",
+  "place": {
+    "town": "Corris Uchaf",
+    "locality": "Corris",
+    "county": "Gwynedd",
+    "adminArea": "Gwynedd",
+    "region": null,
+    "country": "Wales",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.6333&lon=-3.85&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Corris, Corris Uchaf, Gwynedd, Wales, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "moma-machynlleth",
+        "name": "MOMA Machynlleth",
+        "km": 4.75
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "portmeirion",
+        "name": "Portmeirion",
+        "km": 35.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Mach Loop",
+      "description": "UK low-level aircraft training area",
+      "extract": "The Mach Loop is a series of valleys in west-central Wales, in the United Kingdom, notable for their use as low-level training areas for fast aircraft. The system of valleys lies 13 km (8 mi) east of Barmouth between the towns of Dolgellau to the north and Machynlleth to the south, from the latter of which it takes its name. The training area is part of the United Kingdom Low Flying System and lies within Low Flying Area 7 (LFA7), which covers all of Wales.",
+      "url": "https://en.wikipedia.org/wiki/Mach_Loop",
+      "coordinates": {
+        "lat": 52.70861111,
+        "lng": -3.845
+      },
+      "km": 8.4,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a5/C130_LOOP_%2814014256031%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Corris Uchaf",
+      "description": "Village in Gwynedd, Wales",
+      "extract": "Corris Uchaf, also known as Upper Corris, is a village in the south of Snowdonia National Park in Gwynedd, Wales. The slate quarries that surround Corris Uchaf are its most prominent feature. It lies about 1.5 miles north of Corris.",
+      "url": "https://en.wikipedia.org/wiki/Corris_Uchaf",
+      "coordinates": {
+        "lat": 52.662,
+        "lng": -3.859
+      },
+      "km": 3.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/87/Corris_Uchaf_%28geograph_2641138%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Valley where RAF jets train low — watch fast jets below you from the ridges.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/mach-loop/own-mach-loop.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/mach-loop.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ab9253",
+            "share": 0.318
+          },
+          {
+            "hex": "#a29d85",
+            "share": 0.206
+          },
+          {
+            "hex": "#babaa9",
+            "share": 0.192
+          },
+          {
+            "hex": "#787157",
+            "share": 0.174
+          },
+          {
+            "hex": "#373d39",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#ab9253"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mach-loop/commons-1.jpg",
+      "title": "File:C130 LOOP (14014256031).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:C130_LOOP_(14014256031).jpg",
+      "author": "Peng Chen",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1900,
+      "height": 1266,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#af9556",
+            "share": 0.328
+          },
+          {
+            "hex": "#b9b8a6",
+            "share": 0.218
+          },
+          {
+            "hex": "#969683",
+            "share": 0.174
+          },
+          {
+            "hex": "#797050",
+            "share": 0.172
+          },
+          {
+            "hex": "#353c38",
+            "share": 0.108
+          }
+        ],
+        "strongest": "#af9556"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mach-loop/commons-2.jpg",
+      "title": "File:Track leading to Cwm Cadian Farm - geograph.org.uk - 5876494.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Track_leading_to_Cwm_Cadian_Farm_-_geograph.org.uk_-_5876494.jpg",
+      "author": "John Lucas",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a6a4a4",
+            "share": 0.225
+          },
+          {
+            "hex": "#4a5e37",
+            "share": 0.219
+          },
+          {
+            "hex": "#25341b",
+            "share": 0.206
+          },
+          {
+            "hex": "#778962",
+            "share": 0.182
+          },
+          {
+            "hex": "#c8cfd7",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#25341b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mach-loop/commons-3.jpg",
+      "title": "File:To the left for Pantperthog Farm - geograph.org.uk - 5873271.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:To_the_left_for_Pantperthog_Farm_-_geograph.org.uk_-_5873271.jpg",
+      "author": "John Lucas",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#202a1a",
+            "share": 0.257
+          },
+          {
+            "hex": "#c9c7c8",
+            "share": 0.236
+          },
+          {
+            "hex": "#7b8a5b",
+            "share": 0.189
+          },
+          {
+            "hex": "#495d3a",
+            "share": 0.167
+          },
+          {
+            "hex": "#aaa59d",
+            "share": 0.151
+          }
+        ],
+        "strongest": "#202a1a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mach-loop/commons-4.jpg",
+      "title": "File:Cwm Cadian - geograph.org.uk - 5873265.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cwm_Cadian_-_geograph.org.uk_-_5873265.jpg",
+      "author": "John Lucas",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#737e4f",
+            "share": 0.242
+          },
+          {
+            "hex": "#505e39",
+            "share": 0.224
+          },
+          {
+            "hex": "#c1e9f8",
+            "share": 0.218
+          },
+          {
+            "hex": "#283128",
+            "share": 0.19
+          },
+          {
+            "hex": "#999883",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#c1e9f8"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Pistyll Nant Cwmcadian - geograph.org.uk - 7644903.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#ab9253",
+        "share": 0.318
+      },
+      {
+        "hex": "#a29d85",
+        "share": 0.206
+      },
+      {
+        "hex": "#babaa9",
+        "share": 0.192
+      },
+      {
+        "hex": "#787157",
+        "share": 0.174
+      },
+      {
+        "hex": "#373d39",
+        "share": 0.11
+      }
+    ],
+    "strongest": "#ab9253"
+  }
+}

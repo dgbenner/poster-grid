@@ -1,0 +1,296 @@
+{
+  "id": "milan-duomo",
+  "name": "Milan — the Duomo",
+  "lat": 45.4642,
+  "lng": 9.1919,
+  "enrichedAt": "2026-10-11T01:21:42.426Z",
+  "place": {
+    "town": "Milan",
+    "locality": "Municipio 1",
+    "county": "Milan",
+    "adminArea": "Milan",
+    "region": "Lombardy",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.4642&lon=9.1919&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cerchia dei Navigli, Municipio 1, Milan, Rodano, Milan, Lombardy, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "pieta-milan-cathedral",
+        "name": "Pietà, Milan Cathedral",
+        "km": 0
+      },
+      {
+        "id": "piazzale-loreto-milan",
+        "name": "Piazzale Loreto, Milan",
+        "km": 3.1
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "pieta-milan-cathedral",
+        "name": "Pietà, Milan Cathedral",
+        "km": 0
+      },
+      {
+        "id": "piazzale-loreto-milan",
+        "name": "Piazzale Loreto, Milan",
+        "km": 3.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Milan",
+      "description": "Second-largest city in Italy",
+      "extract": "Milan is the capital and largest city of the region of Lombardy, in northern Italy, and the seat of the Metropolitan City of Milan. It is the second-largest city in Italy after the country’s capital, Rome, with a population of 1,362,863 in 2026. The city's wider metropolitan area is the largest in Italy, and the fourth-largest in the European Union, with an estimated population of 6.55 million. Milan is considered Italy's economic capital, and its metropolitan area accounts for about 20% of the country's GDP.",
+      "url": "https://en.wikipedia.org/wiki/Milan",
+      "coordinates": {
+        "lat": 45.46694444,
+        "lng": 9.19
+      },
+      "km": 0.3,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/3840px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Milan",
+      "description": "Second-largest city in Italy",
+      "extract": "Milan is the capital and largest city of the region of Lombardy, in northern Italy, and the seat of the Metropolitan City of Milan. It is the second-largest city in Italy after the country’s capital, Rome, with a population of 1,362,863 in 2026. The city's wider metropolitan area is the largest in Italy, and the fourth-largest in the European Union, with an estimated population of 6.55 million. Milan is considered Italy's economic capital, and its metropolitan area accounts for about 20% of the country's GDP.",
+      "url": "https://en.wikipedia.org/wiki/Milan",
+      "coordinates": {
+        "lat": 45.46694444,
+        "lng": 9.19
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/3840px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Caught right before a thunderstorm.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/milan-duomo/own-milan-duomo.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/milan-duomo.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a706c",
+            "share": 0.278
+          },
+          {
+            "hex": "#949995",
+            "share": 0.239
+          },
+          {
+            "hex": "#47453c",
+            "share": 0.193
+          },
+          {
+            "hex": "#c2c6c2",
+            "share": 0.16
+          },
+          {
+            "hex": "#0b0b09",
+            "share": 0.13
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/milan-duomo/commons-1.jpg",
+      "title": "File:Milan Cathedral from Piazza del Duomo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+      "author": "Jiuguang Wang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4164,
+      "height": 3129,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0e65b4",
+            "share": 0.439
+          },
+          {
+            "hex": "#83868b",
+            "share": 0.189
+          },
+          {
+            "hex": "#5d5e62",
+            "share": 0.129
+          },
+          {
+            "hex": "#b6b7b6",
+            "share": 0.128
+          },
+          {
+            "hex": "#2f2e33",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#0e65b4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/milan-duomo/commons-2.jpg",
+      "title": "File:Corso Vittorio Emanuele II - Milan, Italy - December 6, 2009 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Corso_Vittorio_Emanuele_II_-_Milan,_Italy_-_December_6,_2009_01.jpg",
+      "author": "Giorgio Galeotti",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 1024,
+      "height": 717,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#705e49",
+            "share": 0.25
+          },
+          {
+            "hex": "#493e35",
+            "share": 0.238
+          },
+          {
+            "hex": "#6a97e5",
+            "share": 0.192
+          },
+          {
+            "hex": "#1f1916",
+            "share": 0.184
+          },
+          {
+            "hex": "#98876a",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#6a97e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/milan-duomo/commons-3.jpg",
+      "title": "File:Detail - Facade of the Duomo - Milan 2014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Detail_-_Facade_of_the_Duomo_-_Milan_2014.jpg",
+      "author": "José Luiz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2572,
+      "height": 1696,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#837c7c",
+            "share": 0.317
+          },
+          {
+            "hex": "#675f62",
+            "share": 0.211
+          },
+          {
+            "hex": "#bfc8d4",
+            "share": 0.203
+          },
+          {
+            "hex": "#9a989a",
+            "share": 0.17
+          },
+          {
+            "hex": "#413d47",
+            "share": 0.098
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/milan-duomo/commons-4.jpg",
+      "title": "File:Statue - Pinnacles of the Duomo - Milan 2014 (3).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Statue_-_Pinnacles_of_the_Duomo_-_Milan_2014_(3).jpg",
+      "author": "José Luiz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1656,
+      "height": 2560,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7691ad",
+            "share": 0.31
+          },
+          {
+            "hex": "#839db6",
+            "share": 0.3
+          },
+          {
+            "hex": "#8ea4b8",
+            "share": 0.16
+          },
+          {
+            "hex": "#9c5a2d",
+            "share": 0.142
+          },
+          {
+            "hex": "#72859c",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#9c5a2d"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Milan Cathedral (Duomo di Milano) (24272961351).jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6a706c",
+        "share": 0.278
+      },
+      {
+        "hex": "#949995",
+        "share": 0.239
+      },
+      {
+        "hex": "#47453c",
+        "share": 0.193
+      },
+      {
+        "hex": "#c2c6c2",
+        "share": 0.16
+      },
+      {
+        "hex": "#0b0b09",
+        "share": 0.13
+      }
+    ],
+    "strongest": null
+  }
+}

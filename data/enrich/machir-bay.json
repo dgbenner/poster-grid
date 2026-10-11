@@ -1,0 +1,276 @@
+{
+  "id": "machir-bay",
+  "name": "Machir Bay (Islay)",
+  "lat": 55.7833,
+  "lng": -6.45,
+  "enrichedAt": "2026-10-11T01:21:30.507Z",
+  "place": {
+    "town": "Kilchoman",
+    "locality": null,
+    "county": "Argyll and Bute",
+    "adminArea": "Argyll and Bute",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.7833&lon=-6.45&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Kilchoman, Argyll and Bute, Scotland, PA49 7UY, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "st-conans-kirk",
+        "name": "St Conan's Kirk",
+        "km": 111.9
+      },
+      {
+        "id": "st-peter-s-seminary",
+        "name": "St Peter's Seminary",
+        "km": 114.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Kilchoman",
+      "description": "Parish on Islay, in Argyll and Bute, Scotland",
+      "extract": "Kilchoman is a small settlement and large parish on the Scottish island of Islay, within the unitary council of Argyll and Bute.",
+      "url": "https://en.wikipedia.org/wiki/Kilchoman",
+      "coordinates": {
+        "lat": 55.7819,
+        "lng": -6.4417
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": null,
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Wide Atlantic-facing beach on whisky island Islay.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/machir-bay/own-machir-bay.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/machir-bay.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9c9d95",
+            "share": 0.33
+          },
+          {
+            "hex": "#837c63",
+            "share": 0.233
+          },
+          {
+            "hex": "#7ac9fd",
+            "share": 0.166
+          },
+          {
+            "hex": "#95ccf4",
+            "share": 0.145
+          },
+          {
+            "hex": "#565343",
+            "share": 0.126
+          }
+        ],
+        "strongest": "#7ac9fd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/machir-bay/commons-1.jpg",
+      "title": "File:Sand dunes at Machir Bay - geograph.org.uk - 5781827.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sand_dunes_at_Machir_Bay_-_geograph.org.uk_-_5781827.jpg",
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e8e9ea",
+            "share": 0.389
+          },
+          {
+            "hex": "#495c24",
+            "share": 0.276
+          },
+          {
+            "hex": "#5b6937",
+            "share": 0.24
+          },
+          {
+            "hex": "#767955",
+            "share": 0.056
+          },
+          {
+            "hex": "#bcbab3",
+            "share": 0.039
+          }
+        ],
+        "strongest": "#495c24"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/machir-bay/commons-2.jpg",
+      "title": "File:Machir Bay, Islay - geograph.org.uk - 3608289.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Machir_Bay,_Islay_-_geograph.org.uk_-_3608289.jpg",
+      "author": "Ian Andrews",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#93a5ca",
+            "share": 0.342
+          },
+          {
+            "hex": "#777d5f",
+            "share": 0.252
+          },
+          {
+            "hex": "#505e3a",
+            "share": 0.207
+          },
+          {
+            "hex": "#aebede",
+            "share": 0.13
+          },
+          {
+            "hex": "#adb0b0",
+            "share": 0.07
+          }
+        ],
+        "strongest": "#93a5ca"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/machir-bay/commons-3.jpg",
+      "title": "File:Sand dunes at Machir Bay - geograph.org.uk - 5781834.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sand_dunes_at_Machir_Bay_-_geograph.org.uk_-_5781834.jpg",
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#79785c",
+            "share": 0.241
+          },
+          {
+            "hex": "#91917c",
+            "share": 0.214
+          },
+          {
+            "hex": "#e2e8ef",
+            "share": 0.211
+          },
+          {
+            "hex": "#5c5e41",
+            "share": 0.178
+          },
+          {
+            "hex": "#abb2b2",
+            "share": 0.157
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/machir-bay/commons-4.jpg",
+      "title": "File:Dunes and machair, Machir Bay - geograph.org.uk - 5209303.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunes_and_machair,_Machir_Bay_-_geograph.org.uk_-_5209303.jpg",
+      "author": "Richard Webb",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 683,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#816f58",
+            "share": 0.287
+          },
+          {
+            "hex": "#6e5d48",
+            "share": 0.222
+          },
+          {
+            "hex": "#93816a",
+            "share": 0.19
+          },
+          {
+            "hex": "#bec2d5",
+            "share": 0.174
+          },
+          {
+            "hex": "#554b3e",
+            "share": 0.127
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Dunes track above Machir Bay - geograph.org.uk - 1420426.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Machir Bay View - geograph.org.uk - 3910423.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#9c9d95",
+        "share": 0.33
+      },
+      {
+        "hex": "#837c63",
+        "share": 0.233
+      },
+      {
+        "hex": "#7ac9fd",
+        "share": 0.166
+      },
+      {
+        "hex": "#95ccf4",
+        "share": 0.145
+      },
+      {
+        "hex": "#565343",
+        "share": 0.126
+      }
+    ],
+    "strongest": "#7ac9fd"
+  }
+}

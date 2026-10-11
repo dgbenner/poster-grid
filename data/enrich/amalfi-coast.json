@@ -1,0 +1,267 @@
+{
+  "id": "amalfi-coast",
+  "name": "Amalfi Coast",
+  "lat": 40.634,
+  "lng": 14.6027,
+  "enrichedAt": "2026-10-11T01:21:42.168Z",
+  "place": {
+    "town": "Pogerola",
+    "locality": null,
+    "county": "Salerno",
+    "adminArea": "Salerno",
+    "region": "Campania",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=40.634&lon=14.6027&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Pogerola, Amalfi, Salerno, Campania, 84011, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "positano",
+        "name": "Positano",
+        "km": 10
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Amalfi Coast",
+      "description": "Coastal area in the Campania region, Italy",
+      "extract": "The Amalfi Coast is a stretch of coastline overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located in the Province of Salerno, in the Campania region of southern Italy, south of the Sorrentine Peninsula and north of the Cilentan Coast.",
+      "url": "https://en.wikipedia.org/wiki/Amalfi_Coast",
+      "coordinates": {
+        "lat": 40.65,
+        "lng": 14.6
+      },
+      "km": 1.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/3840px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Positano, Amalfi, Ravello, Sorrento, plus quieter towns (Cetara, Vietri sul Mare).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/amalfi-coast/own-amalfi-coast.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/amalfi-coast.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.313
+          },
+          {
+            "hex": "#f5d89e",
+            "share": 0.293
+          },
+          {
+            "hex": "#6eb0f7",
+            "share": 0.281
+          },
+          {
+            "hex": "#94978e",
+            "share": 0.095
+          },
+          {
+            "hex": "#9a674a",
+            "share": 0.017
+          }
+        ],
+        "strongest": "#6eb0f7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amalfi-coast/commons-1.jpg",
+      "title": "File:Amalfi Coast (Italy, October 2020) - 75 (50558355441).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg",
+      "author": "Bruno Rijsman",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5445,
+      "height": 3617,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8dacbd",
+            "share": 0.301
+          },
+          {
+            "hex": "#71817d",
+            "share": 0.193
+          },
+          {
+            "hex": "#536150",
+            "share": 0.18
+          },
+          {
+            "hex": "#c1cdd0",
+            "share": 0.176
+          },
+          {
+            "hex": "#8c8840",
+            "share": 0.15
+          }
+        ],
+        "strongest": "#8dacbd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amalfi-coast/commons-2.jpg",
+      "title": "File:Amalfi Coast, Italy from a tour boat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast,_Italy_from_a_tour_boat.jpg",
+      "author": "Peter K Burian",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1998,
+      "height": 1108,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bda78a",
+            "share": 0.214
+          },
+          {
+            "hex": "#2d451f",
+            "share": 0.212
+          },
+          {
+            "hex": "#8b846f",
+            "share": 0.193
+          },
+          {
+            "hex": "#5b6237",
+            "share": 0.192
+          },
+          {
+            "hex": "#daceb2",
+            "share": 0.189
+          }
+        ],
+        "strongest": "#2d451f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amalfi-coast/commons-3.jpg",
+      "title": "File:Amalfi Coast (Italy, October 2020) - 75 (50558355441).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg",
+      "author": "Bruno Rijsman",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5445,
+      "height": 3617,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8dacbd",
+            "share": 0.301
+          },
+          {
+            "hex": "#71817d",
+            "share": 0.193
+          },
+          {
+            "hex": "#536150",
+            "share": 0.18
+          },
+          {
+            "hex": "#c1cdd0",
+            "share": 0.176
+          },
+          {
+            "hex": "#8c8840",
+            "share": 0.15
+          }
+        ],
+        "strongest": "#8dacbd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amalfi-coast/commons-4.jpg",
+      "title": "File:Amazing Amalfi Coast Take 2 (244218647).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amazing_Amalfi_Coast_Take_2_(244218647).jpeg",
+      "author": "Bhasker Thodla",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2048,
+      "height": 1367,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#045b9a",
+            "share": 0.34
+          },
+          {
+            "hex": "#4395dc",
+            "share": 0.288
+          },
+          {
+            "hex": "#0f330d",
+            "share": 0.165
+          },
+          {
+            "hex": "#305221",
+            "share": 0.153
+          },
+          {
+            "hex": "#757666",
+            "share": 0.055
+          }
+        ],
+        "strongest": "#045b9a"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Amalfi Coast from boat.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.313
+      },
+      {
+        "hex": "#f5d89e",
+        "share": 0.293
+      },
+      {
+        "hex": "#6eb0f7",
+        "share": 0.281
+      },
+      {
+        "hex": "#94978e",
+        "share": 0.095
+      },
+      {
+        "hex": "#9a674a",
+        "share": 0.017
+      }
+    ],
+    "strongest": "#6eb0f7"
+  }
+}

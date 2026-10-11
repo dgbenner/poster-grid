@@ -1,0 +1,51 @@
+{
+  "id": "giambologna-appennine-colossus",
+  "name": "Giambologna's Appennine Colossus",
+  "lat": 43.8634,
+  "lng": 11.3007,
+  "enrichedAt": "2026-10-11T01:21:43.518Z",
+  "place": {
+    "town": "Pratolino",
+    "locality": null,
+    "county": "Florence",
+    "adminArea": "Florence",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.8634&lon=11.3007&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Poggio, Pratolino, Vaglia, Florence, Tuscany, 50030, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "santa-maria-del-fiore-floor-mosaic",
+        "name": "Santa Maria del Fiore — floor mosaic",
+        "km": 10.7
+      },
+      {
+        "id": "florence",
+        "name": "Florence",
+        "km": 11
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "The giant stone mountain-god (late 1500s), Villa Demidoff, Pratolino.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [],
+  "rejectedImages": [],
+  "colors": null
+}

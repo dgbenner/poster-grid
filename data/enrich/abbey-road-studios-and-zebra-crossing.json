@@ -1,0 +1,293 @@
+{
+  "id": "abbey-road-studios-and-zebra-crossing",
+  "name": "Abbey Road Studios and Zebra Crossing",
+  "lat": 51.531988,
+  "lng": -0.178226,
+  "enrichedAt": "2026-10-11T01:21:45.562Z",
+  "place": {
+    "town": "London",
+    "locality": "St. John's Wood",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Westminster",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.531988&lon=-0.178226&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "St. John's Wood, City of Westminster, Greater London, England, NW8 9JG, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 2.58
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 3.57
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 3.81
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 2.6
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 3.6
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 3.8
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 5.6
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 5.7
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 6
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 10.2
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 13.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Abbey Road Studios",
+      "description": "Recording studio in London, England",
+      "extract": "Abbey Road Studios is a music recording studio at 3 Abbey Road, St John's Wood, City of Westminster, London. It was established in November 1931 by the Gramophone Company, a predecessor of British music company EMI, which owned it until Universal Music Group (UMG) took control of part of it in 2013. It is ultimately owned by UMG's subsidiary Virgin Records.",
+      "url": "https://en.wikipedia.org/wiki/Abbey_Road_Studios",
+      "coordinates": {
+        "lat": 51.53194444,
+        "lng": -0.17833333
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Abbey_Road_Studios_Logo.svg/960px-Abbey_Road_Studios_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "City of Westminster",
+      "description": "City and borough in London, England",
+      "extract": "The City of Westminster is a London borough with city status in Greater London, England. It is the site of the United Kingdom's Houses of Parliament and much of the British government. It contains a large part of central London, including most of the West End, such as the major shopping areas around Oxford Street, Regent Street, Piccadilly and Bond Street, and the entertainment district of Soho. Many London landmarks are within the borough, including Buckingham Palace, Westminster Abbey, Whitehall, Westminster Cathedral, 10 Downing Street, and Trafalgar Square.",
+      "url": "https://en.wikipedia.org/wiki/City_of_Westminster",
+      "coordinates": {
+        "lat": 51.51222222,
+        "lng": -0.16333333
+      },
+      "km": 2.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg/3840px-Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Famous zebra crossing from the Beatles' 1969 Abbey Road cover, outside the recording studios.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/abbey-road-studios-and-zebra-crossing/commons-1.jpg",
+      "title": "File:Abbey Road Studios Wall.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Abbey_Road_Studios_Wall.jpg",
+      "author": "DearCatastropheWaitress at English Wikipedia",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 2332,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#545356",
+            "share": 0.251
+          },
+          {
+            "hex": "#757173",
+            "share": 0.237
+          },
+          {
+            "hex": "#c2c0c9",
+            "share": 0.218
+          },
+          {
+            "hex": "#a09da5",
+            "share": 0.165
+          },
+          {
+            "hex": "#212724",
+            "share": 0.128
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/abbey-road-studios-and-zebra-crossing/commons-2.jpg",
+      "title": "File:Abbey Road Studios opens its doors to the public 2, 80th Anniversary, March 9, 2012.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Abbey_Road_Studios_opens_its_doors_to_the_public_2,_80th_Anniversary,_March_9,_2012.jpg",
+      "author": "MrJamesAckerley",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4976,
+      "height": 2582,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0d0908",
+            "share": 0.285
+          },
+          {
+            "hex": "#d1cac1",
+            "share": 0.233
+          },
+          {
+            "hex": "#372c24",
+            "share": 0.174
+          },
+          {
+            "hex": "#ad8f6f",
+            "share": 0.168
+          },
+          {
+            "hex": "#7b6346",
+            "share": 0.141
+          }
+        ],
+        "strongest": "#ad8f6f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/abbey-road-studios-and-zebra-crossing/commons-3.jpg",
+      "title": "File:Abbey road studios.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Abbey_road_studios.jpg",
+      "author": "portum",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1512,
+      "height": 1134,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5b5d61",
+            "share": 0.235
+          },
+          {
+            "hex": "#f0f2f6",
+            "share": 0.227
+          },
+          {
+            "hex": "#c1c5cb",
+            "share": 0.212
+          },
+          {
+            "hex": "#858b91",
+            "share": 0.205
+          },
+          {
+            "hex": "#161517",
+            "share": 0.121
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/abbey-road-studios-and-zebra-crossing/commons-4.jpg",
+      "title": "File:Ricky Kej Conducting the Royal Philharmonic at Abbey Road Studios.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ricky_Kej_Conducting_the_Royal_Philharmonic_at_Abbey_Road_Studios.jpg",
+      "author": "Ricky Kej",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4f4538",
+            "share": 0.275
+          },
+          {
+            "hex": "#201a15",
+            "share": 0.249
+          },
+          {
+            "hex": "#acb8bb",
+            "share": 0.176
+          },
+          {
+            "hex": "#93713e",
+            "share": 0.165
+          },
+          {
+            "hex": "#7e8580",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#93713e"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#545356",
+        "share": 0.251
+      },
+      {
+        "hex": "#757173",
+        "share": 0.237
+      },
+      {
+        "hex": "#c2c0c9",
+        "share": 0.218
+      },
+      {
+        "hex": "#a09da5",
+        "share": 0.165
+      },
+      {
+        "hex": "#212724",
+        "share": 0.128
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "id": "bletchley-park",
+  "name": "Bletchley Park",
+  "lat": 51.9974936,
+  "lng": -0.7410593,
+  "enrichedAt": "2026-10-11T01:21:45.757Z",
+  "place": {
+    "town": "Milton Keynes",
+    "locality": "West Bletchley",
+    "county": "Buckinghamshire",
+    "adminArea": "City of Milton Keynes",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.9974936&lon=-0.7410593&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "West Bletchley, Bletchley, Milton Keynes, City of Milton Keynes, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Bletchley Park",
+      "description": "WWII code-breaking site",
+      "extract": "Bletchley Park is an English country house and estate in Bletchley, Milton Keynes (Buckinghamshire), that became the principal centre of Allied code-breaking during the Second World War. During World War II, the estate housed the Government Code and Cypher School (GC&CS), which regularly penetrated the secret communications of the Axis powers – most importantly the German Enigma and Lorenz ciphers. The GC&CS team of codebreakers included John Tiltman, Dilwyn Knox, Alan Turing, Margaret Rock, Mavis Lever, Harry Golombek, Gordon Welchman, Hugh Alexander, Donald Michie, Bill Tutte and Stuart Milner-Barry.",
+      "url": "https://en.wikipedia.org/wiki/Bletchley_Park",
+      "coordinates": {
+        "lat": 51.99805556,
+        "lng": -0.74111111
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bletchley_Park_Mansion.jpg/3840px-Bletchley_Park_Mansion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Milton Keynes",
+      "description": "City in Buckinghamshire, England",
+      "extract": "Milton Keynes is a city in Buckinghamshire, England, about 50 miles (80 km) north-west of London. At the 2021 census, the population of its urban area was 264,349. The River Great Ouse forms the northern boundary of the urban area; a tributary, the River Ouzel, meanders through its linear parks and balancing lakes. Approximately 25% of the urban area is parkland or woodland, including two Sites of Special Scientific Interest (SSSIs). By design, the city comprises many well-delineated neighbourhoods.",
+      "url": "https://en.wikipedia.org/wiki/Milton_Keynes",
+      "coordinates": {
+        "lat": 52.04,
+        "lng": -0.76
+      },
+      "km": 4.9,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/3e/MiltonKeynesChristtheCornerstone01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "WWII codebreaking centre where Alan Turing and colleagues cracked the Enigma cipher, now a museum of cryptography.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument",
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bletchley-park/own-bletchley-park.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bletchley-park.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#86a9cf",
+            "share": 0.37
+          },
+          {
+            "hex": "#616243",
+            "share": 0.24
+          },
+          {
+            "hex": "#84796c",
+            "share": 0.178
+          },
+          {
+            "hex": "#362e26",
+            "share": 0.13
+          },
+          {
+            "hex": "#b2ac9e",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#86a9cf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bletchley-park/commons-1.jpg",
+      "title": "File:Bletchley Park Mansion.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion.jpg",
+      "author": "DeFacto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4248,
+      "height": 2502,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#84a8cf",
+            "share": 0.35
+          },
+          {
+            "hex": "#646446",
+            "share": 0.279
+          },
+          {
+            "hex": "#8c8275",
+            "share": 0.173
+          },
+          {
+            "hex": "#362e26",
+            "share": 0.132
+          },
+          {
+            "hex": "#b8bcb8",
+            "share": 0.067
+          }
+        ],
+        "strongest": "#84a8cf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bletchley-park/commons-2.jpg",
+      "title": "File:Bletchley Park Mansion.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion.jpg",
+      "author": "DeFacto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4248,
+      "height": 2502,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#84a8cf",
+            "share": 0.35
+          },
+          {
+            "hex": "#646446",
+            "share": 0.279
+          },
+          {
+            "hex": "#8c8275",
+            "share": 0.173
+          },
+          {
+            "hex": "#362e26",
+            "share": 0.132
+          },
+          {
+            "hex": "#b8bcb8",
+            "share": 0.067
+          }
+        ],
+        "strongest": "#84a8cf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bletchley-park/commons-3.jpg",
+      "title": "File:Commemorative medal for those working at Bletchley Park, awarded to Joyce Gladys Dickson (nee Day).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Commemorative_medal_for_those_working_at_Bletchley_Park,_awarded_to_Joyce_Gladys_Dickson_(nee_Day).jpg",
+      "author": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3088,
+      "height": 2056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#131013",
+            "share": 0.486
+          },
+          {
+            "hex": "#472210",
+            "share": 0.22
+          },
+          {
+            "hex": "#8b6f48",
+            "share": 0.144
+          },
+          {
+            "hex": "#b79768",
+            "share": 0.131
+          },
+          {
+            "hex": "#3e436b",
+            "share": 0.019
+          }
+        ],
+        "strongest": "#472210"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bletchley-park/commons-4.jpg",
+      "title": "File:Block A, Bletchley Park.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Block_A,_Bletchley_Park.jpg",
+      "author": "Bibeyjj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2592,
+      "height": 1936,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bda18a",
+            "share": 0.378
+          },
+          {
+            "hex": "#82796b",
+            "share": 0.304
+          },
+          {
+            "hex": "#5d97ea",
+            "share": 0.19
+          },
+          {
+            "hex": "#45473f",
+            "share": 0.081
+          },
+          {
+            "hex": "#f3edd0",
+            "share": 0.047
+          }
+        ],
+        "strongest": "#5d97ea"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#86a9cf",
+        "share": 0.37
+      },
+      {
+        "hex": "#616243",
+        "share": 0.24
+      },
+      {
+        "hex": "#84796c",
+        "share": 0.178
+      },
+      {
+        "hex": "#362e26",
+        "share": 0.13
+      },
+      {
+        "hex": "#b2ac9e",
+        "share": 0.082
+      }
+    ],
+    "strongest": "#86a9cf"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "id": "pantheon-door",
+  "name": "The Pantheon door",
+  "lat": 41.8986,
+  "lng": 12.4769,
+  "enrichedAt": "2026-10-11T01:21:41.732Z",
+  "place": {
+    "town": "Rome",
+    "locality": "Municipio Roma I",
+    "county": "Roma Capitale",
+    "adminArea": "Roma Capitale",
+    "region": "Lazio",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.8986&lon=12.4769&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Municipio Roma I, Rome, Roma Capitale, Lazio, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 0.25
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 0.3
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 0.94
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.01
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 1.67
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 1.91
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 1.95
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 1.97
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 2.12
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 2.12
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2.14
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 0.3
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 0.3
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 0.9
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Pantheon, Rome",
+      "description": "Roman temple, later church, in Rome",
+      "extract": "The Pantheon is an ancient temple in Rome, Italy, originally built under emperor Augustus and reconstructed under Hadrian (117–138); since AD 609, it is a Catholic church called the Basilica of St. Mary and the Martyrs.",
+      "url": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome",
+      "coordinates": {
+        "lat": 41.8986,
+        "lng": 12.4768
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/3840px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Rome",
+      "description": "Capital and largest city of Italy",
+      "extract": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country within Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church.",
+      "url": "https://en.wikipedia.org/wiki/Rome",
+      "coordinates": {
+        "lat": 41.89333333,
+        "lng": 12.48277778
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The bronze portal, c. 115 AD, still turning on its hinges after ~2,000 years.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/pantheon-door/own-pantheon-door.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/pantheon-door.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a19391",
+            "share": 0.367
+          },
+          {
+            "hex": "#696667",
+            "share": 0.277
+          },
+          {
+            "hex": "#434040",
+            "share": 0.215
+          },
+          {
+            "hex": "#b9b0ab",
+            "share": 0.074
+          },
+          {
+            "hex": "#020101",
+            "share": 0.066
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pantheon-door/commons-1.jpg",
+      "title": "File:Pantheon (Rome) - Right side and front.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+      "author": "NikonZ7II",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 7512,
+      "height": 6048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e8e7e7",
+            "share": 0.284
+          },
+          {
+            "hex": "#6f5e4e",
+            "share": 0.259
+          },
+          {
+            "hex": "#504134",
+            "share": 0.191
+          },
+          {
+            "hex": "#271f19",
+            "share": 0.16
+          },
+          {
+            "hex": "#9b846a",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#504134"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pantheon-door/commons-2.jpg",
+      "title": "File:20160422 107 Roma - Pantheon (26078747133).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20160422_107_Roma_-_Pantheon_(26078747133).jpg",
+      "author": "Sjaak Kempe from Groningen, The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5180,
+      "height": 3368,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#655854",
+            "share": 0.302
+          },
+          {
+            "hex": "#807470",
+            "share": 0.24
+          },
+          {
+            "hex": "#fdfdfd",
+            "share": 0.174
+          },
+          {
+            "hex": "#493b37",
+            "share": 0.144
+          },
+          {
+            "hex": "#a59996",
+            "share": 0.14
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pantheon-door/commons-3.jpg",
+      "title": "File:Einblick Panorama Pantheon Rom.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Einblick_Panorama_Pantheon_Rom.jpg",
+      "author": "Stefan Bauer",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "width": 1600,
+      "height": 667,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#91724f",
+            "share": 0.276
+          },
+          {
+            "hex": "#af916c",
+            "share": 0.266
+          },
+          {
+            "hex": "#725235",
+            "share": 0.236
+          },
+          {
+            "hex": "#462d17",
+            "share": 0.115
+          },
+          {
+            "hex": "#d4b896",
+            "share": 0.107
+          }
+        ],
+        "strongest": "#725235"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pantheon-door/commons-4.jpg",
+      "title": "File:Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg",
+      "author": "Giovanni Paolo Panini",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5401,
+      "height": 7045,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7b786d",
+            "share": 0.261
+          },
+          {
+            "hex": "#585044",
+            "share": 0.251
+          },
+          {
+            "hex": "#322729",
+            "share": 0.208
+          },
+          {
+            "hex": "#a29f95",
+            "share": 0.17
+          },
+          {
+            "hex": "#8e6537",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#8e6537"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Anonymus B, Pantheon SMB 1.jpg",
+      "why": "licence PDM-owner"
+    },
+    {
+      "title": "File:Anonymus B, Pantheon SMB 2.jpg",
+      "why": "licence PDM-owner"
+    },
+    {
+      "title": "File:Dehio 1 Pantheon Floor plan.jpg",
+      "why": "logo/map/album filter"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a19391",
+        "share": 0.367
+      },
+      {
+        "hex": "#696667",
+        "share": 0.277
+      },
+      {
+        "hex": "#434040",
+        "share": 0.215
+      },
+      {
+        "hex": "#b9b0ab",
+        "share": 0.074
+      },
+      {
+        "hex": "#020101",
+        "share": 0.066
+      }
+    ],
+    "strongest": null
+  }
+}

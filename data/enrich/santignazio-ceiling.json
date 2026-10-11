@@ -1,0 +1,351 @@
+{
+  "id": "santignazio-ceiling",
+  "name": "Sant'Ignazio di Loyola — the false dome",
+  "lat": 41.8991,
+  "lng": 12.4799,
+  "enrichedAt": "2026-10-11T01:21:41.740Z",
+  "place": {
+    "town": "Rome",
+    "locality": "Municipio Roma I",
+    "county": "Roma Capitale",
+    "adminArea": "Roma Capitale",
+    "region": "Lazio",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.8991&lon=12.4799&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Pigna, Municipio Roma I, Rome, Roma Capitale, Lazio, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 0.07
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 0.25
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 0.82
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.21
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 1.9
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 1.95
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 2.14
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 2.18
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 2.21
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 2.33
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 2.33
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 0.1
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 0.3
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 0.8
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.2
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Sant'Ignazio, Rome",
+      "description": "Church in Rome, Italy",
+      "extract": "The Church of St. Ignatius of Loyola at Campus Martius  is a Latin Catholic titular church, of deaconry rank, dedicated to Ignatius of Loyola, the founder of the Society of Jesus, located in Rome, Italy. Built in Baroque style between 1626 and 1650, the church functioned originally as the chapel of the adjacent Roman College, which moved in 1584 to a new larger building and was renamed the Pontifical Gregorian University. It is one of the great 17th century preaching churches built by Counter-Reformation orders in the Centro Storico.",
+      "url": "https://en.wikipedia.org/wiki/Sant'Ignazio%2C_Rome",
+      "coordinates": {
+        "lat": 41.899,
+        "lng": 12.47977778
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Church_of_Sant%27Ignazio_di_Loyola.jpg/3840px-Church_of_Sant%27Ignazio_di_Loyola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Rome",
+      "description": "Capital and largest city of Italy",
+      "extract": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country within Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church.",
+      "url": "https://en.wikipedia.org/wiki/Rome",
+      "coordinates": {
+        "lat": 41.89333333,
+        "lng": 12.48277778
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Andrea Pozzo's trompe-l'oeil \"fake arched ceiling,\" 1685.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/santignazio-ceiling/own-santignazio-ceiling.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/santignazio-ceiling.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#452f21",
+            "share": 0.306
+          },
+          {
+            "hex": "#846a58",
+            "share": 0.246
+          },
+          {
+            "hex": "#674c3b",
+            "share": 0.199
+          },
+          {
+            "hex": "#9d8c7e",
+            "share": 0.188
+          },
+          {
+            "hex": "#d0cdcd",
+            "share": 0.061
+          }
+        ],
+        "strongest": "#452f21"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santignazio-ceiling/commons-1.jpg",
+      "title": "File:Church of Sant'Ignazio di Loyola.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Church_of_Sant%27Ignazio_di_Loyola.jpg",
+      "author": "Fiat 500e",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 6094,
+      "height": 5086,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f5d63",
+            "share": 0.28
+          },
+          {
+            "hex": "#85b6ed",
+            "share": 0.227
+          },
+          {
+            "hex": "#c5d8f2",
+            "share": 0.177
+          },
+          {
+            "hex": "#8d8e97",
+            "share": 0.168
+          },
+          {
+            "hex": "#282a31",
+            "share": 0.147
+          }
+        ],
+        "strongest": "#85b6ed"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santignazio-ceiling/commons-2.jpg",
+      "title": "File:Church of Sant'Ignazio di Loyola.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Church_of_Sant%27Ignazio_di_Loyola.jpg",
+      "author": "Fiat 500e",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 6094,
+      "height": 5086,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f5d63",
+            "share": 0.28
+          },
+          {
+            "hex": "#85b6ed",
+            "share": 0.227
+          },
+          {
+            "hex": "#c5d8f2",
+            "share": 0.177
+          },
+          {
+            "hex": "#8d8e97",
+            "share": 0.168
+          },
+          {
+            "hex": "#282a31",
+            "share": 0.147
+          }
+        ],
+        "strongest": "#85b6ed"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santignazio-ceiling/commons-3.jpg",
+      "title": "File:Church of Sant'Ignazio di Loyola - interno.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Church_of_Sant%27Ignazio_di_Loyola_-_interno.jpg",
+      "author": "Fiat 500e",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 6325,
+      "height": 3176,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8d9093",
+            "share": 0.221
+          },
+          {
+            "hex": "#584534",
+            "share": 0.217
+          },
+          {
+            "hex": "#766a5f",
+            "share": 0.213
+          },
+          {
+            "hex": "#342215",
+            "share": 0.192
+          },
+          {
+            "hex": "#b0b8bc",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#342215"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/santignazio-ceiling/commons-4.jpg",
+      "title": "File:Intérieur Église Sant Ignazio Loyola Campo Marzio - Rome (IT62) - 2021-08-30 - 6.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_%C3%89glise_Sant_Ignazio_Loyola_Campo_Marzio_-_Rome_(IT62)_-_2021-08-30_-_6.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a0917e",
+            "share": 0.334
+          },
+          {
+            "hex": "#857765",
+            "share": 0.245
+          },
+          {
+            "hex": "#68563f",
+            "share": 0.208
+          },
+          {
+            "hex": "#3f2f23",
+            "share": 0.137
+          },
+          {
+            "hex": "#bab7b0",
+            "share": 0.076
+          }
+        ],
+        "strongest": "#68563f"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#452f21",
+        "share": 0.306
+      },
+      {
+        "hex": "#846a58",
+        "share": 0.246
+      },
+      {
+        "hex": "#674c3b",
+        "share": 0.199
+      },
+      {
+        "hex": "#9d8c7e",
+        "share": 0.188
+      },
+      {
+        "hex": "#d0cdcd",
+        "share": 0.061
+      }
+    ],
+    "strongest": "#452f21"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "id": "bmw-museum-bmw-welt",
+  "name": "BMW Museum & BMW Welt",
+  "lat": 48.1772,
+  "lng": 11.5591,
+  "enrichedAt": "2026-10-11T01:21:45.365Z",
+  "place": {
+    "town": "Munich",
+    "locality": "Milbertshofen-Am Hart",
+    "county": "Bavaria",
+    "adminArea": null,
+    "region": "Bavaria",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.1772&lon=11.5591&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Am Riesenfeld, Milbertshofen-Am Hart, Munich, Bavaria, 80809, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "bmw-building-munich",
+        "name": "BMW Building (BMW Welt / HQ), Munich",
+        "km": 0.2
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "bmw-building-munich",
+        "name": "BMW Building (BMW Welt / HQ), Munich",
+        "km": 0.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "BMW Welt",
+      "description": "Building in Munich, Germany",
+      "extract": "The BMW Welt is a combined exhibition, delivery, adventure museum, and event venue located in Munich's district Am Riesenfeld, next to the Olympic Park, in the immediate vicinity of the BMW Headquarters and factory. It was built from August 2003 to summer 2007. A solar system with 800 kW of power is installed on the roof of the main building. The opening took place on 17 October 2007. The BMW Welt is the most visited tourist attraction in Bavaria.",
+      "url": "https://en.wikipedia.org/wiki/BMW_Welt",
+      "coordinates": {
+        "lat": 48.17694444,
+        "lng": 11.55666667
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/ce/BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Munich",
+      "description": "Capital of Bavaria, Germany",
+      "extract": "Munich is the capital and most populous city of the German state of Bavaria. As of 30 November 2024, its population was 1,604,384, making it the third most-populous city in Germany after Berlin and Hamburg. Munich is the largest city in Germany that is not a state of its own, and it ranks as the 11th-largest city in the European Union (EU). The metropolitan area has around 3 million inhabitants, and the broader Munich Metropolitan Region is home to about 6.2 million people. It is the third largest metropolitan region by GDP in the EU. Munich is located on the river Isar north of the Alps. It is the seat of the Upper Bavarian administrative region. With 4,800 people per km2, Munich is Germany's most densely populated municipality. It is also the second-largest city in the Bavarian dialect area after Vienna.",
+      "url": "https://en.wikipedia.org/wiki/Munich",
+      "coordinates": {
+        "lat": 48.1375,
+        "lng": 11.575
+      },
+      "km": 4.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/3840px-Stadtbild_M%C3%BCnchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Iconic BMW headquarters tower, museum and futuristic BMW Welt showroom near Munich's Olympic Park.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bmw-museum-bmw-welt/own-bmw-museum-bmw-welt.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bmw-museum-bmw-welt.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7b7d77",
+            "share": 0.246
+          },
+          {
+            "hex": "#6e9ad0",
+            "share": 0.23
+          },
+          {
+            "hex": "#b2b0ac",
+            "share": 0.225
+          },
+          {
+            "hex": "#3c4040",
+            "share": 0.162
+          },
+          {
+            "hex": "#89afde",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#6e9ad0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-museum-bmw-welt/commons-1.jpg",
+      "title": "File:BMW Museum (2014).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_Museum_(2014).jpg",
+      "author": "Saptarshi Pal",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4928,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1b1e1f",
+            "share": 0.244
+          },
+          {
+            "hex": "#bec8d5",
+            "share": 0.232
+          },
+          {
+            "hex": "#45484c",
+            "share": 0.182
+          },
+          {
+            "hex": "#63676e",
+            "share": 0.182
+          },
+          {
+            "hex": "#8eb4de",
+            "share": 0.16
+          }
+        ],
+        "strongest": "#8eb4de"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-museum-bmw-welt/commons-2.jpg",
+      "title": "File:BMW Welt, Múnich, Alemania, 2013-02-11, DD 14.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_Welt,_M%C3%BAnich,_Alemania,_2013-02-11,_DD_14.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3817,
+      "height": 3339,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#aecfec",
+            "share": 0.268
+          },
+          {
+            "hex": "#527b98",
+            "share": 0.241
+          },
+          {
+            "hex": "#26292f",
+            "share": 0.231
+          },
+          {
+            "hex": "#4c555e",
+            "share": 0.162
+          },
+          {
+            "hex": "#9e9d9b",
+            "share": 0.097
+          }
+        ],
+        "strongest": "#aecfec"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-museum-bmw-welt/commons-3.jpg",
+      "title": "File:BMW Welt, Múnich, Alemania, 2013-02-24, DD 28.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_Welt,_M%C3%BAnich,_Alemania,_2013-02-24,_DD_28.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5515,
+      "height": 3677,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#201f1d",
+            "share": 0.275
+          },
+          {
+            "hex": "#393736",
+            "share": 0.259
+          },
+          {
+            "hex": "#565352",
+            "share": 0.213
+          },
+          {
+            "hex": "#7c7b7a",
+            "share": 0.161
+          },
+          {
+            "hex": "#b7b7ba",
+            "share": 0.092
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-museum-bmw-welt/commons-4.jpg",
+      "title": "File:BMW Welt, Múnich, Alemania, 2013-04-22, DD 05.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_Welt,_M%C3%BAnich,_Alemania,_2013-04-22,_DD_05.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4856,
+      "height": 3237,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2d1f16",
+            "share": 0.335
+          },
+          {
+            "hex": "#140f0d",
+            "share": 0.241
+          },
+          {
+            "hex": "#493221",
+            "share": 0.236
+          },
+          {
+            "hex": "#5c5046",
+            "share": 0.1
+          },
+          {
+            "hex": "#a96324",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#2d1f16"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7b7d77",
+        "share": 0.246
+      },
+      {
+        "hex": "#6e9ad0",
+        "share": 0.23
+      },
+      {
+        "hex": "#b2b0ac",
+        "share": 0.225
+      },
+      {
+        "hex": "#3c4040",
+        "share": 0.162
+      },
+      {
+        "hex": "#89afde",
+        "share": 0.138
+      }
+    ],
+    "strongest": "#6e9ad0"
+  }
+}

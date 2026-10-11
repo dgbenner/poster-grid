@@ -1,0 +1,271 @@
+{
+  "id": "rovinj-old-town",
+  "name": "Rovinj Old Town",
+  "lat": 45.0811,
+  "lng": 13.6387,
+  "enrichedAt": "2026-10-11T01:21:44.705Z",
+  "place": {
+    "town": "Rovinj",
+    "locality": "Old Town",
+    "county": "Istria County",
+    "adminArea": "Istria County",
+    "region": null,
+    "country": "Croatia",
+    "sovereign": "Croatia",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.0811&lon=13.6387&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, Rovinj, Grad Rovinj, Istria County, 53210, Croatia"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Rovinj",
+      "description": "Town in Istria, Croatia",
+      "extract": "Rovinj is a town in west Croatia situated on the north Adriatic Sea with a population of 12,968 (2021). Located on the western coast of the Istrian peninsula, it is a popular tourist resort and beach destination, in addition to being an active fishing port. Istriot, a Romance language once widely spoken in this part of Istria, is still spoken by some of the residents. The town is officially bilingual, Croatian and Italian, hence both town names are official and equal.",
+      "url": "https://en.wikipedia.org/wiki/Rovinj",
+      "coordinates": {
+        "lat": 45.08333333,
+        "lng": 13.63333333
+      },
+      "km": 0.5,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rovinj%2C_Croatia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Rovinj",
+      "description": "Town in Istria, Croatia",
+      "extract": "Rovinj is a town in west Croatia situated on the north Adriatic Sea with a population of 12,968 (2021). Located on the western coast of the Istrian peninsula, it is a popular tourist resort and beach destination, in addition to being an active fishing port. Istriot, a Romance language once widely spoken in this part of Istria, is still spoken by some of the residents. The town is officially bilingual, Croatian and Italian, hence both town names are official and equal.",
+      "url": "https://en.wikipedia.org/wiki/Rovinj",
+      "coordinates": {
+        "lat": 45.08333333,
+        "lng": 13.63333333
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rovinj%2C_Croatia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Picturesque Adriatic peninsula town crowned by the baroque Church of St. Euphemia and its towering campanile.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "coast",
+    "cathedral",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/rovinj-old-town/own-rovinj-old-town.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/rovinj-old-town.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f3f4f4",
+            "share": 0.277
+          },
+          {
+            "hex": "#634846",
+            "share": 0.266
+          },
+          {
+            "hex": "#2f5a8b",
+            "share": 0.218
+          },
+          {
+            "hex": "#997a67",
+            "share": 0.135
+          },
+          {
+            "hex": "#656fb6",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#2f5a8b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rovinj-old-town/commons-1.jpg",
+      "title": "File:Cityscape Rovinj at sunrise.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cityscape_Rovinj_at_sunrise.jpg",
+      "author": "Valerii Tkachenko",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4417,
+      "height": 2484,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#777270",
+            "share": 0.652
+          },
+          {
+            "hex": "#795c48",
+            "share": 0.132
+          },
+          {
+            "hex": "#a47550",
+            "share": 0.09
+          },
+          {
+            "hex": "#9e8976",
+            "share": 0.074
+          },
+          {
+            "hex": "#493d33",
+            "share": 0.052
+          }
+        ],
+        "strongest": "#a47550"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rovinj-old-town/commons-2.jpg",
+      "title": "File:Rovinj, Croatia.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rovinj,_Croatia.jpg",
+      "author": "Florian Hirzinger - http://www.fh-ap.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1200,
+      "height": 800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#04629a",
+            "share": 0.295
+          },
+          {
+            "hex": "#75757c",
+            "share": 0.263
+          },
+          {
+            "hex": "#418cbd",
+            "share": 0.179
+          },
+          {
+            "hex": "#aca7a4",
+            "share": 0.176
+          },
+          {
+            "hex": "#3d4850",
+            "share": 0.086
+          }
+        ],
+        "strongest": "#04629a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rovinj-old-town/commons-3.jpg",
+      "title": "File:Rovinj-drone-2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rovinj-drone-2022.jpg",
+      "author": "Tom Salmon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4f4d55",
+            "share": 0.242
+          },
+          {
+            "hex": "#a9b0b4",
+            "share": 0.226
+          },
+          {
+            "hex": "#e0e2d5",
+            "share": 0.203
+          },
+          {
+            "hex": "#727884",
+            "share": 0.184
+          },
+          {
+            "hex": "#252425",
+            "share": 0.145
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rovinj-old-town/commons-4.jpg",
+      "title": "File:Rovinj - Vieille ville (31661384772).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rovinj_-_Vieille_ville_(31661384772).jpg",
+      "author": "Nicolas Vollmer from Paris [France]",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4140,
+      "height": 2760,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8a725e",
+            "share": 0.224
+          },
+          {
+            "hex": "#60493b",
+            "share": 0.223
+          },
+          {
+            "hex": "#2a201a",
+            "share": 0.215
+          },
+          {
+            "hex": "#b9a185",
+            "share": 0.21
+          },
+          {
+            "hex": "#d8dee5",
+            "share": 0.128
+          }
+        ],
+        "strongest": "#b9a185"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#f3f4f4",
+        "share": 0.277
+      },
+      {
+        "hex": "#634846",
+        "share": 0.266
+      },
+      {
+        "hex": "#2f5a8b",
+        "share": 0.218
+      },
+      {
+        "hex": "#997a67",
+        "share": 0.135
+      },
+      {
+        "hex": "#656fb6",
+        "share": 0.103
+      }
+    ],
+    "strongest": "#2f5a8b"
+  }
+}

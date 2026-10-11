@@ -1,0 +1,360 @@
+{
+  "id": "bernini-david",
+  "name": "Bernini, David, Galleria Borghese",
+  "lat": 41.9142,
+  "lng": 12.492,
+  "enrichedAt": "2026-10-11T01:21:41.802Z",
+  "place": {
+    "town": "Rome",
+    "locality": "Municipio Roma II",
+    "county": "Roma Capitale",
+    "adminArea": "Roma Capitale",
+    "region": "Lazio",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.9142&lon=12.492&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Municipio Roma II, Rome, Roma Capitale, Lazio, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 1.95
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 1.97
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 2.14
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 2.42
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 2.46
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 3.17
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 3.29
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 3.29
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 3.35
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 3.42
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 3.5
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 2
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 2
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 2.1
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 2.4
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 2.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Galleria Borghese",
+      "description": "Art gallery in Rome, Italy",
+      "extract": "The Galleria Borghese or Borghese Gallery is an art gallery in Rome, Italy, housed in the former Villa Borghese Pinciana. At the outset, the gallery building was integrated with its gardens, but nowadays the Villa Borghese gardens are considered a separate tourist attraction. The Galleria Borghese houses a substantial part of the Borghese Collection of paintings, sculpture and antiquities, begun by Cardinal Scipione Borghese, the nephew of Pope Paul V. The building was constructed by the architect Flaminio Ponzio, developing sketches by Scipione Borghese himself, who used it as a villa suburbana, a country villa at the edge of Rome.",
+      "url": "https://en.wikipedia.org/wiki/Galleria_Borghese",
+      "coordinates": {
+        "lat": 41.9142,
+        "lng": 12.4922
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Galleria_Borghese_-_logo_%28Italy%2C_2022-%29.svg/960px-Galleria_Borghese_-_logo_%28Italy%2C_2022-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Rome",
+      "description": "Capital and largest city of Italy",
+      "extract": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country within Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church.",
+      "url": "https://en.wikipedia.org/wiki/Rome",
+      "coordinates": {
+        "lat": 41.89333333,
+        "lng": 12.48277778
+      },
+      "km": 2.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Bernini's David in the Galleria Borghese.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bernini-david/own-bernini-david.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bernini-david.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.426
+          },
+          {
+            "hex": "#1f2020",
+            "share": 0.226
+          },
+          {
+            "hex": "#7d766b",
+            "share": 0.124
+          },
+          {
+            "hex": "#bbb6a9",
+            "share": 0.118
+          },
+          {
+            "hex": "#494541",
+            "share": 0.106
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bernini-david/commons-1.jpg",
+      "title": "File:01- Galleria Borghese, Sala Egizia -FG01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:01-_Galleria_Borghese,_Sala_Egizia_-FG01.jpg",
+      "author": "Fabrizio Garrisi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5658,
+      "height": 4276,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6b5f54",
+            "share": 0.298
+          },
+          {
+            "hex": "#868480",
+            "share": 0.222
+          },
+          {
+            "hex": "#443c36",
+            "share": 0.169
+          },
+          {
+            "hex": "#ae8f6b",
+            "share": 0.169
+          },
+          {
+            "hex": "#bcb8ae",
+            "share": 0.142
+          }
+        ],
+        "strongest": "#ae8f6b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bernini-david/commons-2.jpg",
+      "title": "File:09- Volta della Sala degli Imperatori, Galleria Borghese -FG09.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:09-_Volta_della_Sala_degli_Imperatori,_Galleria_Borghese_-FG09.jpg",
+      "author": "Fabrizio Garrisi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6624,
+      "height": 4342,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8c7563",
+            "share": 0.246
+          },
+          {
+            "hex": "#655145",
+            "share": 0.235
+          },
+          {
+            "hex": "#ac9b8c",
+            "share": 0.217
+          },
+          {
+            "hex": "#443228",
+            "share": 0.192
+          },
+          {
+            "hex": "#ccc7c1",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#443228"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bernini-david/commons-3.jpg",
+      "title": "File:Amazon with barbarian and Greek, Roman, detail, c. 160 AD, marble - Galleria Borghese - Rome, Italy - DSC04659.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amazon_with_barbarian_and_Greek,_Roman,_detail,_c._160_AD,_marble_-_Galleria_Borghese_-_Rome,_Italy_-_DSC04659.jpg",
+      "author": "Daderot",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#473624",
+            "share": 0.329
+          },
+          {
+            "hex": "#322211",
+            "share": 0.205
+          },
+          {
+            "hex": "#c0beb6",
+            "share": 0.181
+          },
+          {
+            "hex": "#655849",
+            "share": 0.163
+          },
+          {
+            "hex": "#928a7c",
+            "share": 0.122
+          }
+        ],
+        "strongest": "#322211"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bernini-david/commons-4.jpg",
+      "title": "File:Emperors' Room - Galleria Borghese - Rome, Italy - DSC04759.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Emperors%27_Room_-_Galleria_Borghese_-_Rome,_Italy_-_DSC04759.jpg",
+      "author": "Daderot",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a68c46",
+            "share": 0.287
+          },
+          {
+            "hex": "#9b957a",
+            "share": 0.246
+          },
+          {
+            "hex": "#88692d",
+            "share": 0.199
+          },
+          {
+            "hex": "#a5b1aa",
+            "share": 0.184
+          },
+          {
+            "hex": "#4b361b",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#88692d"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Bernini's David.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Bernini Truth unveiled by Time Gal Borghese.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.426
+      },
+      {
+        "hex": "#1f2020",
+        "share": 0.226
+      },
+      {
+        "hex": "#7d766b",
+        "share": 0.124
+      },
+      {
+        "hex": "#bbb6a9",
+        "share": 0.118
+      },
+      {
+        "hex": "#494541",
+        "share": 0.106
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "computer-museum-paderborn",
+  "name": "Computer Museum (Heinz Nixdorf MuseumsForum, Paderborn)",
+  "lat": 51.7375,
+  "lng": 8.7283,
+  "enrichedAt": "2026-10-11T01:21:40.217Z",
+  "place": {
+    "town": "Paderborn",
+    "locality": "Schloß Neuhaus",
+    "county": "Kreis Paderborn",
+    "adminArea": "Kreis Paderborn",
+    "region": "North Rhine-Westphalia",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.7375&lon=8.7283&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Schloß Neuhaus, Sennelager, Paderborn, Kreis Paderborn, North Rhine-Westphalia, 33104, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Paderborn",
+      "description": "City in North Rhine-Westphalia, Germany",
+      "extract": "Paderborn is a city in eastern North Rhine-Westphalia, Germany, capital of the Paderborn district. The name of the city derives from the river Pader and Born, an old German term for the source of a river. The river Pader originates in more than 200 springs near Paderborn Cathedral, where St. Liborius is buried.",
+      "url": "https://en.wikipedia.org/wiki/Paderborn",
+      "coordinates": {
+        "lat": 51.71805556,
+        "lng": 8.75416667
+      },
+      "km": 2.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Paderborn_Dom_asv2024-05_img13.jpg/3840px-Paderborn_Dom_asv2024-05_img13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The world's largest computer museum.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/computer-museum-paderborn/own-computer-museum-paderborn.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/computer-museum-paderborn.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#695e4e",
+            "share": 0.275
+          },
+          {
+            "hex": "#3b3b34",
+            "share": 0.266
+          },
+          {
+            "hex": "#90948d",
+            "share": 0.158
+          },
+          {
+            "hex": "#10120f",
+            "share": 0.154
+          },
+          {
+            "hex": "#bcc3bf",
+            "share": 0.147
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/computer-museum-paderborn/commons-1.jpg",
+      "title": "File:Rochuskapelle - Schloss Neuhaus (Winter 2009-2010) - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rochuskapelle_-_Schloss_Neuhaus_(Winter_2009-2010)_-_panoramio.jpg",
+      "author": "INDALOMANIA",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2f2e25",
+            "share": 0.319
+          },
+          {
+            "hex": "#4c4842",
+            "share": 0.189
+          },
+          {
+            "hex": "#d5d9de",
+            "share": 0.18
+          },
+          {
+            "hex": "#a7a9ac",
+            "share": 0.173
+          },
+          {
+            "hex": "#787877",
+            "share": 0.139
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#695e4e",
+        "share": 0.275
+      },
+      {
+        "hex": "#3b3b34",
+        "share": 0.266
+      },
+      {
+        "hex": "#90948d",
+        "share": 0.158
+      },
+      {
+        "hex": "#10120f",
+        "share": 0.154
+      },
+      {
+        "hex": "#bcc3bf",
+        "share": 0.147
+      }
+    ],
+    "strongest": null
+  }
+}

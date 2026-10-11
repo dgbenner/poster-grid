@@ -1,0 +1,269 @@
+{
+  "id": "argenton-sur-creuse",
+  "name": "Argenton-sur-Creuse",
+  "lat": 46.5897,
+  "lng": 1.5183,
+  "enrichedAt": "2026-10-11T01:21:41.245Z",
+  "place": {
+    "town": "Argenton-sur-Creuse",
+    "locality": null,
+    "county": "Indre",
+    "adminArea": "Indre",
+    "region": "Centre-Val de Loire",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=46.5897&lon=1.5183&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Le Moulin de Chambon, Les Varennes, Argenton-sur-Creuse, Châteauroux, Indre, Centre-Val de Loire, Metropolitan France, 36200, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Argenton-sur-Creuse",
+      "description": "Commune in Centre-Val de Loire, France",
+      "extract": "Argenton-sur-Creuse is a commune in the Indre department in central France.",
+      "url": "https://en.wikipedia.org/wiki/Argenton-sur-Creuse",
+      "coordinates": {
+        "lat": 46.5897,
+        "lng": 1.52
+      },
+      "km": 0.1,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Argenton-sur-Creuse_-_Bords_de_la_Creuse_-_08.jpg/3840px-Argenton-sur-Creuse_-_Bords_de_la_Creuse_-_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Argenton-sur-Creuse",
+      "description": "Commune in Centre-Val de Loire, France",
+      "extract": "Argenton-sur-Creuse is a commune in the Indre department in central France.",
+      "url": "https://en.wikipedia.org/wiki/Argenton-sur-Creuse",
+      "coordinates": {
+        "lat": 46.5897,
+        "lng": 1.52
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Argenton-sur-Creuse_-_Bords_de_la_Creuse_-_08.jpg/3840px-Argenton-sur-Creuse_-_Bords_de_la_Creuse_-_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Riverside village in the Indre, \"where history meets the good life.\"",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/argenton-sur-creuse/own-argenton-sur-creuse.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/argenton-sur-creuse.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#030402",
+            "share": 0.251
+          },
+          {
+            "hex": "#9093a1",
+            "share": 0.23
+          },
+          {
+            "hex": "#bfc0cb",
+            "share": 0.224
+          },
+          {
+            "hex": "#495b8a",
+            "share": 0.155
+          },
+          {
+            "hex": "#675741",
+            "share": 0.141
+          }
+        ],
+        "strongest": "#495b8a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/argenton-sur-creuse/commons-1.jpg",
+      "title": "File:Argenton-sur-Creuse - Bords de la Creuse - 08.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Argenton-sur-Creuse_-_Bords_de_la_Creuse_-_08.jpg",
+      "author": "Benjamin Smith",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6638,
+      "height": 3733,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cfe3f1",
+            "share": 0.243
+          },
+          {
+            "hex": "#60574c",
+            "share": 0.235
+          },
+          {
+            "hex": "#493f32",
+            "share": 0.224
+          },
+          {
+            "hex": "#7b7669",
+            "share": 0.212
+          },
+          {
+            "hex": "#a3a193",
+            "share": 0.086
+          }
+        ],
+        "strongest": "#cfe3f1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/argenton-sur-creuse/commons-2.jpg",
+      "title": "File:Argenton-sur-Creuse - Bords de la Creuse - 08.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Argenton-sur-Creuse_-_Bords_de_la_Creuse_-_08.jpg",
+      "author": "Benjamin Smith",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6638,
+      "height": 3733,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cfe3f1",
+            "share": 0.243
+          },
+          {
+            "hex": "#60574c",
+            "share": 0.235
+          },
+          {
+            "hex": "#493f32",
+            "share": 0.224
+          },
+          {
+            "hex": "#7b7669",
+            "share": 0.212
+          },
+          {
+            "hex": "#a3a193",
+            "share": 0.086
+          }
+        ],
+        "strongest": "#cfe3f1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/argenton-sur-creuse/commons-3.jpg",
+      "title": "File:Argenton-sur-Creuse (36) - Rue Gambetta - vue vers la Place de la République.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Argenton-sur-Creuse_(36)_-_Rue_Gambetta_-_vue_vers_la_Place_de_la_R%C3%A9publique.jpg",
+      "author": "Floppy36",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2448,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#63615c",
+            "share": 0.34
+          },
+          {
+            "hex": "#181b1a",
+            "share": 0.253
+          },
+          {
+            "hex": "#dde6ef",
+            "share": 0.181
+          },
+          {
+            "hex": "#3d3a36",
+            "share": 0.145
+          },
+          {
+            "hex": "#a69f90",
+            "share": 0.081
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/argenton-sur-creuse/commons-4.jpg",
+      "title": "File:Argenton-sur-Creuse (36) - Rue de la Gare.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Argenton-sur-Creuse_(36)_-_Rue_de_la_Gare.jpg",
+      "author": "Floppy36",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2448,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#50504d",
+            "share": 0.522
+          },
+          {
+            "hex": "#abc0d5",
+            "share": 0.204
+          },
+          {
+            "hex": "#282928",
+            "share": 0.148
+          },
+          {
+            "hex": "#7a828b",
+            "share": 0.119
+          },
+          {
+            "hex": "#187478",
+            "share": 0.007
+          }
+        ],
+        "strongest": "#abc0d5"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#030402",
+        "share": 0.251
+      },
+      {
+        "hex": "#9093a1",
+        "share": 0.23
+      },
+      {
+        "hex": "#bfc0cb",
+        "share": 0.224
+      },
+      {
+        "hex": "#495b8a",
+        "share": 0.155
+      },
+      {
+        "hex": "#675741",
+        "share": 0.141
+      }
+    ],
+    "strongest": "#495b8a"
+  }
+}

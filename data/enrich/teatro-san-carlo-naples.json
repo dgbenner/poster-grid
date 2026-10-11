@@ -1,0 +1,289 @@
+{
+  "id": "teatro-san-carlo-naples",
+  "name": "Teatro di San Carlo, Naples",
+  "lat": 40.8377,
+  "lng": 14.2496,
+  "enrichedAt": "2026-10-11T01:21:42.223Z",
+  "place": {
+    "town": "Naples",
+    "locality": "Municipalità 1",
+    "county": "Naples",
+    "adminArea": "Naples",
+    "region": "Campania",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=40.8377&lon=14.2496&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Municipalità 1, Naples, Campania, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "pompeii-mount-vesuvius",
+        "name": "Pompeii / Mount Vesuvius",
+        "km": 22.2
+      },
+      {
+        "id": "sorrento-abandoned-mill",
+        "name": "Valle dei Mulini (Abandoned Mill), Sorrento",
+        "km": 25.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Teatro di San Carlo",
+      "description": "Opera house in Naples, Italy",
+      "extract": "The Real Teatro di San Carlo, as originally named by the Bourbon monarchy but today known simply as the Teatro (di) San Carlo, is a historic opera house in Naples, Italy, connected to the Royal Palace and adjacent to the Piazza del Plebiscito. It is the oldest continuously active venue for opera in the world, having opened in 1737, decades before either Milan's La Scala or Venice's La Fenice.",
+      "url": "https://en.wikipedia.org/wiki/Teatro_di_San_Carlo",
+      "coordinates": {
+        "lat": 40.8375,
+        "lng": 14.24944444
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg/3840px-Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Naples",
+      "description": "Regional capital city of Campania, Italy",
+      "extract": "Naples is the regional capital of Campania, southern Italy. With a population of 905,050 within the city's administrative limits as of 2026, it is the largest city in southern Italy and the third-largest city in Italy after Rome and Milan, while its province-level municipality is the third most populous metropolitan city in Italy with a population of 2,954,847 residents – or the second largest according to OECD data. Its metropolitan area, the seventh most populous in the European Union, has a population of approximately 4.4 million and stretches beyond the boundaries of the city proper for approximately 30 kilometres. Naples also plays a key role in international diplomacy, being home to NATO's Allied Joint Force Command Naples and the Parliamentary Assembly of the Mediterranean.",
+      "url": "https://en.wikipedia.org/wiki/Naples",
+      "coordinates": {
+        "lat": 40.8358,
+        "lng": 14.2486
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Napoli_-_Maschio_Angioino_-_202209302342_3.jpg/3840px-Napoli_-_Maschio_Angioino_-_202209302342_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The opera house.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/teatro-san-carlo-naples/own-teatro-san-carlo-naples.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/teatro-san-carlo-naples.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fcfcfc",
+            "share": 0.376
+          },
+          {
+            "hex": "#020202",
+            "share": 0.302
+          },
+          {
+            "hex": "#675c57",
+            "share": 0.181
+          },
+          {
+            "hex": "#443532",
+            "share": 0.074
+          },
+          {
+            "hex": "#b2a49a",
+            "share": 0.066
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/teatro-san-carlo-naples/commons-1.jpg",
+      "title": "File:Teatro de San Carlos, Nápoles, Italia, 2023-03-25, DD 184-186 HDR.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Teatro_de_San_Carlos,_N%C3%A1poles,_Italia,_2023-03-25,_DD_184-186_HDR.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6626,
+      "height": 4244,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#68584c",
+            "share": 0.284
+          },
+          {
+            "hex": "#ac9e8f",
+            "share": 0.275
+          },
+          {
+            "hex": "#2c241f",
+            "share": 0.173
+          },
+          {
+            "hex": "#a8c6e3",
+            "share": 0.156
+          },
+          {
+            "hex": "#eef1f4",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#a8c6e3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/teatro-san-carlo-naples/commons-2.jpg",
+      "title": "File:Teatro San Carlo - View of stage from Royal Box.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Teatro_San_Carlo_-_View_of_stage_from_Royal_Box.JPG",
+      "author": "Viva-Verdi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4896,
+      "height": 3672,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e6742",
+            "share": 0.281
+          },
+          {
+            "hex": "#2b1310",
+            "share": 0.237
+          },
+          {
+            "hex": "#a4916b",
+            "share": 0.196
+          },
+          {
+            "hex": "#573c26",
+            "share": 0.189
+          },
+          {
+            "hex": "#ded7c3",
+            "share": 0.096
+          }
+        ],
+        "strongest": "#573c26"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/teatro-san-carlo-naples/commons-3.jpg",
+      "title": "File:Teatro San Carlo Napels.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Teatro_San_Carlo_Napels.jpg",
+      "author": "Gerbenbrandy",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1280,
+      "height": 1007,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dbd4cb",
+            "share": 0.257
+          },
+          {
+            "hex": "#bbb6b2",
+            "share": 0.218
+          },
+          {
+            "hex": "#f4ebe4",
+            "share": 0.193
+          },
+          {
+            "hex": "#63565a",
+            "share": 0.177
+          },
+          {
+            "hex": "#948d8d",
+            "share": 0.156
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/teatro-san-carlo-naples/commons-4.jpg",
+      "title": "File:Teatro San Carlo large view.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Teatro_San_Carlo_large_view.jpg",
+      "author": "Sony photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 7952,
+      "height": 5304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e512f",
+            "share": 0.309
+          },
+          {
+            "hex": "#492f1a",
+            "share": 0.261
+          },
+          {
+            "hex": "#9e8260",
+            "share": 0.157
+          },
+          {
+            "hex": "#200d07",
+            "share": 0.148
+          },
+          {
+            "hex": "#d3bfa3",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#492f1a"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Teatro San Carlo-Naples-after 13 Feb 1816 fire.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Teatro San Carlo-coat of arms above proscenium.jpg",
+      "why": "logo/map/album filter"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#fcfcfc",
+        "share": 0.376
+      },
+      {
+        "hex": "#020202",
+        "share": 0.302
+      },
+      {
+        "hex": "#675c57",
+        "share": 0.181
+      },
+      {
+        "hex": "#443532",
+        "share": 0.074
+      },
+      {
+        "hex": "#b2a49a",
+        "share": 0.066
+      }
+    ],
+    "strongest": null
+  }
+}

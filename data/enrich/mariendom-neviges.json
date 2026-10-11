@@ -1,0 +1,257 @@
+{
+  "id": "mariendom-neviges",
+  "name": "Mariendom Neviges",
+  "lat": 51.3127363,
+  "lng": 7.0874376,
+  "enrichedAt": "2026-10-11T01:21:45.536Z",
+  "place": {
+    "town": "Velbert",
+    "locality": "Neviges",
+    "county": "Kreis Mettmann",
+    "adminArea": "Kreis Mettmann",
+    "region": "North Rhine-Westphalia",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.3127363&lon=7.0874376&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Untere Lohmühle, Hardenberg, Schloß Hardenberg, Neviges, Velbert, Kreis Mettmann, North Rhine-Westphalia, 42553, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Velbert",
+      "description": "Town in North Rhine-Westphalia, Germany",
+      "extract": "Velbert is a town in the district of Mettmann, in the German state of North Rhine-Westphalia. The town is renowned worldwide for the production of locks and fittings.",
+      "url": "https://en.wikipedia.org/wiki/Velbert",
+      "coordinates": {
+        "lat": 51.33333333,
+        "lng": 7.05
+      },
+      "km": 3.5,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/f0/VelbertMuenzbrunnen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Brutalist pilgrimage church designed by Gottfried Böhm in 1968, one of Germany's largest church buildings after Cologne Cathedral.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/mariendom-neviges/own-mariendom-neviges.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/mariendom-neviges.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#27332f",
+            "share": 0.335
+          },
+          {
+            "hex": "#0e1810",
+            "share": 0.196
+          },
+          {
+            "hex": "#61a4dc",
+            "share": 0.178
+          },
+          {
+            "hex": "#455655",
+            "share": 0.176
+          },
+          {
+            "hex": "#9b9c95",
+            "share": 0.115
+          }
+        ],
+        "strongest": "#61a4dc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mariendom-neviges/commons-1.jpg",
+      "title": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-Nebengebaeude-1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-Nebengebaeude-1.jpg",
+      "author": "Andreas Tuffé",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5881,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e9eff5",
+            "share": 0.341
+          },
+          {
+            "hex": "#77705b",
+            "share": 0.218
+          },
+          {
+            "hex": "#3e3b32",
+            "share": 0.177
+          },
+          {
+            "hex": "#a79a89",
+            "share": 0.16
+          },
+          {
+            "hex": "#c4d3d8",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#c4d3d8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mariendom-neviges/commons-2.jpg",
+      "title": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-Fenster.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-Fenster.jpg",
+      "author": "Andreas Tuffé",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 6638,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#030304",
+            "share": 0.616
+          },
+          {
+            "hex": "#737472",
+            "share": 0.139
+          },
+          {
+            "hex": "#a3a5a5",
+            "share": 0.114
+          },
+          {
+            "hex": "#17171a",
+            "share": 0.072
+          },
+          {
+            "hex": "#474645",
+            "share": 0.059
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mariendom-neviges/commons-3.jpg",
+      "title": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-3.jpg",
+      "author": "Andreas Tuffé",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5336,
+      "height": 4500,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e6c64",
+            "share": 0.32
+          },
+          {
+            "hex": "#f1f4f7",
+            "share": 0.295
+          },
+          {
+            "hex": "#474a40",
+            "share": 0.162
+          },
+          {
+            "hex": "#d4dde5",
+            "share": 0.137
+          },
+          {
+            "hex": "#989892",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#d4dde5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mariendom-neviges/commons-4.jpg",
+      "title": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-2.jpg",
+      "author": "Andreas Tuffé",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5487,
+      "height": 4500,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e6960",
+            "share": 0.351
+          },
+          {
+            "hex": "#f3f6f9",
+            "share": 0.233
+          },
+          {
+            "hex": "#8b887e",
+            "share": 0.168
+          },
+          {
+            "hex": "#44453c",
+            "share": 0.138
+          },
+          {
+            "hex": "#cbd6de",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#cbd6de"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#27332f",
+        "share": 0.335
+      },
+      {
+        "hex": "#0e1810",
+        "share": 0.196
+      },
+      {
+        "hex": "#61a4dc",
+        "share": 0.178
+      },
+      {
+        "hex": "#455655",
+        "share": 0.176
+      },
+      {
+        "hex": "#9b9c95",
+        "share": 0.115
+      }
+    ],
+    "strongest": "#61a4dc"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "id": "fifth-element-cite-du-cinema",
+  "name": "La Cité du Cinéma, Saint-Denis",
+  "lat": 48.9183,
+  "lng": 2.3433,
+  "enrichedAt": "2026-10-11T01:21:40.884Z",
+  "place": {
+    "town": "Saint-Denis",
+    "locality": "Pleyel - Confluence",
+    "county": "Seine-Saint-Denis",
+    "adminArea": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.9183&lon=2.3433&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Pleyel - Confluence, Saint-Denis, Seine-Saint-Denis, Ile-de-France, Metropolitan France, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.29
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 3.89
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "arenes-de-picasso",
+        "name": "Les Arènes de Picasso, Noisy-le-Grand",
+        "km": 17.1
+      },
+      {
+        "id": "espaces-dabraxas",
+        "name": "Les Espaces d'Abraxas, Noisy-le-Grand",
+        "km": 17.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Saint-Denis, Seine-Saint-Denis",
+      "description": "Subprefecture and commune in Île-de-France, France",
+      "extract": "Saint-Denis is a commune in the northern suburbs of Paris, France. It is located 9.4 kilometres from the centre of Paris. Saint-Denis is the most populated suburb of Paris, with a population of 149,077 as of 2023. It is a subprefecture of the department of Seine-Saint-Denis, being the seat of the arrondissement of Saint-Denis. It is also part of the Métropole du Grand Paris.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Denis%2C_Seine-Saint-Denis",
+      "coordinates": {
+        "lat": 48.9356,
+        "lng": 2.3539
+      },
+      "km": 2.1,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg/3840px-Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Saint-Denis, Seine-Saint-Denis",
+      "description": "Subprefecture and commune in Île-de-France, France",
+      "extract": "Saint-Denis is a commune in the northern suburbs of Paris, France. It is located 9.4 kilometres from the centre of Paris. Saint-Denis is the most populated suburb of Paris, with a population of 149,077 as of 2023. It is a subprefecture of the department of Seine-Saint-Denis, being the seat of the arrondissement of Saint-Denis. It is also part of the Métropole du Grand Paris.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Denis%2C_Seine-Saint-Denis",
+      "coordinates": {
+        "lat": 48.9356,
+        "lng": 2.3539
+      },
+      "km": 2.1,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg/3840px-Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Film studios; the flying cab from The Fifth Element (image is from a making-of). Gaumont, the world's oldest film company (1895), connects here.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/fifth-element-cite-du-cinema/own-fifth-element-cite-du-cinema.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/fifth-element-cite-du-cinema.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#27221f",
+            "share": 0.452
+          },
+          {
+            "hex": "#4f3e38",
+            "share": 0.187
+          },
+          {
+            "hex": "#040302",
+            "share": 0.136
+          },
+          {
+            "hex": "#6f6f68",
+            "share": 0.135
+          },
+          {
+            "hex": "#aba996",
+            "share": 0.09
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/fifth-element-cite-du-cinema/commons-1.jpg",
+      "title": "File:Saint-Denis Basilique Saint-Denis Fassade 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg",
+      "author": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4323,
+      "height": 3018,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d86bf",
+            "share": 0.324
+          },
+          {
+            "hex": "#574b46",
+            "share": 0.208
+          },
+          {
+            "hex": "#b8b5af",
+            "share": 0.161
+          },
+          {
+            "hex": "#1a181b",
+            "share": 0.155
+          },
+          {
+            "hex": "#8b847c",
+            "share": 0.152
+          }
+        ],
+        "strongest": "#4d86bf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/fifth-element-cite-du-cinema/commons-2.jpg",
+      "title": "File:Battle of Saint Denis 1567.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Battle_of_Saint_Denis_1567.jpg",
+      "author": "Jean Perrissin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2283,
+      "height": 1762,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#aaa290",
+            "share": 0.261
+          },
+          {
+            "hex": "#c9c1ab",
+            "share": 0.21
+          },
+          {
+            "hex": "#b8b09d",
+            "share": 0.204
+          },
+          {
+            "hex": "#d8d1bc",
+            "share": 0.177
+          },
+          {
+            "hex": "#9c9383",
+            "share": 0.148
+          }
+        ],
+        "strongest": "#d8d1bc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/fifth-element-cite-du-cinema/commons-3.jpg",
+      "title": "File:Saint-Denis 1830.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Denis_1830.jpg",
+      "author": "C. Studer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 4968,
+      "height": 3192,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f5f4f6",
+            "share": 0.394
+          },
+          {
+            "hex": "#c7c4ac",
+            "share": 0.161
+          },
+          {
+            "hex": "#a6a189",
+            "share": 0.153
+          },
+          {
+            "hex": "#e0dcd2",
+            "share": 0.153
+          },
+          {
+            "hex": "#767460",
+            "share": 0.139
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/fifth-element-cite-du-cinema/commons-4.jpg",
+      "title": "File:Saint-Denis Basilique Saint-Denis Fassade 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg",
+      "author": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4323,
+      "height": 3018,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d86bf",
+            "share": 0.324
+          },
+          {
+            "hex": "#574b46",
+            "share": 0.208
+          },
+          {
+            "hex": "#b8b5af",
+            "share": 0.161
+          },
+          {
+            "hex": "#1a181b",
+            "share": 0.155
+          },
+          {
+            "hex": "#8b847c",
+            "share": 0.152
+          }
+        ],
+        "strongest": "#4d86bf"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Photo du blason de la ville de saint denis.JPG",
+      "why": "map/logo category"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#27221f",
+        "share": 0.452
+      },
+      {
+        "hex": "#4f3e38",
+        "share": 0.187
+      },
+      {
+        "hex": "#040302",
+        "share": 0.136
+      },
+      {
+        "hex": "#6f6f68",
+        "share": 0.135
+      },
+      {
+        "hex": "#aba996",
+        "share": 0.09
+      }
+    ],
+    "strongest": null
+  }
+}

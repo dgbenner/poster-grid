@@ -1,0 +1,486 @@
+{
+  "id": "edinburgh-castle",
+  "name": "Edinburgh Castle",
+  "lat": 55.9486,
+  "lng": -3.1999,
+  "enrichedAt": "2026-10-11T01:21:29.798Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9486&lon=-3.1999&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.26
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.29
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.31
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.33
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.42
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.55
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.58
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.58
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.61
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.63
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.68
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.14
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1.27
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.32
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.59
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.79
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 1.94
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.42
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.96
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.33
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.42
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.3
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.3
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.3
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 0.4
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.6
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.6
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.6
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.6
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.6
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.7
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.1
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1.3
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.3
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.6
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.8
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 1.9
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.4
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 4
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.3
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.4
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 12.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Edinburgh Castle",
+      "description": "Historic castle in Edinburgh, Scotland",
+      "extract": "Edinburgh Castle is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role declined, and by the 17th century it was principally used as a military garrison. Its importance as a part of Scotland's national heritage was recognised increasingly from the early 19th century onwards, and various restoration programmes have been carried out since the middle of the 19th century.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+      "coordinates": {
+        "lat": 55.94861111,
+        "lng": -3.20083333
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/59/City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Gun at 1pm, Stone of Destiny, Crown Jewels, Scottish National War Memorial.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/edinburgh-castle/own-edinburgh-old-town.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/edinburgh-old-town.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5c4c45",
+            "share": 0.293
+          },
+          {
+            "hex": "#332a28",
+            "share": 0.269
+          },
+          {
+            "hex": "#050405",
+            "share": 0.189
+          },
+          {
+            "hex": "#887b73",
+            "share": 0.125
+          },
+          {
+            "hex": "#f6f6f6",
+            "share": 0.124
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-castle/commons-1.jpg",
+      "title": "File:Braun & Hogenberg 'Castrum Puellarum' (Edinburgh Castle) c.1581.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Braun_%26_Hogenberg_%27Castrum_Puellarum%27_(Edinburgh_Castle)_c.1581.jpg",
+      "author": "Braun &amp; Hogenberg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1147,
+      "height": 925,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#726f4a",
+            "share": 0.246
+          },
+          {
+            "hex": "#8e8d5c",
+            "share": 0.21
+          },
+          {
+            "hex": "#58533b",
+            "share": 0.208
+          },
+          {
+            "hex": "#a9a972",
+            "share": 0.204
+          },
+          {
+            "hex": "#c6c796",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#c6c796"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-castle/commons-2.jpg",
+      "title": "File:City of Edinburgh - Edinburgh Castle - 20140421004403.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2816,
+      "height": 1816,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#595859",
+            "share": 0.399
+          },
+          {
+            "hex": "#111312",
+            "share": 0.281
+          },
+          {
+            "hex": "#413e23",
+            "share": 0.134
+          },
+          {
+            "hex": "#7b682e",
+            "share": 0.101
+          },
+          {
+            "hex": "#c8a752",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#c8a752"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-castle/commons-3.jpg",
+      "title": "File:Edinburgh-Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh-Castle.jpg",
+      "author": "Christian Bickel",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "width": 2362,
+      "height": 1772,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#584a41",
+            "share": 0.32
+          },
+          {
+            "hex": "#fcfbfa",
+            "share": 0.307
+          },
+          {
+            "hex": "#372d2b",
+            "share": 0.207
+          },
+          {
+            "hex": "#937f6a",
+            "share": 0.152
+          },
+          {
+            "hex": "#c0bbb7",
+            "share": 0.014
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-castle/commons-4.jpg",
+      "title": "File:Edinburgh Castle (9860908625).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_(9860908625).jpg",
+      "author": "sebastian.b.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#564b48",
+            "share": 0.332
+          },
+          {
+            "hex": "#716861",
+            "share": 0.277
+          },
+          {
+            "hex": "#343031",
+            "share": 0.183
+          },
+          {
+            "hex": "#94928c",
+            "share": 0.152
+          },
+          {
+            "hex": "#e4f0f1",
+            "share": 0.056
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5c4c45",
+        "share": 0.293
+      },
+      {
+        "hex": "#332a28",
+        "share": 0.269
+      },
+      {
+        "hex": "#050405",
+        "share": 0.189
+      },
+      {
+        "hex": "#887b73",
+        "share": 0.125
+      },
+      {
+        "hex": "#f6f6f6",
+        "share": 0.124
+      }
+    ],
+    "strongest": null
+  }
+}

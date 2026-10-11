@@ -1,0 +1,275 @@
+{
+  "id": "villa-del-balbianello-lenno",
+  "name": "Villa del Balbianello, Lenno (Lake Como)",
+  "lat": 45.9694,
+  "lng": 9.2095,
+  "enrichedAt": "2026-10-11T01:21:44.024Z",
+  "place": {
+    "town": "Tremezzina",
+    "locality": null,
+    "county": "Como",
+    "adminArea": "Como",
+    "region": "Lombardy",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.9694&lon=9.2095&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Mugnano, Mezzegra, Tremezzina, Como, Lombardy, 22016, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "torno-lake-como",
+        "name": "Torno, Lake Como",
+        "km": 15.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Villa del Balbianello",
+      "description": "Villa in Lenno, Italy",
+      "extract": "The Villa del Balbianello is a villa in the comune of Lenno, a province in the north of the Lombardy region of Italy, overlooking Lake Como. It is located on the tip of the small wooded peninsula of Dosso d'Avedo on the western shore of the south-west branch of Lake Como, 1500 meters east from the Isola Comacina. The villa is famous for its elaborate terraced gardens.",
+      "url": "https://en.wikipedia.org/wiki/Villa_del_Balbianello",
+      "coordinates": {
+        "lat": 45.965,
+        "lng": 9.2025
+      },
+      "km": 0.7,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Tremezzina_-_Villa_del_Balbianello_-_2024-09-08_16-26-39_007.jpg/3840px-Tremezzina_-_Villa_del_Balbianello_-_2024-09-08_16-26-39_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Tremezzina",
+      "description": "Comune in Lombardy, Italy",
+      "extract": "Tremezzina is a comune in the province of Como, in Lombardy, that formed on 25 May 2014 from a merger of the comunes of Lenno, Mezzegra, Ossuccio and Tremezzo.",
+      "url": "https://en.wikipedia.org/wiki/Tremezzina",
+      "coordinates": {
+        "lat": 45.98467778,
+        "lng": 9.21503889
+      },
+      "km": 1.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/TremezzinaPanorama2.jpg/3840px-TremezzinaPanorama2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Terraced villa and gardens; a Star Wars Naboo location (also Casino Royale). Its garden holds a ~140-year-old Holm Oak.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/villa-del-balbianello-lenno/own-villa-del-balbianello-lenno.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/villa-del-balbianello-lenno.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7593a3",
+            "share": 0.309
+          },
+          {
+            "hex": "#bccede",
+            "share": 0.258
+          },
+          {
+            "hex": "#20555b",
+            "share": 0.179
+          },
+          {
+            "hex": "#0d688f",
+            "share": 0.142
+          },
+          {
+            "hex": "#a0984b",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#0d688f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/villa-del-balbianello-lenno/commons-1.jpg",
+      "title": "File:Tremezzina - Villa del Balbianello - 2024-09-08 16-26-39 007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tremezzina_-_Villa_del_Balbianello_-_2024-09-08_16-26-39_007.jpg",
+      "author": "Emibuzz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5801,
+      "height": 3867,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b463b",
+            "share": 0.249
+          },
+          {
+            "hex": "#ced5de",
+            "share": 0.206
+          },
+          {
+            "hex": "#6d6142",
+            "share": 0.204
+          },
+          {
+            "hex": "#667282",
+            "share": 0.192
+          },
+          {
+            "hex": "#94969c",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#6d6142"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/villa-del-balbianello-lenno/commons-2.jpg",
+      "title": "File:Lenno Villa Balbianello 12.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lenno_Villa_Balbianello_12.jpg",
+      "author": "Andrzej Otrębski",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2816,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#494541",
+            "share": 0.255
+          },
+          {
+            "hex": "#77a3f0",
+            "share": 0.243
+          },
+          {
+            "hex": "#212321",
+            "share": 0.227
+          },
+          {
+            "hex": "#776e71",
+            "share": 0.177
+          },
+          {
+            "hex": "#c9c0c0",
+            "share": 0.098
+          }
+        ],
+        "strongest": "#77a3f0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/villa-del-balbianello-lenno/commons-3.jpg",
+      "title": "File:Lenno Villa Balbianello wnetrze 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lenno_Villa_Balbianello_wnetrze_3.jpg",
+      "author": "Andrzej Otrębski",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2816,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6b4f36",
+            "share": 0.269
+          },
+          {
+            "hex": "#8f7357",
+            "share": 0.267
+          },
+          {
+            "hex": "#352318",
+            "share": 0.168
+          },
+          {
+            "hex": "#bfa086",
+            "share": 0.15
+          },
+          {
+            "hex": "#eae1d2",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#6b4f36"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/villa-del-balbianello-lenno/commons-4.jpg",
+      "title": "File:Lenno Villa Balbianello wnetrze 4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lenno_Villa_Balbianello_wnetrze_4.jpg",
+      "author": "Andrzej Otrębski",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2112,
+      "height": 2816,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#392d22",
+            "share": 0.36
+          },
+          {
+            "hex": "#5b4e41",
+            "share": 0.242
+          },
+          {
+            "hex": "#18130f",
+            "share": 0.227
+          },
+          {
+            "hex": "#7d7476",
+            "share": 0.103
+          },
+          {
+            "hex": "#e1e0e7",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#392d22"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7593a3",
+        "share": 0.309
+      },
+      {
+        "hex": "#bccede",
+        "share": 0.258
+      },
+      {
+        "hex": "#20555b",
+        "share": 0.179
+      },
+      {
+        "hex": "#0d688f",
+        "share": 0.142
+      },
+      {
+        "hex": "#a0984b",
+        "share": 0.113
+      }
+    ],
+    "strongest": "#0d688f"
+  }
+}

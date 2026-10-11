@@ -1,0 +1,262 @@
+{
+  "id": "kylemore-abbey",
+  "name": "Kylemore Abbey",
+  "lat": 53.5608,
+  "lng": -9.8897,
+  "enrichedAt": "2026-10-11T01:21:36.918Z",
+  "place": {
+    "town": "Conamara Municipal District",
+    "locality": null,
+    "county": "County Galway",
+    "adminArea": "County Galway",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.5608&lon=-9.8897&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Rinvyle ED, Conamara Municipal District, County Galway, Connacht, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "inis-meain",
+        "name": "Inis Meáin, Aran Islands",
+        "km": 56.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Kylemore Abbey",
+      "description": "Benedictine monastery in Connemara, Ireland",
+      "extract": "Kylemore Abbey is a Benedictine Monastery founded in 1920 on the grounds of Kylemore Castle, in Connemara, County Galway, Ireland. The Abbey was founded for Benedictine nuns who fled Belgium in World War 1. Since 2022, it has belonged to the English Benedictine Congregation. Under The Kylemore Trust, it continues its mission as a Benedictine monastery, holding Kylemore and its spiritual mission, natural and built heritage in trust for the Irish nation. Kylemore Abbey also operates as one of Ireland's leading visitor attractions.",
+      "url": "https://en.wikipedia.org/wiki/Kylemore_Abbey",
+      "coordinates": {
+        "lat": 53.5617067,
+        "lng": -9.8894343
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kylemore_October_2014-1a.jpg/3840px-Kylemore_October_2014-1a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The lakeside Gothic abbey.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/kylemore-abbey/own-kylemore-abbey.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/kylemore-abbey.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#626a4f",
+            "share": 0.368
+          },
+          {
+            "hex": "#444f3a",
+            "share": 0.252
+          },
+          {
+            "hex": "#7e7e73",
+            "share": 0.149
+          },
+          {
+            "hex": "#283326",
+            "share": 0.144
+          },
+          {
+            "hex": "#b1b0bb",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kylemore-abbey/commons-1.jpg",
+      "title": "File:Kylemore October 2014-1a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kylemore_October_2014-1a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6311,
+      "height": 3820,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#656c51",
+            "share": 0.353
+          },
+          {
+            "hex": "#47523c",
+            "share": 0.262
+          },
+          {
+            "hex": "#2a3627",
+            "share": 0.169
+          },
+          {
+            "hex": "#808178",
+            "share": 0.132
+          },
+          {
+            "hex": "#b0afba",
+            "share": 0.085
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kylemore-abbey/commons-2.jpg",
+      "title": "File:Kylemore Abbey - neo-Gothic church (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kylemore_Abbey_-_neo-Gothic_church_(2).jpg",
+      "author": "High Contrast",
+      "license": "CC BY 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+      "width": 2000,
+      "height": 1545,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3e4f2e",
+            "share": 0.278
+          },
+          {
+            "hex": "#586950",
+            "share": 0.26
+          },
+          {
+            "hex": "#1c2714",
+            "share": 0.188
+          },
+          {
+            "hex": "#80908f",
+            "share": 0.15
+          },
+          {
+            "hex": "#fbfbfb",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#3e4f2e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kylemore-abbey/commons-3.jpg",
+      "title": "File:Walled Victorian Gardens1, Kylemore Abbey, Connemara, Ireland, July 2013.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Walled_Victorian_Gardens1,_Kylemore_Abbey,_Connemara,_Ireland,_July_2013.jpg",
+      "author": "Dolly442",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4272,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2c3113",
+            "share": 0.216
+          },
+          {
+            "hex": "#d9e2e4",
+            "share": 0.21
+          },
+          {
+            "hex": "#a2a937",
+            "share": 0.209
+          },
+          {
+            "hex": "#747a2f",
+            "share": 0.183
+          },
+          {
+            "hex": "#4e591e",
+            "share": 0.181
+          }
+        ],
+        "strongest": "#a2a937"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/kylemore-abbey/commons-4.jpg",
+      "title": "File:Connemara- Kylemore Abbey - Viktorianischer Mauergarten - panoramio (3).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Connemara-_Kylemore_Abbey_-_Viktorianischer_Mauergarten_-_panoramio_(3).jpg",
+      "author": "Sabine Holzmann",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1500,
+      "height": 1125,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#789d47",
+            "share": 0.418
+          },
+          {
+            "hex": "#506f2a",
+            "share": 0.257
+          },
+          {
+            "hex": "#213811",
+            "share": 0.125
+          },
+          {
+            "hex": "#9ea28d",
+            "share": 0.116
+          },
+          {
+            "hex": "#d3d0ca",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#789d47"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#626a4f",
+        "share": 0.368
+      },
+      {
+        "hex": "#444f3a",
+        "share": 0.252
+      },
+      {
+        "hex": "#7e7e73",
+        "share": 0.149
+      },
+      {
+        "hex": "#283326",
+        "share": 0.144
+      },
+      {
+        "hex": "#b1b0bb",
+        "share": 0.086
+      }
+    ],
+    "strongest": null
+  }
+}

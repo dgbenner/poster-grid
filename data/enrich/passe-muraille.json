@@ -1,0 +1,403 @@
+{
+  "id": "passe-muraille",
+  "name": "Le Passe-Muraille (Walker-Through-Walls)",
+  "lat": 48.8889,
+  "lng": 2.3387,
+  "enrichedAt": "2026-10-11T01:21:40.782Z",
+  "place": {
+    "town": "Paris",
+    "locality": "18th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8889&lon=2.3387&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier des Grandes-Carrières, 18th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75018, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 0.71
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.81
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.96
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 3.03
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 3.15
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 3.15
+      },
+      {
+        "id": "fifth-element-cite-du-cinema",
+        "name": "La Cité du Cinéma, Saint-Denis",
+        "km": 3.29
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 3.33
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 3.33
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 3.35
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 3.37
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3.72
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 4.09
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 4.7
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 0.7
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.8
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 2
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 3
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 3.1
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 3.1
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 3.3
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 3.3
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 3.3
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 3.4
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3.7
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 4.1
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 4.7
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 5
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 5.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 3.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Jean Marais sculpture, 1989. (Source said catacombs; it's actually in Montmartre, Place Marcel-Aymé.)",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/passe-muraille/own-passe-muraille.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/passe-muraille.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d321e",
+            "share": 0.26
+          },
+          {
+            "hex": "#9d7c5a",
+            "share": 0.252
+          },
+          {
+            "hex": "#76563b",
+            "share": 0.249
+          },
+          {
+            "hex": "#241409",
+            "share": 0.155
+          },
+          {
+            "hex": "#ccb59b",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#4d321e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/passe-muraille/commons-1.jpg",
+      "title": "File:Avenue Fontaine But Cimetière Saint Vincent - Paris XVIII (FR75) - 2024-09-14 - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Avenue_Fontaine_But_Cimeti%C3%A8re_Saint_Vincent_-_Paris_XVIII_(FR75)_-_2024-09-14_-_2.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9f9f99",
+            "share": 0.269
+          },
+          {
+            "hex": "#545b3d",
+            "share": 0.251
+          },
+          {
+            "hex": "#7b7e64",
+            "share": 0.234
+          },
+          {
+            "hex": "#2b311c",
+            "share": 0.158
+          },
+          {
+            "hex": "#cfcbc6",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#2b311c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/passe-muraille/commons-2.jpg",
+      "title": "File:Avenue Fontaine But Cimetière Saint Vincent - Paris XVIII (FR75) - 2024-09-14 - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Avenue_Fontaine_But_Cimeti%C3%A8re_Saint_Vincent_-_Paris_XVIII_(FR75)_-_2024-09-14_-_1.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4e5936",
+            "share": 0.24
+          },
+          {
+            "hex": "#747a56",
+            "share": 0.212
+          },
+          {
+            "hex": "#929486",
+            "share": 0.202
+          },
+          {
+            "hex": "#b0b2ad",
+            "share": 0.176
+          },
+          {
+            "hex": "#2d3a18",
+            "share": 0.17
+          }
+        ],
+        "strongest": "#2d3a18"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/passe-muraille/commons-3.jpg",
+      "title": "File:Division 5 Cimetière Saint Vincent - Paris XVIII (FR75) - 2024-09-14 - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Division_5_Cimeti%C3%A8re_Saint_Vincent_-_Paris_XVIII_(FR75)_-_2024-09-14_-_2.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#575638",
+            "share": 0.267
+          },
+          {
+            "hex": "#86854f",
+            "share": 0.238
+          },
+          {
+            "hex": "#2b2d18",
+            "share": 0.198
+          },
+          {
+            "hex": "#a19c8f",
+            "share": 0.175
+          },
+          {
+            "hex": "#d5c4ac",
+            "share": 0.122
+          }
+        ],
+        "strongest": "#2b2d18"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/passe-muraille/commons-4.jpg",
+      "title": "File:Division 5 Cimetière Saint Vincent - Paris XVIII (FR75) - 2024-09-14 - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Division_5_Cimeti%C3%A8re_Saint_Vincent_-_Paris_XVIII_(FR75)_-_2024-09-14_-_1.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#797a53",
+            "share": 0.267
+          },
+          {
+            "hex": "#52543b",
+            "share": 0.226
+          },
+          {
+            "hex": "#29301d",
+            "share": 0.202
+          },
+          {
+            "hex": "#9a9a72",
+            "share": 0.17
+          },
+          {
+            "hex": "#c2bdb6",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#29301d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4d321e",
+        "share": 0.26
+      },
+      {
+        "hex": "#9d7c5a",
+        "share": 0.252
+      },
+      {
+        "hex": "#76563b",
+        "share": 0.249
+      },
+      {
+        "hex": "#241409",
+        "share": 0.155
+      },
+      {
+        "hex": "#ccb59b",
+        "share": 0.083
+      }
+    ],
+    "strongest": "#4d321e"
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "id": "moulin-rouge",
+  "name": "Moulin Rouge",
+  "lat": 48.8841,
+  "lng": 2.3322,
+  "enrichedAt": "2026-10-11T01:21:40.729Z",
+  "place": {
+    "town": "Paris",
+    "locality": "18th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8841&lon=2.3322&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier des Grandes-Carrières, 18th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75018, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 0.71
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.21
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.36
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 2.36
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 2.64
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 2.64
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 2.64
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 2.71
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 2.71
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 2.92
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3.39
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 3.42
+      },
+      {
+        "id": "fifth-element-cite-du-cinema",
+        "name": "La Cité du Cinéma, Saint-Denis",
+        "km": 3.89
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 3.98
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 0.7
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.2
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.4
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 2.4
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 2.6
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 2.6
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 2.6
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 2.7
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 2.7
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 2.9
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 3.4
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 3.4
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 4
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 5.1
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 5.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Moulin Rouge",
+      "description": "Cabaret in Paris, France",
+      "extract": "Moulin Rouge is a cabaret in Paris, on the Boulevard de Clichy, at the Place Blanche, the intersection and end of the Rue Blanche.",
+      "url": "https://en.wikipedia.org/wiki/Moulin_Rouge",
+      "coordinates": {
+        "lat": 48.88416667,
+        "lng": 2.3325
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/9/97/Moulin_rouge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 3.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Colorized from a 1914 original.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/moulin-rouge/own-moulin-rouge.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/moulin-rouge.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#535858",
+            "share": 0.338
+          },
+          {
+            "hex": "#6e6d68",
+            "share": 0.235
+          },
+          {
+            "hex": "#46362e",
+            "share": 0.176
+          },
+          {
+            "hex": "#221c17",
+            "share": 0.162
+          },
+          {
+            "hex": "#9c9585",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#46362e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moulin-rouge/commons-1.jpg",
+      "title": "File:At the Moulin Rouge- La Goulue and Her Sister MET DP835768.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:At_the_Moulin_Rouge-_La_Goulue_and_Her_Sister_MET_DP835768.jpg",
+      "author": "Henri de Toulouse-Lautrec / Edward Ancourt",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2992,
+      "height": 3793,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cfb38e",
+            "share": 0.367
+          },
+          {
+            "hex": "#dbc4a5",
+            "share": 0.352
+          },
+          {
+            "hex": "#58534f",
+            "share": 0.123
+          },
+          {
+            "hex": "#94816b",
+            "share": 0.087
+          },
+          {
+            "hex": "#f6efe5",
+            "share": 0.07
+          }
+        ],
+        "strongest": "#dbc4a5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moulin-rouge/commons-2.jpg",
+      "title": "File:De Moulin Rouge in Parijs bij avond, Bestanddeelnr 254-5695.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:De_Moulin_Rouge_in_Parijs_bij_avond,_Bestanddeelnr_254-5695.jpg",
+      "author": "Willem van de Poll",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3479,
+      "height": 2529,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1a1a1a",
+            "share": 0.225
+          },
+          {
+            "hex": "#868686",
+            "share": 0.212
+          },
+          {
+            "hex": "#5d5d5d",
+            "share": 0.206
+          },
+          {
+            "hex": "#383838",
+            "share": 0.188
+          },
+          {
+            "hex": "#b4b4b4",
+            "share": 0.17
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moulin-rouge/commons-3.jpg",
+      "title": "File:Henri de Toulouse-Lautrec, Moulin Rouge - La Goulue, 1891 - The Metropolitan Museum of Art.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Henri_de_Toulouse-Lautrec,_Moulin_Rouge_-_La_Goulue,_1891_-_The_Metropolitan_Museum_of_Art.jpg",
+      "author": "Henri de Toulouse-Lautrec",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2314,
+      "height": 3722,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b09473",
+            "share": 0.307
+          },
+          {
+            "hex": "#dbcaa4",
+            "share": 0.303
+          },
+          {
+            "hex": "#7a6d60",
+            "share": 0.222
+          },
+          {
+            "hex": "#162631",
+            "share": 0.093
+          },
+          {
+            "hex": "#edca49",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#dbcaa4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/moulin-rouge/commons-4.jpg",
+      "title": "File:Mistinguett Moulin Rouge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mistinguett_Moulin_Rouge.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1027,
+      "height": 1320,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3e3e3e",
+            "share": 0.356
+          },
+          {
+            "hex": "#565656",
+            "share": 0.194
+          },
+          {
+            "hex": "#e7e7e7",
+            "share": 0.173
+          },
+          {
+            "hex": "#7d7d7d",
+            "share": 0.145
+          },
+          {
+            "hex": "#a9a9a9",
+            "share": 0.133
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:(Albi) Bal au Moulin Rouge place Blanche 1889 - Jules Chéret.jpg",
+      "why": "logo/map/album filter"
+    },
+    {
+      "title": "File:Au joyeux moulin rouge Choubrac-1896.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Bundesarchiv Bild 101I-129-0480-25, Paris, deutsche Soldaten vor dem Moulin Rouge.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Le Moulin Rouge, Boulevard de Clichy, Paris.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#535858",
+        "share": 0.338
+      },
+      {
+        "hex": "#6e6d68",
+        "share": 0.235
+      },
+      {
+        "hex": "#46362e",
+        "share": 0.176
+      },
+      {
+        "hex": "#221c17",
+        "share": 0.162
+      },
+      {
+        "hex": "#9c9585",
+        "share": 0.089
+      }
+    ],
+    "strongest": "#46362e"
+  }
+}

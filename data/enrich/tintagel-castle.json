@@ -1,0 +1,291 @@
+{
+  "id": "tintagel-castle",
+  "name": "Tintagel Castle",
+  "lat": 50.6686663,
+  "lng": -4.762152,
+  "enrichedAt": "2026-10-11T01:21:45.788Z",
+  "place": {
+    "town": "Tintagel",
+    "locality": null,
+    "county": "Cornwall",
+    "adminArea": "Cornwall",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.6686663&lon=-4.762152&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Tintagel, Cornwall, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "museum-of-witchcraft-and-magic",
+        "name": "Museum of Witchcraft and Magic",
+        "km": 5.3
+      },
+      {
+        "id": "goonhilly-earth-station",
+        "name": "Goonhilly Earth Station",
+        "km": 75.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Tintagel Castle",
+      "description": "Medieval fortification in North Cornwall, England",
+      "extract": "Tintagel Castle is a medieval fortification located on the peninsula of Tintagel Island adjacent to the village of Tintagel (Trevena), North Cornwall in the United Kingdom. The site was possibly occupied in the Romano-British period, as an array of artefacts dating from this period have been found on the peninsula, but as yet no Roman-era structure has been proven to have existed there. It was settled during the early medieval period, when it was probably one of the seasonal residences of the regional king of Dumnonia. A castle was built on the site by Richard, 1st Earl of Cornwall in the 13th century, during the High Middle Ages. It later fell into disrepair and ruin.",
+      "url": "https://en.wikipedia.org/wiki/Tintagel_Castle",
+      "coordinates": {
+        "lat": 50.6679737,
+        "lng": -4.7599283
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Tintagel_Castle_-_May_2026.jpg/3840px-Tintagel_Castle_-_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Tintagel",
+      "description": "Village in Cornwall, England",
+      "extract": "Tintagel or Trevena is a civil parish and village situated on the Atlantic coast of Cornwall, England, United Kingdom. The village and nearby Tintagel Castle are associated with the legends surrounding King Arthur and in recent times have become a tourist attraction. It was claimed by Geoffrey of Monmouth that the castle was the place of Arthur's conception.",
+      "url": "https://en.wikipedia.org/wiki/Tintagel",
+      "coordinates": {
+        "lat": 50.663,
+        "lng": -4.75
+      },
+      "km": 1.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tintagel_Castle_-_geograph.org.uk_-_2417082.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Cliff-top medieval ruin on the Cornish coast, long linked to the legend of King Arthur.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle",
+    "coast",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/tintagel-castle/own-tintagel-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/tintagel-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a6c53",
+            "share": 0.286
+          },
+          {
+            "hex": "#8e8e70",
+            "share": 0.238
+          },
+          {
+            "hex": "#1b1f24",
+            "share": 0.215
+          },
+          {
+            "hex": "#45473e",
+            "share": 0.21
+          },
+          {
+            "hex": "#c0bbb4",
+            "share": 0.051
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tintagel-castle/commons-1.jpg",
+      "title": "File:Tintagel Castle - May 2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintagel_Castle_-_May_2026.jpg",
+      "author": "Mustangbarry",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4096,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a6c53",
+            "share": 0.286
+          },
+          {
+            "hex": "#8d8e6f",
+            "share": 0.238
+          },
+          {
+            "hex": "#1a1f24",
+            "share": 0.216
+          },
+          {
+            "hex": "#44473e",
+            "share": 0.206
+          },
+          {
+            "hex": "#bfbab3",
+            "share": 0.053
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tintagel-castle/commons-2.jpg",
+      "title": "File:Tintagel Castle - May 2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintagel_Castle_-_May_2026.jpg",
+      "author": "Mustangbarry",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4096,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a6c53",
+            "share": 0.286
+          },
+          {
+            "hex": "#8d8e6f",
+            "share": 0.238
+          },
+          {
+            "hex": "#1a1f24",
+            "share": 0.216
+          },
+          {
+            "hex": "#44473e",
+            "share": 0.206
+          },
+          {
+            "hex": "#bfbab3",
+            "share": 0.053
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tintagel-castle/commons-3.jpg",
+      "title": "File:Tintagel Castle 288305.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintagel_Castle_288305.jpg",
+      "author": "Allan Henderson",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4756,
+      "height": 2504,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e6d4c",
+            "share": 0.273
+          },
+          {
+            "hex": "#4f5038",
+            "share": 0.21
+          },
+          {
+            "hex": "#8f8a6a",
+            "share": 0.195
+          },
+          {
+            "hex": "#b1ad9c",
+            "share": 0.166
+          },
+          {
+            "hex": "#afc2dd",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#afc2dd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/tintagel-castle/commons-4.jpg",
+      "title": "File:Tintagel Castle Footbridge by Hufton & Crow.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintagel_Castle_Footbridge_by_Hufton_%26_Crow.jpg",
+      "author": "Hufton + Crow Photography",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3360,
+      "height": 2240,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eef0f3",
+            "share": 0.247
+          },
+          {
+            "hex": "#726b52",
+            "share": 0.23
+          },
+          {
+            "hex": "#39392d",
+            "share": 0.191
+          },
+          {
+            "hex": "#a39a84",
+            "share": 0.177
+          },
+          {
+            "hex": "#bccde3",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#bccde3"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Entrance to Tintagel Castle - geograph.org.uk - 993488.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Footbridge to the Island, Tintagel Castle - geograph.org.uk - 936695.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6a6c53",
+        "share": 0.286
+      },
+      {
+        "hex": "#8e8e70",
+        "share": 0.238
+      },
+      {
+        "hex": "#1b1f24",
+        "share": 0.215
+      },
+      {
+        "hex": "#45473e",
+        "share": 0.21
+      },
+      {
+        "hex": "#c0bbb4",
+        "share": 0.051
+      }
+    ],
+    "strongest": null
+  }
+}

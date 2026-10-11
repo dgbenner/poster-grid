@@ -1,0 +1,269 @@
+{
+  "id": "vischering-castle",
+  "name": "Vischering Castle",
+  "lat": 51.7711,
+  "lng": 7.4467,
+  "enrichedAt": "2026-10-11T01:21:39.331Z",
+  "place": {
+    "town": "Lüdinghausen",
+    "locality": null,
+    "county": "Kreis Coesfeld",
+    "adminArea": "Kreis Coesfeld",
+    "region": "North Rhine-Westphalia",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.7711&lon=7.4467&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Lüdinghausen (Stadt), Lüdinghausen, Kreis Coesfeld, North Rhine-Westphalia, 59348, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Vischering Castle",
+      "description": null,
+      "extract": "Vischering Castle in Lüdinghausen, North Rhine-Westphalia is the most typical moated castle in the Münster (region) of Germany. This region has one of the highest German concentrations of castles, palaces and fortifications, Lüdinghausen having three by itself. The castle consists of outer defensive courtyard, defensive gateways, moat, drawbridge, main building and chapel. The sandstone walls, the red tile roofs as well as their reflection in the moat provide many harmonious views from the wooded surroundings.",
+      "url": "https://en.wikipedia.org/wiki/Vischering_Castle",
+      "coordinates": {
+        "lat": 51.77611111,
+        "lng": 7.44305556
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b6/L%C3%BCdinghausen%2C_Burg_Vischering_--_2014_--_5492.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Lüdinghausen",
+      "description": "Town in North Rhine-Westphalia, Germany",
+      "extract": "Lüdinghausen is a town in district of Coesfeld in the state of North Rhine-Westphalia, Germany. It is located on the Dortmund-Ems Canal, approx. 25 km south-west of Münster.",
+      "url": "https://en.wikipedia.org/wiki/L%C3%BCdinghausen",
+      "coordinates": {
+        "lat": 51.76666667,
+        "lng": 7.43333333
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/L%C3%BCdinghausen%2C_Ortsansicht_--_2014_--_7298.jpg/3840px-L%C3%BCdinghausen%2C_Ortsansicht_--_2014_--_7298.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "16th-c. moated castle.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/vischering-castle/own-vischering-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/vischering-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b3333",
+            "share": 0.292
+          },
+          {
+            "hex": "#7b4b3e",
+            "share": 0.276
+          },
+          {
+            "hex": "#504f58",
+            "share": 0.176
+          },
+          {
+            "hex": "#aa887b",
+            "share": 0.131
+          },
+          {
+            "hex": "#090a0b",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#7b4b3e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/vischering-castle/commons-1.jpg",
+      "title": "File:Lüdinghausen, Burg Vischering -- 2014 -- 5492.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCdinghausen,_Burg_Vischering_--_2014_--_5492.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3071,
+      "height": 4319,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#553838",
+            "share": 0.303
+          },
+          {
+            "hex": "#a1b8f2",
+            "share": 0.217
+          },
+          {
+            "hex": "#2c1813",
+            "share": 0.209
+          },
+          {
+            "hex": "#a8693f",
+            "share": 0.188
+          },
+          {
+            "hex": "#4a4e76",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#a1b8f2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/vischering-castle/commons-2.jpg",
+      "title": "File:Stolperstein Lüdinghausen Mühlenstraße 42 Hans Adler.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stolperstein_L%C3%BCdinghausen_M%C3%BChlenstra%C3%9Fe_42_Hans_Adler.jpg",
+      "author": "Tomtom10",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1111,
+      "height": 1147,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e8c8e",
+            "share": 0.455
+          },
+          {
+            "hex": "#9ea1ab",
+            "share": 0.294
+          },
+          {
+            "hex": "#414a3a",
+            "share": 0.115
+          },
+          {
+            "hex": "#666d60",
+            "share": 0.102
+          },
+          {
+            "hex": "#d5d8d7",
+            "share": 0.035
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/vischering-castle/commons-3.jpg",
+      "title": "File:Luedinghausen Baudenkmal 68 Hermannstr. 7 2020-11-27 14-39-58 Luedinghausen-8724-LR.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Luedinghausen_Baudenkmal_68_Hermannstr._7_2020-11-27_14-39-58_Luedinghausen-8724-LR.jpg",
+      "author": "Dr. W. Strickling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2777,
+      "height": 3471,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2b2e33",
+            "share": 0.257
+          },
+          {
+            "hex": "#b2d4f7",
+            "share": 0.245
+          },
+          {
+            "hex": "#645551",
+            "share": 0.223
+          },
+          {
+            "hex": "#b2b2b1",
+            "share": 0.145
+          },
+          {
+            "hex": "#898989",
+            "share": 0.13
+          }
+        ],
+        "strongest": "#b2d4f7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/vischering-castle/commons-4.jpg",
+      "title": "File:Luedinghausen Mon 57 Gasthaus Muehlenstr 23-25.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Luedinghausen_Mon_57_Gasthaus_Muehlenstr_23-25.jpg",
+      "author": "W.Strickling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2811,
+      "height": 2160,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1f1a21",
+            "share": 0.296
+          },
+          {
+            "hex": "#938a91",
+            "share": 0.248
+          },
+          {
+            "hex": "#e2eafb",
+            "share": 0.174
+          },
+          {
+            "hex": "#635c65",
+            "share": 0.152
+          },
+          {
+            "hex": "#bfcdf0",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#bfcdf0"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3b3333",
+        "share": 0.292
+      },
+      {
+        "hex": "#7b4b3e",
+        "share": 0.276
+      },
+      {
+        "hex": "#504f58",
+        "share": 0.176
+      },
+      {
+        "hex": "#aa887b",
+        "share": 0.131
+      },
+      {
+        "hex": "#090a0b",
+        "share": 0.125
+      }
+    ],
+    "strongest": "#7b4b3e"
+  }
+}

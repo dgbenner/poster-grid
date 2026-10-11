@@ -1,0 +1,280 @@
+{
+  "id": "pompeii-mount-vesuvius",
+  "name": "Pompeii / Mount Vesuvius",
+  "lat": 40.7497,
+  "lng": 14.4869,
+  "enrichedAt": "2026-10-11T01:21:43.958Z",
+  "place": {
+    "town": "Pompei",
+    "locality": null,
+    "county": "Naples",
+    "adminArea": "Naples",
+    "region": "Campania",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=40.7497&lon=14.4869&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Masseria Curato, Pompei, Naples, Campania, 80045, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "sorrento-abandoned-mill",
+        "name": "Valle dei Mulini (Abandoned Mill), Sorrento",
+        "km": 16.6
+      },
+      {
+        "id": "teatro-san-carlo-naples",
+        "name": "Teatro di San Carlo, Naples",
+        "km": 22.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Pompeii",
+      "description": "Ancient city near modern Naples, Italy",
+      "extract": "Pompeii was a city in what is now the municipality of Pompei, near Naples, in the Campania region of Italy. Along with Herculaneum, Stabiae, and many surrounding villas, it was buried under 4 to 6 m of volcanic ash and pumice in the eruption of Mount Vesuvius in 79 AD.",
+      "url": "https://en.wikipedia.org/wiki/Pompeii",
+      "coordinates": {
+        "lat": 40.75,
+        "lng": 14.48611111
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/3840px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Pompei",
+      "description": "City in Campania, southern Italy",
+      "extract": "Pompei, also known in English as Pompeii after the name of the ancient city, is a city and municipality in the Metropolitan City of Naples, in the region of Campania in Italy. It has a population of 23,612.",
+      "url": "https://en.wikipedia.org/wiki/Pompei",
+      "coordinates": {
+        "lat": 40.74916667,
+        "lng": 14.50055556
+      },
+      "km": 1.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/3840px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The Roman city frozen in time by the AD 79 eruption; well-preserved streets beneath the volcano.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/pompeii-mount-vesuvius/own-pompeii-mount-vesuvius.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/pompeii-mount-vesuvius.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#215519",
+            "share": 0.323
+          },
+          {
+            "hex": "#817b74",
+            "share": 0.289
+          },
+          {
+            "hex": "#475e44",
+            "share": 0.162
+          },
+          {
+            "hex": "#a6acc2",
+            "share": 0.134
+          },
+          {
+            "hex": "#f5f1f4",
+            "share": 0.093
+          }
+        ],
+        "strongest": "#215519"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pompeii-mount-vesuvius/commons-1.jpg",
+      "title": "File:Aerial image of Pompeii and Mount Vesuvius (view from the southeast).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5200,
+      "height": 3200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#898a85",
+            "share": 0.285
+          },
+          {
+            "hex": "#646f62",
+            "share": 0.226
+          },
+          {
+            "hex": "#aea5a1",
+            "share": 0.218
+          },
+          {
+            "hex": "#96c8ed",
+            "share": 0.16
+          },
+          {
+            "hex": "#5e81a9",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#96c8ed"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pompeii-mount-vesuvius/commons-2.jpg",
+      "title": "File:80045 Pompeii, Metropolitan City of Naples, Italy - panoramio (18).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:80045_Pompeii,_Metropolitan_City_of_Naples,_Italy_-_panoramio_(18).jpg",
+      "author": "L-BBE",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3072,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#81b3dc",
+            "share": 0.312
+          },
+          {
+            "hex": "#968d85",
+            "share": 0.201
+          },
+          {
+            "hex": "#3a3738",
+            "share": 0.19
+          },
+          {
+            "hex": "#c1b2a5",
+            "share": 0.177
+          },
+          {
+            "hex": "#626160",
+            "share": 0.12
+          }
+        ],
+        "strongest": "#81b3dc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pompeii-mount-vesuvius/commons-3.jpg",
+      "title": "File:Aerial image of Pompeii and Mount Vesuvius (view from the southeast).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5200,
+      "height": 3200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#898a85",
+            "share": 0.285
+          },
+          {
+            "hex": "#646f62",
+            "share": 0.226
+          },
+          {
+            "hex": "#aea5a1",
+            "share": 0.218
+          },
+          {
+            "hex": "#96c8ed",
+            "share": 0.16
+          },
+          {
+            "hex": "#5e81a9",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#96c8ed"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pompeii-mount-vesuvius/commons-4.jpg",
+      "title": "File:Ancient Roman Pompeii - Pompeji - Campania - Italy - July 10th 2013 - 26.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_26.jpg",
+      "author": "Norbert Nagel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5526,
+      "height": 3680,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#acc7f3",
+            "share": 0.374
+          },
+          {
+            "hex": "#81725f",
+            "share": 0.211
+          },
+          {
+            "hex": "#614c3d",
+            "share": 0.193
+          },
+          {
+            "hex": "#cad5ed",
+            "share": 0.164
+          },
+          {
+            "hex": "#a69f8c",
+            "share": 0.058
+          }
+        ],
+        "strongest": "#acc7f3"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#215519",
+        "share": 0.323
+      },
+      {
+        "hex": "#817b74",
+        "share": 0.289
+      },
+      {
+        "hex": "#475e44",
+        "share": 0.162
+      },
+      {
+        "hex": "#a6acc2",
+        "share": 0.134
+      },
+      {
+        "hex": "#f5f1f4",
+        "share": 0.093
+      }
+    ],
+    "strongest": "#215519"
+  }
+}

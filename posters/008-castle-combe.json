@@ -1,0 +1,881 @@
+{
+  "id": "008-castle-combe",
+  "number": 8,
+  "pin_id": "castle-combe",
+  "created_at": "2026-10-11T02:13:05.418Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "The village is small and its county is large, so WILTSHIRE fills the width of the page while Castle Combe is a single small line and a single brown dot inside it."
+  },
+  "title": "Castle Combe, Wiltshire",
+  "place": {
+    "town": "Castle Combe",
+    "locality": null,
+    "county": "Wiltshire",
+    "adminArea": "Wiltshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4919&lon=-2.227&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Castle Combe, Wiltshire, England, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "accent": "#3F311A",
+  "copy": [
+    {
+      "element": "county-label",
+      "text": "County · England"
+    },
+    {
+      "element": "county-name",
+      "text": "WILTSHIRE"
+    },
+    {
+      "element": "parish-label",
+      "text": "1 · Village and civil parish"
+    },
+    {
+      "element": "place-name",
+      "text": "CASTLE COMBE"
+    },
+    {
+      "element": "lead",
+      "text": "Around 5 miles north‑west of Chippenham and 10 miles north‑east of Bath."
+    },
+    {
+      "element": "body",
+      "text": "At the 2021 census, the parish had a population of 356."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Castle_Combe"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/castle-combe/commons-1.jpg",
+    "title": "File:Castle combe river.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_combe_river.jpg",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 3863,
+    "height": 2759,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#5f92c7",
+          "share": 0.345
+        },
+        {
+          "hex": "#464436",
+          "share": 0.227
+        },
+        {
+          "hex": "#1f1e14",
+          "share": 0.215
+        },
+        {
+          "hex": "#756a50",
+          "share": 0.126
+        },
+        {
+          "hex": "#ab9b7a",
+          "share": 0.087
+        }
+      ],
+      "strongest": "#5f92c7"
+    },
+    "credit": "Saffron Blaze, CC BY-SA 3.0"
+  },
+  "elements": [
+    {
+      "name": "county-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 3,
+      "row": 2,
+      "row_span": 1,
+      "text": "County · England",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 3,
+      "row_span": 2,
+      "text": "WILTSHIRE",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "river-photo",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 6,
+      "row": 5,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 1.7,
+      "focus_x": 0.5,
+      "focus_y": 0.72,
+      "tag": "1",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "pinfield",
+      "kind": "pinfield",
+      "col": 7,
+      "col_span": 6,
+      "row": 5,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "parish-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 6,
+      "row": 9,
+      "row_span": 1,
+      "text": "1 · Village and civil parish",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "place-name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 1,
+      "text": "CASTLE COMBE",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 7,
+      "col_span": 6,
+      "row": 10,
+      "row_span": 2,
+      "text": "Around 5 miles north‑west of Chippenham and 10 miles north‑east of Bath.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 7,
+      "col_span": 6,
+      "row": 12,
+      "row_span": 1,
+      "text": "At the 2021 census, the parish had a population of 356.",
+      "style": "body",
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 6,
+      "hierarchy": 6,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The idea depends on one brown dot, but in the pinfield (columns 7–12, rows 5–9) it sits beside three ringed markers at about column 9, row 8, and reads as one of four. Remove the rings, or turn them into plain grey dots, so the brown dot is the only accented mark in the field.",
+      "Nothing links CASTLE COMBE (columns 1–4, row 10) to its dot (column 9, row 8). Move the place-name to columns 7–10 in row 10, directly under the dot's column. Alternatively, run a hairline from the dot down to the top of row 10, so 'small line' and 'small dot' read as one statement.",
+      "The scattered dots at the bottom-left of the pinfield drift down into the gap between rows 9 and 10, near column 7, and crowd the top of the lead. Clip the pinfield to end at row 9 as specified, or drop those outliers.",
+      "WILTSHIRE spanning all 12 columns across rows 3–4 is correct and carries the idea. Keep it. Row 2, holding only the 3-column label, leaves a full empty row above it. Either keep that row as deliberate air or move the label onto the top baseline of row 3 and lift the headline by one row.",
+      "The lead in columns 7–12 (rows 10–11) is a large serif that visually outweighs CASTLE COMBE in columns 1–4. The hierarchy now runs WILTSHIRE → lead → place-name. Drop the lead one size step, to about 1.5× body, so the place-name becomes the second read after the county.",
+      "The body line sits alone in row 12, a full empty row below the lead and tight against the footer rule. Move it up to row 11, directly under the lead's last baseline. That frees row 12 as clean air above the footer.",
+      "The lead at 6 columns breaks at about 30 characters with a decent rag, but 'north-west of' hangs on line 1. Set the lead to columns 7–11 (5 of 12) so it breaks after 'miles', giving a tighter rag and one empty column at the right.",
+      "The parish caption in row 9 spans 6 columns but is only about 3 columns long. Set it to columns 1–3 so the caption's span matches its length; the remainder of row 9 under the photo then reads as an intentional empty module.",
+      "Colour works: the warm grey paper, the brown headline and dot matching the Cotswold stone, and the photo's blue sky as the only cool note. Keep the dot exactly in the headline brown."
+    ],
+    "summary": "A sound structure: a full-width county name over a half-and-half photo and pinfield, with text below. The core idea is undercut because the brown dot is not singular and has no visual tie to the CASTLE COMBE line. Rebalance the lead and the place-name, tighten rows 11–12, and clean up the pinfield so one dot carries the meaning.",
+    "mean": 6.2
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 5.6,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 5,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 5.8,
+      "scores": {
+        "idea": 6,
+        "grid": 5,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#3F311A"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Castle Combe, Wiltshire",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Wiltshire",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "08 / 10",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Castle Combe"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Wiltshire"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Saffron Blaze, CC BY-SA 3.0"
+      },
+      {
+        "id": "el-1",
+        "name": "county-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 3,
+        "r": 2,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "County · England"
+      },
+      {
+        "id": "el-2",
+        "name": "county-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 3,
+        "rs": 2,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "WILTSHIRE"
+      },
+      {
+        "id": "el-3",
+        "name": "river-photo",
+        "kind": "photo",
+        "c": 1,
+        "cs": 6,
+        "r": 5,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/castle-combe/commons-1.jpg",
+        "zoom": 1.7,
+        "focus": [
+          0.5,
+          0.72
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-4",
+        "name": "pinfield",
+        "kind": "pinfield",
+        "c": 7,
+        "cs": 6,
+        "r": 5,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            51.4919,
+            -2.227
+          ],
+          "ring": [
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              51.1789,
+              -1.8262
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-5",
+        "name": "parish-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 6,
+        "r": 9,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "1 · Village and civil parish"
+      },
+      {
+        "id": "el-6",
+        "name": "place-name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 4,
+        "r": 10,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "CASTLE COMBE"
+      },
+      {
+        "id": "el-7",
+        "name": "lead",
+        "kind": "text",
+        "c": 7,
+        "cs": 6,
+        "r": 10,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Around 5 miles north‑west of Chippenham and 10 miles north‑east of Bath.",
+        "style": "lead"
+      },
+      {
+        "id": "el-8",
+        "name": "body",
+        "kind": "text",
+        "c": 7,
+        "cs": 6,
+        "r": 12,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "At the 2021 census, the parish had a population of 356.",
+        "style": "body"
+      }
+    ]
+  },
+  "image": "posters/img/008-castle-combe.png"
+}

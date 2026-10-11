@@ -1,0 +1,243 @@
+{
+  "id": "highland-coos",
+  "name": "Highland coos",
+  "lat": 56.685,
+  "lng": -5.105,
+  "enrichedAt": "2026-10-11T01:21:30.890Z",
+  "place": {
+    "town": "Glencoe",
+    "locality": null,
+    "county": "Highland",
+    "adminArea": "Highland",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.685&lon=-5.105&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Glencoe, Highland, Scotland, PH49 4HS, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "glenfinnan-viaduct",
+        "name": "Glenfinnan Viaduct",
+        "km": 29
+      },
+      {
+        "id": "loch-ness-2",
+        "name": "Loch Ness",
+        "km": 82
+      },
+      {
+        "id": "loch-ness",
+        "name": "Loch Ness",
+        "km": 82
+      },
+      {
+        "id": "isle-of-skye",
+        "name": "Isle of Skye (Fairy Glen, Sligachan)",
+        "km": 121.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Glencoe, Highland",
+      "description": "Village in the Lochaber area of Scotland",
+      "extract": "Glencoe or Glencoe Village is the main settlement in Glen Coe in the Lochaber area of the Scottish Highlands. It lies at the north-west end of the glen, on the southern bank of the River Coe where it enters Loch Leven.",
+      "url": "https://en.wikipedia.org/wiki/Glencoe%2C_Highland",
+      "coordinates": {
+        "lat": 56.68282,
+        "lng": -5.10598
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/GlencoeVillage.jpg/3840px-GlencoeVillage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The shaggy ginger cattle — pin a reliable roadside spot once you find one.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "wildlife"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/highland-coos/commons-1.jpg",
+      "title": "File:River Coe nr. Glencoe village. - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:River_Coe_nr._Glencoe_village._-_panoramio.jpg",
+      "author": "brian gillman",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 4416,
+      "height": 3312,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#585a4e",
+            "share": 0.247
+          },
+          {
+            "hex": "#34382a",
+            "share": 0.237
+          },
+          {
+            "hex": "#11130c",
+            "share": 0.222
+          },
+          {
+            "hex": "#7e7c80",
+            "share": 0.22
+          },
+          {
+            "hex": "#bbbabf",
+            "share": 0.073
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/highland-coos/commons-2.jpg",
+      "title": "File:Invercoe Bridge replacement - 51888019963.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Invercoe_Bridge_replacement_-_51888019963.jpg",
+      "author": "Glen Wallace",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#746051",
+            "share": 0.288
+          },
+          {
+            "hex": "#ccd6dd",
+            "share": 0.261
+          },
+          {
+            "hex": "#e1e9ef",
+            "share": 0.214
+          },
+          {
+            "hex": "#363433",
+            "share": 0.195
+          },
+          {
+            "hex": "#a2a1a3",
+            "share": 0.041
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/highland-coos/commons-3.jpg",
+      "title": "File:Invercoe Bridge replacement - 51887937036.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Invercoe_Bridge_replacement_-_51887937036.jpg",
+      "author": "Glen Wallace",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e4e7ec",
+            "share": 0.298
+          },
+          {
+            "hex": "#5c544e",
+            "share": 0.295
+          },
+          {
+            "hex": "#886a58",
+            "share": 0.175
+          },
+          {
+            "hex": "#2c2a2b",
+            "share": 0.119
+          },
+          {
+            "hex": "#97989a",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#886a58"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/highland-coos/commons-4.jpg",
+      "title": "File:Invercoe Bridge replacement - 51888270124.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Invercoe_Bridge_replacement_-_51888270124.jpg",
+      "author": "Glen Wallace",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3618,
+      "height": 2714,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e1e6eb",
+            "share": 0.283
+          },
+          {
+            "hex": "#81756d",
+            "share": 0.25
+          },
+          {
+            "hex": "#61564f",
+            "share": 0.243
+          },
+          {
+            "hex": "#32372f",
+            "share": 0.165
+          },
+          {
+            "hex": "#a6a9a8",
+            "share": 0.06
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#585a4e",
+        "share": 0.247
+      },
+      {
+        "hex": "#34382a",
+        "share": 0.237
+      },
+      {
+        "hex": "#11130c",
+        "share": 0.222
+      },
+      {
+        "hex": "#7e7c80",
+        "share": 0.22
+      },
+      {
+        "hex": "#bbbabf",
+        "share": 0.073
+      }
+    ],
+    "strongest": null
+  }
+}

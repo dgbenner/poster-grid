@@ -1,0 +1,269 @@
+{
+  "id": "liverpool",
+  "name": "Liverpool",
+  "lat": 53.4084,
+  "lng": -2.9916,
+  "enrichedAt": "2026-10-11T01:21:32.690Z",
+  "place": {
+    "town": "Liverpool",
+    "locality": "Cavern Quarter",
+    "county": "Merseyside",
+    "adminArea": "Liverpool City Region",
+    "region": "Liverpool City Region",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4084&lon=-2.9916&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Pride Quarter, Cavern Quarter, Liverpool, Liverpool City Region, England, L2 5SF, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Liverpool",
+      "description": "City in Merseyside, England",
+      "extract": "Liverpool is a port city and metropolitan borough in Merseyside, England. It is situated on the eastern side of the Mersey Estuary, near the Irish Sea, 178 miles (286 km) north-west of London. It had an estimated population of 507,915 in 2025. The city is within the larger Liverpool City Region, a combined authority area with a population of over 1.5 million.",
+      "url": "https://en.wikipedia.org/wiki/Liverpool",
+      "coordinates": {
+        "lat": 53.4072,
+        "lng": -2.9917
+      },
+      "km": 0.1,
+      "matchedBy": "town",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pier_Head%2C_Liverpool_-_geograph.org.uk_-_3059094.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Liverpool",
+      "description": "City in Merseyside, England",
+      "extract": "Liverpool is a port city and metropolitan borough in Merseyside, England. It is situated on the eastern side of the Mersey Estuary, near the Irish Sea, 178 miles (286 km) north-west of London. It had an estimated population of 507,915 in 2025. The city is within the larger Liverpool City Region, a combined authority area with a population of over 1.5 million.",
+      "url": "https://en.wikipedia.org/wiki/Liverpool",
+      "coordinates": {
+        "lat": 53.4072,
+        "lng": -2.9917
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pier_Head%2C_Liverpool_-_geograph.org.uk_-_3059094.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Cavern, the Albert Dock, the whole Merseybeat map — a city pin to break out.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/liverpool/own-liverpool.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/liverpool.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#83868c",
+            "share": 0.281
+          },
+          {
+            "hex": "#a5a3a2",
+            "share": 0.224
+          },
+          {
+            "hex": "#c1c1bf",
+            "share": 0.169
+          },
+          {
+            "hex": "#565f75",
+            "share": 0.164
+          },
+          {
+            "hex": "#30394c",
+            "share": 0.162
+          }
+        ],
+        "strongest": "#30394c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/liverpool/commons-1.jpg",
+      "title": "File:-2023-02-02 Bus interchange at Liverpool South Parkway.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:-2023-02-02_Bus_interchange_at_Liverpool_South_Parkway.jpg",
+      "author": "Chris Morgan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 2252,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#333931",
+            "share": 0.259
+          },
+          {
+            "hex": "#b0c0db",
+            "share": 0.238
+          },
+          {
+            "hex": "#bdcde5",
+            "share": 0.223
+          },
+          {
+            "hex": "#575d4f",
+            "share": 0.151
+          },
+          {
+            "hex": "#8a8887",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#bdcde5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/liverpool/commons-2.jpg",
+      "title": "File:Al-Rahma Mosque, Liverpool 2020.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Al-Rahma_Mosque,_Liverpool_2020.jpg",
+      "author": "Rodhullandemu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4877,
+      "height": 3400,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#84a8cd",
+            "share": 0.271
+          },
+          {
+            "hex": "#a9957f",
+            "share": 0.261
+          },
+          {
+            "hex": "#826a54",
+            "share": 0.219
+          },
+          {
+            "hex": "#604a3c",
+            "share": 0.129
+          },
+          {
+            "hex": "#d8dee4",
+            "share": 0.12
+          }
+        ],
+        "strongest": "#84a8cd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/liverpool/commons-3.jpg",
+      "title": "File:Asian Tourists at Quayside - Albert Dock - Liverpool - England (28033157252).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Asian_Tourists_at_Quayside_-_Albert_Dock_-_Liverpool_-_England_(28033157252).jpg",
+      "author": "Adam Jones from Kelowna, BC, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a7a599",
+            "share": 0.306
+          },
+          {
+            "hex": "#726a5f",
+            "share": 0.204
+          },
+          {
+            "hex": "#2a2826",
+            "share": 0.174
+          },
+          {
+            "hex": "#edf0ec",
+            "share": 0.171
+          },
+          {
+            "hex": "#cfcec5",
+            "share": 0.146
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/liverpool/commons-4.jpg",
+      "title": "File:Bluecoat Chambers, Liverpool (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bluecoat_Chambers,_Liverpool_(2).jpg",
+      "author": "Brit in Seoul",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4624,
+      "height": 3468,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#636244",
+            "share": 0.272
+          },
+          {
+            "hex": "#686f77",
+            "share": 0.268
+          },
+          {
+            "hex": "#908574",
+            "share": 0.202
+          },
+          {
+            "hex": "#473d28",
+            "share": 0.201
+          },
+          {
+            "hex": "#b7bcb9",
+            "share": 0.058
+          }
+        ],
+        "strongest": "#473d28"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#83868c",
+        "share": 0.281
+      },
+      {
+        "hex": "#a5a3a2",
+        "share": 0.224
+      },
+      {
+        "hex": "#c1c1bf",
+        "share": 0.169
+      },
+      {
+        "hex": "#565f75",
+        "share": 0.164
+      },
+      {
+        "hex": "#30394c",
+        "share": 0.162
+      }
+    ],
+    "strongest": "#30394c"
+  }
+}

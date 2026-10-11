@@ -1,0 +1,336 @@
+{
+  "id": "camden",
+  "name": "Camden",
+  "lat": 51.539,
+  "lng": -0.1426,
+  "enrichedAt": "2026-10-11T01:21:34.438Z",
+  "place": {
+    "town": "London",
+    "locality": "Chalk Farm",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Camden",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.539&lon=-0.1426&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Primrose Hill, Chalk Farm, London Borough of Camden, Greater London, England, NW1 8XN, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 2.43
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 2.58
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 3.14
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 4.02
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 2.4
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 2.6
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 3.1
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 4
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 5.4
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 6.4
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 12
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 12.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Camden Town",
+      "description": "Inner city district of London, England",
+      "extract": "Camden Town is an area in the London Borough of Camden, around 2.5 miles (4 km) north-northwest of Charing Cross. Historically in Middlesex, it is identified in the London Plan as one of 34 major centres in Greater London.",
+      "url": "https://en.wikipedia.org/wiki/Camden_Town",
+      "coordinates": {
+        "lat": 51.541,
+        "lng": -0.1433
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Camden_Town_9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "London Borough of Camden",
+      "description": "Borough in Inner London, England",
+      "extract": "The London Borough of Camden is a borough in Inner London, England. Camden Town Hall, on Euston Road, lies 2 mi (3.2 km) north of Charing Cross. The borough was established on 1 April 1965 from the former metropolitan boroughs of Holborn, St Pancras and Hampstead.",
+      "url": "https://en.wikipedia.org/wiki/London_Borough_of_Camden",
+      "coordinates": {
+        "lat": 51.53333333,
+        "lng": -0.16666667
+      },
+      "km": 1.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pancras_Renaissance_London_Hotel_2011-06-19.jpg/3840px-St_Pancras_Renaissance_London_Hotel_2011-06-19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The markets, the Roundhouse, the Amy Winehouse statue.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/camden/own-camden.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/camden.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#837778",
+            "share": 0.329
+          },
+          {
+            "hex": "#685a54",
+            "share": 0.201
+          },
+          {
+            "hex": "#fcfbfc",
+            "share": 0.197
+          },
+          {
+            "hex": "#372f30",
+            "share": 0.147
+          },
+          {
+            "hex": "#afa9a9",
+            "share": 0.125
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camden/commons-1.jpg",
+      "title": "File:Camden Town 9.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Camden_Town_9.jpg",
+      "author": "Georgia Pinaud, Lille, France.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#717577",
+            "share": 0.329
+          },
+          {
+            "hex": "#444751",
+            "share": 0.317
+          },
+          {
+            "hex": "#989997",
+            "share": 0.154
+          },
+          {
+            "hex": "#9b5148",
+            "share": 0.119
+          },
+          {
+            "hex": "#d1d5da",
+            "share": 0.081
+          }
+        ],
+        "strongest": "#9b5148"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camden/commons-2.jpg",
+      "title": "File:Former hospital building, Camden Town - geograph.org.uk - 4989554.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Former_hospital_building,_Camden_Town_-_geograph.org.uk_-_4989554.jpg",
+      "author": "Jim Osley",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1600,
+      "height": 1348,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#837776",
+            "share": 0.343
+          },
+          {
+            "hex": "#fcfbfc",
+            "share": 0.199
+          },
+          {
+            "hex": "#655852",
+            "share": 0.195
+          },
+          {
+            "hex": "#352e2f",
+            "share": 0.139
+          },
+          {
+            "hex": "#aea8a9",
+            "share": 0.124
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camden/commons-3.jpg",
+      "title": "File:Camden Town, London, United Kingdom (Unsplash MhK9-ENkqvw).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Camden_Town,_London,_United_Kingdom_(Unsplash_MhK9-ENkqvw).jpg",
+      "author": "Celeste Korol celestekorol",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fafafa",
+            "share": 0.277
+          },
+          {
+            "hex": "#6a4f47",
+            "share": 0.23
+          },
+          {
+            "hex": "#422d2c",
+            "share": 0.194
+          },
+          {
+            "hex": "#aea2a2",
+            "share": 0.159
+          },
+          {
+            "hex": "#827576",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#6a4f47"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/camden/commons-4.jpg",
+      "title": "File:Camden Town, London, United Kingdom (Unsplash K11CdC7LoaU).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Camden_Town,_London,_United_Kingdom_(Unsplash_K11CdC7LoaU).jpg",
+      "author": "Clem Onojeghuo clemono2",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5400,
+      "height": 3886,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1e2431",
+            "share": 0.3
+          },
+          {
+            "hex": "#343c4c",
+            "share": 0.251
+          },
+          {
+            "hex": "#0e121a",
+            "share": 0.199
+          },
+          {
+            "hex": "#59555f",
+            "share": 0.199
+          },
+          {
+            "hex": "#749fc4",
+            "share": 0.051
+          }
+        ],
+        "strongest": "#1e2431"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Camden Town - Graffiti.jpg",
+      "why": "map/logo category"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#837778",
+        "share": 0.329
+      },
+      {
+        "hex": "#685a54",
+        "share": 0.201
+      },
+      {
+        "hex": "#fcfbfc",
+        "share": 0.197
+      },
+      {
+        "hex": "#372f30",
+        "share": 0.147
+      },
+      {
+        "hex": "#afa9a9",
+        "share": 0.125
+      }
+    ],
+    "strongest": null
+  }
+}

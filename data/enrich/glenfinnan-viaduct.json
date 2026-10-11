@@ -1,0 +1,291 @@
+{
+  "id": "glenfinnan-viaduct",
+  "name": "Glenfinnan Viaduct",
+  "lat": 56.8758236,
+  "lng": -5.4293199,
+  "enrichedAt": "2026-10-11T01:21:46.024Z",
+  "place": {
+    "town": "Glenfinnan",
+    "locality": null,
+    "county": "Highland",
+    "adminArea": "Highland",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.8758236&lon=-5.4293199&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Glenfinnan, Highland, Scotland, PH37 4LT, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "highland-coos",
+        "name": "Highland coos",
+        "km": 29
+      },
+      {
+        "id": "loch-ness-2",
+        "name": "Loch Ness",
+        "km": 78.5
+      },
+      {
+        "id": "loch-ness",
+        "name": "Loch Ness",
+        "km": 78.5
+      },
+      {
+        "id": "isle-of-skye",
+        "name": "Isle of Skye (Fairy Glen, Sligachan)",
+        "km": 92.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Glenfinnan Viaduct",
+      "description": "Railway viaduct in the Highlands, Scotland",
+      "extract": "The Glenfinnan Viaduct is a railway viaduct on the West Highland Line at Glenfinnan, in the Lochaber district of north-western Scotland, built from 1897 to 1901. Located at the top of Loch Shiel in the West Scottish Highlands, the viaduct overlooks the Glenfinnan Monument and the waters of Loch Shiel.",
+      "url": "https://en.wikipedia.org/wiki/Glenfinnan_Viaduct",
+      "coordinates": {
+        "lat": 56.876285,
+        "lng": -5.431914
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/10/Glenfinnan_Viaduct_-_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Glenfinnan",
+      "description": "Human settlement in Scotland",
+      "extract": "Glenfinnan is a hamlet in Lochaber area of the Highlands of Scotland. In 1745 the Jacobite rising began here when Prince Charles Edward Stuart raised his standard on the shores of Loch Shiel. Seventy years later, the 18 m (60 ft) Glenfinnan Monument, at the head of the loch, was erected to commemorate the historic event.",
+      "url": "https://en.wikipedia.org/wiki/Glenfinnan",
+      "coordinates": {
+        "lat": 56.87083333,
+        "lng": -5.44638889
+      },
+      "km": 1.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Glenfinnanmonument-wyrd-5214.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Curved 21-arch railway viaduct over Glenfinnan, famous from the Harry Potter films' Hogwarts Express scenes.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument",
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/glenfinnan-viaduct/own-glenfinnan-viaduct.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/glenfinnan-viaduct.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#68652c",
+            "share": 0.331
+          },
+          {
+            "hex": "#898140",
+            "share": 0.245
+          },
+          {
+            "hex": "#46451c",
+            "share": 0.164
+          },
+          {
+            "hex": "#878493",
+            "share": 0.151
+          },
+          {
+            "hex": "#a9aab9",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#68652c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glenfinnan-viaduct/commons-1.jpg",
+      "title": "File:Glenfinnan Viaduct - 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct_-_2022.jpg",
+      "author": "Matthieu Riegler",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1414,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#67632a",
+            "share": 0.309
+          },
+          {
+            "hex": "#9b9bac",
+            "share": 0.207
+          },
+          {
+            "hex": "#888333",
+            "share": 0.178
+          },
+          {
+            "hex": "#45441a",
+            "share": 0.156
+          },
+          {
+            "hex": "#827764",
+            "share": 0.15
+          }
+        ],
+        "strongest": "#67632a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glenfinnan-viaduct/commons-2.jpg",
+      "title": "File:Glenfinnan seen from the train while crossing the viaduct - geograph.org.uk - 6692926.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Glenfinnan_seen_from_the_train_while_crossing_the_viaduct_-_geograph.org.uk_-_6692926.jpg",
+      "author": "Clive Nicholson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#71461a",
+            "share": 0.256
+          },
+          {
+            "hex": "#acb0b5",
+            "share": 0.246
+          },
+          {
+            "hex": "#4a331f",
+            "share": 0.229
+          },
+          {
+            "hex": "#2c1e0c",
+            "share": 0.159
+          },
+          {
+            "hex": "#7b7d84",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#71461a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glenfinnan-viaduct/commons-3.jpg",
+      "title": "File:View from the train at Glenfinnan Viaduct - geograph.org.uk - 6820901.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_from_the_train_at_Glenfinnan_Viaduct_-_geograph.org.uk_-_6820901.jpg",
+      "author": "Eirian Evans",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6d6431",
+            "share": 0.35
+          },
+          {
+            "hex": "#eeeef0",
+            "share": 0.328
+          },
+          {
+            "hex": "#848875",
+            "share": 0.154
+          },
+          {
+            "hex": "#484727",
+            "share": 0.106
+          },
+          {
+            "hex": "#b2b2ae",
+            "share": 0.063
+          }
+        ],
+        "strongest": "#6d6431"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glenfinnan-viaduct/commons-4.jpg",
+      "title": "File:Glenfinnan Viaduct, 1965 - geograph.org.uk - 6158690.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct,_1965_-_geograph.org.uk_-_6158690.jpg",
+      "author": "Alan Murray-Rust",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1280,
+      "height": 848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b8b8b8",
+            "share": 0.346
+          },
+          {
+            "hex": "#a4a4a4",
+            "share": 0.319
+          },
+          {
+            "hex": "#e9e9e9",
+            "share": 0.158
+          },
+          {
+            "hex": "#7c7c7c",
+            "share": 0.106
+          },
+          {
+            "hex": "#262626",
+            "share": 0.071
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#68652c",
+        "share": 0.331
+      },
+      {
+        "hex": "#898140",
+        "share": 0.245
+      },
+      {
+        "hex": "#46451c",
+        "share": 0.164
+      },
+      {
+        "hex": "#878493",
+        "share": 0.151
+      },
+      {
+        "hex": "#a9aab9",
+        "share": 0.109
+      }
+    ],
+    "strongest": "#68652c"
+  }
+}

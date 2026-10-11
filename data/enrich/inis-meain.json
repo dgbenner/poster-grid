@@ -1,0 +1,262 @@
+{
+  "id": "inis-meain",
+  "name": "Inis Meáin, Aran Islands",
+  "lat": 53.0833,
+  "lng": -9.5833,
+  "enrichedAt": "2026-10-11T01:21:38.810Z",
+  "place": {
+    "town": "Conamara Municipal District",
+    "locality": "Carrownlisheen",
+    "county": "County Galway",
+    "adminArea": "County Galway",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.0833&lon=-9.5833&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Carrownlisheen, Inishmore, Conamara Municipal District, County Galway, Connacht, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "kylemore-abbey",
+        "name": "Kylemore Abbey",
+        "km": 56.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Aran Islands",
+      "description": "Group of three islands off the west coast of Ireland",
+      "extract": "The Aran Islands or The Arans, are a group of three islands at the mouth of Galway Bay, off the west coast of Ireland, with a combined area of about 46 km2 (18 mi2). They form the historic barony of Aran in County Galway.",
+      "url": "https://en.wikipedia.org/wiki/Aran_Islands",
+      "coordinates": {
+        "lat": 53.0971,
+        "lng": -9.6326
+      },
+      "km": 3.6,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Aran_Islands_location.svg/1280px-Aran_Islands_location.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Atlantic waves breaking against the cliffs.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/inis-meain/own-inis-meain.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/inis-meain.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.374
+          },
+          {
+            "hex": "#8c8e92",
+            "share": 0.212
+          },
+          {
+            "hex": "#c0b8a9",
+            "share": 0.198
+          },
+          {
+            "hex": "#656568",
+            "share": 0.133
+          },
+          {
+            "hex": "#302e2b",
+            "share": 0.084
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/inis-meain/commons-1.jpg",
+      "title": "File:Aran Islands Inishmore Ireland.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aran_Islands_Inishmore_Ireland.jpg",
+      "author": "No machine-readable author provided. Sebd assumed (based on copyright claims).",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e9eaee",
+            "share": 0.337
+          },
+          {
+            "hex": "#484b35",
+            "share": 0.239
+          },
+          {
+            "hex": "#292c22",
+            "share": 0.219
+          },
+          {
+            "hex": "#6f6d4c",
+            "share": 0.124
+          },
+          {
+            "hex": "#adb0b8",
+            "share": 0.081
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/inis-meain/commons-2.jpg",
+      "title": "File:Coastal boulder deposits, Inishmore, Aran Islands, Ireland.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coastal_boulder_deposits,_Inishmore,_Aran_Islands,_Ireland.jpg",
+      "author": "GeoRonadh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2592,
+      "height": 1944,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#787b81",
+            "share": 0.316
+          },
+          {
+            "hex": "#fcfdfe",
+            "share": 0.252
+          },
+          {
+            "hex": "#565b68",
+            "share": 0.229
+          },
+          {
+            "hex": "#9b9da2",
+            "share": 0.114
+          },
+          {
+            "hex": "#232836",
+            "share": 0.09
+          }
+        ],
+        "strongest": "#232836"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/inis-meain/commons-3.jpg",
+      "title": "File:View over Inishmore Aran Islands.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_over_Inishmore_Aran_Islands.jpg",
+      "author": "Tuoermin",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3800,
+      "height": 2524,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#615f55",
+            "share": 0.266
+          },
+          {
+            "hex": "#827c6e",
+            "share": 0.241
+          },
+          {
+            "hex": "#7398ba",
+            "share": 0.237
+          },
+          {
+            "hex": "#a3bbcd",
+            "share": 0.152
+          },
+          {
+            "hex": "#3f3c34",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#7398ba"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/inis-meain/commons-4.jpg",
+      "title": "File:The bar of Ostan Inis Meain - geograph.org.uk - 7786785.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_bar_of_Ostan_Inis_Meain_-_geograph.org.uk_-_7786785.jpg",
+      "author": "Gordon Hatton",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5184,
+      "height": 3888,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4c3a3a",
+            "share": 0.299
+          },
+          {
+            "hex": "#2c2421",
+            "share": 0.217
+          },
+          {
+            "hex": "#775c64",
+            "share": 0.216
+          },
+          {
+            "hex": "#ab8291",
+            "share": 0.17
+          },
+          {
+            "hex": "#d8c8d1",
+            "share": 0.098
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.374
+      },
+      {
+        "hex": "#8c8e92",
+        "share": 0.212
+      },
+      {
+        "hex": "#c0b8a9",
+        "share": 0.198
+      },
+      {
+        "hex": "#656568",
+        "share": 0.133
+      },
+      {
+        "hex": "#302e2b",
+        "share": 0.084
+      }
+    ],
+    "strongest": null
+  }
+}

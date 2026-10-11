@@ -1,0 +1,338 @@
+{
+  "id": "mausoleum-of-hadrian-castel-santangelo",
+  "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+  "lat": 41.9031,
+  "lng": 12.4663,
+  "enrichedAt": "2026-10-11T01:21:41.818Z",
+  "place": {
+    "town": "Rome",
+    "locality": "Municipio Roma I",
+    "county": "Roma Capitale",
+    "adminArea": "Roma Capitale",
+    "region": "Lazio",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.9031&lon=12.4663&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Borgo, Municipio Roma I, Rome, Roma Capitale, Lazio, 00193, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.75
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 0.98
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 1.01
+      },
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 1.03
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 1.09
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 1.12
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 1.12
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 1.21
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 1.27
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 1.94
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2.46
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 1
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 1.2
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 1.3
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 1.9
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 2.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Rome",
+      "description": "Capital and largest city of Italy",
+      "extract": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country within Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church.",
+      "url": "https://en.wikipedia.org/wiki/Rome",
+      "coordinates": {
+        "lat": 41.89333333,
+        "lng": 12.48277778
+      },
+      "km": 1.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Towering cylindrical fortress in Parco Adriano.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/mausoleum-of-hadrian-castel-santangelo/own-mausoleum-of-hadrian-castel-santangelo.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/mausoleum-of-hadrian-castel-santangelo.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#060505",
+            "share": 0.429
+          },
+          {
+            "hex": "#574019",
+            "share": 0.168
+          },
+          {
+            "hex": "#8e6f43",
+            "share": 0.168
+          },
+          {
+            "hex": "#322108",
+            "share": 0.135
+          },
+          {
+            "hex": "#c4a885",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#574019"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mausoleum-of-hadrian-castel-santangelo/commons-1.jpg",
+      "title": "File:St. Peter's Basilica (15279200810).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Basilica_(15279200810).jpg",
+      "author": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cbd9e7",
+            "share": 0.309
+          },
+          {
+            "hex": "#4e4a4e",
+            "share": 0.223
+          },
+          {
+            "hex": "#343135",
+            "share": 0.21
+          },
+          {
+            "hex": "#bed3e9",
+            "share": 0.188
+          },
+          {
+            "hex": "#787070",
+            "share": 0.07
+          }
+        ],
+        "strongest": "#bed3e9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mausoleum-of-hadrian-castel-santangelo/commons-2.jpg",
+      "title": "File:Cannons (15462729131).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cannons_(15462729131).jpg",
+      "author": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#333136",
+            "share": 0.243
+          },
+          {
+            "hex": "#544f55",
+            "share": 0.224
+          },
+          {
+            "hex": "#797171",
+            "share": 0.203
+          },
+          {
+            "hex": "#131213",
+            "share": 0.197
+          },
+          {
+            "hex": "#9b9598",
+            "share": 0.133
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mausoleum-of-hadrian-castel-santangelo/commons-3.jpg",
+      "title": "File:Terrace Cafe (15278999569).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Terrace_Cafe_(15278999569).jpg",
+      "author": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8d946f",
+            "share": 0.269
+          },
+          {
+            "hex": "#58544a",
+            "share": 0.228
+          },
+          {
+            "hex": "#adae9e",
+            "share": 0.213
+          },
+          {
+            "hex": "#d5d0c6",
+            "share": 0.148
+          },
+          {
+            "hex": "#24211b",
+            "share": 0.143
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/mausoleum-of-hadrian-castel-santangelo/commons-4.jpg",
+      "title": "File:View from Castel Sant'Angelo 10 (15442805966).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_from_Castel_Sant%27Angelo_10_(15442805966).jpg",
+      "author": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#becde3",
+            "share": 0.264
+          },
+          {
+            "hex": "#adcbee",
+            "share": 0.211
+          },
+          {
+            "hex": "#1c201f",
+            "share": 0.187
+          },
+          {
+            "hex": "#50593d",
+            "share": 0.175
+          },
+          {
+            "hex": "#9b8f8c",
+            "share": 0.162
+          }
+        ],
+        "strongest": "#adcbee"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#060505",
+        "share": 0.429
+      },
+      {
+        "hex": "#574019",
+        "share": 0.168
+      },
+      {
+        "hex": "#8e6f43",
+        "share": 0.168
+      },
+      {
+        "hex": "#322108",
+        "share": 0.135
+      },
+      {
+        "hex": "#c4a885",
+        "share": 0.099
+      }
+    ],
+    "strongest": "#574019"
+  }
+}

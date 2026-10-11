@@ -1,0 +1,351 @@
+{
+  "id": "sistine-chapel",
+  "name": "Sistine Chapel ceiling",
+  "lat": 41.9029,
+  "lng": 12.4545,
+  "enrichedAt": "2026-10-11T01:21:41.729Z",
+  "place": {
+    "town": "Vatican City",
+    "locality": "Vatican City",
+    "county": "Vatican City",
+    "adminArea": null,
+    "region": null,
+    "country": "Vatican City",
+    "sovereign": "Vatican City",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.9029&lon=12.4545&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Vatican City, 00120, Vatican City"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 0.09
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 0.2
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.24
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0.41
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 0.41
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 0.98
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 1.91
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 2.14
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 2.2
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 2.79
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 3.35
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 0.1
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 0.2
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.2
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 0.4
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Sistine Chapel ceiling",
+      "description": "Cycle of frescoes by Michelangelo",
+      "extract": "The Sistine Chapel ceiling, painted in fresco by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art.",
+      "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+      "coordinates": {
+        "lat": 41.90305556,
+        "lng": 12.45444444
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Vatican City",
+      "description": "Enclaved Holy See's independent city-state",
+      "extract": "Vatican City, officially the Vatican City State, often shortened as the Vatican, is a landlocked sovereign city-state in Southern Europe. Ruled by the pope, it is an enclave within the city of Rome, Italy, and serves as the administrative centre of the Catholic Church. Vatican City is governed by the See of Rome, commonly known as the Holy See, itself a sovereign entity under international law, which maintains its temporal power, governance, diplomacy, and spiritual independence. Vatican is also used as a metonym for the Holy See, which is the central governing body of the Catholic Church and Vatican City, comprising the pope and the Roman Curia. The independent state of Vatican City came into existence in 1929 via the Lateran Treaty between the Holy See and the Kingdom of Italy, which spoke of it as a creation, not as a vestige of the much larger Papal States (756–1870), which had previously encompassed much of Central Italy.",
+      "url": "https://en.wikipedia.org/wiki/Vatican_City",
+      "coordinates": {
+        "lat": 41.9025,
+        "lng": 12.4525
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/1280px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Michelangelo, 1508–.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/sistine-chapel/own-sistine-chapel.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/sistine-chapel.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7b644d",
+            "share": 0.521
+          },
+          {
+            "hex": "#594131",
+            "share": 0.287
+          },
+          {
+            "hex": "#8c7d71",
+            "share": 0.102
+          },
+          {
+            "hex": "#0e0907",
+            "share": 0.064
+          },
+          {
+            "hex": "#c4c6bf",
+            "share": 0.026
+          }
+        ],
+        "strongest": "#7b644d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sistine-chapel/commons-1.jpg",
+      "title": "File:'Isaiah Sistine Chapel ceiling' by Michelangelo JBU36FXD.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%27Isaiah_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU36FXD.jpg",
+      "author": "Jörg Bittner Unna",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3456,
+      "height": 5184,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9a8b8d",
+            "share": 0.239
+          },
+          {
+            "hex": "#82736f",
+            "share": 0.233
+          },
+          {
+            "hex": "#616057",
+            "share": 0.197
+          },
+          {
+            "hex": "#b4aaab",
+            "share": 0.174
+          },
+          {
+            "hex": "#4a3e38",
+            "share": 0.158
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sistine-chapel/commons-2.jpg",
+      "title": "File:Michelangelo - Sistine Chapel ceiling - 1st bay.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Sistine_Chapel_ceiling_-_1st_bay.jpg",
+      "author": "Michelangelo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1726,
+      "height": 510,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c4e46",
+            "share": 0.243
+          },
+          {
+            "hex": "#876960",
+            "share": 0.243
+          },
+          {
+            "hex": "#a3897c",
+            "share": 0.191
+          },
+          {
+            "hex": "#46302d",
+            "share": 0.175
+          },
+          {
+            "hex": "#ccb5a6",
+            "share": 0.147
+          }
+        ],
+        "strongest": "#ccb5a6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sistine-chapel/commons-3.jpg",
+      "title": "File:Sistine Chapel ceiling 02 (brightened).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sistine_Chapel_ceiling_02_(brightened).jpg",
+      "author": "Antoine Taveneaux",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3264,
+      "height": 4928,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7c6b61",
+            "share": 0.3
+          },
+          {
+            "hex": "#9a8a7c",
+            "share": 0.246
+          },
+          {
+            "hex": "#5e5048",
+            "share": 0.232
+          },
+          {
+            "hex": "#3b3129",
+            "share": 0.141
+          },
+          {
+            "hex": "#c4bcb0",
+            "share": 0.08
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sistine-chapel/commons-4.jpg",
+      "title": "File:Ceiling of the Sistine Chapel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ceiling_of_the_Sistine_Chapel.jpg",
+      "author": "KatieThebeau",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3744,
+      "height": 6924,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9d9687",
+            "share": 0.233
+          },
+          {
+            "hex": "#5d352c",
+            "share": 0.215
+          },
+          {
+            "hex": "#b5b3a9",
+            "share": 0.213
+          },
+          {
+            "hex": "#7d715d",
+            "share": 0.183
+          },
+          {
+            "hex": "#271612",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#5d352c"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7b644d",
+        "share": 0.521
+      },
+      {
+        "hex": "#594131",
+        "share": 0.287
+      },
+      {
+        "hex": "#8c7d71",
+        "share": 0.102
+      },
+      {
+        "hex": "#0e0907",
+        "share": 0.064
+      },
+      {
+        "hex": "#c4c6bf",
+        "share": 0.026
+      }
+    ],
+    "strongest": "#7b644d"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "id": "iwm-duxford-sr-71-blackbird",
+  "name": "IWM Duxford - SR-71 Blackbird",
+  "lat": 52.0894,
+  "lng": 0.1319,
+  "enrichedAt": "2026-10-11T01:21:45.460Z",
+  "place": {
+    "town": "South Cambridgeshire",
+    "locality": null,
+    "county": "Cambridgeshire",
+    "adminArea": "Cambridgeshire",
+    "region": "Cambridgeshire and Peterborough",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.0894&lon=0.1319&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Duxford, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "king-s-college-chapel",
+        "name": "King's College Chapel",
+        "km": 12.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Duxford",
+      "description": "Village in Cambridgeshire, England",
+      "extract": "Duxford is a village in Cambridgeshire, England, about 10 miles (16 km) south of Cambridge. It is part of the Hundred Parishes area.",
+      "url": "https://en.wikipedia.org/wiki/Duxford",
+      "coordinates": {
+        "lat": 52.093,
+        "lng": 0.159
+      },
+      "km": 1.9,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/The_Green%2C_Duxford%2C_Cambridgeshire.jpg/3840px-The_Green%2C_Duxford%2C_Cambridgeshire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "South Cambridgeshire",
+      "description": "Non-metropolitan district in England",
+      "extract": "South Cambridgeshire is a local government district of Cambridgeshire, England, with a population of 162,119 at the 2021 census. It was formed on 1 April 1974 by the merger of Chesterton Rural District and South Cambridgeshire Rural District. It completely surrounds the city of Cambridge, which is administered separately from the district by Cambridge City Council.",
+      "url": "https://en.wikipedia.org/wiki/South_Cambridgeshire",
+      "coordinates": {
+        "lat": 52.132,
+        "lng": 0.105
+      },
+      "km": 5.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cmglee_Cambourne_Morrisons_sculpture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Lockheed SR-71 Blackbird reconnaissance jet with its Pratt & Whitney J58 engine displayed at IWM Duxford's American Air Museum.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "industrial",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/iwm-duxford-sr-71-blackbird/own-iwm-duxford-sr-71-blackbird.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/iwm-duxford-sr-71-blackbird.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d1c8af",
+            "share": 0.356
+          },
+          {
+            "hex": "#404140",
+            "share": 0.224
+          },
+          {
+            "hex": "#6c6c6a",
+            "share": 0.176
+          },
+          {
+            "hex": "#c2ced8",
+            "share": 0.149
+          },
+          {
+            "hex": "#969694",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#d1c8af"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/iwm-duxford-sr-71-blackbird/commons-1.jpg",
+      "title": "File:The Green, Duxford, Cambridgeshire.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Green,_Duxford,_Cambridgeshire.jpg",
+      "author": "ChurchSniffer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4096,
+      "height": 2451,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#444f3e",
+            "share": 0.331
+          },
+          {
+            "hex": "#262d28",
+            "share": 0.238
+          },
+          {
+            "hex": "#757956",
+            "share": 0.208
+          },
+          {
+            "hex": "#93afd4",
+            "share": 0.12
+          },
+          {
+            "hex": "#bfbb65",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#93afd4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/iwm-duxford-sr-71-blackbird/commons-2.jpg",
+      "title": "File:Lancaster & Hurricane - Duxford (7005777250).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lancaster_%26_Hurricane_-_Duxford_(7005777250).jpg",
+      "author": "Tim Felce (Airwolfhound)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2048,
+      "height": 1365,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e1e1e1",
+            "share": 0.717
+          },
+          {
+            "hex": "#c9c9c9",
+            "share": 0.1
+          },
+          {
+            "hex": "#1b1b1b",
+            "share": 0.09
+          },
+          {
+            "hex": "#707070",
+            "share": 0.047
+          },
+          {
+            "hex": "#eeeeee",
+            "share": 0.046
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/iwm-duxford-sr-71-blackbird/commons-3.jpg",
+      "title": "File:The Green, Duxford, Cambridgeshire.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Green,_Duxford,_Cambridgeshire.jpg",
+      "author": "ChurchSniffer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4096,
+      "height": 2451,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#444f3e",
+            "share": 0.331
+          },
+          {
+            "hex": "#262d28",
+            "share": 0.238
+          },
+          {
+            "hex": "#757956",
+            "share": 0.208
+          },
+          {
+            "hex": "#93afd4",
+            "share": 0.12
+          },
+          {
+            "hex": "#bfbb65",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#93afd4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/iwm-duxford-sr-71-blackbird/commons-4.jpg",
+      "title": "File:Flying Legends - Duxford 2005 (7179740045).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Flying_Legends_-_Duxford_2005_(7179740045).jpg",
+      "author": "PSParrot",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1000,
+      "height": 750,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9b9e89",
+            "share": 0.272
+          },
+          {
+            "hex": "#878269",
+            "share": 0.265
+          },
+          {
+            "hex": "#62685c",
+            "share": 0.221
+          },
+          {
+            "hex": "#c6c1a0",
+            "share": 0.149
+          },
+          {
+            "hex": "#353d3b",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#c6c1a0"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Imperial War Museum at Duxford - geograph.org.uk - 1488731.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Imperial War Museum at Duxford - geograph.org.uk - 1488744.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#d1c8af",
+        "share": 0.356
+      },
+      {
+        "hex": "#404140",
+        "share": 0.224
+      },
+      {
+        "hex": "#6c6c6a",
+        "share": 0.176
+      },
+      {
+        "hex": "#c2ced8",
+        "share": 0.149
+      },
+      {
+        "hex": "#969694",
+        "share": 0.094
+      }
+    ],
+    "strongest": "#d1c8af"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "id": "unite-dhabitation-marseille",
+  "name": "Unité d'Habitation, Marseille",
+  "lat": 43.2614,
+  "lng": 5.3964,
+  "enrichedAt": "2026-10-11T01:21:41.391Z",
+  "place": {
+    "town": "Marseille",
+    "locality": "8th Arrondissement",
+    "county": "Bouches-du-Rhône",
+    "adminArea": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.2614&lon=5.3964&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Sainte-Anne, 8th Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13008, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "bibliotheque-mejanes",
+        "name": "Bibliothèque Méjanes, Aix-en-Provence",
+        "km": 29.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Unité d'habitation",
+      "description": "Modernist style of residential housing",
+      "extract": "The Unité d'habitation is a modernist residential housing typology developed by Le Corbusier, with the collaboration of painter-architect Nadir Afonso. It formed the basis of several housing developments throughout Europe designed by Le Corbusier and sharing the same name and reached prominence in the 1950s and 60s.",
+      "url": "https://en.wikipedia.org/wiki/Unit%C3%A9_d'habitation",
+      "coordinates": {
+        "lat": 43.2613,
+        "lng": 5.3963
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/en/e/ec/Unit%C3%A9_d%27habitation_Marseille%2C_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Marseille",
+      "description": "City in southern France",
+      "extract": "Marseille is a city in southern France, the prefecture of the Bouches-du-Rhône department and of the Provence-Alpes-Côte d'Azur region. Situated in Provence, it marks the eastern end of the Côte Bleue on the Mediterranean coast. Marseille is the second-most populous city proper in France, after Paris, with 886,040 inhabitants in 2023 over a municipal territory of 241 km2 (93 sq mi). Together with its suburbs and exurbs, the Marseille metropolitan area, which extends over 3,972 km2 (1,534 sq mi), had a population of 1,917,728 as of 2023. The cities of Marseille, Aix-en-Provence, and 90 suburban municipalities have formed since 2016 the Aix-Marseille-Provence Metropolis, an indirectly elected metropolitan authority now in charge of wider metropolitan issues, with a population of 1,939,077 as of 2023. The southeast of Marseille is in Calanques National Park, making Marseille the only large city in France to have a national park within city limits.",
+      "url": "https://en.wikipedia.org/wiki/Marseille",
+      "coordinates": {
+        "lat": 43.2964,
+        "lng": 5.37
+      },
+      "km": 4.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Le Corbusier's 1940s \"vertical city,\" UNESCO-listed 2016.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/unite-dhabitation-marseille/own-unite-dhabitation-marseille.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/unite-dhabitation-marseille.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ac9b7c",
+            "share": 0.393
+          },
+          {
+            "hex": "#c7c7b9",
+            "share": 0.205
+          },
+          {
+            "hex": "#dcf6f5",
+            "share": 0.183
+          },
+          {
+            "hex": "#6c6e71",
+            "share": 0.135
+          },
+          {
+            "hex": "#261313",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#ac9b7c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/unite-dhabitation-marseille/commons-1.jpg",
+      "title": "File:Marseille 20160827 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marseille_20160827_02.jpg",
+      "author": "Georges Seguin (Okki)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#797c81",
+            "share": 0.234
+          },
+          {
+            "hex": "#b3d1ee",
+            "share": 0.215
+          },
+          {
+            "hex": "#4d565f",
+            "share": 0.214
+          },
+          {
+            "hex": "#232b33",
+            "share": 0.193
+          },
+          {
+            "hex": "#b1aca6",
+            "share": 0.144
+          }
+        ],
+        "strongest": "#b3d1ee"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/unite-dhabitation-marseille/commons-2.jpg",
+      "title": "File:Cité Radieuse à Marseille.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_Radieuse_%C3%A0_Marseille.jpg",
+      "author": "Gatotienesueño",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7f8783",
+            "share": 0.261
+          },
+          {
+            "hex": "#abb2b0",
+            "share": 0.237
+          },
+          {
+            "hex": "#182628",
+            "share": 0.169
+          },
+          {
+            "hex": "#495450",
+            "share": 0.166
+          },
+          {
+            "hex": "#82b3f1",
+            "share": 0.166
+          }
+        ],
+        "strongest": "#82b3f1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/unite-dhabitation-marseille/commons-3.jpg",
+      "title": "File:2014 Marseille Villa Magalone.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:2014_Marseille_Villa_Magalone.JPG",
+      "author": "Margarita.lukjanska",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#826d50",
+            "share": 0.305
+          },
+          {
+            "hex": "#d8dbe2",
+            "share": 0.282
+          },
+          {
+            "hex": "#1f2011",
+            "share": 0.185
+          },
+          {
+            "hex": "#584c39",
+            "share": 0.141
+          },
+          {
+            "hex": "#9a886b",
+            "share": 0.088
+          }
+        ],
+        "strongest": "#826d50"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#ac9b7c",
+        "share": 0.393
+      },
+      {
+        "hex": "#c7c7b9",
+        "share": 0.205
+      },
+      {
+        "hex": "#dcf6f5",
+        "share": 0.183
+      },
+      {
+        "hex": "#6c6e71",
+        "share": 0.135
+      },
+      {
+        "hex": "#261313",
+        "share": 0.084
+      }
+    ],
+    "strongest": "#ac9b7c"
+  }
+}

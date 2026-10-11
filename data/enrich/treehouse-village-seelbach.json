@@ -1,0 +1,66 @@
+{
+  "id": "treehouse-village-seelbach",
+  "name": "Treehouse village, Seelbach",
+  "lat": 48.3083,
+  "lng": 7.9433,
+  "enrichedAt": "2026-10-11T01:21:40.225Z",
+  "place": {
+    "town": "Seelbach",
+    "locality": null,
+    "county": "Ortenaukreis",
+    "adminArea": "Ortenaukreis",
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.3083&lon=7.9433&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Moserhof, Seelbach, VVG der Gemeinde Seelbach, Ortenaukreis, Baden-Württemberg, 77960, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Seelbach, Baden-Württemberg",
+      "description": "Municipality in Baden-Württemberg, Germany",
+      "extract": "Seelbach is a municipality in the district of Ortenau in Baden-Württemberg in Germany. The most popular Festival is the Katharinenmarkt on November.",
+      "url": "https://en.wikipedia.org/wiki/Seelbach%2C_Baden-W%C3%BCrttemberg",
+      "coordinates": {
+        "lat": 48.31416667,
+        "lng": 7.94138889
+      },
+      "km": 0.7,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Seelbach_in_OG.svg/960px-Seelbach_in_OG.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Seelbach, Baden-Württemberg",
+      "description": "Municipality in Baden-Württemberg, Germany",
+      "extract": "Seelbach is a municipality in the district of Ortenau in Baden-Württemberg in Germany. The most popular Festival is the Katharinenmarkt on November.",
+      "url": "https://en.wikipedia.org/wiki/Seelbach%2C_Baden-W%C3%BCrttemberg",
+      "coordinates": {
+        "lat": 48.31416667,
+        "lng": 7.94138889
+      },
+      "km": 0.7,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Seelbach_in_OG.svg/960px-Seelbach_in_OG.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "mountain"
+  ],
+  "images": [],
+  "rejectedImages": [],
+  "colors": null
+}

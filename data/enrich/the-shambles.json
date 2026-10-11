@@ -1,0 +1,275 @@
+{
+  "id": "the-shambles",
+  "name": "The Shambles",
+  "lat": 54.1357335,
+  "lng": -0.7995485,
+  "enrichedAt": "2026-10-11T01:21:45.307Z",
+  "place": {
+    "town": "Malton",
+    "locality": null,
+    "county": "North Yorkshire",
+    "adminArea": "North Yorkshire",
+    "region": "York and North Yorkshire",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=54.1357335&lon=-0.7995485&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Malton, North Yorkshire, York and North Yorkshire, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "york-shambles",
+        "name": "The Shambles, York",
+        "km": 26.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "The Shambles, Malton",
+      "description": "Street in Malton, North Yorkshire, England",
+      "extract": "The Shambles is a street in Malton, North Yorkshire, a town in England.",
+      "url": "https://en.wikipedia.org/wiki/The_Shambles%2C_Malton",
+      "coordinates": {
+        "lat": 54.13572,
+        "lng": -0.79958
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8c/A_quiet_time_in_The_Shambles%2C_Malton_-_geograph.org.uk_-_2552717.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Malton, North Yorkshire",
+      "description": "Market town and civil parish in England",
+      "extract": "Malton is a market town, civil parish and electoral ward in North Yorkshire, England. Historically part of the North Riding of Yorkshire, the town has a population measured for both the civil parish and the electoral ward at the 2011 Census as 4,888.",
+      "url": "https://en.wikipedia.org/wiki/Malton%2C_North_Yorkshire",
+      "coordinates": {
+        "lat": 54.13861111,
+        "lng": -0.79916667
+      },
+      "km": 0.3,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/ba/St_Michael%27s_Church%2C_Market_Place%2C_Malton%2C_Yorkshire_-_geograph.org.uk_-_4109051.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Medieval cobbled street in York with overhanging timber-framed buildings, once home to butchers' shops.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/the-shambles/own-the-shambles.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/the-shambles.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#72747d",
+            "share": 0.284
+          },
+          {
+            "hex": "#4b4f5b",
+            "share": 0.23
+          },
+          {
+            "hex": "#222838",
+            "share": 0.223
+          },
+          {
+            "hex": "#9ea1a6",
+            "share": 0.21
+          },
+          {
+            "hex": "#ecf0f6",
+            "share": 0.053
+          }
+        ],
+        "strongest": "#222838"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-shambles/commons-1.jpg",
+      "title": "File:A quiet time in The Shambles, Malton - geograph.org.uk - 2552717.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_quiet_time_in_The_Shambles,_Malton_-_geograph.org.uk_-_2552717.jpg",
+      "author": "Pauline E",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#94918c",
+            "share": 0.308
+          },
+          {
+            "hex": "#777471",
+            "share": 0.296
+          },
+          {
+            "hex": "#c6c1ba",
+            "share": 0.158
+          },
+          {
+            "hex": "#535355",
+            "share": 0.154
+          },
+          {
+            "hex": "#fbfbfc",
+            "share": 0.085
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-shambles/commons-2.jpg",
+      "title": "File:The Spotted Cow pub, viewed from The Shambles - geograph.org.uk - 2552707.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Spotted_Cow_pub,_viewed_from_The_Shambles_-_geograph.org.uk_-_2552707.jpg",
+      "author": "Pauline E",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e776d",
+            "share": 0.308
+          },
+          {
+            "hex": "#c6c9d0",
+            "share": 0.223
+          },
+          {
+            "hex": "#9d968d",
+            "share": 0.194
+          },
+          {
+            "hex": "#5d5a54",
+            "share": 0.157
+          },
+          {
+            "hex": "#2f2e2d",
+            "share": 0.118
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-shambles/commons-3.jpg",
+      "title": "File:The Shambles - geograph.org.uk - 3235175.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Shambles_-_geograph.org.uk_-_3235175.jpg",
+      "author": "Colin Grice",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 499,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#686a6d",
+            "share": 0.38
+          },
+          {
+            "hex": "#4f464a",
+            "share": 0.281
+          },
+          {
+            "hex": "#262228",
+            "share": 0.156
+          },
+          {
+            "hex": "#9f989f",
+            "share": 0.106
+          },
+          {
+            "hex": "#e7e8eb",
+            "share": 0.076
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-shambles/commons-4.jpg",
+      "title": "File:The Shambles, Malton - geograph.org.uk - 7939563.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Shambles,_Malton_-_geograph.org.uk_-_7939563.jpg",
+      "author": "Stephen Craven",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2000,
+      "height": 1500,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7f7763",
+            "share": 0.358
+          },
+          {
+            "hex": "#27251e",
+            "share": 0.238
+          },
+          {
+            "hex": "#544f41",
+            "share": 0.198
+          },
+          {
+            "hex": "#fcfcfc",
+            "share": 0.122
+          },
+          {
+            "hex": "#c3c1b6",
+            "share": 0.085
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#72747d",
+        "share": 0.284
+      },
+      {
+        "hex": "#4b4f5b",
+        "share": 0.23
+      },
+      {
+        "hex": "#222838",
+        "share": 0.223
+      },
+      {
+        "hex": "#9ea1a6",
+        "share": 0.21
+      },
+      {
+        "hex": "#ecf0f6",
+        "share": 0.053
+      }
+    ],
+    "strongest": "#222838"
+  }
+}

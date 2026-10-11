@@ -1,0 +1,270 @@
+{
+  "id": "pavillon-le-corbusier",
+  "name": "Pavillon Le Corbusier",
+  "lat": 47.3560973,
+  "lng": 8.5508641,
+  "enrichedAt": "2026-10-11T01:21:44.230Z",
+  "place": {
+    "town": "Zurich",
+    "locality": "Kreis 8",
+    "county": "District Zurich",
+    "adminArea": "District Zurich",
+    "region": "Zurich",
+    "country": "Switzerland",
+    "sovereign": "Switzerland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.3560973&lon=8.5508641&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Seefeld, Kreis 8, Zurich, District Zurich, Zurich, Switzerland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Pavillon Le Corbusier",
+      "description": "Biographical museum in Switzerland",
+      "extract": "The Pavillon Le Corbusier is a Swiss art museum in Zürich-Seefeld at Zürichhorn dedicated to the work of the French-Swiss architect Le Corbusier. In 1960, Heidi Weber had the vision to establish a museum designed by Le Corbusier. The building was to exhibit his works of art in an ideal environment created by the architect himself. It was then named the Centre Le Corbusier or Heidi Weber Museum. In April 2014 the building and museum went over to the city of Zürich, and was renamed in May 2016.",
+      "url": "https://en.wikipedia.org/wiki/Pavillon_Le_Corbusier",
+      "coordinates": {
+        "lat": 47.35635,
+        "lng": 8.55111944
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Centre_Le_Corbusier_2011-06-18_18-10-04.jpg/3840px-Centre_Le_Corbusier_2011-06-18_18-10-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Zurich",
+      "description": "Largest city in Switzerland",
+      "extract": "Zurich is the largest city in Switzerland and the capital of the canton of Zurich. It is in north-central Switzerland, at the northwestern tip of Lake Zurich. As of the end of 2025, the municipality had a population of 440,935, while the urban area was home to 1.45 million people (2020), and the Zurich metropolitan area had a total population of 2.1 million (2020). Zurich is a hub for railways, roads, and air traffic. Both Zurich Airport and Zurich's main railway station are the largest and busiest in the country.",
+      "url": "https://en.wikipedia.org/wiki/Zurich",
+      "coordinates": {
+        "lat": 47.37444444,
+        "lng": 8.54111111
+      },
+      "km": 2.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/3840px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "1967 steel-and-enamel art museum, Le Corbusier's last building, dedicated to his work in Zürich-Seefeld.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "art",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/pavillon-le-corbusier/own-pavillon-le-corbusier.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/pavillon-le-corbusier.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4c4d3f",
+            "share": 0.296
+          },
+          {
+            "hex": "#2a2924",
+            "share": 0.246
+          },
+          {
+            "hex": "#737a78",
+            "share": 0.164
+          },
+          {
+            "hex": "#abb8c4",
+            "share": 0.151
+          },
+          {
+            "hex": "#a58a50",
+            "share": 0.143
+          }
+        ],
+        "strongest": "#a58a50"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pavillon-le-corbusier/commons-1.jpg",
+      "title": "File:Centre Le Corbusier 2011-06-18 18-10-04.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Centre_Le_Corbusier_2011-06-18_18-10-04.jpg",
+      "author": "Roland zh",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4129,
+      "height": 2752,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#899a32",
+            "share": 0.279
+          },
+          {
+            "hex": "#515539",
+            "share": 0.244
+          },
+          {
+            "hex": "#1e2316",
+            "share": 0.227
+          },
+          {
+            "hex": "#c0d7f7",
+            "share": 0.134
+          },
+          {
+            "hex": "#9b9d93",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#c0d7f7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pavillon-le-corbusier/commons-2.jpg",
+      "title": "File:Pavillon Le Corbusier basement level.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pavillon_Le_Corbusier_basement_level.jpg",
+      "author": "1904.CC",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#50463b",
+            "share": 0.31
+          },
+          {
+            "hex": "#776b5c",
+            "share": 0.282
+          },
+          {
+            "hex": "#9f9280",
+            "share": 0.181
+          },
+          {
+            "hex": "#30281d",
+            "share": 0.126
+          },
+          {
+            "hex": "#cfc5b5",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#30281d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pavillon-le-corbusier/commons-3.jpg",
+      "title": "File:Pavillon Le Corbusier interior staircase.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pavillon_Le_Corbusier_interior_staircase.jpg",
+      "author": "1904.CC",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d9d6d3",
+            "share": 0.241
+          },
+          {
+            "hex": "#472d23",
+            "share": 0.24
+          },
+          {
+            "hex": "#a79b8f",
+            "share": 0.206
+          },
+          {
+            "hex": "#726862",
+            "share": 0.16
+          },
+          {
+            "hex": "#a65d2d",
+            "share": 0.153
+          }
+        ],
+        "strongest": "#a65d2d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pavillon-le-corbusier/commons-4.jpg",
+      "title": "File:Pavillon Le Corbusier, Zurich (Ank Kumar ) 12.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pavillon_Le_Corbusier,_Zurich_(Ank_Kumar_)_12.jpg",
+      "author": "Ank Kumar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#595252",
+            "share": 0.295
+          },
+          {
+            "hex": "#767a6e",
+            "share": 0.262
+          },
+          {
+            "hex": "#969980",
+            "share": 0.169
+          },
+          {
+            "hex": "#18292a",
+            "share": 0.155
+          },
+          {
+            "hex": "#bcc2a2",
+            "share": 0.119
+          }
+        ],
+        "strongest": "#18292a"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4c4d3f",
+        "share": 0.296
+      },
+      {
+        "hex": "#2a2924",
+        "share": 0.246
+      },
+      {
+        "hex": "#737a78",
+        "share": 0.164
+      },
+      {
+        "hex": "#abb8c4",
+        "share": 0.151
+      },
+      {
+        "hex": "#a58a50",
+        "share": 0.143
+      }
+    ],
+    "strongest": "#a58a50"
+  }
+}

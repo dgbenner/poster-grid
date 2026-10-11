@@ -1,0 +1,282 @@
+{
+  "id": "jodrell-bank-observatory",
+  "name": "Jodrell Bank Observatory",
+  "lat": 53.2366504,
+  "lng": -2.3082382,
+  "enrichedAt": "2026-10-11T01:21:45.690Z",
+  "place": {
+    "town": "Goostrey",
+    "locality": "Goostrey",
+    "county": "Cheshire",
+    "adminArea": "Cheshire East",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.2366504&lon=-2.3082382&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Goostrey, Cheshire East, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "ian-curtis-memorial-stone",
+        "name": "Ian Curtis Memorial Stone",
+        "km": 11.8
+      },
+      {
+        "id": "macclesfield-ian-curtis",
+        "name": "Macclesfield — Ian Curtis",
+        "km": 12.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Jodrell Bank Observatory",
+      "description": "Astronomical observatory in Cheshire, England",
+      "extract": "Jodrell Bank Observatory in Cheshire, England, hosts a number of radio telescopes as part of the Jodrell Bank Centre for Astrophysics at the University of Manchester. The observatory was established in 1945 by Bernard Lovell, a radio astronomer at the university, to investigate cosmic rays after his work on radar in the Second World War. It has since played an important role in the research of meteoroids, quasars, pulsars, masers, and gravitational lenses, and was heavily involved with the tracking of Soviet and US spacecraft of the Space Race.",
+      "url": "https://en.wikipedia.org/wiki/Jodrell_Bank_Observatory",
+      "coordinates": {
+        "lat": 53.23625,
+        "lng": -2.30713889
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lovell_Telescope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Goostrey",
+      "description": "Village in Cheshire, England",
+      "extract": "Goostrey is a village and civil parish in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England. It is in open countryside, 14 miles (23 km) north-east of Crewe and 12 miles (19 km) west of Macclesfield. The parish contains the Lovell Radio Telescope at Jodrell Bank Observatory, a UNESCO World Heritage site. At the 2011 census, it had a population of 2,179 in 956 housesholds. It contains 24 listed heritage assets and one scheduled monument. The parish also includes the hamlets of Blackden, Blackden Heath and Jodrell Bank.",
+      "url": "https://en.wikipedia.org/wiki/Goostrey",
+      "coordinates": {
+        "lat": 53.231232,
+        "lng": -2.336356
+      },
+      "km": 2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Goostrey_-_St_Luke%27s_Church_-_geograph.org.uk_-_6325754.jpg/3840px-Goostrey_-_St_Luke%27s_Church_-_geograph.org.uk_-_6325754.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Home of the Lovell Telescope and pulsar data linked to Joy Division's Unknown Pleasures cover; now a UNESCO site.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music",
+    "industrial",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/jodrell-bank-observatory/own-jodrell-bank-observatory.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/jodrell-bank-observatory.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5c88bd",
+            "share": 0.27
+          },
+          {
+            "hex": "#7d7a6f",
+            "share": 0.247
+          },
+          {
+            "hex": "#9b9d9c",
+            "share": 0.191
+          },
+          {
+            "hex": "#5c5436",
+            "share": 0.159
+          },
+          {
+            "hex": "#87a8c0",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#5c88bd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jodrell-bank-observatory/commons-1.jpg",
+      "title": "File:7m telescope, Jodrell Bank Observatory 2016 001.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:7m_telescope,_Jodrell_Bank_Observatory_2016_001.jpg",
+      "author": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c7253",
+            "share": 0.335
+          },
+          {
+            "hex": "#91a8e2",
+            "share": 0.198
+          },
+          {
+            "hex": "#c6d7f3",
+            "share": 0.19
+          },
+          {
+            "hex": "#9d9b8f",
+            "share": 0.139
+          },
+          {
+            "hex": "#333830",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#c6d7f3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jodrell-bank-observatory/commons-2.jpg",
+      "title": "File:At Jodrell Bank Observatory 2018 040.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:At_Jodrell_Bank_Observatory_2018_040.jpg",
+      "author": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 10618,
+      "height": 3772,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f6558",
+            "share": 0.224
+          },
+          {
+            "hex": "#8f8e84",
+            "share": 0.216
+          },
+          {
+            "hex": "#353d38",
+            "share": 0.192
+          },
+          {
+            "hex": "#477bc6",
+            "share": 0.188
+          },
+          {
+            "hex": "#bab9b5",
+            "share": 0.18
+          }
+        ],
+        "strongest": "#477bc6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jodrell-bank-observatory/commons-3.jpg",
+      "title": "File:Inside the Lovell Telescope, Jodrell Bank Observatory.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Lovell_Telescope,_Jodrell_Bank_Observatory.jpg",
+      "author": "Benjamin Shaw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3264,
+      "height": 1840,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e7a76",
+            "share": 0.408
+          },
+          {
+            "hex": "#61605d",
+            "share": 0.308
+          },
+          {
+            "hex": "#a4988d",
+            "share": 0.112
+          },
+          {
+            "hex": "#3f586e",
+            "share": 0.098
+          },
+          {
+            "hex": "#f2e5cd",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#f2e5cd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jodrell-bank-observatory/commons-4.jpg",
+      "title": "File:The focus tower of the Lovell Telescope at Jodrell Bank Observatory.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_focus_tower_of_the_Lovell_Telescope_at_Jodrell_Bank_Observatory.jpg",
+      "author": "Benjamin Shaw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1840,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3a5978",
+            "share": 0.289
+          },
+          {
+            "hex": "#6182a6",
+            "share": 0.257
+          },
+          {
+            "hex": "#9b958a",
+            "share": 0.252
+          },
+          {
+            "hex": "#6a6b6b",
+            "share": 0.125
+          },
+          {
+            "hex": "#a3afc2",
+            "share": 0.077
+          }
+        ],
+        "strongest": "#3a5978"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5c88bd",
+        "share": 0.27
+      },
+      {
+        "hex": "#7d7a6f",
+        "share": 0.247
+      },
+      {
+        "hex": "#9b9d9c",
+        "share": 0.191
+      },
+      {
+        "hex": "#5c5436",
+        "share": 0.159
+      },
+      {
+        "hex": "#87a8c0",
+        "share": 0.132
+      }
+    ],
+    "strongest": "#5c88bd"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "id": "castle-combe",
+  "name": "Castle Combe",
+  "lat": 51.4919,
+  "lng": -2.227,
+  "enrichedAt": "2026-10-11T01:21:32.866Z",
+  "place": {
+    "town": "Castle Combe",
+    "locality": null,
+    "county": "Wiltshire",
+    "adminArea": "Wiltshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4919&lon=-2.227&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Castle Combe, Wiltshire, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "avebury-stone-circle",
+        "name": "Avebury Stone Circle",
+        "km": 26.9
+      },
+      {
+        "id": "king-alfreds-tower",
+        "name": "King Alfred's Tower, Stourhead",
+        "km": 42.5
+      },
+      {
+        "id": "stonehenge",
+        "name": "Stonehenge",
+        "km": 44.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Castle Combe",
+      "description": "Village and civil parish in Wiltshire, England",
+      "extract": "Castle Combe is a village and civil parish in Wiltshire, England. The village is around 5 miles (8 km) north-west of Chippenham and 10 miles (16 km) north-east of Bath. At the 2021 census, the parish had a population of 356.",
+      "url": "https://en.wikipedia.org/wiki/Castle_Combe",
+      "coordinates": {
+        "lat": 51.493,
+        "lng": -2.229
+      },
+      "km": 0.2,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Castle_combe_river.jpg/3840px-Castle_combe_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Castle Combe",
+      "description": "Village and civil parish in Wiltshire, England",
+      "extract": "Castle Combe is a village and civil parish in Wiltshire, England. The village is around 5 miles (8 km) north-west of Chippenham and 10 miles (16 km) north-east of Bath. At the 2021 census, the parish had a population of 356.",
+      "url": "https://en.wikipedia.org/wiki/Castle_Combe",
+      "coordinates": {
+        "lat": 51.493,
+        "lng": -2.229
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Castle_combe_river.jpg/3840px-Castle_combe_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "“The prettiest village in England” — honey-stone Cotswold cliché, earned.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/castle-combe/own-castle-combe.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/castle-combe.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.383
+          },
+          {
+            "hex": "#7f6d53",
+            "share": 0.186
+          },
+          {
+            "hex": "#604c36",
+            "share": 0.174
+          },
+          {
+            "hex": "#b1aea0",
+            "share": 0.158
+          },
+          {
+            "hex": "#3f311a",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#3f311a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castle-combe/commons-1.jpg",
+      "title": "File:Castle combe river.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle_combe_river.jpg",
+      "author": "Saffron Blaze",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3863,
+      "height": 2759,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f92c7",
+            "share": 0.345
+          },
+          {
+            "hex": "#464436",
+            "share": 0.227
+          },
+          {
+            "hex": "#1f1e14",
+            "share": 0.215
+          },
+          {
+            "hex": "#756a50",
+            "share": 0.126
+          },
+          {
+            "hex": "#ab9b7a",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#5f92c7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castle-combe/commons-2.jpg",
+      "title": "File:Castle.combe.cross.arp.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle.combe.cross.arp.jpg",
+      "author": "Arpingstone",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1500,
+      "height": 1156,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#aeacaf",
+            "share": 0.263
+          },
+          {
+            "hex": "#585e53",
+            "share": 0.253
+          },
+          {
+            "hex": "#9ec6fc",
+            "share": 0.201
+          },
+          {
+            "hex": "#2c2d2b",
+            "share": 0.144
+          },
+          {
+            "hex": "#898987",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#9ec6fc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castle-combe/commons-3.jpg",
+      "title": "File:Castle Combe - The Dower House (geograph 3648905).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle_Combe_-_The_Dower_House_(geograph_3648905).jpg",
+      "author": "Rob Farrow",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1333,
+      "height": 1000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#253510",
+            "share": 0.231
+          },
+          {
+            "hex": "#555d3b",
+            "share": 0.216
+          },
+          {
+            "hex": "#808271",
+            "share": 0.215
+          },
+          {
+            "hex": "#b5a86e",
+            "share": 0.206
+          },
+          {
+            "hex": "#f5f9fb",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#253510"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/castle-combe/commons-4.jpg",
+      "title": "File:Castle combe river.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle_combe_river.jpg",
+      "author": "Saffron Blaze",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3863,
+      "height": 2759,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f92c7",
+            "share": 0.345
+          },
+          {
+            "hex": "#464436",
+            "share": 0.227
+          },
+          {
+            "hex": "#1f1e14",
+            "share": 0.215
+          },
+          {
+            "hex": "#756a50",
+            "share": 0.126
+          },
+          {
+            "hex": "#ab9b7a",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#5f92c7"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.383
+      },
+      {
+        "hex": "#7f6d53",
+        "share": 0.186
+      },
+      {
+        "hex": "#604c36",
+        "share": 0.174
+      },
+      {
+        "hex": "#b1aea0",
+        "share": 0.158
+      },
+      {
+        "hex": "#3f311a",
+        "share": 0.099
+      }
+    ],
+    "strongest": "#3f311a"
+  }
+}

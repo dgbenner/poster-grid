@@ -1,0 +1,235 @@
+{
+  "id": "cove-harbour",
+  "name": "Cove Harbour",
+  "lat": 55.9333,
+  "lng": -2.3486,
+  "enrichedAt": "2026-10-11T01:21:30.532Z",
+  "place": {
+    "town": "Cockburnspath",
+    "locality": null,
+    "county": "Scottish Borders",
+    "adminArea": "Scottish Borders",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9333&lon=-2.3486&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cove Farm, Cockburnspath, Scottish Borders, Scotland, TD13 5XD, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Cove, Scottish Borders",
+      "description": "Village in Scotland",
+      "extract": "Cove is a village in the Scottish Borders area of Scotland, 18 mi (29 km) northwest of the Scotland/England border. It is about 36 miles southeast of Edinburgh and 8 mi (13 km) from Dunbar. Cove is close to Cockburnspath, Dunglass, Innerwick, Oldhamstocks, Bilsdean, and, further afield, Dunbar and Eyemouth. The climate is typical for Scotland, with cold, wet winters and variable summer weather, with days of rain and days of temperatures over 20 °C (68 °F).",
+      "url": "https://en.wikipedia.org/wiki/Cove%2C_Scottish_Borders",
+      "coordinates": {
+        "lat": 55.9369,
+        "lng": -2.3521
+      },
+      "km": 0.5,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cove_Harbour_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Cockburnspath",
+      "description": "Village in the Scottish Borders",
+      "extract": "Cockburnspath is a village in Berwickshire in the Scottish Borders. It lies near the North Sea coast between Berwick-upon-Tweed and Dunbar. Cockburnspath is the eastern terminus of the Southern Upland Way as well as the northern terminus of the Berwickshire Coastal Path. At the nearby village of Cove, there is a small fishing harbour.",
+      "url": "https://en.wikipedia.org/wiki/Cockburnspath",
+      "coordinates": {
+        "lat": 55.93295,
+        "lng": -2.36018
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cove_Harbour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Hidden smugglers’ harbour reached through a cliff tunnel. (Split from Limekilns — verify.)",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/cove-harbour/commons-1.jpg",
+      "title": "File:Cove Harbour view.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cove_Harbour_view.jpg",
+      "author": "Danieljksn",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2400,
+      "height": 1800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#586437",
+            "share": 0.296
+          },
+          {
+            "hex": "#6392c5",
+            "share": 0.234
+          },
+          {
+            "hex": "#b4d2ee",
+            "share": 0.234
+          },
+          {
+            "hex": "#4d7393",
+            "share": 0.143
+          },
+          {
+            "hex": "#908978",
+            "share": 0.093
+          }
+        ],
+        "strongest": "#b4d2ee"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cove-harbour/commons-2.jpg",
+      "title": "File:Eyemouth disaster memorial at Cove.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eyemouth_disaster_memorial_at_Cove.jpg",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2497,
+      "height": 1916,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f4fafd",
+            "share": 0.301
+          },
+          {
+            "hex": "#55625e",
+            "share": 0.291
+          },
+          {
+            "hex": "#343c3b",
+            "share": 0.185
+          },
+          {
+            "hex": "#7e8989",
+            "share": 0.155
+          },
+          {
+            "hex": "#bccbd7",
+            "share": 0.069
+          }
+        ],
+        "strongest": "#bccbd7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cove-harbour/commons-3.jpg",
+      "title": "File:Linhead, from near Cove - geograph.org.uk - 2627031.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Linhead,_from_near_Cove_-_geograph.org.uk_-_2627031.jpg",
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5d673b",
+            "share": 0.277
+          },
+          {
+            "hex": "#f4f4f5",
+            "share": 0.227
+          },
+          {
+            "hex": "#3b4728",
+            "share": 0.195
+          },
+          {
+            "hex": "#959083",
+            "share": 0.169
+          },
+          {
+            "hex": "#b7b8b7",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#5d673b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cove-harbour/commons-4.jpg",
+      "title": "File:The Southern Upland Way near Cove Farm - geograph.org.uk - 7929453.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Southern_Upland_Way_near_Cove_Farm_-_geograph.org.uk_-_7929453.jpg",
+      "author": "Dave Kelly",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#70844b",
+            "share": 0.363
+          },
+          {
+            "hex": "#d7ebf9",
+            "share": 0.18
+          },
+          {
+            "hex": "#465e25",
+            "share": 0.174
+          },
+          {
+            "hex": "#8a9a73",
+            "share": 0.172
+          },
+          {
+            "hex": "#4c5d60",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#465e25"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#586437",
+        "share": 0.296
+      },
+      {
+        "hex": "#6392c5",
+        "share": 0.234
+      },
+      {
+        "hex": "#b4d2ee",
+        "share": 0.234
+      },
+      {
+        "hex": "#4d7393",
+        "share": 0.143
+      },
+      {
+        "hex": "#908978",
+        "share": 0.093
+      }
+    ],
+    "strongest": "#b4d2ee"
+  }
+}

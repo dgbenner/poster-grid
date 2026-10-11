@@ -1,0 +1,269 @@
+{
+  "id": "chateau-de-brissac",
+  "name": "Château de Brissac",
+  "lat": 47.357,
+  "lng": -0.4447,
+  "enrichedAt": "2026-10-11T01:21:41.024Z",
+  "place": {
+    "town": "Brissac-Loire-Aubance",
+    "locality": null,
+    "county": "Maine-et-Loire",
+    "adminArea": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.357&lon=-0.4447&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Le Moulin Roux, Brissac-Quincé, Brissac-Loire-Aubance, Angers, Maine-et-Loire, Pays de la Loire, Metropolitan France, 49320, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Château de Brissac",
+      "description": "French château in the Brissac-Quincé area",
+      "extract": "The Château de Brissac is a French château in the Brissac-Quincé area of the commune of Brissac Loire Aubance, located in the department of Maine-et-Loire, France. The property is owned by the noble Cossé family, whose head bears the French hereditary title of Duke of Brissac. The château is listed as a monument historique by the French Ministry of Culture.",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Brissac",
+      "coordinates": {
+        "lat": 47.41944444,
+        "lng": -0.44972222
+      },
+      "km": 7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/f5/00_1048_Brissac-Quinc%C3%A9_-_Schloss_Brissac_%28Ch%C3%A2teau_de_Brissac%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Brissac Loire Aubance",
+      "description": "Commune in Pays de la Loire, France",
+      "extract": "Brissac Loire Aubance is a commune in the Maine-et-Loire department of western France. The municipality was established on 15 December 2016 and consists of the former communes of Les Alleuds, Brissac-Quincé, Charcé-Saint-Ellier-sur-Aubance, Chemellier, Coutures, Luigné, Saint-Rémy-la-Varenne, Saint-Saturnin-sur-Loire, Saulgé-l'Hôpital and Vauchrétien.",
+      "url": "https://en.wikipedia.org/wiki/Brissac_Loire_Aubance",
+      "coordinates": {
+        "lat": 47.356,
+        "lng": -0.448
+      },
+      "km": 0.3,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Castle_Brissac_2007_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Tallest château in France; legend of the \"Dame Verte,\" Charlotte de Valois, said to haunt the halls seeking her killer.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/chateau-de-brissac/own-chateau-de-brissac.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/chateau-de-brissac.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4870bd",
+            "share": 0.342
+          },
+          {
+            "hex": "#474c31",
+            "share": 0.186
+          },
+          {
+            "hex": "#638dcf",
+            "share": 0.175
+          },
+          {
+            "hex": "#7c7a6a",
+            "share": 0.152
+          },
+          {
+            "hex": "#b5a38e",
+            "share": 0.145
+          }
+        ],
+        "strongest": "#4870bd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-brissac/commons-1.jpg",
+      "title": "File:00 1048 Brissac-Quincé - Schloss Brissac (Château de Brissac).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:00_1048_Brissac-Quinc%C3%A9_-_Schloss_Brissac_(Ch%C3%A2teau_de_Brissac).jpg",
+      "author": "W. Bulach",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3636,
+      "height": 2424,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#466db9",
+            "share": 0.253
+          },
+          {
+            "hex": "#4f5538",
+            "share": 0.243
+          },
+          {
+            "hex": "#a49686",
+            "share": 0.233
+          },
+          {
+            "hex": "#527eca",
+            "share": 0.162
+          },
+          {
+            "hex": "#6b94cf",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#466db9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-brissac/commons-2.jpg",
+      "title": "File:Brissac-Quincé (Maine-et-Loire) (27778838616).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brissac-Quinc%C3%A9_(Maine-et-Loire)_(27778838616).jpg",
+      "author": "Daniel Jolivet",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4928,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d8d4ed",
+            "share": 0.353
+          },
+          {
+            "hex": "#312a18",
+            "share": 0.275
+          },
+          {
+            "hex": "#5a4d3b",
+            "share": 0.157
+          },
+          {
+            "hex": "#796f6b",
+            "share": 0.117
+          },
+          {
+            "hex": "#b8b4c7",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#312a18"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-brissac/commons-3.jpg",
+      "title": "File:Brissac-Quincé (Maine-et-Loire) (27813219475).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brissac-Quinc%C3%A9_(Maine-et-Loire)_(27813219475).jpg",
+      "author": "Daniel Jolivet",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4928,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ebebee",
+            "share": 0.287
+          },
+          {
+            "hex": "#615238",
+            "share": 0.249
+          },
+          {
+            "hex": "#302f14",
+            "share": 0.217
+          },
+          {
+            "hex": "#887961",
+            "share": 0.19
+          },
+          {
+            "hex": "#bdb7b2",
+            "share": 0.057
+          }
+        ],
+        "strongest": "#302f14"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/chateau-de-brissac/commons-4.jpg",
+      "title": "File:Château de Chambord 19-cleared.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chambord_19-cleared.jpg",
+      "author": "B. Jankuloski (original: Christophe.Finot)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "width": 1846,
+      "height": 778,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fdfdfd",
+            "share": 0.402
+          },
+          {
+            "hex": "#62625c",
+            "share": 0.245
+          },
+          {
+            "hex": "#86847b",
+            "share": 0.153
+          },
+          {
+            "hex": "#34383b",
+            "share": 0.148
+          },
+          {
+            "hex": "#c4c7c7",
+            "share": 0.053
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4870bd",
+        "share": 0.342
+      },
+      {
+        "hex": "#474c31",
+        "share": 0.186
+      },
+      {
+        "hex": "#638dcf",
+        "share": 0.175
+      },
+      {
+        "hex": "#7c7a6a",
+        "share": 0.152
+      },
+      {
+        "hex": "#b5a38e",
+        "share": 0.145
+      }
+    ],
+    "strongest": "#4870bd"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "schwerin-castle",
+  "name": "Schwerin Castle",
+  "lat": 53.6244,
+  "lng": 11.4189,
+  "enrichedAt": "2026-10-11T01:21:39.540Z",
+  "place": {
+    "town": "Schwerin",
+    "locality": "Altstadt",
+    "county": "Mecklenburg-Vorpommern",
+    "adminArea": null,
+    "region": "Mecklenburg-Vorpommern",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.6244&lon=11.4189&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Altstadt, Schwerin, Mecklenburg-Vorpommern, 19055, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Schwerin Castle",
+      "description": "Castle in Germany, Schwerin Lake",
+      "extract": "Schwerin Castle (German: Schweriner Schloss, German pronunciation: [ʃveˈʁiːnɐ ˈʃlɔs] also known as Schwerin Palace, is a 19th-century Schloss built in the historicist style located in the city of Schwerin, the capital of Mecklenburg-Vorpommern state, Germany. It is situated on an island in the city's main lake, Lake Schwerin.",
+      "url": "https://en.wikipedia.org/wiki/Schwerin_Castle",
+      "coordinates": {
+        "lat": 53.62416667,
+        "lng": 11.41888889
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/3840px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Schwerin",
+      "description": "Capital of Mecklenburg-Vorpommern, Germany",
+      "extract": "Schwerin is the capital and second-largest city of the northeastern German state of Mecklenburg-Vorpommern as well as of the region of Mecklenburg, after Rostock. It has around 96,000 inhabitants, and is thus the least populous of all German state capitals.",
+      "url": "https://en.wikipedia.org/wiki/Schwerin",
+      "coordinates": {
+        "lat": 53.63333333,
+        "lng": 11.41666667
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Schwerin_Schloss3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Romantic island palace reflected in the Schweriner See.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/schwerin-castle/own-schwerin-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/schwerin-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.615
+          },
+          {
+            "hex": "#95bfe6",
+            "share": 0.15
+          },
+          {
+            "hex": "#4981cc",
+            "share": 0.104
+          },
+          {
+            "hex": "#57564e",
+            "share": 0.076
+          },
+          {
+            "hex": "#272b27",
+            "share": 0.055
+          }
+        ],
+        "strongest": "#95bfe6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schwerin-castle/commons-1.jpg",
+      "title": "File:Aerial image of Schwerin Castle (view from the east).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schwerin_Castle_(view_from_the_east).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4400,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#17292e",
+            "share": 0.323
+          },
+          {
+            "hex": "#4b593b",
+            "share": 0.214
+          },
+          {
+            "hex": "#28394d",
+            "share": 0.191
+          },
+          {
+            "hex": "#ada69f",
+            "share": 0.141
+          },
+          {
+            "hex": "#75776b",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#17292e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schwerin-castle/commons-2.jpg",
+      "title": "File:Aerial image of Schwerin Castle (view from the east).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schwerin_Castle_(view_from_the_east).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4400,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#17292e",
+            "share": 0.323
+          },
+          {
+            "hex": "#4b593b",
+            "share": 0.214
+          },
+          {
+            "hex": "#28394d",
+            "share": 0.191
+          },
+          {
+            "hex": "#ada69f",
+            "share": 0.141
+          },
+          {
+            "hex": "#75776b",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#17292e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schwerin-castle/commons-3.jpg",
+      "title": "File:Schloss Castle Slot Schwerin 1555-1857 Mecklenburg-Vorpommern Germany - Foto Wolfgang Pehlemann IMG 5064.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Castle_Slot_Schwerin_1555-1857_Mecklenburg-Vorpommern_Germany_-_Foto_Wolfgang_Pehlemann_IMG_5064.jpg",
+      "author": "Wolfgang Pehlemann",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "width": 2560,
+      "height": 1750,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fefefe",
+            "share": 0.391
+          },
+          {
+            "hex": "#a89473",
+            "share": 0.253
+          },
+          {
+            "hex": "#c7b593",
+            "share": 0.175
+          },
+          {
+            "hex": "#656557",
+            "share": 0.102
+          },
+          {
+            "hex": "#cecac2",
+            "share": 0.08
+          }
+        ],
+        "strongest": "#c7b593"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schwerin-castle/commons-4.jpg",
+      "title": "File:Schwerin Castle Aerial View Island Luftbild Schweriner Schloss Insel See.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg",
+      "author": "Harald Hoyer",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2400,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#252e2f",
+            "share": 0.311
+          },
+          {
+            "hex": "#415262",
+            "share": 0.232
+          },
+          {
+            "hex": "#544e33",
+            "share": 0.198
+          },
+          {
+            "hex": "#7a6e59",
+            "share": 0.181
+          },
+          {
+            "hex": "#a0a09b",
+            "share": 0.078
+          }
+        ],
+        "strongest": "#544e33"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.615
+      },
+      {
+        "hex": "#95bfe6",
+        "share": 0.15
+      },
+      {
+        "hex": "#4981cc",
+        "share": 0.104
+      },
+      {
+        "hex": "#57564e",
+        "share": 0.076
+      },
+      {
+        "hex": "#272b27",
+        "share": 0.055
+      }
+    ],
+    "strongest": "#95bfe6"
+  }
+}

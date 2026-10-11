@@ -1,0 +1,233 @@
+{
+  "id": "deserted-castle-overlooking-wexford-town",
+  "name": "Deserted castle overlooking Wexford town",
+  "lat": 52.3342,
+  "lng": -6.4575,
+  "enrichedAt": "2026-10-11T01:21:36.849Z",
+  "place": {
+    "town": "The Borough District of Wexford",
+    "locality": "The South End",
+    "county": "County Wexford",
+    "adminArea": "County Wexford",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.3342&lon=-6.4575&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Townparks, The South End, Wexford, The Borough District of Wexford, County Wexford, Leinster, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "birthplace-of-john-barry",
+        "name": "Birthplace of John Barry",
+        "km": 16.2
+      },
+      {
+        "id": "baldwinstown-castle",
+        "name": "Baldwinstown Castle",
+        "km": 17.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Wexford",
+      "description": "Town in County Wexford, Ireland",
+      "extract": "Wexford is the county town of County Wexford, Ireland. Wexford lies on the south side of Wexford Harbour, the estuary of the River Slaney near the southeastern corner of the island of Ireland. The town is linked to Dublin by the M11/N11 National Primary Route; and to Rosslare Europort, Cork and Waterford by the N25. The national rail network connects it to Dublin and Rosslare Europort. It had a population of 21,524 according to the 2022 census.",
+      "url": "https://en.wikipedia.org/wiki/Wexford",
+      "coordinates": {
+        "lat": 52.3383,
+        "lng": -6.4617
+      },
+      "km": 0.5,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Wexford_-_aerial_-_2024-08-31_04.jpg/3840px-Wexford_-_aerial_-_2024-08-31_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Unnamed in the notes; deserted but beautiful, above the town.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/deserted-castle-overlooking-wexford-town/commons-1.jpg",
+      "title": "File:Wexford - aerial - 2024-08-31 04.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wexford_-_aerial_-_2024-08-31_04.jpg",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 2268,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#58564c",
+            "share": 0.346
+          },
+          {
+            "hex": "#bbc8d5",
+            "share": 0.276
+          },
+          {
+            "hex": "#727171",
+            "share": 0.175
+          },
+          {
+            "hex": "#343533",
+            "share": 0.103
+          },
+          {
+            "hex": "#8b9098",
+            "share": 0.1
+          }
+        ],
+        "strongest": "#bbc8d5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/deserted-castle-overlooking-wexford-town/commons-2.jpg",
+      "title": "File:Wexford town wall - 2024-08-31 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wexford_town_wall_-_2024-08-31_02.jpg",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e8573",
+            "share": 0.288
+          },
+          {
+            "hex": "#5a6139",
+            "share": 0.258
+          },
+          {
+            "hex": "#4b8bda",
+            "share": 0.22
+          },
+          {
+            "hex": "#5c9feb",
+            "share": 0.131
+          },
+          {
+            "hex": "#7fbbf3",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#4b8bda"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/deserted-castle-overlooking-wexford-town/commons-3.jpg",
+      "title": "File:Johnstown Castle - from the south-west.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Johnstown_Castle_-_from_the_south-west.jpg",
+      "author": "DeFacto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4745,
+      "height": 2673,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#90a5d8",
+            "share": 0.249
+          },
+          {
+            "hex": "#615a58",
+            "share": 0.228
+          },
+          {
+            "hex": "#3a462a",
+            "share": 0.207
+          },
+          {
+            "hex": "#847c7c",
+            "share": 0.16
+          },
+          {
+            "hex": "#b8c3e6",
+            "share": 0.155
+          }
+        ],
+        "strongest": "#90a5d8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/deserted-castle-overlooking-wexford-town/commons-4.jpg",
+      "title": "File:South Main Street, Wexford, 2021-06-01, 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:South_Main_Street,_Wexford,_2021-06-01,_01.jpg",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c5d6e4",
+            "share": 0.264
+          },
+          {
+            "hex": "#243136",
+            "share": 0.226
+          },
+          {
+            "hex": "#67655f",
+            "share": 0.194
+          },
+          {
+            "hex": "#8c8a80",
+            "share": 0.194
+          },
+          {
+            "hex": "#b2b1a3",
+            "share": 0.122
+          }
+        ],
+        "strongest": "#c5d6e4"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#58564c",
+        "share": 0.346
+      },
+      {
+        "hex": "#bbc8d5",
+        "share": 0.276
+      },
+      {
+        "hex": "#727171",
+        "share": 0.175
+      },
+      {
+        "hex": "#343533",
+        "share": 0.103
+      },
+      {
+        "hex": "#8b9098",
+        "share": 0.1
+      }
+    ],
+    "strongest": "#bbc8d5"
+  }
+}

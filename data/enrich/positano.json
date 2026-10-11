@@ -1,0 +1,262 @@
+{
+  "id": "positano",
+  "name": "Positano",
+  "lat": 40.6281,
+  "lng": 14.485,
+  "enrichedAt": "2026-10-11T01:21:42.176Z",
+  "place": {
+    "town": "Arienzo",
+    "locality": null,
+    "county": "Salerno",
+    "adminArea": "Salerno",
+    "region": "Campania",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=40.6281&lon=14.485&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Montepertuso, Arienzo, Positano, Salerno, Campania, 84017, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "amalfi-coast",
+        "name": "Amalfi Coast",
+        "km": 10
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Positano",
+      "description": "UNESCO World Heritage Site",
+      "extract": "Positano is a town and comune (municipality) on the Amalfi Coast in the Province of Salerno in the region of Campania in southern Italy, mainly in an enclave in the hills leading down to the coast. It has 3,643 inhabitants.",
+      "url": "https://en.wikipedia.org/wiki/Positano",
+      "coordinates": {
+        "lat": 40.63333333,
+        "lng": 14.48333333
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Positano_Sunset.JPG/3840px-Positano_Sunset.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The cliffside icon of the coast.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/positano/own-positano.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/positano.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#222531",
+            "share": 0.269
+          },
+          {
+            "hex": "#336ca8",
+            "share": 0.269
+          },
+          {
+            "hex": "#3d4058",
+            "share": 0.233
+          },
+          {
+            "hex": "#83aab7",
+            "share": 0.136
+          },
+          {
+            "hex": "#88573f",
+            "share": 0.093
+          }
+        ],
+        "strongest": "#336ca8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/positano/commons-1.jpg",
+      "title": "File:Positano Sunset.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Positano_Sunset.JPG",
+      "author": "JeCCo",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4272,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#282b38",
+            "share": 0.379
+          },
+          {
+            "hex": "#324e83",
+            "share": 0.19
+          },
+          {
+            "hex": "#387fb5",
+            "share": 0.18
+          },
+          {
+            "hex": "#7a5343",
+            "share": 0.134
+          },
+          {
+            "hex": "#8badb7",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#387fb5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/positano/commons-2.jpg",
+      "title": "File:Church of Santa Maria Assunta, Positano 04.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Church_of_Santa_Maria_Assunta,_Positano_04.jpg",
+      "author": "Simon Burchell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3096,
+      "height": 4128,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b4b0aa",
+            "share": 0.271
+          },
+          {
+            "hex": "#5b524d",
+            "share": 0.221
+          },
+          {
+            "hex": "#8f877f",
+            "share": 0.209
+          },
+          {
+            "hex": "#201814",
+            "share": 0.207
+          },
+          {
+            "hex": "#e8e6e0",
+            "share": 0.092
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/positano/commons-3.jpg",
+      "title": "File:Positano Panoramic view.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Positano_Panoramic_view.jpg",
+      "author": "AML KING",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c1d0e1",
+            "share": 0.227
+          },
+          {
+            "hex": "#605c57",
+            "share": 0.213
+          },
+          {
+            "hex": "#91867a",
+            "share": 0.212
+          },
+          {
+            "hex": "#343630",
+            "share": 0.192
+          },
+          {
+            "hex": "#acadad",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#c1d0e1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/positano/commons-4.jpg",
+      "title": "File:Positano Sunset.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Positano_Sunset.JPG",
+      "author": "JeCCo",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4272,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#282b38",
+            "share": 0.379
+          },
+          {
+            "hex": "#324e83",
+            "share": 0.19
+          },
+          {
+            "hex": "#387fb5",
+            "share": 0.18
+          },
+          {
+            "hex": "#7a5343",
+            "share": 0.134
+          },
+          {
+            "hex": "#8badb7",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#387fb5"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#222531",
+        "share": 0.269
+      },
+      {
+        "hex": "#336ca8",
+        "share": 0.269
+      },
+      {
+        "hex": "#3d4058",
+        "share": 0.233
+      },
+      {
+        "hex": "#83aab7",
+        "share": 0.136
+      },
+      {
+        "hex": "#88573f",
+        "share": 0.093
+      }
+    ],
+    "strongest": "#336ca8"
+  }
+}

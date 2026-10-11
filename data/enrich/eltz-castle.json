@@ -1,0 +1,246 @@
+{
+  "id": "eltz-castle",
+  "name": "Eltz Castle",
+  "lat": 50.2058,
+  "lng": 7.3667,
+  "enrichedAt": "2026-10-11T01:21:45.298Z",
+  "place": {
+    "town": "Moselkern",
+    "locality": null,
+    "county": "Landkreis Cochem-Zell",
+    "adminArea": "Landkreis Cochem-Zell",
+    "region": "Rhineland-Palatinate",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.2058&lon=7.3667&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Moselkern, Cochem, Landkreis Cochem-Zell, Rhineland-Palatinate, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "burg-eltz",
+        "name": "Burg Eltz",
+        "km": 2.14
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "reichsburg-cochem",
+        "name": "Reichsburg Cochem",
+        "km": 16.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Eltz Castle",
+      "description": "Castle in Germany",
+      "extract": "Eltz Castle is a medieval castle nestled in the hills above the Moselle between Koblenz and Trier, Germany. It is still owned by a branch of the House of Eltz who have lived there since the 12th century. Eltz Castle along with Bürresheim Castle and Lissingen Castle are the only castles in the Eifel region which have never been destroyed.",
+      "url": "https://en.wikipedia.org/wiki/Eltz_Castle",
+      "coordinates": {
+        "lat": 50.2050554,
+        "lng": 7.3365971
+      },
+      "km": 2.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Le_ch%C3%A2teau_d%27Eltz_%28Burg_Eltz%29_en_allemagne_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Moselkern",
+      "description": "Municipality in Rhineland-Palatinate, Germany",
+      "extract": "Moselkern is an Ortsgemeinde – a municipality belonging to a Verbandsgemeinde, a kind of collective municipality – in the Verbandsgemeinde of Cochem of Cochem-Zell, a district in Rhineland-Palatinate, Germany.",
+      "url": "https://en.wikipedia.org/wiki/Moselkern",
+      "coordinates": {
+        "lat": 50.19361111,
+        "lng": 7.37111111
+      },
+      "km": 1.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Moselkern_Jul_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Medieval hilltop castle nestled in forested hills above the Elzbach, owned by the same family for over 850 years.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/eltz-castle/own-eltz-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/eltz-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#202622",
+            "share": 0.277
+          },
+          {
+            "hex": "#323930",
+            "share": 0.267
+          },
+          {
+            "hex": "#4b524c",
+            "share": 0.165
+          },
+          {
+            "hex": "#949996",
+            "share": 0.155
+          },
+          {
+            "hex": "#6e7674",
+            "share": 0.136
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/eltz-castle/commons-1.jpg",
+      "title": "File:Aerial image of the Eltz Castle (view from the south).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Eltz_Castle_(view_from_the_south).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4800,
+      "height": 3100,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#628163",
+            "share": 0.33
+          },
+          {
+            "hex": "#44665d",
+            "share": 0.248
+          },
+          {
+            "hex": "#889188",
+            "share": 0.204
+          },
+          {
+            "hex": "#254a54",
+            "share": 0.121
+          },
+          {
+            "hex": "#b8b5ae",
+            "share": 0.097
+          }
+        ],
+        "strongest": "#254a54"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/eltz-castle/commons-2.jpg",
+      "title": "File:Eltz castle with surroundings summer of 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eltz_castle_with_surroundings_summer_of_2022.jpg",
+      "author": "Rumpadong",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3e4b28",
+            "share": 0.304
+          },
+          {
+            "hex": "#eceff5",
+            "share": 0.282
+          },
+          {
+            "hex": "#25311e",
+            "share": 0.278
+          },
+          {
+            "hex": "#bfcee1",
+            "share": 0.085
+          },
+          {
+            "hex": "#6f6a61",
+            "share": 0.051
+          }
+        ],
+        "strongest": "#3e4b28"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/eltz-castle/commons-3.jpg",
+      "title": "File:Le château d'Eltz (Burg Eltz) en allemagne (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_ch%C3%A2teau_d%27Eltz_(Burg_Eltz)_en_allemagne_(cropped).jpg",
+      "author": "Clementp.fr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3183,
+      "height": 4474,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1a1a18",
+            "share": 0.31
+          },
+          {
+            "hex": "#2f2c25",
+            "share": 0.273
+          },
+          {
+            "hex": "#48423d",
+            "share": 0.166
+          },
+          {
+            "hex": "#685e5b",
+            "share": 0.157
+          },
+          {
+            "hex": "#a88872",
+            "share": 0.095
+          }
+        ],
+        "strongest": "#a88872"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#202622",
+        "share": 0.277
+      },
+      {
+        "hex": "#323930",
+        "share": 0.267
+      },
+      {
+        "hex": "#4b524c",
+        "share": 0.165
+      },
+      {
+        "hex": "#949996",
+        "share": 0.155
+      },
+      {
+        "hex": "#6e7674",
+        "share": 0.136
+      }
+    ],
+    "strongest": null
+  }
+}

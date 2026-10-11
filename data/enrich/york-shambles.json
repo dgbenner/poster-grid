@@ -1,0 +1,309 @@
+{
+  "id": "york-shambles",
+  "name": "The Shambles, York",
+  "lat": 53.959,
+  "lng": -1.0815,
+  "enrichedAt": "2026-10-11T01:21:31.129Z",
+  "place": {
+    "town": "York",
+    "locality": "Bishophill",
+    "county": "North Yorkshire",
+    "adminArea": "York",
+    "region": "York and North Yorkshire",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.959&lon=-1.0815&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bishophill, York, York and North Yorkshire, England, YO1 6HN, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "the-shambles",
+        "name": "The Shambles",
+        "km": 26.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "The Shambles",
+      "description": "Street in York, England",
+      "extract": "The Shambles is a historic street in York, England, featuring preserved medieval buildings, some dating to the 14th century. Running between Newgate in the north and Pavement in the south, the street is narrow, with many timber-framed buildings with jettied floors which overhang the street by several feet. It was once known as the \"Great Flesh Shambles\", a name reflecting its historical use as a butchers' street. The word shambles derives from Old English sċeamol, referring to vendors' or butchers' stalls. In 1885, thirty-one butchers' shops were located along the street, but none remain today.",
+      "url": "https://en.wikipedia.org/wiki/The_Shambles",
+      "coordinates": {
+        "lat": 53.95940278,
+        "lng": -1.08011111
+      },
+      "km": 0.1,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shambles_shopper_8686.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "York",
+      "description": "City in North Yorkshire, England",
+      "extract": "York is a cathedral city in North Yorkshire, England, with Roman origins, sited at the confluence of the rivers Ouse and Foss. It has many historic buildings and other structures, including the minster, castle and city walls, all of which are Grade I listed. It is the traditional county town of Yorkshire, and the administrative centre of the City of York district. It is located 27 miles (43 km) north-east of Leeds, 90 miles (140 km) south of Newcastle upon Tyne and 207 miles (333 km) north of London. York's built-up area had a recorded population of 141,685 at the 2021 census.",
+      "url": "https://en.wikipedia.org/wiki/York",
+      "coordinates": {
+        "lat": 53.96,
+        "lng": -1.08
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/14/York_Minster_%282797690%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Lurching medieval butchers’ street; the ‘Diagon Alley’ of York.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/york-shambles/own-york-shambles-1.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/york-shambles-1.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e5e5c",
+            "share": 0.264
+          },
+          {
+            "hex": "#050303",
+            "share": 0.237
+          },
+          {
+            "hex": "#3a2e2e",
+            "share": 0.222
+          },
+          {
+            "hex": "#a5958a",
+            "share": 0.204
+          },
+          {
+            "hex": "#f2eeec",
+            "share": 0.073
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "personal",
+      "file": "data/images/york-shambles/own-york-shambles-2.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/york-shambles-2.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#030100",
+            "share": 0.451
+          },
+          {
+            "hex": "#7f706a",
+            "share": 0.224
+          },
+          {
+            "hex": "#594840",
+            "share": 0.13
+          },
+          {
+            "hex": "#2b1e18",
+            "share": 0.115
+          },
+          {
+            "hex": "#b6b0b0",
+            "share": 0.08
+          }
+        ],
+        "strongest": "#2b1e18"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/york-shambles/commons-1.jpg",
+      "title": "File:Shambles York.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shambles_York.jpg",
+      "author": "Vincej at en.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1010,
+      "height": 1510,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#847d7f",
+            "share": 0.288
+          },
+          {
+            "hex": "#5b484c",
+            "share": 0.202
+          },
+          {
+            "hex": "#272327",
+            "share": 0.187
+          },
+          {
+            "hex": "#f3f2f5",
+            "share": 0.165
+          },
+          {
+            "hex": "#b9b0b3",
+            "share": 0.159
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/york-shambles/commons-2.jpg",
+      "title": "File:Jubbergate entrance to Shambles Market, York (geograph 5435307).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jubbergate_entrance_to_Shambles_Market,_York_(geograph_5435307).jpg",
+      "author": "Richard Vince",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f3933",
+            "share": 0.325
+          },
+          {
+            "hex": "#5f5e58",
+            "share": 0.257
+          },
+          {
+            "hex": "#1a1a16",
+            "share": 0.187
+          },
+          {
+            "hex": "#f6f6f7",
+            "share": 0.133
+          },
+          {
+            "hex": "#9f9e9b",
+            "share": 0.098
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/york-shambles/commons-3.jpg",
+      "title": "File:10 and 11 Shambles.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:10_and_11_Shambles.jpg",
+      "author": "Warofdreams",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#181412",
+            "share": 0.27
+          },
+          {
+            "hex": "#3d312a",
+            "share": 0.265
+          },
+          {
+            "hex": "#978d8b",
+            "share": 0.19
+          },
+          {
+            "hex": "#6d5b4c",
+            "share": 0.14
+          },
+          {
+            "hex": "#cdc7c5",
+            "share": 0.134
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/york-shambles/commons-4.jpg",
+      "title": "File:Sanctuaire St Margaret Clitherow York 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sanctuaire_St_Margaret_Clitherow_York_2.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c2c3c1",
+            "share": 0.226
+          },
+          {
+            "hex": "#282826",
+            "share": 0.22
+          },
+          {
+            "hex": "#9a8e86",
+            "share": 0.216
+          },
+          {
+            "hex": "#505954",
+            "share": 0.197
+          },
+          {
+            "hex": "#fbfbfc",
+            "share": 0.141
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6e5e5c",
+        "share": 0.264
+      },
+      {
+        "hex": "#050303",
+        "share": 0.237
+      },
+      {
+        "hex": "#3a2e2e",
+        "share": 0.222
+      },
+      {
+        "hex": "#a5958a",
+        "share": 0.204
+      },
+      {
+        "hex": "#f2eeec",
+        "share": 0.073
+      }
+    ],
+    "strongest": null
+  }
+}

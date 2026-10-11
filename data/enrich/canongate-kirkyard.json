@@ -1,0 +1,486 @@
+{
+  "id": "canongate-kirkyard",
+  "name": "Canongate Kirkyard",
+  "lat": 55.9522,
+  "lng": -3.1797,
+  "enrichedAt": "2026-10-11T01:21:30.025Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9522&lon=-3.1797&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 0.29
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.36
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 0.48
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.65
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.72
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.74
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.77
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.87
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.88
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1.01
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 1.04
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1.05
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 1.07
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 1.14
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.32
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.43
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 2.32
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.35
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.3
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 3.64
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 0.3
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.4
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 0.5
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.6
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.7
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.7
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.8
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.9
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.9
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 1
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 1.1
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 1.1
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.3
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.4
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 2.3
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.3
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.3
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 3.6
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 5.6
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 13.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Canongate Kirkyard",
+      "description": "Cemetery in City of Edinburgh, Scotland",
+      "extract": "The Canongate Kirkyard stands around Canongate Kirk on the Royal Mile in Edinburgh, Scotland. The churchyard was used for burials from the late 1680s until the mid-20th century.",
+      "url": "https://en.wikipedia.org/wiki/Canongate_Kirkyard",
+      "coordinates": {
+        "lat": 55.9523,
+        "lng": -3.1798
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/df/Canongate_Kirkyard_from_the_Calton_Hill%2C_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Grave of Ebenezer Scroggie — Dickens’ ‘mean man’ → Scrooge. Also Adam Smith, Fergusson.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "literary"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/canongate-kirkyard/own-canongate-kirkyard.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/canongate-kirkyard.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d8dcde",
+            "share": 0.256
+          },
+          {
+            "hex": "#090909",
+            "share": 0.254
+          },
+          {
+            "hex": "#594f42",
+            "share": 0.211
+          },
+          {
+            "hex": "#353026",
+            "share": 0.182
+          },
+          {
+            "hex": "#81786d",
+            "share": 0.097
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/canongate-kirkyard/commons-1.jpg",
+      "title": "File:Canongate Kirkyard from the Calton Hill, Edinburgh.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Canongate_Kirkyard_from_the_Calton_Hill,_Edinburgh.jpg",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2041,
+      "height": 1901,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#798180",
+            "share": 0.295
+          },
+          {
+            "hex": "#586265",
+            "share": 0.273
+          },
+          {
+            "hex": "#39444e",
+            "share": 0.184
+          },
+          {
+            "hex": "#a6a9a8",
+            "share": 0.149
+          },
+          {
+            "hex": "#f3f5f6",
+            "share": 0.099
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/canongate-kirkyard/commons-2.jpg",
+      "title": "File:Detail from the grave of John Frederick Lampe, Canongate Kirkyard.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Detail_from_the_grave_of_John_Frederick_Lampe,_Canongate_Kirkyard.jpg",
+      "author": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4272,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8f9092",
+            "share": 0.329
+          },
+          {
+            "hex": "#adaeb0",
+            "share": 0.222
+          },
+          {
+            "hex": "#6d6f6b",
+            "share": 0.18
+          },
+          {
+            "hex": "#cecbca",
+            "share": 0.147
+          },
+          {
+            "hex": "#3f423d",
+            "share": 0.122
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/canongate-kirkyard/commons-3.jpg",
+      "title": "File:Mausoleum of Dugald Stewart, Canongate Kirkyard Edinburgh.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Dugald_Stewart,_Canongate_Kirkyard_Edinburgh.jpg",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5c6162",
+            "share": 0.295
+          },
+          {
+            "hex": "#fcfcfc",
+            "share": 0.197
+          },
+          {
+            "hex": "#313a32",
+            "share": 0.185
+          },
+          {
+            "hex": "#4b6826",
+            "share": 0.165
+          },
+          {
+            "hex": "#95948e",
+            "share": 0.158
+          }
+        ],
+        "strongest": "#4b6826"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/canongate-kirkyard/commons-4.jpg",
+      "title": "File:Mausoleum of Sir William Fettes, Canongate Kirkyard Edinburgh.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Sir_William_Fettes,_Canongate_Kirkyard_Edinburgh.jpg",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#222d21",
+            "share": 0.292
+          },
+          {
+            "hex": "#4a4944",
+            "share": 0.265
+          },
+          {
+            "hex": "#ecfcff",
+            "share": 0.243
+          },
+          {
+            "hex": "#d1eaf8",
+            "share": 0.121
+          },
+          {
+            "hex": "#87796a",
+            "share": 0.079
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Clarinda's grave, Canongate kirkyard - geograph.org.uk - 1339854.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#d8dcde",
+        "share": 0.256
+      },
+      {
+        "hex": "#090909",
+        "share": 0.254
+      },
+      {
+        "hex": "#594f42",
+        "share": 0.211
+      },
+      {
+        "hex": "#353026",
+        "share": 0.182
+      },
+      {
+        "hex": "#81786d",
+        "share": 0.097
+      }
+    ],
+    "strongest": null
+  }
+}

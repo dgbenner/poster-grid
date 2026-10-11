@@ -1,0 +1,112 @@
+{
+  "id": "castello-di-torrechiara-parma",
+  "name": "Castello di Torrechiara, Parma",
+  "lat": 44.6079,
+  "lng": 10.2967,
+  "enrichedAt": "2026-10-11T01:21:43.645Z",
+  "place": {
+    "town": "Lesignano de' Bagni",
+    "locality": null,
+    "county": "Parma",
+    "adminArea": "Parma",
+    "region": "Emilia-Romagna",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.6079&lon=10.2967&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Case Trombi, Mulazzano Costa, Lesignano de' Bagni, Parma, Emilia-Romagna, 43037, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Lesignano de' Bagni",
+      "description": "Comune in Emilia-Romagna, Italy",
+      "extract": "Lesignano de' Bagni is a comune (municipality) in the Province of Parma in the Italian region Emilia-Romagna, located about 90 kilometres (56 mi) west of Bologna and about 15 kilometres (9 mi) south of Parma.",
+      "url": "https://en.wikipedia.org/wiki/Lesignano_de'_Bagni",
+      "coordinates": {
+        "lat": 44.65,
+        "lng": 10.3
+      },
+      "km": 4.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Abbazia_di_San_Basilide_%28San_Michele_Cavana%2C_Lesignano_de%27_Bagni%29_-_chiesa_dei_Santi_Pietro_e_Paolo_e_canonica_2019-06-26.jpg/3840px-Abbazia_di_San_Basilide_%28San_Michele_Cavana%2C_Lesignano_de%27_Bagni%29_-_chiesa_dei_Santi_Pietro_e_Paolo_e_canonica_2019-06-26.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Built 1448–60 for Bianca Pellegrini; grotesque frescoes by Cesare Baglione, full of fantastical beasts and warriors.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/castello-di-torrechiara-parma/own-castello-di-torrechiara-parma.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/castello-di-torrechiara-parma.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#696a31",
+            "share": 0.273
+          },
+          {
+            "hex": "#cdd7df",
+            "share": 0.272
+          },
+          {
+            "hex": "#6b7f99",
+            "share": 0.175
+          },
+          {
+            "hex": "#373a3f",
+            "share": 0.165
+          },
+          {
+            "hex": "#585c62",
+            "share": 0.115
+          }
+        ],
+        "strongest": "#696a31"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#696a31",
+        "share": 0.273
+      },
+      {
+        "hex": "#cdd7df",
+        "share": 0.272
+      },
+      {
+        "hex": "#6b7f99",
+        "share": 0.175
+      },
+      {
+        "hex": "#373a3f",
+        "share": 0.165
+      },
+      {
+        "hex": "#585c62",
+        "share": 0.115
+      }
+    ],
+    "strongest": "#696a31"
+  }
+}

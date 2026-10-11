@@ -1,0 +1,269 @@
+{
+  "id": "cadaver-tomb-rene-of-chalon",
+  "name": "Cadaver Tomb of René of Chalon, Bar-le-Duc",
+  "lat": 48.7711,
+  "lng": 5.1611,
+  "enrichedAt": "2026-10-11T01:21:41.571Z",
+  "place": {
+    "town": "Bar-le-Duc",
+    "locality": null,
+    "county": "Meuse",
+    "adminArea": "Meuse",
+    "region": "Grand Est",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.7711&lon=5.1611&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bar-le-Duc, Meuse, Grand Est, Metropolitan France, 55000, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Cadaver Tomb of René of Chalon",
+      "description": "Life sized funerary statue and memento mori",
+      "extract": "The Cadaver Tomb of René of Chalon is a late Gothic period cadaver monument (transi) in the church of Saint-Étienne at Bar-le-Duc, in northeastern France. It consists of an altarpiece and a limestone statue of a putrefied and skinless corpse which stands upright and extends his left hand outwards. Completed sometime between 1544 and 1557, the majority of its construction is attributed to the French sculptor Ligier Richier. Other elements, including the coat of arms and funerary drapery, were added in the 16th and 18th centuries respectively.",
+      "url": "https://en.wikipedia.org/wiki/Cadaver_Tomb_of_Ren%C3%A9_of_Chalon",
+      "coordinates": {
+        "lat": 48.7681,
+        "lng": 5.1594
+      },
+      "km": 0.4,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bar-le-Duc_-_Eglise_Saint-Etienne_-_Le_Transi_-191.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bar-le-Duc",
+      "description": "Prefecture and commune in Grand Est, France",
+      "extract": "Bar-le-Duc, formerly known as Bar, is a commune in the Meuse département, of which it is the capital. The department is in Grand Est in northeastern France.",
+      "url": "https://en.wikipedia.org/wiki/Bar-le-Duc",
+      "coordinates": {
+        "lat": 48.7719,
+        "lng": 5.1603
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Panorama_de_Bar-le-Duc.jpg/3840px-Panorama_de_Bar-le-Duc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ligier Richier's transi (c. 1544–57): a standing, skinless \"living corpse\" raising its heart toward heaven.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/cadaver-tomb-rene-of-chalon/own-cadaver-tomb-rene-of-chalon.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/cadaver-tomb-rene-of-chalon.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e6761",
+            "share": 0.262
+          },
+          {
+            "hex": "#4d4641",
+            "share": 0.237
+          },
+          {
+            "hex": "#908a85",
+            "share": 0.23
+          },
+          {
+            "hex": "#242122",
+            "share": 0.148
+          },
+          {
+            "hex": "#bcb6af",
+            "share": 0.123
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cadaver-tomb-rene-of-chalon/commons-1.jpg",
+      "title": "File:Bar-le-Duc - Église Saint-Étienne - Transi de René de Chalon.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bar-le-Duc_-_%C3%89glise_Saint-%C3%89tienne_-_Transi_de_Ren%C3%A9_de_Chalon.JPG",
+      "author": "Clemclar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2520,
+      "height": 3776,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8d7b6a",
+            "share": 0.269
+          },
+          {
+            "hex": "#b8a48c",
+            "share": 0.238
+          },
+          {
+            "hex": "#67574d",
+            "share": 0.218
+          },
+          {
+            "hex": "#3d332f",
+            "share": 0.163
+          },
+          {
+            "hex": "#e5daca",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#b8a48c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cadaver-tomb-rene-of-chalon/commons-2.jpg",
+      "title": "File:Bar-le-Duc - Eglise Saint-Etienne - Le Transi -191.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bar-le-Duc_-_Eglise_Saint-Etienne_-_Le_Transi_-191.jpg",
+      "author": "MOSSOT",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1944,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6f6762",
+            "share": 0.264
+          },
+          {
+            "hex": "#4e4741",
+            "share": 0.24
+          },
+          {
+            "hex": "#918b86",
+            "share": 0.226
+          },
+          {
+            "hex": "#242122",
+            "share": 0.147
+          },
+          {
+            "hex": "#bdb7b0",
+            "share": 0.124
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cadaver-tomb-rene-of-chalon/commons-3.jpg",
+      "title": "File:Bar-le-Duc - Église Saint-Étienne - Ossements.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bar-le-Duc_-_%C3%89glise_Saint-%C3%89tienne_-_Ossements.JPG",
+      "author": "Clemclar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3776,
+      "height": 2520,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0e1015",
+            "share": 0.34
+          },
+          {
+            "hex": "#a49488",
+            "share": 0.262
+          },
+          {
+            "hex": "#726b63",
+            "share": 0.209
+          },
+          {
+            "hex": "#3b3d3d",
+            "share": 0.104
+          },
+          {
+            "hex": "#ded2c7",
+            "share": 0.086
+          }
+        ],
+        "strongest": "#ded2c7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cadaver-tomb-rene-of-chalon/commons-4.jpg",
+      "title": "File:Possibly copy after Jan van Scorel - René de Châlon (ca 1518-44).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Possibly_copy_after_Jan_van_Scorel_-_Ren%C3%A9_de_Ch%C3%A2lon_(ca_1518-44).jpg",
+      "author": "After Jan van Scorel",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1485,
+      "height": 1494,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#322d32",
+            "share": 0.406
+          },
+          {
+            "hex": "#1b191d",
+            "share": 0.205
+          },
+          {
+            "hex": "#fdfdfd",
+            "share": 0.201
+          },
+          {
+            "hex": "#cc9a88",
+            "share": 0.114
+          },
+          {
+            "hex": "#80605b",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#cc9a88"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6e6761",
+        "share": 0.262
+      },
+      {
+        "hex": "#4d4641",
+        "share": 0.237
+      },
+      {
+        "hex": "#908a85",
+        "share": 0.23
+      },
+      {
+        "hex": "#242122",
+        "share": 0.148
+      },
+      {
+        "hex": "#bcb6af",
+        "share": 0.123
+      }
+    ],
+    "strongest": null
+  }
+}

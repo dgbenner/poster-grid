@@ -1,0 +1,279 @@
+{
+  "id": "rosslyn-chapel",
+  "name": "Rosslyn Chapel",
+  "lat": 55.8553873,
+  "lng": -3.1599363,
+  "enrichedAt": "2026-10-11T01:21:45.997Z",
+  "place": {
+    "town": "Loanhead",
+    "locality": null,
+    "county": "Midlothian",
+    "adminArea": "Midlothian",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.8553873&lon=-3.1599363&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Dryden Farm, Loanhead, Midlothian, Scotland, EH25 9PS, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Rosslyn Chapel",
+      "description": "Church in Midlothian, Scotland",
+      "extract": "Rosslyn Chapel, also known as the Collegiate Chapel of Saint Matthew, is a 15th-century Episcopal chapel located in the village of Roslin in Midlothian, Scotland. The chapel was founded by William Sinclair, 1st Earl of Caithness with a ground-breaking ceremony in 1456. After the Scottish Reformation in 1560, it was largely abandoned but, following a visit by Queen Victoria, it was rededicated in 1862. It was the target of a bombing in 1914 during the suffragette bombing and arson campaign. The interior contains some fine carvings which many historians have sought to interpret.",
+      "url": "https://en.wikipedia.org/wiki/Rosslyn_Chapel",
+      "coordinates": {
+        "lat": 55.85527778,
+        "lng": -3.16027778
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rosslyn_Chapel_%28Mentioned_in_Dan_Brown%27s_DaVinci_Code%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Loanhead",
+      "description": "Human settlement in Scotland",
+      "extract": "Loanhead is a town in Midlothian, Scotland, in a commuter belt to the south of Edinburgh, and close to Roslin, Bonnyrigg and Dalkeith. The town was built on coal and oil shale mining, and the paper industries.",
+      "url": "https://en.wikipedia.org/wiki/Loanhead",
+      "coordinates": {
+        "lat": 55.878,
+        "lng": -3.148
+      },
+      "km": 2.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Loanhead_-_geograph.org.uk_-_26430.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ornately carved 15th-century chapel near Roslin, famed for its mysterious stonework and Da Vinci Code fame.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/rosslyn-chapel/own-rosslyn-chapel.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/rosslyn-chapel.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b8a59a",
+            "share": 0.251
+          },
+          {
+            "hex": "#2c5db6",
+            "share": 0.22
+          },
+          {
+            "hex": "#877a68",
+            "share": 0.218
+          },
+          {
+            "hex": "#464530",
+            "share": 0.173
+          },
+          {
+            "hex": "#8398c6",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#2c5db6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rosslyn-chapel/commons-1.jpg",
+      "title": "File:Rosslyn Chapel (Mentioned in Dan Brown's DaVinci Code).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosslyn_Chapel_(Mentioned_in_Dan_Brown%27s_DaVinci_Code).jpg",
+      "author": "Sabine Perry",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b7a192",
+            "share": 0.258
+          },
+          {
+            "hex": "#2e5fb6",
+            "share": 0.232
+          },
+          {
+            "hex": "#807463",
+            "share": 0.204
+          },
+          {
+            "hex": "#42422c",
+            "share": 0.156
+          },
+          {
+            "hex": "#8d9fc8",
+            "share": 0.15
+          }
+        ],
+        "strongest": "#2e5fb6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rosslyn-chapel/commons-2.jpg",
+      "title": "File:Rosslyn Chapel Exterior.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosslyn_Chapel_Exterior.jpg",
+      "author": "Anthonyrandell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3658,
+      "height": 2058,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1784cf",
+            "share": 0.275
+          },
+          {
+            "hex": "#d1b989",
+            "share": 0.225
+          },
+          {
+            "hex": "#3d3c24",
+            "share": 0.19
+          },
+          {
+            "hex": "#967e52",
+            "share": 0.178
+          },
+          {
+            "hex": "#67a6d6",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#1784cf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rosslyn-chapel/commons-3.jpg",
+      "title": "File:Rosslyn Chapel - Apprentice Pillar - geograph.org.uk - 6463344.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosslyn_Chapel_-_Apprentice_Pillar_-_geograph.org.uk_-_6463344.jpg",
+      "author": "Colin Park",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1199,
+      "height": 1799,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#11090a",
+            "share": 0.433
+          },
+          {
+            "hex": "#3e2016",
+            "share": 0.226
+          },
+          {
+            "hex": "#23110e",
+            "share": 0.203
+          },
+          {
+            "hex": "#663b25",
+            "share": 0.11
+          },
+          {
+            "hex": "#b8967f",
+            "share": 0.028
+          }
+        ],
+        "strongest": "#3e2016"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rosslyn-chapel/commons-4.jpg",
+      "title": "File:Rosslyn Chapel - geograph.org.uk - 5864318.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosslyn_Chapel_-_geograph.org.uk_-_5864318.jpg",
+      "author": "David Gearing",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#302b2a",
+            "share": 0.272
+          },
+          {
+            "hex": "#504a47",
+            "share": 0.251
+          },
+          {
+            "hex": "#efefef",
+            "share": 0.223
+          },
+          {
+            "hex": "#9cc8f1",
+            "share": 0.149
+          },
+          {
+            "hex": "#858582",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#9cc8f1"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Rosslyn Chapel - 'The Chappell of Rosslin' (5372742544).jpg",
+      "why": "licence No restrictions"
+    },
+    {
+      "title": "File:Rosslyn chapel green men.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#b8a59a",
+        "share": 0.251
+      },
+      {
+        "hex": "#2c5db6",
+        "share": 0.22
+      },
+      {
+        "hex": "#877a68",
+        "share": 0.218
+      },
+      {
+        "hex": "#464530",
+        "share": 0.173
+      },
+      {
+        "hex": "#8398c6",
+        "share": 0.138
+      }
+    ],
+    "strongest": "#2c5db6"
+  }
+}

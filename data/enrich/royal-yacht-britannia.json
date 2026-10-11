@@ -1,0 +1,472 @@
+{
+  "id": "royal-yacht-britannia",
+  "name": "Royal Yacht Britannia",
+  "lat": 55.9818,
+  "lng": -3.1769,
+  "enrichedAt": "2026-10-11T01:21:30.302Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Leith Harbour & Newhaven",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9818&lon=-3.1769&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Leith Harbour & Newhaven, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.74
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 3.01
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 3.25
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 3.3
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 3.3
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 3.42
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 3.52
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 3.54
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 3.68
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 3.68
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 3.69
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 3.69
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 3.83
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 3.86
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 3.96
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 3.97
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 4.02
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 4.1
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 4.29
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.7
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 3
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 3.2
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 3.3
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 3.3
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 3.4
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 3.5
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 3.5
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 3.7
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 3.7
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 3.7
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 3.7
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 3.8
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 3.9
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 4
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 4
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 4
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 4.1
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 4.3
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 6.3
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 7.2
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 14.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 3.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The decommissioned royal yacht, moored at Ocean Terminal.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/royal-yacht-britannia/own-royal-yacht-britannia.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/royal-yacht-britannia.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dee8e4",
+            "share": 0.318
+          },
+          {
+            "hex": "#777c66",
+            "share": 0.284
+          },
+          {
+            "hex": "#cad7d3",
+            "share": 0.169
+          },
+          {
+            "hex": "#9ca799",
+            "share": 0.153
+          },
+          {
+            "hex": "#241e19",
+            "share": 0.076
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-yacht-britannia/commons-1.jpg",
+      "title": "File:Royal Yacht Britannia - geograph.org.uk - 3476225.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Yacht_Britannia_-_geograph.org.uk_-_3476225.jpg",
+      "author": "Billy McCrorie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1920,
+      "height": 1280,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6f615c",
+            "share": 0.273
+          },
+          {
+            "hex": "#8c8887",
+            "share": 0.231
+          },
+          {
+            "hex": "#a7a7a9",
+            "share": 0.22
+          },
+          {
+            "hex": "#c4c9d0",
+            "share": 0.165
+          },
+          {
+            "hex": "#413735",
+            "share": 0.11
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-yacht-britannia/commons-2.jpg",
+      "title": "File:HMY Britannia bow 20211027.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:HMY_Britannia_bow_20211027.jpg",
+      "author": "Daniel Kraft",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4632,
+      "height": 3464,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#161923",
+            "share": 0.277
+          },
+          {
+            "hex": "#d9e5f4",
+            "share": 0.254
+          },
+          {
+            "hex": "#7f838f",
+            "share": 0.181
+          },
+          {
+            "hex": "#bac6d7",
+            "share": 0.151
+          },
+          {
+            "hex": "#474b50",
+            "share": 0.137
+          }
+        ],
+        "strongest": "#bac6d7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-yacht-britannia/commons-3.jpg",
+      "title": "File:Rolls-Royce beside HMY Britannia - geograph.org.uk - 7306912.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_beside_HMY_Britannia_-_geograph.org.uk_-_7306912.jpg",
+      "author": "Stephen McKay",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3000,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#282325",
+            "share": 0.236
+          },
+          {
+            "hex": "#484548",
+            "share": 0.226
+          },
+          {
+            "hex": "#656970",
+            "share": 0.211
+          },
+          {
+            "hex": "#939294",
+            "share": 0.189
+          },
+          {
+            "hex": "#c4c5c9",
+            "share": 0.137
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/royal-yacht-britannia/commons-4.jpg",
+      "title": "File:HMY Britannia - geograph.org.uk - 7306838.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:HMY_Britannia_-_geograph.org.uk_-_7306838.jpg",
+      "author": "Stephen McKay",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3000,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#403d47",
+            "share": 0.364
+          },
+          {
+            "hex": "#d1e1f1",
+            "share": 0.276
+          },
+          {
+            "hex": "#121620",
+            "share": 0.182
+          },
+          {
+            "hex": "#7d767e",
+            "share": 0.111
+          },
+          {
+            "hex": "#b52137",
+            "share": 0.067
+          }
+        ],
+        "strongest": "#b52137"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Detail of the Royal Yacht Britannia - geograph.org.uk - 5510756.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Queue for Britannia - geograph.org.uk - 5070024.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#dee8e4",
+        "share": 0.318
+      },
+      {
+        "hex": "#777c66",
+        "share": 0.284
+      },
+      {
+        "hex": "#cad7d3",
+        "share": 0.169
+      },
+      {
+        "hex": "#9ca799",
+        "share": 0.153
+      },
+      {
+        "hex": "#241e19",
+        "share": 0.076
+      }
+    ],
+    "strongest": null
+  }
+}

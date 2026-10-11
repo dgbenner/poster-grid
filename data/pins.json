@@ -1,0 +1,7020 @@
+[
+  {
+    "id": "edinburgh-castle",
+    "name": "Edinburgh Castle",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9486,
+    "lng": -3.1999,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Gun at 1pm, Stone of Destiny, Crown Jewels, Scottish National War Memorial.",
+    "timeGated": true,
+    "hours": "09:30–18:00 (seasonal — verify)",
+    "officialUrl": "https://www.edinburghcastle.scot",
+    "link": "",
+    "images": [
+      "edinburgh-old-town.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "mary-kings-close",
+    "name": "Mary King's Close",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9496,
+    "lng": -3.1903,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Warren of buried streets beneath the Royal Mile — guided tours only.",
+    "timeGated": true,
+    "hours": "Daily, timed tours (book ahead)",
+    "officialUrl": "https://www.realmarykingsclose.com",
+    "link": "",
+    "images": [
+      "mary-kings-close.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "royal-mile-cockburn",
+    "name": "Royal Mile / Cockburn St",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.951,
+    "lng": -3.1899,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "The spine of the Old Town; Cockburn St curls off it in a photogenic arc.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "royal-mile-cockburn.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "princes-st-gardens",
+    "name": "Princes St & Gardens",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9519,
+    "lng": -3.1965,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Valley garden below the castle rock; floral clock, the Ross Fountain.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "princes-st-gardens.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "camera-obscura",
+    "name": "Camera Obscura",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9489,
+    "lng": -3.1953,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Victorian rooftop camera + five floors of optical illusions.",
+    "timeGated": true,
+    "hours": "Daily (seasonal hours — verify)",
+    "officialUrl": "https://www.camera-obscura.co.uk",
+    "link": "",
+    "images": [
+      "camera-obscura.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "scott-monument",
+    "name": "Scott Monument",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9525,
+    "lng": -3.1936,
+    "category": "personal",
+    "themes": [
+      "literary"
+    ],
+    "prominence": "signature",
+    "blurb": "Gothic rocket to Walter Scott — 287 steps to the top.",
+    "timeGated": true,
+    "hours": "Daily (verify)",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "scott-monument.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "royal-botanic-garden-edinburgh",
+    "name": "Royal Botanic Garden",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9652,
+    "lng": -3.2094,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "70 acres of glasshouses and rock garden north of the New Town.",
+    "timeGated": true,
+    "hours": "Daily 10:00– (glasshouses ticketed)",
+    "officialUrl": "https://www.rbge.org.uk",
+    "link": "",
+    "images": [
+      "royal-botanic-garden-edinburgh.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "heart-of-midlothian",
+    "name": "Heart of Midlothian",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9496,
+    "lng": -3.1912,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Heart-shaped causey mosaic on the High St — locals spit on it for luck.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "heart-of-midlothian.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "edinburgh-zoo",
+    "name": "Edinburgh Zoo",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Corstorphine",
+    "country": "Scotland",
+    "lat": 55.9426,
+    "lng": -3.2686,
+    "category": "nature",
+    "themes": [
+      "wildlife"
+    ],
+    "prominence": "standard",
+    "blurb": "Penguin parade and the UK’s only koalas.",
+    "timeGated": true,
+    "hours": "Daily (seasonal — verify)",
+    "officialUrl": "https://www.edinburghzoo.org.uk",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "canongate-kirkyard",
+    "name": "Canongate Kirkyard",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9522,
+    "lng": -3.1797,
+    "category": "personal",
+    "themes": [
+      "literary"
+    ],
+    "prominence": "signature",
+    "blurb": "Grave of Ebenezer Scroggie — Dickens’ ‘mean man’ → Scrooge. Also Adam Smith, Fergusson.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "canongate-kirkyard.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "lewis-chess-pieces",
+    "name": "National Museum of Scotland — Lewis Chess Pieces",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "New Town",
+    "country": "Scotland",
+    "lat": 55.9469,
+    "lng": -3.1903,
+    "category": "personal",
+    "themes": [
+      "chess"
+    ],
+    "prominence": "signature",
+    "blurb": "Some of the 12th-c. walrus-ivory Lewis chessmen live here.",
+    "timeGated": true,
+    "hours": "Daily 10:00–17:00 (free)",
+    "officialUrl": "https://www.nms.ac.uk",
+    "link": "",
+    "images": [
+      "lewis-chess-pieces.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "st-giles-cathedral",
+    "name": "St Giles' Cathedral",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "New Town",
+    "country": "Scotland",
+    "lat": 55.9496,
+    "lng": -3.1907,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Crown spire over the Royal Mile; Thistle Chapel inside.",
+    "timeGated": true,
+    "hours": "Daily (donation; tower tours ticketed)",
+    "officialUrl": "https://stgilescathedral.org.uk",
+    "link": "",
+    "images": [
+      "st-giles-cathedral.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "holyrood-palace",
+    "name": "Holyrood Palace & Abbey",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "New Town",
+    "country": "Scotland",
+    "lat": 55.9527,
+    "lng": -3.1721,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "The King’s Scottish residence; ruined abbey alongside.",
+    "timeGated": true,
+    "hours": "Daily (closed during royal visits)",
+    "officialUrl": "https://www.rct.uk/visit/palace-of-holyroodhouse",
+    "link": "",
+    "images": [
+      "holyrood-palace.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "scottish-national-gallery",
+    "name": "Scottish National Gallery",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "New Town",
+    "country": "Scotland",
+    "lat": 55.9503,
+    "lng": -3.1956,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Titian, Vermeer, the Scottish collection — on the Mound.",
+    "timeGated": true,
+    "hours": "Daily 10:00–17:00 (free)",
+    "officialUrl": "https://www.nationalgalleries.org",
+    "link": "",
+    "images": [
+      "scottish-national-gallery.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "whisky-cluster-edinburgh",
+    "name": "Whisky cluster",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "New Town",
+    "country": "Scotland",
+    "lat": 55.9487,
+    "lng": -3.1957,
+    "category": "heritage",
+    "themes": [
+      "food"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Scotch Whisky Experience + Royal Mile tasting rooms.",
+    "timeGated": true,
+    "hours": "Daily (tours timed)",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "literary-walking-tour",
+    "name": "Literary Walking Tour",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Old Town",
+    "country": "Scotland",
+    "lat": 55.9472,
+    "lng": -3.1956,
+    "category": "personal",
+    "themes": [
+      "literary"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Edinburgh Literary Pub Tour — Burns, Stevenson, Rankin. Starts Grassmarket.",
+    "timeGated": true,
+    "hours": "Evenings (seasonal — verify)",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "literary-walking-tour.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "arthurs-seat",
+    "name": "Arthur's Seat",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Holyrood Park",
+    "country": "Scotland",
+    "lat": 55.9442,
+    "lng": -3.1618,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "standard",
+    "blurb": "Extinct volcano in the middle of the city; best view in Edinburgh.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "arthurs-seat.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "calton-hill",
+    "name": "Calton Hill / National Monument",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "New Town",
+    "country": "Scotland",
+    "lat": 55.9549,
+    "lng": -3.1829,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Edinburgh's 'unfinished Parthenon' and the postcard skyline.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "calton-hill.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "craigmillar-castle",
+    "name": "Craigmillar Castle",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Craigmillar",
+    "country": "Scotland",
+    "lat": 55.9292,
+    "lng": -3.138,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Best-preserved medieval castle near the city; Mary, Queen of Scots' bolt-hole.",
+    "timeGated": true,
+    "hours": "Daily (HES — seasonal)",
+    "officialUrl": "https://www.historicenvironment.scot",
+    "link": "",
+    "images": [
+      "craigmillar-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "royal-yacht-britannia",
+    "name": "Royal Yacht Britannia",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Leith",
+    "country": "Scotland",
+    "lat": 55.9818,
+    "lng": -3.1769,
+    "category": "heritage",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "standard",
+    "blurb": "The decommissioned royal yacht, moored at Ocean Terminal.",
+    "timeGated": true,
+    "hours": "Daily (timed entry)",
+    "officialUrl": "https://www.royalyachtbritannia.co.uk",
+    "link": "",
+    "images": [
+      "royal-yacht-britannia.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "scottish-parliament",
+    "name": "Scottish Parliament",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Holyrood",
+    "country": "Scotland",
+    "lat": 55.9521,
+    "lng": -3.1751,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Enric Miralles’ controversial, much-awarded 2004 building.",
+    "timeGated": true,
+    "hours": "Mon–Sat (free; tours)",
+    "officialUrl": "https://www.parliament.scot",
+    "link": "",
+    "images": [
+      "scottish-parliament.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "dean-village",
+    "name": "Dean Village",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Dean",
+    "country": "Scotland",
+    "lat": 55.9525,
+    "lng": -3.2169,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "Former milling village on the Water of Leith — a sudden pocket of quiet.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "dean-village.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "isle-of-skye",
+    "name": "Isle of Skye (Fairy Glen, Sligachan)",
+    "macroRegion": "uk",
+    "region": "Highlands",
+    "subregion": "Skye",
+    "country": "Scotland",
+    "lat": 57.5826,
+    "lng": -6.2533,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Fairy Glen’s miniature hills + the Sligachan bridge and Cuillin views.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "isle-of-skye.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "st-conans-kirk",
+    "name": "St Conan's Kirk",
+    "macroRegion": "uk",
+    "region": "Argyll",
+    "subregion": "Loch Awe",
+    "country": "Scotland",
+    "lat": 56.4039,
+    "lng": -5.0297,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Eccentric lochside church stitched from every era of Scottish architecture.",
+    "timeGated": false,
+    "hours": "Daily (donation)",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "st-conans-kirk.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "dunure-castle",
+    "name": "Dunure Castle",
+    "macroRegion": "uk",
+    "region": "Ayrshire",
+    "subregion": "Dunure",
+    "country": "Scotland",
+    "lat": 55.4036,
+    "lng": -4.7606,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Clifftop ruin over a tiny harbour; an Outlander filming spot.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "dunure-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "caerlaverock-castle",
+    "name": "Caerlaverock Castle",
+    "macroRegion": "uk",
+    "region": "Dumfries & Galloway",
+    "subregion": "Caerlaverock",
+    "country": "Scotland",
+    "lat": 54.9758,
+    "lng": -3.5267,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "The only triangular castle in Britain, ringed by a moat.",
+    "timeGated": true,
+    "hours": "Daily (HES — seasonal)",
+    "officialUrl": "https://www.historicenvironment.scot",
+    "link": "",
+    "images": [
+      "caerlaverock-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "machir-bay",
+    "name": "Machir Bay (Islay)",
+    "macroRegion": "uk",
+    "region": "Argyll",
+    "subregion": "Islay",
+    "country": "Scotland",
+    "lat": 55.7833,
+    "lng": -6.45,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Wide Atlantic-facing beach on whisky island Islay.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "machir-bay.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "cove-harbour",
+    "name": "Cove Harbour",
+    "macroRegion": "uk",
+    "region": "Berwickshire",
+    "subregion": "Cove",
+    "country": "Scotland",
+    "lat": 55.9333,
+    "lng": -2.3486,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Hidden smugglers’ harbour reached through a cliff tunnel. (Split from Limekilns — verify.)",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "limekilns",
+    "name": "Limekilns",
+    "macroRegion": "uk",
+    "region": "Fife",
+    "subregion": "Limekilns",
+    "country": "Scotland",
+    "lat": 56.0306,
+    "lng": -3.4783,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Forth-side village; the Bruce Inn featured in Outlander. (Split from Cove Harbour — verify.)",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "limekilns.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "wallace-monument",
+    "name": "National Wallace Monument",
+    "macroRegion": "uk",
+    "region": "Stirling",
+    "subregion": "Abbey Craig",
+    "country": "Scotland",
+    "lat": 56.1378,
+    "lng": -3.9192,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Victorian tower over Stirling; holds Wallace’s great two-handed sword.",
+    "timeGated": true,
+    "hours": "Daily (seasonal)",
+    "officialUrl": "https://www.nationalwallacemonument.com",
+    "link": "",
+    "images": [
+      "wallace-monument.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "the-kelpies",
+    "name": "The Kelpies",
+    "macroRegion": "uk",
+    "region": "Falkirk",
+    "subregion": "Helix Park",
+    "country": "Scotland",
+    "lat": 56.0197,
+    "lng": -3.7556,
+    "category": "modern",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Two 30m steel horse-heads by Andy Scott.",
+    "timeGated": false,
+    "hours": "Park open daily (tours ticketed)",
+    "officialUrl": "https://www.thehelix.co.uk",
+    "link": "",
+    "images": [
+      "the-kelpies.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "falkirk-wheel",
+    "name": "Falkirk Wheel",
+    "macroRegion": "uk",
+    "region": "Falkirk",
+    "subregion": "Tamfourhill",
+    "country": "Scotland",
+    "lat": 56.0036,
+    "lng": -3.8419,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "The world’s only rotating boat lift, joining two canals.",
+    "timeGated": true,
+    "hours": "Daily (boat trips timed)",
+    "officialUrl": "https://www.scottishcanals.co.uk/falkirk-wheel",
+    "link": "",
+    "images": [
+      "falkirk-wheel.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "black-watch-castle",
+    "name": "Black Watch Castle & Museum",
+    "macroRegion": "uk",
+    "region": "Perthshire",
+    "subregion": "Perth",
+    "country": "Scotland",
+    "lat": 56.4006,
+    "lng": -3.4675,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Balhousie Castle, regimental home of the Black Watch.",
+    "timeGated": true,
+    "hours": "Daily (seasonal)",
+    "officialUrl": "https://theblackwatch.co.uk",
+    "link": "",
+    "images": [
+      "black-watch-castle.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "glasgow",
+    "name": "Glasgow",
+    "macroRegion": "uk",
+    "region": "Glasgow",
+    "subregion": "",
+    "country": "Scotland",
+    "lat": 55.8642,
+    "lng": -4.2518,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "approx": true,
+    "blurb": "Kelvingrove, the Mackintosh trail, the Necropolis — a city pin to break out later.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "glasgow.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "carlowrie-castle",
+    "name": "Carlowrie Castle",
+    "macroRegion": "uk",
+    "region": "Edinburgh",
+    "subregion": "Kirkliston",
+    "country": "Scotland",
+    "lat": 55.9486,
+    "lng": -3.403,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Victorian baronial house and estate near the airport.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "https://www.carlowriecastle.co.uk",
+    "link": "",
+    "images": [
+      "carlowrie-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "loch-ness",
+    "name": "Loch Ness",
+    "macroRegion": "uk",
+    "region": "Highlands",
+    "subregion": "Inverness",
+    "country": "Scotland",
+    "lat": 57.3229,
+    "lng": -4.4244,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "standard",
+    "blurb": "Deep dark loch; Urquhart Castle on its shore.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "loch-ness.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "balintore-castle",
+    "name": "Balintore Castle",
+    "macroRegion": "uk",
+    "region": "Angus",
+    "subregion": "Lintrathen",
+    "country": "Scotland",
+    "lat": 56.7494,
+    "lng": -3.1308,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Victorian Gothic ruin one man is restoring single-handed.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "balintore-castle.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "highland-coos",
+    "name": "Highland coos",
+    "macroRegion": "uk",
+    "region": "Highlands",
+    "subregion": "",
+    "country": "Scotland",
+    "lat": 56.685,
+    "lng": -5.105,
+    "category": "nature",
+    "themes": [
+      "wildlife"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "The shaggy ginger cattle — pin a reliable roadside spot once you find one.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "aberdeen",
+    "name": "Aberdeen",
+    "macroRegion": "uk",
+    "region": "Aberdeen",
+    "subregion": "",
+    "country": "Scotland",
+    "lat": 57.1497,
+    "lng": -2.0943,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "approx": true,
+    "blurb": "The Granite City — Old Aberdeen, the harbour, gateway to Royal Deeside.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "aberdeen.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "hadrians-wall",
+    "name": "Hadrian's Wall",
+    "macroRegion": "uk",
+    "region": "Northumberland",
+    "subregion": "Housesteads",
+    "country": "England",
+    "lat": 55.0123,
+    "lng": -2.3312,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Roman frontier across England. Wall is open; forts (Housesteads) are ticketed.",
+    "timeGated": true,
+    "hours": "Forts daily (EH — seasonal); wall always open",
+    "officialUrl": "https://www.english-heritage.org.uk",
+    "link": "",
+    "images": [
+      "hadrians-wall.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bamburgh-castle",
+    "name": "Bamburgh Castle",
+    "macroRegion": "uk",
+    "region": "Northumberland",
+    "subregion": "Bamburgh",
+    "country": "England",
+    "lat": 55.6089,
+    "lng": -1.7096,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Vast castle on a dune crag above the Northumberland coast.",
+    "timeGated": true,
+    "hours": "Daily (seasonal)",
+    "officialUrl": "https://www.bamburghcastle.com",
+    "link": "",
+    "images": [
+      "bamburgh-castle-1.png",
+      "bamburgh-castle-2.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "york-shambles",
+    "name": "The Shambles, York",
+    "macroRegion": "uk",
+    "region": "York",
+    "subregion": "Old Town",
+    "country": "England",
+    "lat": 53.959,
+    "lng": -1.0815,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Lurching medieval butchers’ street; the ‘Diagon Alley’ of York.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "york-shambles-1.png",
+      "york-shambles-2.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "newcastle",
+    "name": "Newcastle (Black Gate, Dog Leap Stairs)",
+    "macroRegion": "uk",
+    "region": "Tyne & Wear",
+    "subregion": "Newcastle",
+    "country": "England",
+    "lat": 54.9697,
+    "lng": -1.6113,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "The castle Black Gate and the steep Dog Leap Stairs down to the Quayside.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "newcastle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "lake-district",
+    "name": "Lake District (Keswick, Scafell Pike)",
+    "macroRegion": "uk",
+    "region": "Cumbria",
+    "subregion": "Keswick",
+    "country": "England",
+    "lat": 54.6013,
+    "lng": -3.1347,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "standard",
+    "approx": true,
+    "blurb": "Keswick + Derwentwater as a base; Scafell Pike, England’s highest, to the south.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "lake-district.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "manchester-bridge",
+    "name": "Manchester Bridge (Joy Division footbridge)",
+    "macroRegion": "uk",
+    "region": "Manchester",
+    "subregion": "Hulme",
+    "country": "England",
+    "lat": 53.4709,
+    "lng": -2.2459,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Epping Walk Bridge — site of Kevin Cummins’ snow-bound Joy Division shoot.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "manchester-bridge.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "hacienda-site",
+    "name": "Haçienda site",
+    "macroRegion": "uk",
+    "region": "Manchester",
+    "subregion": "City Centre",
+    "country": "England",
+    "lat": 53.4753,
+    "lng": -2.2531,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "FAC 51 — the Factory club, demolished 2002, now flats. A pilgrimage.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "salford-lads-club",
+    "name": "Salford Lads Club",
+    "macroRegion": "uk",
+    "region": "Salford",
+    "subregion": "Ordsall",
+    "country": "England",
+    "lat": 53.4793,
+    "lng": -2.2649,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "The Smiths’ Queen Is Dead inner-sleeve doorway.",
+    "timeGated": false,
+    "hours": "Open select hours (verify)",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "salford-lads-club.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "macclesfield-ian-curtis",
+    "name": "Macclesfield — Ian Curtis",
+    "macroRegion": "uk",
+    "region": "Cheshire",
+    "subregion": "Macclesfield",
+    "country": "England",
+    "lat": 53.2587,
+    "lng": -2.125,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "House on Barton St, the mural, and the memorial stone in Macclesfield Cemetery.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "ian-curtis-memorial-1.png",
+      "ian-curtis-memorial-2.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "macroRegion": "uk",
+    "region": "Liverpool",
+    "subregion": "",
+    "country": "England",
+    "lat": 53.4084,
+    "lng": -2.9916,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Cavern, the Albert Dock, the whole Merseybeat map — a city pin to break out.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "liverpool.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "warwick-castle",
+    "name": "Warwick Castle",
+    "macroRegion": "uk",
+    "region": "Warwickshire",
+    "subregion": "Warwick",
+    "country": "England",
+    "lat": 52.2799,
+    "lng": -1.585,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Theme-park-ish but the oubliette and the ramparts are the real medieval thing.",
+    "timeGated": true,
+    "hours": "Daily (seasonal)",
+    "officialUrl": "https://www.warwick-castle.com",
+    "link": "",
+    "images": [
+      "warwick-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "worcestershire-churches",
+    "name": "Worcestershire churches (Cradley, Colwall, Kempsey)",
+    "macroRegion": "uk",
+    "region": "Worcestershire",
+    "subregion": "Malvern area",
+    "country": "England",
+    "lat": 52.1167,
+    "lng": -2.3833,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Three village churches — Cradley, Colwall, Kempsey. (Pinned at Cradley; split into three later.)",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "worcestershire-churches-1.png",
+      "worcestershire-churches-2.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "stonehenge",
+    "name": "Stonehenge",
+    "macroRegion": "uk",
+    "region": "Wiltshire",
+    "subregion": "Amesbury",
+    "country": "England",
+    "lat": 51.1789,
+    "lng": -1.8262,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "The stones. Ticketed and timed — book ahead, even for the outer path.",
+    "timeGated": true,
+    "hours": "Daily, timed entry (EH)",
+    "officialUrl": "https://www.english-heritage.org.uk/visit/places/stonehenge",
+    "link": "",
+    "images": [
+      "stonehenge.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "castle-combe",
+    "name": "Castle Combe",
+    "macroRegion": "uk",
+    "region": "Wiltshire",
+    "subregion": "Cotswolds",
+    "country": "England",
+    "lat": 51.4919,
+    "lng": -2.227,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "“The prettiest village in England” — honey-stone Cotswold cliché, earned.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "castle-combe.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "king-alfreds-tower",
+    "name": "King Alfred's Tower, Stourhead",
+    "macroRegion": "uk",
+    "region": "Somerset",
+    "subregion": "Stourhead",
+    "country": "England",
+    "lat": 51.1147,
+    "lng": -2.3289,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "160ft triangular folly on the Stourhead estate edge.",
+    "timeGated": true,
+    "hours": "Limited (NT — seasonal)",
+    "officialUrl": "https://www.nationaltrust.org.uk/stourhead",
+    "link": "",
+    "images": [
+      "king-alfreds-tower.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "little-solsbury-hill",
+    "name": "Little Solsbury Hill, Bath",
+    "macroRegion": "uk",
+    "region": "Somerset",
+    "subregion": "Bath",
+    "country": "England",
+    "lat": 51.4061,
+    "lng": -2.3289,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Iron-age hillfort that gave Peter Gabriel his ‘Solsbury Hill’.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "little-solsbury-hill.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "crawley-the-cure",
+    "name": "Crawley (Robert Smith / The Cure)",
+    "macroRegion": "uk",
+    "region": "West Sussex",
+    "subregion": "Crawley",
+    "country": "England",
+    "lat": 51.1091,
+    "lng": -0.1872,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Where The Cure formed. No single landmark — NME’s town guide is the reference.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "crawley-the-cure.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "arundel-castle",
+    "name": "Arundel Castle",
+    "macroRegion": "uk",
+    "region": "West Sussex",
+    "subregion": "Arundel",
+    "country": "England",
+    "lat": 50.856,
+    "lng": -0.554,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Seat of the Dukes of Norfolk above a storybook town.",
+    "timeGated": true,
+    "hours": "Daily (seasonal — closed winter)",
+    "officialUrl": "https://www.arundelcastle.org",
+    "link": "",
+    "images": [
+      "arundel-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "merstham-phonebox-graveyard",
+    "name": "Merstham phone-box graveyard",
+    "macroRegion": "uk",
+    "region": "Surrey",
+    "subregion": "Merstham",
+    "country": "England",
+    "lat": 51.27,
+    "lng": -0.149,
+    "category": "modern",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "A field of retired red K6 phone boxes awaiting restoration.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "merstham-phonebox-graveyard.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "crooked-house-windsor",
+    "name": "Crooked House of Windsor",
+    "macroRegion": "uk",
+    "region": "Berkshire",
+    "subregion": "Windsor",
+    "country": "England",
+    "lat": 51.4837,
+    "lng": -0.609,
+    "category": "heritage",
+    "themes": [
+      "food"
+    ],
+    "prominence": "signature",
+    "blurb": "Lopsided 1592 teahouse beside the castle.",
+    "timeGated": true,
+    "hours": "Tearoom hours (verify)",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "crooked-house-windsor.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "oxfordshire",
+    "name": "Oxfordshire",
+    "macroRegion": "uk",
+    "region": "Oxfordshire",
+    "subregion": "Oxford",
+    "country": "England",
+    "lat": 51.752,
+    "lng": -1.2577,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "approx": true,
+    "blurb": "Oxford colleges + the surrounding countryside — a county pin to break out.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "oxfordshire.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "british-museum",
+    "name": "British Museum / Rosetta Stone",
+    "macroRegion": "uk",
+    "region": "London",
+    "subregion": "Bloomsbury",
+    "country": "England",
+    "lat": 51.5194,
+    "lng": -0.127,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Rosetta Stone, the Parthenon marbles, the Great Court roof.",
+    "timeGated": true,
+    "hours": "Daily 10:00–17:00 (free)",
+    "officialUrl": "https://www.britishmuseum.org",
+    "link": "",
+    "images": [
+      "british-museum-rosetta.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "tate-britain",
+    "name": "Tate Britain / Turner",
+    "macroRegion": "uk",
+    "region": "London",
+    "subregion": "Millbank",
+    "country": "England",
+    "lat": 51.4911,
+    "lng": -0.1278,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "The Clore’s Turner bequest — the reason to come.",
+    "timeGated": true,
+    "hours": "Daily 10:00–18:00 (free)",
+    "officialUrl": "https://www.tate.org.uk/visit/tate-britain",
+    "link": "",
+    "images": [
+      "tate-turner.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "black-friar-pub",
+    "name": "The Black Friar",
+    "macroRegion": "uk",
+    "region": "London",
+    "subregion": "Blackfriars",
+    "country": "England",
+    "lat": 51.5121,
+    "lng": -0.1037,
+    "category": "heritage",
+    "themes": [
+      "food"
+    ],
+    "prominence": "signature",
+    "blurb": "Arts-and-Crafts pub all in marble and copper, shaped like a wedge.",
+    "timeGated": false,
+    "hours": "Pub hours",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "black-friar-pub.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "camden",
+    "name": "Camden",
+    "macroRegion": "uk",
+    "region": "London",
+    "subregion": "Camden",
+    "country": "England",
+    "lat": 51.539,
+    "lng": -0.1426,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "The markets, the Roundhouse, the Amy Winehouse statue.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "camden.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "greenwich-gmt",
+    "name": "Greenwich / GMT",
+    "macroRegion": "uk",
+    "region": "London",
+    "subregion": "Greenwich",
+    "country": "England",
+    "lat": 51.4769,
+    "lng": -0.0005,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Stand on the Prime Meridian at the Royal Observatory.",
+    "timeGated": true,
+    "hours": "Daily (observatory ticketed)",
+    "officialUrl": "https://www.rmg.co.uk/royal-observatory",
+    "link": "",
+    "images": [
+      "greenwich-gmt.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "mach-loop",
+    "name": "Mach Loop, Machynlleth",
+    "macroRegion": "uk",
+    "region": "Gwynedd",
+    "subregion": "Machynlleth",
+    "country": "Wales",
+    "lat": 52.6333,
+    "lng": -3.85,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Valley where RAF jets train low — watch fast jets below you from the ridges.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "mach-loop.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "moma-machynlleth",
+    "name": "MOMA Machynlleth",
+    "macroRegion": "uk",
+    "region": "Powys",
+    "subregion": "Machynlleth",
+    "country": "Wales",
+    "lat": 52.5906,
+    "lng": -3.8517,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Modern art in mid-Wales, in and around a chapel.",
+    "timeGated": true,
+    "hours": "Mon–Sat (free)",
+    "officialUrl": "https://www.moma.cymru",
+    "link": "",
+    "images": [
+      "moma-machynlleth.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "st-davids-head",
+    "name": "St David's Head ponies, Pembrokeshire",
+    "macroRegion": "uk",
+    "region": "Pembrokeshire",
+    "subregion": "St Davids",
+    "country": "Wales",
+    "lat": 51.9075,
+    "lng": -5.3,
+    "category": "nature",
+    "themes": [
+      "wildlife"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Wild ponies on the headland at Britain’s smallest city.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "st-davids-head.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "skomer",
+    "name": "Skomer (puffins)",
+    "macroRegion": "uk",
+    "region": "Pembrokeshire",
+    "subregion": "Marloes",
+    "country": "Wales",
+    "lat": 51.735,
+    "lng": -5.295,
+    "category": "nature",
+    "themes": [
+      "wildlife"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Island seabird colony — puffins up close in early summer. Boat from Martin’s Haven.",
+    "timeGated": true,
+    "hours": "Seasonal boats (book ahead)",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "skomer.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "denbigh-asylum",
+    "name": "Denbigh Asylum",
+    "macroRegion": "uk",
+    "region": "Denbighshire",
+    "subregion": "Denbigh",
+    "country": "Wales",
+    "lat": 53.19,
+    "lng": -3.43,
+    "category": "modern",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "The decaying North Wales Hospital — an urbex landmark (now part-redeveloped; access restricted).",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "denbigh-asylum.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "isle-of-man",
+    "name": "Isle of Man",
+    "macroRegion": "uk",
+    "region": "Isle of Man",
+    "subregion": "Castletown",
+    "country": "Isle of Man",
+    "lat": 54.0786,
+    "lng": -4.6539,
+    "category": "heritage",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Castle Rushen, Snaefell, the steam railways, Manx wallabies. (Pinned at Castle Rushen.)",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "isle-of-man.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "kenna-power-stations",
+    "name": "Michael Kenna power stations",
+    "macroRegion": "uk",
+    "region": "Cross-border",
+    "subregion": "Chapelcross / Ratcliffe / Didcot",
+    "country": "",
+    "lat": 55.0156,
+    "lng": -3.2247,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "approx": true,
+    "blurb": "Cooling towers Kenna photographed: Chapelcross (pinned), Ratcliffe, Didcot. © image — replace before publishing.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "kenna-power-stations.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "baldwinstown-castle",
+    "name": "Baldwinstown Castle",
+    "macroRegion": "uk",
+    "region": "Co Wexford",
+    "subregion": "Duncormick",
+    "country": "Ireland",
+    "lat": 52.2167,
+    "lng": -6.6333,
+    "approx": true,
+    "category": "personal",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Your ancestors built it in 1195; burned after the Cromwellian war in 1649 and the family dispossessed, but it still stands.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "deserted-castle-overlooking-wexford-town",
+    "name": "Deserted castle overlooking Wexford town",
+    "macroRegion": "uk",
+    "region": "Co Wexford",
+    "subregion": "",
+    "country": "Ireland",
+    "lat": 52.3342,
+    "lng": -6.4575,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Unnamed in the notes; deserted but beautiful, above the town.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "birthplace-of-john-barry",
+    "name": "Birthplace of John Barry",
+    "macroRegion": "uk",
+    "region": "Co Wexford",
+    "subregion": "Tacumshane",
+    "country": "Ireland",
+    "lat": 52.2,
+    "lng": -6.55,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "\"Father of the US Navy,\" born about three miles from Baldwinstown.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "donadea-castle",
+    "name": "Donadea Castle, Donadea Forest Park",
+    "macroRegion": "uk",
+    "region": "Co Kildare",
+    "subregion": "Donadea",
+    "country": "Ireland",
+    "lat": 53.3258,
+    "lng": -6.7547,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Ruined castle in a forest park; good any time of year.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "moore-hall",
+    "name": "Moore Hall",
+    "macroRegion": "uk",
+    "region": "Co Mayo",
+    "subregion": "Lough Carra",
+    "country": "Ireland",
+    "lat": 53.7167,
+    "lng": -9.2333,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Built 1792–95, burned by the IRA in 1923 during the Civil War; it and its surrounding 80 acres are now a national park.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "kylemore-abbey",
+    "name": "Kylemore Abbey",
+    "macroRegion": "uk",
+    "region": "Co Galway",
+    "subregion": "Connemara",
+    "country": "Ireland",
+    "lat": 53.5608,
+    "lng": -9.8897,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "The lakeside Gothic abbey.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "kylemore-abbey.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "rock-of-cashel",
+    "name": "Rock of Cashel",
+    "macroRegion": "uk",
+    "region": "Co Tipperary",
+    "subregion": "Cashel",
+    "country": "Ireland",
+    "lat": 52.5201,
+    "lng": -7.8906,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "The great ecclesiastical fortress on the rock.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "rock-of-cashel.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "cahir-castle",
+    "name": "Cahir Castle",
+    "macroRegion": "uk",
+    "region": "Co Tipperary",
+    "subregion": "Cahir",
+    "country": "Ireland",
+    "lat": 52.3756,
+    "lng": -7.9261,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "One of Ireland's largest, best-preserved castles.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "cahir-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "dublin",
+    "name": "Dublin",
+    "macroRegion": "uk",
+    "region": "Dublin",
+    "subregion": "",
+    "country": "Ireland",
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Whiskey, castles and gardens (the Dublin → Cashel → Cahir run).",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "dublin.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "famine-memorial-dublin",
+    "name": "The Famine Memorial, Dublin",
+    "macroRegion": "uk",
+    "region": "Dublin",
+    "subregion": "Custom House Quay",
+    "country": "Ireland",
+    "lat": 53.3489,
+    "lng": -6.2469,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Bronze figures on Custom House Quay remembering the Great Famine (1845–49), which halved the population through death and emigration.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "famine-memorial-dublin.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "dark-hedges",
+    "name": "The Dark Hedges",
+    "macroRegion": "uk",
+    "region": "Co Antrim",
+    "subregion": "Ballymoney",
+    "country": "Ireland",
+    "lat": 55.1347,
+    "lng": -6.3814,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "The tunnel of interlaced beeches.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "dark-hedges.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "cliffs-of-moher",
+    "name": "Cliffs of Moher",
+    "macroRegion": "uk",
+    "region": "Co Clare",
+    "subregion": "The Burren",
+    "country": "Ireland",
+    "lat": 52.9715,
+    "lng": -9.4309,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "standard",
+    "blurb": "UNESCO sea cliffs on the edge of the Burren; ~9 miles long, rising to 702 ft, with O'Brien's Tower; ~1.6 million visitors a year.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "cliffs-of-moher.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "inis-meain",
+    "name": "Inis Meáin, Aran Islands",
+    "macroRegion": "uk",
+    "region": "Co Galway",
+    "subregion": "Aran Islands",
+    "country": "Ireland",
+    "lat": 53.0833,
+    "lng": -9.5833,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "blurb": "Atlantic waves breaking against the cliffs.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "inis-meain.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "burg-eltz",
+    "name": "Burg Eltz",
+    "macroRegion": "eu",
+    "region": "Rhineland-Palatinate",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 50.2058,
+    "lng": 7.3367,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "12th c.; the storybook valley castle.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "burg-eltz.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "marksburg",
+    "name": "Marksburg",
+    "macroRegion": "eu",
+    "region": "Rhineland-Palatinate",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 50.2747,
+    "lng": 7.6486,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "12th–15th c.; the only Rhine hill-castle never destroyed.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "marksburg.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "reichsburg-cochem",
+    "name": "Reichsburg Cochem",
+    "macroRegion": "eu",
+    "region": "Rhineland-Palatinate",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 50.1419,
+    "lng": 7.1639,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "19th-c. rebuild on a Moselle hilltop.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "reichsburg-cochem.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "stahleck-castle",
+    "name": "Stahleck Castle",
+    "macroRegion": "eu",
+    "region": "Rhineland-Palatinate",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 50.0589,
+    "lng": 7.7669,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "12th c., above Bacharach on the Rhine.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "stahleck-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "lichtenstein-castle",
+    "name": "Lichtenstein Castle",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 48.4061,
+    "lng": 9.2575,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "19th-c. cliff-edge \"fairy-tale castle of Württemberg.\"",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "lichtenstein-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "heidelberg-castle",
+    "name": "Heidelberg Castle",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 49.4106,
+    "lng": 8.7156,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "13th–17th c.; the great red-sandstone ruin above the Neckar.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "heidelberg-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "hohenzollern-castle",
+    "name": "Hohenzollern Castle",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 48.3236,
+    "lng": 8.9678,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "19th-c.; ancestral seat of the Prussian kings, on a lone peak.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "hohenzollern-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "sigmaringen-castle",
+    "name": "Sigmaringen Castle",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 48.0875,
+    "lng": 9.2161,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Dominates the town skyline; rebuilt after an 1893 fire, only the medieval towers remain.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "sigmaringen-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "hohenschwangau",
+    "name": "Hohenschwangau",
+    "macroRegion": "eu",
+    "region": "Bavaria",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 47.5578,
+    "lng": 10.7378,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "19th c.; the yellow castle where Ludwig II grew up.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "hohenschwangau.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "neuschwanstein",
+    "name": "Neuschwanstein",
+    "macroRegion": "eu",
+    "region": "Bavaria",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 47.5576,
+    "lng": 10.7498,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Ludwig II's fantasy castle; the icon.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "neuschwanstein.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "mespelbrunn-castle",
+    "name": "Mespelbrunn Castle",
+    "macroRegion": "eu",
+    "region": "Bavaria",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 49.9111,
+    "lng": 9.2917,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Moated Renaissance water-castle in the Spessart.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "mespelbrunn-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "herrenchiemsee",
+    "name": "Herrenchiemsee",
+    "macroRegion": "eu",
+    "region": "Bavaria",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 47.8667,
+    "lng": 12.3992,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Ludwig II's Versailles on an island; the Hall of Mirrors (1879–81) is longer than the original.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "herrenchiemsee.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "schloss-drachenburg",
+    "name": "Schloss Drachenburg",
+    "macroRegion": "eu",
+    "region": "North Rhine-Westphalia",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 50.6669,
+    "lng": 7.2078,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "19th-c. neo-Gothic palace above the Rhine.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "schloss-drachenburg.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "vischering-castle",
+    "name": "Vischering Castle",
+    "macroRegion": "eu",
+    "region": "North Rhine-Westphalia",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 51.7711,
+    "lng": 7.4467,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "16th-c. moated castle.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "vischering-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "wartburg",
+    "name": "Wartburg",
+    "macroRegion": "eu",
+    "region": "Thuringia",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 50.9661,
+    "lng": 10.3064,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "12th–15th c.; where Luther translated the New Testament.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "wartburg.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "marienburg-castle",
+    "name": "Marienburg Castle",
+    "macroRegion": "eu",
+    "region": "Lower Saxony",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 52.0844,
+    "lng": 9.8264,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "19th-c. neo-Gothic, brooding under storm skies.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "marienburg-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "schloss-moritzburg",
+    "name": "Schloss Moritzburg",
+    "macroRegion": "eu",
+    "region": "Saxony",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 51.1672,
+    "lng": 13.6803,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Baroque moated hunting palace.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "schloss-moritzburg.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "schwerin-castle",
+    "name": "Schwerin Castle",
+    "macroRegion": "eu",
+    "region": "Mecklenburg-Vorpommern",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 53.6244,
+    "lng": 11.4189,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Romantic island palace reflected in the Schweriner See.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "schwerin-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "burg-frankenstein",
+    "name": "Burg Frankenstein",
+    "macroRegion": "eu",
+    "region": "Hesse",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 49.7939,
+    "lng": 8.6692,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "The \"spooky\" hill castle of legend.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "burg-frankenstein.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "cologne-cathedral",
+    "name": "Cologne Cathedral",
+    "macroRegion": "eu",
+    "region": "North Rhine-Westphalia",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 50.9413,
+    "lng": 6.9583,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "standard",
+    "blurb": "632 years to complete; \"it needs more than a mere opinion to erect a Gothic cathedral.\"",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "cologne-cathedral.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "dresden",
+    "name": "Dresden",
+    "macroRegion": "eu",
+    "region": "Saxony",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 51.0504,
+    "lng": 13.7373,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "The Zwinger, Frauenkirche and old town rebuilt from WWII ruins, much from scratch in the last 20 years.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "dresden.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "rothenburg-ob-der-tauber",
+    "name": "Rothenburg ob der Tauber",
+    "macroRegion": "eu",
+    "region": "Bavaria",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 49.3777,
+    "lng": 10.1789,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Fairy-tale walled town; one of only four in Germany with fully intact city walls.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "rothenburg-ob-der-tauber.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "brandenburg-gate",
+    "name": "Brandenburg Gate",
+    "macroRegion": "eu",
+    "region": "Berlin",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 52.5163,
+    "lng": 13.3777,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "brandenburg-gate.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "berlin-wall",
+    "name": "Berlin Wall",
+    "macroRegion": "eu",
+    "region": "Berlin",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 52.5354,
+    "lng": 13.3903,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "berlin-wall.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "boltanski-missing-house",
+    "name": "Boltanski, The Missing House",
+    "macroRegion": "eu",
+    "region": "Berlin",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 52.5249,
+    "lng": 13.3992,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "24 nameplates on two firewalls at Große Hamburger Straße, naming residents of a building destroyed in WWII.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "boltanski-missing-house.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "erholungspark-marzahn-chinese-garden",
+    "name": "Erholungspark Marzahn — Chinese Garden",
+    "macroRegion": "eu",
+    "region": "Berlin",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 52.5386,
+    "lng": 13.5736,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "erholungspark-marzahn-chinese-garden.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "berlin-street-chess",
+    "name": "Berlin Street Chess",
+    "macroRegion": "eu",
+    "region": "Berlin",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 52.52,
+    "lng": 13.405,
+    "approx": true,
+    "category": "personal",
+    "themes": [
+      "chess"
+    ],
+    "prominence": "signature",
+    "blurb": "The open-air chess scene.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "berlin-street-chess.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bmw-building-munich",
+    "name": "BMW Building (BMW Welt / HQ), Munich",
+    "macroRegion": "eu",
+    "region": "Bavaria",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 48.1771,
+    "lng": 11.5564,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bmw-building-munich.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bauhaus-dessau",
+    "name": "Bauhaus, Dessau",
+    "macroRegion": "eu",
+    "region": "Saxony-Anhalt",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 51.8392,
+    "lng": 12.2275,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bauhaus-dessau.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "mercedes-benz-museum",
+    "name": "Mercedes-Benz Museum, Stuttgart",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 48.7884,
+    "lng": 9.2342,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "mercedes-benz-museum.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "museum-sinsheim",
+    "name": "Museum Sinsheim",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 49.2447,
+    "lng": 8.8983,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Vast aviation/tech museum (planes, tanks, cars); sister site at Speyer.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "museum-sinsheim.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "computer-museum-paderborn",
+    "name": "Computer Museum (Heinz Nixdorf MuseumsForum, Paderborn)",
+    "macroRegion": "eu",
+    "region": "North Rhine-Westphalia",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 51.7375,
+    "lng": 8.7283,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "The world's largest computer museum.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "computer-museum-paderborn.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "munch-museum-barberini",
+    "name": "Munch, Lebenslandschaft, Museum Barberini, Potsdam",
+    "macroRegion": "eu",
+    "region": "Brandenburg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 52.3956,
+    "lng": 13.0608,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "munch-museum-barberini.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "treehouse-village-seelbach",
+    "name": "Treehouse village, Seelbach",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "",
+    "country": "Germany",
+    "lat": 48.3083,
+    "lng": 7.9433,
+    "approx": true,
+    "category": "modern",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "prague-astronomical-clock",
+    "name": "Prague Astronomical Clock (1410)",
+    "macroRegion": "eu",
+    "region": "Prague",
+    "subregion": "",
+    "country": "Czech Republic",
+    "lat": 50.087,
+    "lng": 14.4208,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "The world's oldest operating astronomical clock; was misfiled in the Germany screenshots.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "prague-astronomical-clock.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "german-observation-tower-guernsey",
+    "name": "German Observation Tower, Guernsey",
+    "macroRegion": "uk",
+    "region": "Guernsey",
+    "subregion": "",
+    "country": "United Kingdom",
+    "lat": 49.4239,
+    "lng": -2.6722,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "A WWII German fortification, so it belongs with the UK/British Isles set, not Germany.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "guggenheim-bilbao",
+    "name": "Guggenheim Bilbao",
+    "macroRegion": "eu",
+    "region": "Bilbao",
+    "subregion": "",
+    "country": "Spain",
+    "lat": 43.26869,
+    "lng": -2.93396,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Frank Gehry's titanium-clad museum on the Nervión; Louise Bourgeois's Maman spider out front. Basque Country.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "guggenheim-bilbao.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "alhambra-granada",
+    "name": "Alhambra, Granada",
+    "macroRegion": "eu",
+    "region": "Granada",
+    "subregion": "",
+    "country": "Spain",
+    "lat": 37.17601,
+    "lng": -3.58804,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Quranic texts, Arabic poetry and calligraphy carved into the pillars and arches ~800 years ago.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "alhambra-granada.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "temple-expiatori-del-sagrat-cor-tibidabo",
+    "name": "Temple Expiatori del Sagrat Cor, Tibidabo (Barcelona)",
+    "macroRegion": "eu",
+    "region": "Barcelona",
+    "subregion": "",
+    "country": "Spain",
+    "lat": 41.42228,
+    "lng": 2.11862,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Crypt 1903–11, main church 1915–51; by Catalan architect Enric Sagnier. Crowns the Tibidabo hill over the city.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "temple-expiatori-del-sagrat-cor-tibidabo.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "sevilla-plaza-de-espana",
+    "name": "Sevilla — Plaza de España",
+    "macroRegion": "eu",
+    "region": "Sevilla",
+    "subregion": "",
+    "country": "Spain",
+    "lat": 37.37727,
+    "lng": -5.98692,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Stood in for Naboo in Star Wars: Attack of the Clones.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "sevilla-plaza-de-espana.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "medina-of-essaouira",
+    "name": "Medina of Essaouira (formerly Mogador)",
+    "macroRegion": "eu",
+    "region": "Essaouira",
+    "subregion": "",
+    "country": "Morocco",
+    "lat": 31.51272,
+    "lng": -9.76981,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "blurb": "A rare late-18th-century fortified town built on European military-architecture principles in a North African setting; UNESCO-listed.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "medina-of-essaouira.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "louvre",
+    "name": "The Louvre",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8606,
+    "lng": 2.3376,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Aerial with I. M. Pei's glass pyramid, Arc de Triomphe beyond.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "louvre.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "musee-dorsay",
+    "name": "Musée d'Orsay",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.86,
+    "lng": 2.3266,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Impressionist collection in the former Gare d'Orsay (Beaux-Arts station, 1898–1900), French art 1848–1914.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "walden-docks-of-cardiff",
+    "name": "Lionel Walden, The Docks of Cardiff (1894)",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.86,
+    "lng": 2.3266,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "A painting you flagged at the Musée d'Orsay.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "walden-docks-of-cardiff.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "coronation-of-napoleon",
+    "name": "David, The Coronation of Napoleon",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8606,
+    "lng": 2.3376,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "The enormous canvas behind the Mona Lisa at the Louvre (\"infinitely cooler,\" per the post).",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "coronation-of-napoleon.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "water-lilies-orangerie",
+    "name": "Monet's Water Lilies, Musée de l'Orangerie",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8638,
+    "lng": 2.3226,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Monet's Water Lilies at the Musée de l'Orangerie.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "water-lilies-orangerie.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "monets-house-giverny",
+    "name": "Monet's house & gardens, Giverny",
+    "macroRegion": "eu",
+    "region": "Giverny",
+    "subregion": "",
+    "country": "France",
+    "lat": 49.0758,
+    "lng": 1.5333,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "The interior of Claude Monet's home (Normandy, ~75 km NW of Paris).",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "monets-house-giverny.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "pere-lachaise",
+    "name": "Père Lachaise Cemetery",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8614,
+    "lng": 2.3934,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "\"The greatest cemetery on Earth\"; resting place of Morrison, Chopin, Piaf, Wilde.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "pere-lachaise.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "palais-garnier",
+    "name": "Palais Garnier",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8719,
+    "lng": 2.3316,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "palais-garnier.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "pont-alexandre-iii",
+    "name": "Pont Alexandre III",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8638,
+    "lng": 2.3134,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "pont-alexandre-iii.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "la-samaritaine",
+    "name": "La Samaritaine",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8587,
+    "lng": 2.3424,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Art Nouveau department store, opened 1869, closed 2005 for safety, reopened beautifully restored in 2021.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "la-samaritaine.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "galeries-lafayette",
+    "name": "Galeries Lafayette Haussmann",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8732,
+    "lng": 2.3322,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "The Belle Époque glass-and-iron dome (Georges Chedanne, 1912).",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "galeries-lafayette.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "moulin-rouge",
+    "name": "Moulin Rouge",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8841,
+    "lng": 2.3322,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Colorized from a 1914 original.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "moulin-rouge.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "passe-muraille",
+    "name": "Le Passe-Muraille (Walker-Through-Walls)",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8889,
+    "lng": 2.3387,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Jean Marais sculpture, 1989. (Source said catacombs; it's actually in Montmartre, Place Marcel-Aymé.)",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "passe-muraille.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "jardin-de-la-roseraie",
+    "name": "Jardin de la Roseraie (Roseraie du Val-de-Marne, L'Haÿ-les-Roses)",
+    "macroRegion": "eu",
+    "region": "Île-de-France",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.7794,
+    "lng": 2.3361,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "jardin-de-la-roseraie.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "espaces-dabraxas",
+    "name": "Les Espaces d'Abraxas, Noisy-le-Grand",
+    "macroRegion": "eu",
+    "region": "Île-de-France",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8403,
+    "lng": 2.5519,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Ricardo Bofill brutalist housing estate, 1982.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "espaces-dabraxas.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "arenes-de-picasso",
+    "name": "Les Arènes de Picasso, Noisy-le-Grand",
+    "macroRegion": "eu",
+    "region": "Île-de-France",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8419,
+    "lng": 2.5462,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Manuel Núñez Yanowsky's disc-shaped social-housing complex, 1984; central sculpture by Miguel Berrocal.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "arenes-de-picasso.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "tour-saint-gobain",
+    "name": "Tour Saint-Gobain, La Défense",
+    "macroRegion": "eu",
+    "region": "La Défense",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8916,
+    "lng": 2.2375,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "165 m, 44-floor sustainable tower by Valode & Pistre.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "tour-saint-gobain.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "fifth-element-cite-du-cinema",
+    "name": "La Cité du Cinéma, Saint-Denis",
+    "macroRegion": "eu",
+    "region": "Saint-Denis",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.9183,
+    "lng": 2.3433,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Film studios; the flying cab from The Fifth Element (image is from a making-of). Gaumont, the world's oldest film company (1895), connects here.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "fifth-element-cite-du-cinema.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "puddles-paris-1",
+    "name": "Puddles in Paris",
+    "macroRegion": "eu",
+    "region": "Paris",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "approx": true,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Your reflection-photography series; Haussmann façades and figures mirrored in rain.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "puddles-paris-1.png",
+      "puddles-paris-2.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "loire-amboise",
+    "name": "Loire Valley (Amboise / Touraine)",
+    "macroRegion": "eu",
+    "region": "Loire Valley",
+    "subregion": "",
+    "country": "France",
+    "lat": 47.4133,
+    "lng": 0.9821,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Château country.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "loire-amboise.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "amboise-davinci-tomb",
+    "name": "Château d'Amboise — tomb of Leonardo da Vinci",
+    "macroRegion": "eu",
+    "region": "Amboise",
+    "subregion": "",
+    "country": "France",
+    "lat": 47.4131,
+    "lng": 0.9869,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Château d'Amboise — tomb of Leonardo da Vinci.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "amboise-davinci-tomb.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "chateau-de-brissac",
+    "name": "Château de Brissac",
+    "macroRegion": "eu",
+    "region": "Brissac-Quincé",
+    "subregion": "",
+    "country": "France",
+    "lat": 47.357,
+    "lng": -0.4447,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Tallest château in France; legend of the \"Dame Verte,\" Charlotte de Valois, said to haunt the halls seeking her killer.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "chateau-de-brissac.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "mothe-chandeniers",
+    "name": "Château de la Mothe-Chandeniers",
+    "macroRegion": "eu",
+    "region": "Vienne",
+    "subregion": "",
+    "country": "France",
+    "lat": 46.9836,
+    "lng": 0.0186,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "The romantic moated ruin in the west (Vienne); a crowd-funded restoration.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "mothe-chandeniers.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "brittany-region",
+    "name": "Brittany (region)",
+    "macroRegion": "eu",
+    "region": "Brittany",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.2,
+    "lng": -2.9,
+    "approx": true,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "standard",
+    "blurb": "Northwesternmost France; rugged coast, the blush-toned Pink Granite Coast, walled Saint-Malo, chic Dinard, abundant prehistoric menhirs. Capital Rennes.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "brittany-region.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "trembling-rock-huelgoat",
+    "name": "The Trembling Rock (Roche Tremblante), Huelgoat",
+    "macroRegion": "eu",
+    "region": "Brittany",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.3658,
+    "lng": -3.7472,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "A 132-ton granite block balanced so anyone can rock it slightly.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bordeaux-1",
+    "name": "Bordeaux",
+    "macroRegion": "eu",
+    "region": "Bordeaux",
+    "subregion": "",
+    "country": "France",
+    "lat": 44.8378,
+    "lng": -0.5792,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "The city; cathedral and old streets.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bordeaux-1.png",
+      "bordeaux-2.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "librairie-mollat",
+    "name": "Librairie Mollat, Bordeaux",
+    "macroRegion": "eu",
+    "region": "Bordeaux",
+    "subregion": "",
+    "country": "France",
+    "lat": 44.8412,
+    "lng": -0.5749,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "literary"
+    ],
+    "prominence": "signature",
+    "blurb": "France's oldest independent bookshop.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "librairie-mollat.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "lascaux",
+    "name": "Lascaux Cave, Dordogne",
+    "macroRegion": "eu",
+    "region": "Dordogne",
+    "subregion": "",
+    "country": "France",
+    "lat": 45.0537,
+    "lng": 1.1751,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "Upper Paleolithic cave art (c. 17,000–15,000 BC); ~600 paintings, mostly horses, plus ~1,400 engravings.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "lascaux.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "argenton-sur-creuse",
+    "name": "Argenton-sur-Creuse",
+    "macroRegion": "eu",
+    "region": "Indre",
+    "subregion": "",
+    "country": "France",
+    "lat": 46.5897,
+    "lng": 1.5183,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Riverside village in the Indre, \"where history meets the good life.\"",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "argenton-sur-creuse.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bourges-cathedral",
+    "name": "Bourges Cathedral",
+    "macroRegion": "eu",
+    "region": "Bourges",
+    "subregion": "",
+    "country": "France",
+    "lat": 47.0822,
+    "lng": 2.3989,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Gardens and medieval streets (the Bette Davis / Petrified Forest reference).",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bourges-cathedral.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "carcassonne",
+    "name": "Carcassonne",
+    "macroRegion": "eu",
+    "region": "Carcassonne",
+    "subregion": "",
+    "country": "France",
+    "lat": 43.2061,
+    "lng": 2.3636,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Fairy-tale fortified city, one of Europe's best-preserved medieval defensive sites.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "carcassonne.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "grand-marnier-bourg-charente",
+    "name": "Grand Marnier — Château de Bourg-Charente, Cognac",
+    "macroRegion": "eu",
+    "region": "Cognac",
+    "subregion": "",
+    "country": "France",
+    "lat": 45.6889,
+    "lng": -0.2406,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "food"
+    ],
+    "prominence": "signature",
+    "blurb": "The distillery on the Charente; occasional guided visits and tastings by appointment.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "grand-marnier-bourg-charente.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "saint-paul-de-vence",
+    "name": "Saint-Paul-de-Vence",
+    "macroRegion": "eu",
+    "region": "Côte d'Azur",
+    "subregion": "",
+    "country": "France",
+    "lat": 43.6953,
+    "lng": 7.1222,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "One of the oldest medieval towns on the Riviera; home of poet Jacques Prévert.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "saint-paul-de-vence.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "relics-mary-magdalene",
+    "name": "Relics of Mary Magdalene, Basilique Sainte-Marie-Madeleine, Saint-Maximin-la-Sainte-Baume",
+    "macroRegion": "eu",
+    "region": "Provence",
+    "subregion": "",
+    "country": "France",
+    "lat": 43.4525,
+    "lng": 5.8625,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "The gold-ensconced skull, \"one of the most precious relics in all Christendom.\"",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "relics-mary-magdalene.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "gaumont-de-funes-museum",
+    "name": "Gaumont / Louis de Funès Museum, Saint-Raphaël",
+    "macroRegion": "eu",
+    "region": "Côte d'Azur",
+    "subregion": "",
+    "country": "France",
+    "lat": 43.4253,
+    "lng": 6.7686,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Museum to France's favourite actor; tie-in with Gaumont, the world's oldest film studio.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "gaumont-de-funes-museum.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "unite-dhabitation-marseille",
+    "name": "Unité d'Habitation, Marseille",
+    "macroRegion": "eu",
+    "region": "Marseille",
+    "subregion": "",
+    "country": "France",
+    "lat": 43.2614,
+    "lng": 5.3964,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Le Corbusier's 1940s \"vertical city,\" UNESCO-listed 2016.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "unite-dhabitation-marseille.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bibliotheque-mejanes",
+    "name": "Bibliothèque Méjanes, Aix-en-Provence",
+    "macroRegion": "eu",
+    "region": "Aix-en-Provence",
+    "subregion": "",
+    "country": "France",
+    "lat": 43.5226,
+    "lng": 5.4419,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "literary"
+    ],
+    "prominence": "signature",
+    "blurb": "Façade shaped like three giant books: Camus's The Stranger, Saint-Exupéry's The Little Prince, Molière's The Imaginary Invalid.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bibliotheque-mejanes.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "colmar",
+    "name": "Colmar (Alsace)",
+    "macroRegion": "eu",
+    "region": "Alsace",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.0794,
+    "lng": 7.3585,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Storybook half-timbered town.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "colmar.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "douai-art-nouveau",
+    "name": "Art Nouveau storefront, Douai",
+    "macroRegion": "eu",
+    "region": "Douai",
+    "subregion": "",
+    "country": "France",
+    "lat": 50.3714,
+    "lng": 3.0794,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Ornate glass shopfront added 1904, by Albert Pépe.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "douai-art-nouveau.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "musee-de-picardie",
+    "name": "Musée de Picardie, Amiens",
+    "macroRegion": "eu",
+    "region": "Amiens",
+    "subregion": "",
+    "country": "France",
+    "lat": 49.8919,
+    "lng": 2.2967,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "musee-de-picardie.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "chateau-de-pierrefonds",
+    "name": "Château de Pierrefonds (Oise)",
+    "macroRegion": "eu",
+    "region": "Oise",
+    "subregion": "",
+    "country": "France",
+    "lat": 49.3478,
+    "lng": 2.9794,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Viollet-le-Duc's romantic reconstruction.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "chateau-de-pierrefonds.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "cadaver-tomb-rene-of-chalon",
+    "name": "Cadaver Tomb of René of Chalon, Bar-le-Duc",
+    "macroRegion": "eu",
+    "region": "Bar-le-Duc",
+    "subregion": "",
+    "country": "France",
+    "lat": 48.7711,
+    "lng": 5.1611,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Ligier Richier's transi (c. 1544–57): a standing, skinless \"living corpse\" raising its heart toward heaven.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "cadaver-tomb-rene-of-chalon.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "notre-dame-du-haut-ronchamp",
+    "name": "Notre-Dame-du-Haut, Ronchamp",
+    "macroRegion": "eu",
+    "region": "Ronchamp",
+    "subregion": "",
+    "country": "France",
+    "lat": 47.7042,
+    "lng": 6.6217,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Le Corbusier's pilgrimage chapel.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "notre-dame-du-haut-ronchamp.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "auditorium-maurice-ravel",
+    "name": "Auditorium Maurice-Ravel, Lyon",
+    "macroRegion": "eu",
+    "region": "Lyon",
+    "subregion": "",
+    "country": "France",
+    "lat": 45.7621,
+    "lng": 4.8554,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Concert hall dedicated to Ravel's legacy.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "auditorium-maurice-ravel.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "st-peters-basilica",
+    "name": "St Peter's Basilica & Square",
+    "macroRegion": "eu",
+    "region": "Rome",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.9022,
+    "lng": 12.4539,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "standard",
+    "blurb": "Shot at sunset; the basilica faces west, unusual among churches.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "st-peters-basilica.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "st-peters-obelisk",
+    "name": "St Peter's Square obelisk",
+    "macroRegion": "eu",
+    "region": "Rome",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.9022,
+    "lng": 12.4573,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "A 4,000-year-old Egyptian obelisk brought from Alexandria by Caligula in 37 AD.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "st-peters-obelisk.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "vatican-gallery-of-maps",
+    "name": "Vatican — Gallery of Maps",
+    "macroRegion": "eu",
+    "region": "Vatican",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.9065,
+    "lng": 12.4536,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "art"
+    ],
+    "prominence": "standard",
+    "blurb": "The gilded map corridor; \"I must be dreaming.\"",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "vatican-gallery-of-maps.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "sistine-chapel",
+    "name": "Sistine Chapel ceiling",
+    "macroRegion": "eu",
+    "region": "Vatican",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.9029,
+    "lng": 12.4545,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "art"
+    ],
+    "prominence": "standard",
+    "blurb": "Michelangelo, 1508–.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "sistine-chapel.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "fazzini-resurrection",
+    "name": "Pericle Fazzini, The Resurrection (1977)",
+    "macroRegion": "eu",
+    "region": "Vatican",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.9013,
+    "lng": 12.4534,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Colossal bronze in the Paul VI Audience Hall, Vatican (20 m wide).",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "fazzini-resurrection.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "pantheon-door",
+    "name": "The Pantheon door",
+    "macroRegion": "eu",
+    "region": "Rome",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.8986,
+    "lng": 12.4769,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "The bronze portal, c. 115 AD, still turning on its hinges after ~2,000 years.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "pantheon-door.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "santignazio-ceiling",
+    "name": "Sant'Ignazio di Loyola — the false dome",
+    "macroRegion": "eu",
+    "region": "Rome",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.8991,
+    "lng": 12.4799,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Andrea Pozzo's trompe-l'oeil \"fake arched ceiling,\" 1685.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "santignazio-ceiling.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bernini-david",
+    "name": "Bernini, David, Galleria Borghese",
+    "macroRegion": "eu",
+    "region": "Rome",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.9142,
+    "lng": 12.492,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Bernini's David in the Galleria Borghese.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bernini-david.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "dali-san-marcello-rome",
+    "name": "Salvador Dalí at San Marcello al Corso",
+    "macroRegion": "eu",
+    "region": "Rome",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.8987,
+    "lng": 12.4805,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Salvador Dalí work at the church of San Marcello al Corso.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "dali-san-marcello-rome.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "mausoleum-of-hadrian-castel-santangelo",
+    "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+    "macroRegion": "eu",
+    "region": "Rome",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.9031,
+    "lng": 12.4663,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Towering cylindrical fortress in Parco Adriano.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "mausoleum-of-hadrian-castel-santangelo.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "la-fenice-venice",
+    "name": "La Fenice opera house",
+    "macroRegion": "eu",
+    "region": "Venice",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.4337,
+    "lng": 12.3338,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "\"The Phoenix,\" rebuilt from fire more than once; a Baroque jewel.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "la-fenice-venice.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "venice",
+    "name": "Venice (the city)",
+    "macroRegion": "eu",
+    "region": "Venice",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Virtually unchanged since the Middle Ages; gondolas licensed since 1094.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "venice.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "venice-carnival",
+    "name": "Venice Carnival",
+    "macroRegion": "eu",
+    "region": "Venice",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.438,
+    "lng": 12.3358,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Carnevale costumes.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "venice-carnival.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "support-quinn-venice",
+    "name": "Lorenzo Quinn, Support (2017)",
+    "macroRegion": "eu",
+    "region": "Venice",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.4344,
+    "lng": 12.3312,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Giant hands rising from the Grand Canal.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "support-quinn-venice.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "lovati-san-marco-venice",
+    "name": "August Lovati, San Marco",
+    "macroRegion": "eu",
+    "region": "Venice",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.4341,
+    "lng": 12.3388,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Painting (1852–1921).",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "lovati-san-marco-venice.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "scaligero-sirmione",
+    "name": "Scaligero Castle, Sirmione",
+    "macroRegion": "eu",
+    "region": "Sirmione",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.4631,
+    "lng": 10.6062,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "14th-c. lakeside fortress on Lake Garda.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "scaligero-sirmione.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "siena",
+    "name": "Siena",
+    "macroRegion": "eu",
+    "region": "Tuscany",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.3188,
+    "lng": 11.3308,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "\"One of the most beautiful medieval cities on Earth.\"",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "siena.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "san-gimignano",
+    "name": "San Gimignano",
+    "macroRegion": "eu",
+    "region": "Tuscany",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.4677,
+    "lng": 11.0431,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "The \"Town of Fine Towers.\"",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "san-gimignano.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "monteriggioni",
+    "name": "Monteriggioni",
+    "macroRegion": "eu",
+    "region": "Tuscany",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.3909,
+    "lng": 11.2231,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Italy's most intact walled medieval town; Dante used its turrets to picture the giants ringing the Inferno.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "monteriggioni.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "volterra",
+    "name": "Volterra",
+    "macroRegion": "eu",
+    "region": "Tuscany",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.4015,
+    "lng": 10.8607,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Tuscan hill town of medieval alleys.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "volterra.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "macroRegion": "eu",
+    "region": "Tuscany",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Birthplace of the Renaissance.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "florence.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "santa-maria-del-fiore-floor-mosaic",
+    "name": "Santa Maria del Fiore — floor mosaic",
+    "macroRegion": "eu",
+    "region": "Florence",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.7731,
+    "lng": 11.256,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "The intricate marble inlay of Florence's cathedral.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "santa-maria-del-fiore-floor-mosaic.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "giambologna-appennine-colossus",
+    "name": "Giambologna's Appennine Colossus",
+    "macroRegion": "eu",
+    "region": "Pratolino",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.8634,
+    "lng": 11.3007,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "The giant stone mountain-god (late 1500s), Villa Demidoff, Pratolino.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see"
+  },
+  {
+    "id": "palaia",
+    "name": "Palaia",
+    "macroRegion": "eu",
+    "region": "Tuscany",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 43.6075,
+    "lng": 10.7733,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Small Tuscan hill town.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "palaia.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "amalfi-coast",
+    "name": "Amalfi Coast",
+    "macroRegion": "eu",
+    "region": "Campania",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 40.634,
+    "lng": 14.6027,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "standard",
+    "blurb": "Positano, Amalfi, Ravello, Sorrento, plus quieter towns (Cetara, Vietri sul Mare).",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "amalfi-coast.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "positano",
+    "name": "Positano",
+    "macroRegion": "eu",
+    "region": "Campania",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 40.6281,
+    "lng": 14.485,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "standard",
+    "blurb": "The cliffside icon of the coast.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "positano.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "teatro-san-carlo-naples",
+    "name": "Teatro di San Carlo, Naples",
+    "macroRegion": "eu",
+    "region": "Naples",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 40.8377,
+    "lng": 14.2496,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "The opera house.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "teatro-san-carlo-naples.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "sorrento-abandoned-mill",
+    "name": "Valle dei Mulini (Abandoned Mill), Sorrento",
+    "macroRegion": "eu",
+    "region": "Sorrento",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 40.6261,
+    "lng": 14.3757,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Ruined mill swallowed by green in a ravine.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "sorrento-abandoned-mill.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "valley-of-the-temples",
+    "name": "Valley of the Temples, Agrigento",
+    "macroRegion": "eu",
+    "region": "Sicily",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 37.2906,
+    "lng": 13.5854,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "The great Doric temples; most important vestige of classical culture in Sicily.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "valley-of-the-temples.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "milan-duomo",
+    "name": "Milan — the Duomo",
+    "macroRegion": "eu",
+    "region": "Milan",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.1919,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "standard",
+    "blurb": "Caught right before a thunderstorm.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "milan-duomo.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "piazzale-loreto-milan",
+    "name": "Piazzale Loreto, Milan",
+    "macroRegion": "eu",
+    "region": "Milan",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.486,
+    "lng": 9.2167,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Where Mussolini's body was displayed in 1945; the spot is now a McDonald's.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "piazzale-loreto-milan.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "bologna-towers",
+    "name": "Bologna — the towers",
+    "macroRegion": "eu",
+    "region": "Bologna",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 44.4949,
+    "lng": 11.3465,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "\"Manhattan of the Middle Ages\"; ~180 towers in the 12th c., the tallest 97 m still standing (30 of 100 remain).",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bologna-towers.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "castello-di-vezio-lake-como",
+    "name": "Castello di Vezio, Lake Como",
+    "macroRegion": "eu",
+    "region": "Lake Como",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.9876,
+    "lng": 9.2861,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "The white \"ghost\" sculptures in the grounds.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "castello-di-vezio-lake-como.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "torno-lake-como",
+    "name": "Torno, Lake Como",
+    "macroRegion": "eu",
+    "region": "Lake Como",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.8443,
+    "lng": 9.1135,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "signature",
+    "blurb": "Lakeside village.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "torno-lake-como.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "staglieno-cemetery",
+    "name": "Staglieno / Monumental Cemetery, Genoa",
+    "macroRegion": "eu",
+    "region": "Genoa",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 44.4338,
+    "lng": 8.9531,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Monumental funerary sculpture; one grave was used on the cover of Joy Division's \"Love Will Tear Us Apart.\"",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "staglieno-cemetery.webp",
+      "staglieno-cemetery-2.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "castello-di-torrechiara-parma",
+    "name": "Castello di Torrechiara, Parma",
+    "macroRegion": "eu",
+    "region": "Parma",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 44.6079,
+    "lng": 10.2967,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Built 1448–60 for Bianca Pellegrini; grotesque frescoes by Cesare Baglione, full of fantastical beasts and warriors.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "castello-di-torrechiara-parma.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "castel-del-monte",
+    "name": "Castel del Monte, Apulia",
+    "macroRegion": "eu",
+    "region": "Apulia",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.0843,
+    "lng": 16.271,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "standard",
+    "blurb": "Frederick II's perfectly symmetrical octagonal castle, 1240s.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "castel-del-monte.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "rocca-calascio",
+    "name": "Rocca Calascio, Abruzzo",
+    "macroRegion": "eu",
+    "region": "Abruzzo",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 42.3416,
+    "lng": 13.7066,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "One of the highest fortresses in the Apennines, stunning in winter.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "rocca-calascio.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "san-magno-crypt-anagni",
+    "name": "Crypt of San Magno, Anagni",
+    "macroRegion": "eu",
+    "region": "Anagni",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 41.7375,
+    "lng": 13.1547,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Fully frescoed medieval crypt in the \"City of Popes,\" SE of Rome.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "san-magno-crypt-anagni.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "joy-division-liguria",
+    "name": "\"Celebrating Joy Division,\" Liguria (Sestri Levante area)",
+    "macroRegion": "eu",
+    "region": "Liguria",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 44.271,
+    "lng": 9.3923,
+    "approx": true,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Flagged: exact spot uncertain from the copy; a Joy Division tribute.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "joy-division-liguria.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "pompeii-mount-vesuvius",
+    "name": "Pompeii / Mount Vesuvius",
+    "macroRegion": "eu",
+    "region": "Campania",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 40.7497,
+    "lng": 14.4869,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "standard",
+    "blurb": "The Roman city frozen in time by the AD 79 eruption; well-preserved streets beneath the volcano.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "pompeii-mount-vesuvius.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "villa-del-balbianello-lenno",
+    "name": "Villa del Balbianello, Lenno (Lake Como)",
+    "macroRegion": "eu",
+    "region": "Lake Como",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 45.9694,
+    "lng": 9.2095,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Terraced villa and gardens; a Star Wars Naboo location (also Casino Royale). Its garden holds a ~140-year-old Holm Oak.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "villa-del-balbianello-lenno.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "cinque-terre",
+    "name": "Cinque Terre",
+    "macroRegion": "eu",
+    "region": "Liguria",
+    "subregion": "",
+    "country": "Italy",
+    "lat": 44.1271,
+    "lng": 9.7089,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast"
+    ],
+    "prominence": "standard",
+    "blurb": "The five coastal villages; the Monterosso al Mare → Vernazza walk is rewarding, if tiring.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "cinque-terre.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "pavillon-le-corbusier",
+    "name": "Pavillon Le Corbusier",
+    "macroRegion": "eu",
+    "region": "Zürich",
+    "subregion": "Seefeld",
+    "country": "Switzerland",
+    "lat": 47.3560973,
+    "lng": 8.5508641,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "art",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "1967 steel-and-enamel art museum, Le Corbusier's last building, dedicated to his work in Zürich-Seefeld.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "pavillon-le-corbusier.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "sagrada-familia",
+    "name": "Sagrada Família",
+    "macroRegion": "eu",
+    "region": "Catalonia",
+    "subregion": "Barcelona",
+    "country": "Spain",
+    "lat": 41.4035046,
+    "lng": 2.1744283,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Gaudí's unfinished basilica, under construction since 1882 and a UNESCO World Heritage masterpiece of Catalan modernism.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "sagrada-familia.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "jim-morrison-s-grave",
+    "name": "Jim Morrison's Grave",
+    "macroRegion": "eu",
+    "region": "Île-de-France",
+    "subregion": "Paris",
+    "country": "France",
+    "lat": 48.8607,
+    "lng": 2.3934,
+    "approx": true,
+    "category": "personal",
+    "themes": [
+      "music",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "The Doors frontman Jim Morrison's grave in Père Lachaise Cemetery, a pilgrimage site for rock fans worldwide.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "jim-morrison-s-grave.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "parent": "pere-lachaise"
+  },
+  {
+    "id": "eiffel-tower",
+    "name": "Eiffel Tower",
+    "macroRegion": "eu",
+    "region": "Île-de-France",
+    "subregion": "Paris",
+    "country": "France",
+    "lat": 48.8582599,
+    "lng": 2.2945006,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Iconic 330m wrought-iron lattice tower built by Gustave Eiffel for the 1889 World's Fair.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "eiffel-tower.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "denge-sound-mirrors",
+    "name": "Denge Sound Mirrors",
+    "macroRegion": "uk",
+    "region": "Kent",
+    "subregion": "Dungeness",
+    "country": "United Kingdom",
+    "lat": 50.9469,
+    "lng": 0.9419,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "monument",
+      "coast"
+    ],
+    "prominence": "signature",
+    "blurb": "Concrete acoustic 'listening ears' built in the 1920s-30s to detect approaching aircraft before radar, near Dungeness.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "denge-sound-mirrors.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "salford-lads-club-2",
+    "name": "Salford Lads' Club",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Greater Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4767766,
+    "lng": -2.2743137,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Historic 1903 youth club where The Smiths posed for the inner sleeve of 'The Queen Is Dead', now a music pilgrimage site.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "salford-lads-club-2.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "rovinj-old-town",
+    "name": "Rovinj Old Town",
+    "macroRegion": "eu",
+    "region": "Istria",
+    "subregion": "Adriatic Coast",
+    "country": "Croatia",
+    "lat": 45.0811,
+    "lng": 13.6387,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "coast",
+      "cathedral",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Picturesque Adriatic peninsula town crowned by the baroque Church of St. Euphemia and its towering campanile.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "rovinj-old-town.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see"
+  },
+  {
+    "id": "corpus-museum",
+    "name": "Corpus Museum",
+    "macroRegion": "eu",
+    "region": "South Holland",
+    "subregion": "Oegstgeest",
+    "country": "Netherlands",
+    "lat": 52.1704872,
+    "lng": 4.453483,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Interactive science museum offering a journey through the human body inside a giant human-shaped building.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "corpus-museum.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-06-25"
+  },
+  {
+    "id": "grundtvig-s-church",
+    "name": "Grundtvig's Church",
+    "macroRegion": "eu",
+    "region": "Copenhagen",
+    "subregion": "Bispebjerg",
+    "country": "Denmark",
+    "lat": 55.7205,
+    "lng": 12.5335,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Expressionist yellow-brick church completed in 1940, blending Gothic form with modernist design.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "grundtvig-s-church.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-07-09"
+  },
+  {
+    "id": "saint-cirq-lapopie",
+    "name": "Saint-Cirq-Lapopie",
+    "macroRegion": "eu",
+    "region": "Occitanie",
+    "subregion": "Lot",
+    "country": "France",
+    "lat": 44.4647712,
+    "lng": 1.6687454,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument",
+      "castle"
+    ],
+    "prominence": "signature",
+    "blurb": "Clifftop medieval village above the Lot River, ranked among the most beautiful villages in France.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "saint-cirq-lapopie.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-07-10"
+  },
+  {
+    "id": "jai-vilas-palace",
+    "name": "Jai Vilas Palace",
+    "macroRegion": "eu",
+    "region": "Asia",
+    "subregion": "South Asia",
+    "country": "India",
+    "lat": 26.2033,
+    "lng": 78.1591,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "monument",
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "19th-century Scindia royal palace in Gwalior, famed for its opulent Durbar Hall with giant crystal chandeliers and European decor.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "jai-vilas-palace.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-07-10"
+  },
+  {
+    "id": "umlauftank-2-circulating-tank",
+    "name": "Umlauftank 2 (Circulating Tank)",
+    "macroRegion": "eu",
+    "region": "Berlin",
+    "subregion": "Tiergarten",
+    "country": "Germany",
+    "lat": 52.5087,
+    "lng": 13.3277,
+    "approx": true,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Ludwig Leo's iconic 1974 experimental water research facility with a blue cube and giant pink circulating pipe on the Landwehr Canal.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "umlauftank-2-circulating-tank.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-07-11"
+  },
+  {
+    "id": "king-s-college-chapel",
+    "name": "King's College Chapel",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Cambridge",
+    "country": "United Kingdom",
+    "lat": 52.2047796,
+    "lng": 0.116544,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Iconic 16th-century chapel with the world's largest fan-vaulted ceiling and Rubens' Adoration of the Magi.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "king-s-college-chapel.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-07-14"
+  },
+  {
+    "id": "kew-gardens",
+    "name": "Kew Gardens",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "London",
+    "country": "United Kingdom",
+    "lat": 51.4781974,
+    "lng": -0.2968861,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "Royal Botanic Gardens at Kew, a UNESCO World Heritage site with historic glasshouses and vast plant collections.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "https://www.kew.org/",
+    "link": "https://www.kew.org/",
+    "images": [
+      "kew-gardens.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-07-30"
+  },
+  {
+    "id": "wangen-tower-urbach-turm",
+    "name": "Wangen Tower (Urbach Turm)",
+    "macroRegion": "eu",
+    "region": "Baden-Württemberg",
+    "subregion": "Remstal",
+    "country": "Germany",
+    "lat": 48.8283,
+    "lng": 9.5847,
+    "approx": true,
+    "category": "modern",
+    "themes": [
+      "monument",
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Twisting 14-metre tower of self-shaped curved timber built for the 2019 Remstal Garden Show near Urbach.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "wangen-tower-urbach-turm.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-08-14"
+  },
+  {
+    "id": "clermont-ferrand-cathedral",
+    "name": "Clermont-Ferrand Cathedral",
+    "macroRegion": "eu",
+    "region": "Auvergne-Rhône-Alpes",
+    "subregion": "Puy-de-Dôme",
+    "country": "France",
+    "lat": 45.7789,
+    "lng": 3.0836,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "Gothic cathedral built from black volcanic lava stone, dominating the skyline of Clermont-Ferrand.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "clermont-ferrand-cathedral.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-08-17"
+  },
+  {
+    "id": "the-gates-of-hell-la-porte-de-l-enfer",
+    "name": "The Gates of Hell (La Porte de l'Enfer)",
+    "macroRegion": "eu",
+    "region": "Île-de-France",
+    "subregion": "Paris",
+    "country": "France",
+    "lat": 48.8553,
+    "lng": 2.3158,
+    "approx": true,
+    "category": "personal",
+    "themes": [
+      "art",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Rodin's monumental bronze doors depicting scenes from Dante's Inferno, cast for and displayed at the Musée Rodin.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "the-gates-of-hell-la-porte-de-l-enfer.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-08-29"
+  },
+  {
+    "id": "eltz-castle",
+    "name": "Eltz Castle",
+    "macroRegion": "eu",
+    "region": "Rhineland-Palatinate",
+    "subregion": "Wierschem, Moselle",
+    "country": "Germany",
+    "lat": 50.2058,
+    "lng": 7.3667,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Medieval hilltop castle nestled in forested hills above the Elzbach, owned by the same family for over 850 years.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "eltz-castle.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-03"
+  },
+  {
+    "id": "the-shambles",
+    "name": "The Shambles",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "York, North Yorkshire",
+    "country": "United Kingdom",
+    "lat": 54.1357335,
+    "lng": -0.7995485,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Medieval cobbled street in York with overhanging timber-framed buildings, once home to butchers' shops.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "the-shambles.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-09"
+  },
+  {
+    "id": "portofino",
+    "name": "Portofino",
+    "macroRegion": "eu",
+    "region": "Liguria",
+    "subregion": "Metropolitan City of Genoa",
+    "country": "Italy",
+    "lat": 44.3033,
+    "lng": 9.2097,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast",
+      "food"
+    ],
+    "prominence": "signature",
+    "blurb": "Picturesque Italian Riviera fishing village with a colourful harbour and luxury yachts nestled in a wooded bay.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "portofino.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-09"
+  },
+  {
+    "id": "bmw-museum-bmw-welt",
+    "name": "BMW Museum & BMW Welt",
+    "macroRegion": "eu",
+    "region": "Bavaria",
+    "subregion": "Munich",
+    "country": "Germany",
+    "lat": 48.1772,
+    "lng": 11.5591,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Iconic BMW headquarters tower, museum and futuristic BMW Welt showroom near Munich's Olympic Park.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bmw-museum-bmw-welt.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-12"
+  },
+  {
+    "id": "two-towers-of-bologna-asinelli-and-garisenda",
+    "name": "Two Towers of Bologna (Asinelli and Garisenda)",
+    "macroRegion": "eu",
+    "region": "Emilia-Romagna",
+    "subregion": "Bologna",
+    "country": "Italy",
+    "lat": 44.4941,
+    "lng": 11.3465,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Bologna's iconic medieval leaning towers; the taller Asinelli reaches 97m, with the shorter Garisenda beside it.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "two-towers-of-bologna-asinelli-and-garisenda.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-19"
+  },
+  {
+    "id": "diga-della-verzasca",
+    "name": "Diga della Verzasca",
+    "macroRegion": "eu",
+    "region": "Ticino",
+    "subregion": "Verzasca Valley",
+    "country": "Switzerland",
+    "lat": 46.2586,
+    "lng": 8.8003,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "220m concrete arch dam famed for the GoldenEye bungee jump made iconic by James Bond.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "diga-della-verzasca.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-20"
+  },
+  {
+    "id": "iwm-duxford-sr-71-blackbird",
+    "name": "IWM Duxford - SR-71 Blackbird",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Cambridgeshire",
+    "country": "United Kingdom",
+    "lat": 52.0894,
+    "lng": 0.1319,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Lockheed SR-71 Blackbird reconnaissance jet with its Pratt & Whitney J58 engine displayed at IWM Duxford's American Air Museum.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "iwm-duxford-sr-71-blackbird.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-28"
+  },
+  {
+    "id": "museum-of-witchcraft-and-magic",
+    "name": "Museum of Witchcraft and Magic",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Cornwall",
+    "country": "United Kingdom",
+    "lat": 50.6905948,
+    "lng": -4.6949915,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument",
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Boscastle museum with the world's largest collection of witchcraft and occult artefacts, founded by Cecil Williamson in 1951.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "museum-of-witchcraft-and-magic.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-28"
+  },
+  {
+    "id": "mariendom-neviges",
+    "name": "Mariendom Neviges",
+    "macroRegion": "eu",
+    "region": "North Rhine-Westphalia",
+    "subregion": "Velbert",
+    "country": "Germany",
+    "lat": 51.3127363,
+    "lng": 7.0874376,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Brutalist pilgrimage church designed by Gottfried Böhm in 1968, one of Germany's largest church buildings after Cologne Cathedral.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "mariendom-neviges.webp"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-09-28"
+  },
+  {
+    "id": "abbey-road-studios-and-zebra-crossing",
+    "name": "Abbey Road Studios and Zebra Crossing",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "City of Westminster",
+    "country": "United Kingdom",
+    "lat": 51.531988,
+    "lng": -0.178226,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Famous zebra crossing from the Beatles' 1969 Abbey Road cover, outside the recording studios.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see",
+    "addedAt": "2026-10-05"
+  },
+  {
+    "id": "battersea-power-station",
+    "name": "Battersea Power Station",
+    "macroRegion": "uk",
+    "region": "Greater London",
+    "subregion": "Wandsworth",
+    "country": "United Kingdom",
+    "lat": 51.4817738,
+    "lng": -0.1445821,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "music",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Iconic decommissioned coal power station with four chimneys, famed from Pink Floyd's Animals cover, now a retail and leisure hub.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "battersea-power-station.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-05"
+  },
+  {
+    "id": "ziggy-stardust-plaque",
+    "name": "Ziggy Stardust Plaque",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "City of Westminster",
+    "country": "United Kingdom",
+    "lat": 51.5108635,
+    "lng": -0.1394041,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Plaque marking the Heddon Street spot where David Bowie's Ziggy Stardust album cover was photographed in 1972.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "ziggy-stardust-plaque.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-05"
+  },
+  {
+    "id": "beachy-head",
+    "name": "Beachy Head",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "East Sussex",
+    "country": "United Kingdom",
+    "lat": 50.738185,
+    "lng": 0.2494669,
+    "approx": false,
+    "category": "nature",
+    "themes": [
+      "coast",
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Dramatic chalk headland and cliffs near Eastbourne, the Sussex coast evoked in The Cure's Just Like Heaven.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "beachy-head.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-05"
+  },
+  {
+    "id": "portmeirion",
+    "name": "Portmeirion",
+    "macroRegion": "uk",
+    "region": "Wales",
+    "subregion": "Gwynedd",
+    "country": "United Kingdom",
+    "lat": 52.9134519,
+    "lng": -4.0993545,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument",
+      "art"
+    ],
+    "prominence": "signature",
+    "blurb": "Italianate village designed by Clough Williams-Ellis, famous as the filming location for The Prisoner.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "portmeirion.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-05"
+  },
+  {
+    "id": "ian-curtis-memorial-stone",
+    "name": "Ian Curtis Memorial Stone",
+    "macroRegion": "uk",
+    "region": "North West England",
+    "subregion": "Cheshire",
+    "country": "England",
+    "lat": 53.2663542,
+    "lng": -2.137922,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Memorial stone to Joy Division singer Ian Curtis in Macclesfield Cemetery, a pilgrimage site for post-punk fans.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "ian-curtis-memorial-stone.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "jodrell-bank-observatory",
+    "name": "Jodrell Bank Observatory",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Cheshire",
+    "country": "United Kingdom",
+    "lat": 53.2366504,
+    "lng": -2.3082382,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music",
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Home of the Lovell Telescope and pulsar data linked to Joy Division's Unknown Pleasures cover; now a UNESCO site.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "jodrell-bank-observatory.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "strawberry-studios",
+    "name": "Strawberry Studios",
+    "macroRegion": "uk",
+    "region": "North West England",
+    "subregion": "Greater Manchester",
+    "country": "England",
+    "lat": 53.4070168,
+    "lng": -2.1542789,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music"
+    ],
+    "prominence": "signature",
+    "blurb": "Stockport studio at 3 Waterloo Road where Joy Division recorded Unknown Pleasures in 1979.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "strawberry-studios.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "bletchley-park",
+    "name": "Bletchley Park",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Buckinghamshire",
+    "country": "United Kingdom",
+    "lat": 51.9974936,
+    "lng": -0.7410593,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument",
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "WWII codebreaking centre where Alan Turing and colleagues cracked the Enigma cipher, now a museum of cryptography.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bletchley-park.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "tintagel-castle",
+    "name": "Tintagel Castle",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Cornwall",
+    "country": "United Kingdom",
+    "lat": 50.6686663,
+    "lng": -4.762152,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle",
+      "coast",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Cliff-top medieval ruin on the Cornish coast, long linked to the legend of King Arthur.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "tintagel-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "cerne-abbas-giant",
+    "name": "Cerne Abbas Giant",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Dorset",
+    "country": "United Kingdom",
+    "lat": 50.8136679,
+    "lng": -2.4748234,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Giant chalk hill figure cut into a Dorset hillside, possibly of Saxon or later origin.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "cerne-abbas-giant.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "avebury-stone-circle",
+    "name": "Avebury Stone Circle",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Wiltshire",
+    "country": "United Kingdom",
+    "lat": 51.4286099,
+    "lng": -1.8517053,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "The largest stone circle in Britain, a Neolithic henge you can walk through, near Silbury Hill.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "avebury-stone-circle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "kelvedon-hatch-secret-nuclear-bunker",
+    "name": "Kelvedon Hatch Secret Nuclear Bunker",
+    "macroRegion": "uk",
+    "region": "Essex",
+    "subregion": "Brentwood",
+    "country": "England",
+    "lat": 51.6725,
+    "lng": 0.2611,
+    "approx": true,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Cold War-era underground government bunker turned museum, hidden beneath an ordinary-looking Essex bungalow.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "kelvedon-hatch-secret-nuclear-bunker.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "dunnottar-castle",
+    "name": "Dunnottar Castle",
+    "macroRegion": "uk",
+    "region": "Scotland",
+    "subregion": "Aberdeenshire",
+    "country": "United Kingdom",
+    "lat": 56.9459963,
+    "lng": -2.1970568,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle",
+      "coast",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Dramatic ruined medieval clifftop fortress above the North Sea near Stonehaven, featured in Zeffirelli's Hamlet.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "dunnottar-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "st-peter-s-seminary",
+    "name": "St Peter's Seminary",
+    "macroRegion": "uk",
+    "region": "Scotland",
+    "subregion": "Argyll and Bute",
+    "country": "United Kingdom",
+    "lat": 55.9703108,
+    "lng": -4.6405332,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Gillespie Kidd and Coia's A-listed modernist seminary near Cardross, now a celebrated concrete ruin.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "st-peter-s-seminary.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "goonhilly-earth-station",
+    "name": "Goonhilly Earth Station",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Cornwall",
+    "country": "United Kingdom",
+    "lat": 50.0490966,
+    "lng": -5.183317,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Historic satellite ground station on the Lizard, home to giant dishes that carried the first Telstar transatlantic TV link.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "goonhilly-earth-station.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "loch-ness-2",
+    "name": "Loch Ness",
+    "macroRegion": "uk",
+    "region": "Scotland",
+    "subregion": "Scottish Highlands",
+    "country": "United Kingdom",
+    "lat": 57.3229,
+    "lng": -4.4244,
+    "approx": true,
+    "category": "nature",
+    "themes": [
+      "wildlife",
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "Large deep freshwater loch in the Great Glen, famed for the legendary Loch Ness Monster.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "loch-ness-2.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": "scotland-s-secret-bunker",
+    "name": "Scotland's Secret Bunker",
+    "macroRegion": "uk",
+    "region": "Scotland",
+    "subregion": "Fife",
+    "country": "United Kingdom",
+    "lat": 56.2703811,
+    "lng": -2.6975296,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Cold War nuclear command bunker hidden 100ft underground beneath a Fife farmhouse near Crail.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "scotland-s-secret-bunker.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-07"
+  },
+  {
+    "id": "rosslyn-chapel",
+    "name": "Rosslyn Chapel",
+    "macroRegion": "uk",
+    "region": "Scotland",
+    "subregion": "Midlothian",
+    "country": "United Kingdom",
+    "lat": 55.8553873,
+    "lng": -3.1599363,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "cathedral",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Ornately carved 15th-century chapel near Roslin, famed for its mysterious stonework and Da Vinci Code fame.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "rosslyn-chapel.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-07"
+  },
+  {
+    "id": "glenfinnan-viaduct",
+    "name": "Glenfinnan Viaduct",
+    "macroRegion": "uk",
+    "region": "Scotland",
+    "subregion": "Highlands",
+    "country": "United Kingdom",
+    "lat": 56.8758236,
+    "lng": -5.4293199,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument",
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "Curved 21-arch railway viaduct over Glenfinnan, famous from the Harry Potter films' Hogwarts Express scenes.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "glenfinnan-viaduct.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-07"
+  },
+  {
+    "id": "lindisfarne-castle",
+    "name": "Lindisfarne Castle",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Northumberland",
+    "country": "United Kingdom",
+    "lat": 55.6690608,
+    "lng": -1.7848547,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle",
+      "coast"
+    ],
+    "prominence": "signature",
+    "blurb": "16th-century tidal-island fort on Holy Island, remodelled as an Arts and Crafts home by Edwin Lutyens in 1903.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "lindisfarne-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-07"
+  },
+  {
+    "id": "bodiam-castle",
+    "name": "Bodiam Castle",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "East Sussex",
+    "country": "United Kingdom",
+    "lat": 51.0022632,
+    "lng": 0.5432201,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Moated 14th-century medieval castle in East Sussex, a picturesque National Trust ruin.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "bodiam-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-07"
+  },
+  {
+    "id": "halnaker-tree-tunnel",
+    "name": "Halnaker Tree Tunnel",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "West Sussex",
+    "country": "United Kingdom",
+    "lat": 50.8738,
+    "lng": -0.7147,
+    "approx": true,
+    "category": "nature",
+    "themes": [
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "Atmospheric tunnel of overarching trees along an ancient byway and Roman road near Halnaker, leading to a historic windmill.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "halnaker-tree-tunnel.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": "czech-jet-vr4u-europe",
+    "name": "Czech-Jet VR4U Europe",
+    "macroRegion": "eu",
+    "region": "Liberec Region",
+    "subregion": "Liberec",
+    "country": "Czech Republic",
+    "lat": 50.7663,
+    "lng": 15.0566,
+    "approx": true,
+    "category": "modern",
+    "themes": [
+      "industrial"
+    ],
+    "prominence": "signature",
+    "blurb": "VR4U Europe office at Zelezna 830/12a in Liberec, associated with Czech-Jet.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [],
+    "source": "manual",
+    "status": "want-to-see",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": "trosky-castle",
+    "name": "Trosky Castle",
+    "macroRegion": "eu",
+    "region": "Liberec",
+    "subregion": "Bohemian Paradise",
+    "country": "Czech Republic",
+    "lat": 50.5164024,
+    "lng": 15.2302531,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "castle",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Ruined 14th-century castle perched on two basalt volcanic plugs, an iconic Bohemian Paradise landmark.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "trosky-castle.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": "jested-tower",
+    "name": "Ještěd Tower",
+    "macroRegion": "eu",
+    "region": "Liberec Region",
+    "subregion": "Liberec",
+    "country": "Czech Republic",
+    "lat": 50.7327738,
+    "lng": 14.9839199,
+    "approx": false,
+    "category": "modern",
+    "themes": [
+      "industrial",
+      "mountain"
+    ],
+    "prominence": "signature",
+    "blurb": "Hyperboloid concrete TV tower and hotel crowning the Ještěd summit above Liberec, a Karel Hubáček modernist icon.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "jested-tower.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": "curia-julia",
+    "name": "Curia Julia",
+    "macroRegion": "eu",
+    "region": "Lazio",
+    "subregion": "Rome",
+    "country": "Italy",
+    "lat": 41.8929598,
+    "lng": 12.4853978,
+    "approx": false,
+    "category": "heritage",
+    "themes": [
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Ancient Roman Senate house in the Roman Forum, remarkably well-preserved near the Arch of Septimius Severus.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "curia-julia.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-09"
+  },
+  {
+    "id": "southern-cemetery",
+    "name": "Southern Cemetery",
+    "macroRegion": "uk",
+    "region": "England",
+    "subregion": "Greater Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4291789,
+    "lng": -2.2590361,
+    "approx": false,
+    "category": "personal",
+    "themes": [
+      "music",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Manchester's largest cemetery, resting place of music legends including Tony Wilson of Factory Records.",
+    "timeGated": false,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "southern-cemetery.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-10"
+  },
+  {
+    "id": "pieta-milan-cathedral",
+    "name": "Pietà, Milan Cathedral",
+    "macroRegion": "eu",
+    "region": "Lombardy",
+    "subregion": "Milan",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.1919,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "art",
+      "cathedral"
+    ],
+    "prominence": "signature",
+    "blurb": "A Pietà sculpture housed within the Gothic Milan Cathedral (Duomo di Milano), one of the world's largest churches.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "pieta-milan-cathedral.jpg"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-10"
+  },
+  {
+    "id": "braccio-nuovo",
+    "name": "Braccio Nuovo",
+    "macroRegion": "eu",
+    "region": "Vatican City",
+    "subregion": "Vatican Museums",
+    "country": "Vatican City",
+    "lat": 41.9065,
+    "lng": 12.4536,
+    "approx": true,
+    "category": "heritage",
+    "themes": [
+      "art",
+      "monument"
+    ],
+    "prominence": "signature",
+    "blurb": "Neoclassical gallery in the Vatican Museums housing Roman sculptures including the famous Augustus of Prima Porta.",
+    "timeGated": true,
+    "hours": "",
+    "officialUrl": "",
+    "link": "",
+    "images": [
+      "braccio-nuovo.png"
+    ],
+    "source": "screenshot",
+    "status": "want-to-see",
+    "addedAt": "2026-10-10"
+  }
+]

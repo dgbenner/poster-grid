@@ -1,0 +1,280 @@
+{
+  "id": "siena",
+  "name": "Siena",
+  "lat": 43.3188,
+  "lng": 11.3308,
+  "enrichedAt": "2026-10-11T01:21:42.021Z",
+  "place": {
+    "town": "Siena",
+    "locality": "Contrada della Civetta",
+    "county": "Siena",
+    "adminArea": "Siena",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.3188&lon=11.3308&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Contrada della Civetta, Terzo di San Martino, Siena, Tuscany, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "monteriggioni",
+        "name": "Monteriggioni",
+        "km": 11.8
+      },
+      {
+        "id": "san-gimignano",
+        "name": "San Gimignano",
+        "km": 28.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Siena",
+      "description": "Comune in Tuscany, Italy",
+      "extract": "Siena is a city in the region of Tuscany in central Italy, and the capital of the province of Siena. With a population of 53,180, it is the 12th-largest city in the region.",
+      "url": "https://en.wikipedia.org/wiki/Siena",
+      "coordinates": {
+        "lat": 43.31861111,
+        "lng": 11.33055556
+      },
+      "km": 0,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg/3840px-Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Siena",
+      "description": "Comune in Tuscany, Italy",
+      "extract": "Siena is a city in the region of Tuscany in central Italy, and the capital of the province of Siena. With a population of 53,180, it is the 12th-largest city in the region.",
+      "url": "https://en.wikipedia.org/wiki/Siena",
+      "coordinates": {
+        "lat": 43.31861111,
+        "lng": 11.33055556
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg/3840px-Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "\"One of the most beautiful medieval cities on Earth.\"",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/siena/own-siena.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/siena.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0c0c0d",
+            "share": 0.513
+          },
+          {
+            "hex": "#88624a",
+            "share": 0.148
+          },
+          {
+            "hex": "#000000",
+            "share": 0.123
+          },
+          {
+            "hex": "#b89475",
+            "share": 0.111
+          },
+          {
+            "hex": "#4c3831",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#88624a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/siena/commons-1.jpg",
+      "title": "File:Siena Cattedrale nuova Vista su la Piazza del Campo 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg",
+      "author": "Zairon",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 5181,
+      "height": 3469,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b89171",
+            "share": 0.314
+          },
+          {
+            "hex": "#bcc5d5",
+            "share": 0.242
+          },
+          {
+            "hex": "#896e59",
+            "share": 0.211
+          },
+          {
+            "hex": "#4f4131",
+            "share": 0.117
+          },
+          {
+            "hex": "#7ba3c9",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#b89171"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/siena/commons-2.jpg",
+      "title": "File:Capitoline Wolf at Siena Duomo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sienese_She-Wolf_at_Siena_Duomo.jpg",
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3393,
+      "height": 2254,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#805b4b",
+            "share": 0.396
+          },
+          {
+            "hex": "#6a493d",
+            "share": 0.307
+          },
+          {
+            "hex": "#cac2be",
+            "share": 0.109
+          },
+          {
+            "hex": "#968881",
+            "share": 0.095
+          },
+          {
+            "hex": "#362925",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#805b4b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/siena/commons-3.jpg",
+      "title": "File:Duomo di Siena - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Duomo_di_Siena_-_panoramio.jpg",
+      "author": "Nikolai Karaneschev",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 4721,
+      "height": 3473,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#828488",
+            "share": 0.269
+          },
+          {
+            "hex": "#68acdd",
+            "share": 0.235
+          },
+          {
+            "hex": "#4099d6",
+            "share": 0.184
+          },
+          {
+            "hex": "#5c5d64",
+            "share": 0.167
+          },
+          {
+            "hex": "#acb3b3",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#68acdd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/siena/commons-4.jpg",
+      "title": "File:Institution-of-the-eucharist--Sassetta--Siena Pinacoteca.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Institution-of-the-eucharist--Sassetta--Siena_Pinacoteca.jpg",
+      "author": "Sassetta",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1700,
+      "height": 1087,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bea97c",
+            "share": 0.3
+          },
+          {
+            "hex": "#ae814d",
+            "share": 0.247
+          },
+          {
+            "hex": "#79654b",
+            "share": 0.208
+          },
+          {
+            "hex": "#dcd2ab",
+            "share": 0.168
+          },
+          {
+            "hex": "#342b1a",
+            "share": 0.077
+          }
+        ],
+        "strongest": "#ae814d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#0c0c0d",
+        "share": 0.513
+      },
+      {
+        "hex": "#88624a",
+        "share": 0.148
+      },
+      {
+        "hex": "#000000",
+        "share": 0.123
+      },
+      {
+        "hex": "#b89475",
+        "share": 0.111
+      },
+      {
+        "hex": "#4c3831",
+        "share": 0.105
+      }
+    ],
+    "strongest": "#88624a"
+  }
+}

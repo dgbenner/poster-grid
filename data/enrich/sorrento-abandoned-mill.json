@@ -1,0 +1,254 @@
+{
+  "id": "sorrento-abandoned-mill",
+  "name": "Valle dei Mulini (Abandoned Mill), Sorrento",
+  "lat": 40.6261,
+  "lng": 14.3757,
+  "enrichedAt": "2026-10-11T01:21:43.891Z",
+  "place": {
+    "town": "Sorrento",
+    "locality": "Marina Piccola",
+    "county": "Naples",
+    "adminArea": "Naples",
+    "region": "Campania",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=40.6261&lon=14.3757&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Marina Piccola, Sorrento, Naples, Campania, 80067, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "pompeii-mount-vesuvius",
+        "name": "Pompeii / Mount Vesuvius",
+        "km": 16.6
+      },
+      {
+        "id": "teatro-san-carlo-naples",
+        "name": "Teatro di San Carlo, Naples",
+        "km": 25.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Ruined mill swallowed by green in a ravine.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/sorrento-abandoned-mill/own-sorrento-abandoned-mill.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/sorrento-abandoned-mill.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0b0c0c",
+            "share": 0.459
+          },
+          {
+            "hex": "#252f27",
+            "share": 0.22
+          },
+          {
+            "hex": "#434d41",
+            "share": 0.176
+          },
+          {
+            "hex": "#010101",
+            "share": 0.073
+          },
+          {
+            "hex": "#767a69",
+            "share": 0.072
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sorrento-abandoned-mill/commons-1.jpg",
+      "title": "File:Piazza Tasso - Sorrento - panoramio - kajikawa (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazza_Tasso_-_Sorrento_-_panoramio_-_kajikawa_(2).jpg",
+      "author": "kajikawa",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1280,
+      "height": 960,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0f2117",
+            "share": 0.296
+          },
+          {
+            "hex": "#fcfbfc",
+            "share": 0.228
+          },
+          {
+            "hex": "#314136",
+            "share": 0.202
+          },
+          {
+            "hex": "#5c645d",
+            "share": 0.156
+          },
+          {
+            "hex": "#959591",
+            "share": 0.118
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sorrento-abandoned-mill/commons-2.jpg",
+      "title": "File:Piazza Tasso - Sorrento - panoramio - kajikawa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazza_Tasso_-_Sorrento_-_panoramio_-_kajikawa.jpg",
+      "author": "kajikawa",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1280,
+      "height": 960,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ced0cd",
+            "share": 0.274
+          },
+          {
+            "hex": "#132421",
+            "share": 0.251
+          },
+          {
+            "hex": "#39483f",
+            "share": 0.196
+          },
+          {
+            "hex": "#697367",
+            "share": 0.139
+          },
+          {
+            "hex": "#9aa193",
+            "share": 0.139
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sorrento-abandoned-mill/commons-3.jpg",
+      "title": "File:Sorrento - panoramio - kajikawa (3).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sorrento_-_panoramio_-_kajikawa_(3).jpg",
+      "author": "kajikawa",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1280,
+      "height": 960,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#74825a",
+            "share": 0.28
+          },
+          {
+            "hex": "#1d3025",
+            "share": 0.243
+          },
+          {
+            "hex": "#4a5d3c",
+            "share": 0.207
+          },
+          {
+            "hex": "#a6ab8a",
+            "share": 0.186
+          },
+          {
+            "hex": "#eef2f2",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#1d3025"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sorrento-abandoned-mill/commons-4.jpg",
+      "title": "File:Somewhere in Sorrento - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Somewhere_in_Sorrento_-_panoramio.jpg",
+      "author": "Ainars Brūvelis",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#050505",
+            "share": 0.277
+          },
+          {
+            "hex": "#28241d",
+            "share": 0.242
+          },
+          {
+            "hex": "#504634",
+            "share": 0.212
+          },
+          {
+            "hex": "#7f7258",
+            "share": 0.205
+          },
+          {
+            "hex": "#dcbe88",
+            "share": 0.064
+          }
+        ],
+        "strongest": "#dcbe88"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#0b0c0c",
+        "share": 0.459
+      },
+      {
+        "hex": "#252f27",
+        "share": 0.22
+      },
+      {
+        "hex": "#434d41",
+        "share": 0.176
+      },
+      {
+        "hex": "#010101",
+        "share": 0.073
+      },
+      {
+        "hex": "#767a69",
+        "share": 0.072
+      }
+    ],
+    "strongest": null
+  }
+}

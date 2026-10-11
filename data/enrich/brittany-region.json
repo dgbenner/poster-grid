@@ -1,0 +1,274 @@
+{
+  "id": "brittany-region",
+  "name": "Brittany (region)",
+  "lat": 48.2,
+  "lng": -2.9,
+  "enrichedAt": "2026-10-11T01:21:41.053Z",
+  "place": {
+    "town": "Guerlédan",
+    "locality": null,
+    "county": "Côtes-d'Armor",
+    "adminArea": "Côtes-d'Armor",
+    "region": "Brittany",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.2&lon=-2.9&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Kerbiquet, Carloize, Saint-Guen, Guerlédan, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22530, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Brittany",
+      "description": "Cultural area in northwestern France",
+      "extract": "Brittany is a peninsula, historical region and cultural area in the north-west of modern France, covering the western part of what was known as Armorica in Roman Gaul. It became an independent kingdom and then a duchy before being united with the Kingdom of France in 1532 as a province governed as a separate nation under the crown. Brittany is the traditional homeland of the Breton people and is one of the six Celtic nations, retaining a distinct cultural identity that reflects its history.",
+      "url": "https://en.wikipedia.org/wiki/Brittany",
+      "coordinates": {
+        "lat": 48,
+        "lng": -3
+      },
+      "km": 23.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/18/Satellite_picture_of_Brittany_-_NASA%2C_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Guerlédan",
+      "description": "Commune in Brittany, France",
+      "extract": "Guerlédan is a commune in the department of Côtes-d'Armor, western France. The municipality was established on 1 January 2017 by merger of the former communes of Mûr-de-Bretagne and Saint-Guen. This commune chose its name in reference to the Lake Guerlédan which is on its territory.",
+      "url": "https://en.wikipedia.org/wiki/Guerl%C3%A9dan",
+      "coordinates": {
+        "lat": 48.201,
+        "lng": -2.985
+      },
+      "km": 6.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/bc/M%C3%BBr-de-Bretagne_-_mairie.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Northwesternmost France; rugged coast, the blush-toned Pink Granite Coast, walled Saint-Malo, chic Dinard, abundant prehistoric menhirs. Capital Rennes.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/brittany-region/own-brittany-region.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/brittany-region.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b4428",
+            "share": 0.302
+          },
+          {
+            "hex": "#111920",
+            "share": 0.235
+          },
+          {
+            "hex": "#233139",
+            "share": 0.208
+          },
+          {
+            "hex": "#48513a",
+            "share": 0.17
+          },
+          {
+            "hex": "#60695a",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#3b4428"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brittany-region/commons-1.jpg",
+      "title": "File:ISS062-E-114340 - View of Earth.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:ISS062-E-114340_-_View_of_Earth.jpg",
+      "author": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5568,
+      "height": 3712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#020202",
+            "share": 0.434
+          },
+          {
+            "hex": "#060404",
+            "share": 0.275
+          },
+          {
+            "hex": "#0c0706",
+            "share": 0.187
+          },
+          {
+            "hex": "#190f0b",
+            "share": 0.086
+          },
+          {
+            "hex": "#3d2518",
+            "share": 0.018
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brittany-region/commons-2.jpg",
+      "title": "File:ISS065-E-407032 - View of Earth.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:ISS065-E-407032_-_View_of_Earth.jpg",
+      "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5568,
+      "height": 3712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#070606",
+            "share": 0.348
+          },
+          {
+            "hex": "#292c2e",
+            "share": 0.259
+          },
+          {
+            "hex": "#15181c",
+            "share": 0.234
+          },
+          {
+            "hex": "#594f3d",
+            "share": 0.117
+          },
+          {
+            "hex": "#a98c66",
+            "share": 0.042
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brittany-region/commons-3.jpg",
+      "title": "File:ISS057-E-33637 - View of Earth.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:ISS057-E-33637_-_View_of_Earth.jpg",
+      "author": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5568,
+      "height": 3712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#040404",
+            "share": 0.439
+          },
+          {
+            "hex": "#61717b",
+            "share": 0.179
+          },
+          {
+            "hex": "#3f484e",
+            "share": 0.136
+          },
+          {
+            "hex": "#1c1f20",
+            "share": 0.132
+          },
+          {
+            "hex": "#a0abad",
+            "share": 0.114
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/brittany-region/commons-4.jpg",
+      "title": "File:ISS057-E-33638 - View of Earth.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:ISS057-E-33638_-_View_of_Earth.jpg",
+      "author": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5568,
+      "height": 3712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#040404",
+            "share": 0.44
+          },
+          {
+            "hex": "#61717a",
+            "share": 0.18
+          },
+          {
+            "hex": "#3e484e",
+            "share": 0.135
+          },
+          {
+            "hex": "#1c1f21",
+            "share": 0.131
+          },
+          {
+            "hex": "#a0abac",
+            "share": 0.114
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Bretagne - Brittany.jpg",
+      "why": "map/logo category"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3b4428",
+        "share": 0.302
+      },
+      {
+        "hex": "#111920",
+        "share": 0.235
+      },
+      {
+        "hex": "#233139",
+        "share": 0.208
+      },
+      {
+        "hex": "#48513a",
+        "share": 0.17
+      },
+      {
+        "hex": "#60695a",
+        "share": 0.085
+      }
+    ],
+    "strongest": "#3b4428"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "palaia",
+  "name": "Palaia",
+  "lat": 43.6075,
+  "lng": 10.7733,
+  "enrichedAt": "2026-10-11T01:21:42.111Z",
+  "place": {
+    "town": "Palaia",
+    "locality": null,
+    "county": "Pisa",
+    "adminArea": "Pisa",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.6075&lon=10.7733&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Rosino Basso, Rosino Alto, Palaia, Pisa, Tuscany, 56036, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "volterra",
+        "name": "Volterra",
+        "km": 24
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Small Tuscan hill town.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/palaia/own-palaia.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/palaia.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#736a60",
+            "share": 0.337
+          },
+          {
+            "hex": "#4e4a46",
+            "share": 0.199
+          },
+          {
+            "hex": "#262222",
+            "share": 0.179
+          },
+          {
+            "hex": "#b49e89",
+            "share": 0.165
+          },
+          {
+            "hex": "#7fa0c2",
+            "share": 0.12
+          }
+        ],
+        "strongest": "#7fa0c2"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Porta di palaia.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Palaia torre civica.JPG",
+      "why": "too small"
+    },
+    {
+      "title": "File:Chiesa di Santa Maria a Palaia.JPG",
+      "why": "too small"
+    },
+    {
+      "title": "File:Torre dell'orologio di palaia.JPG",
+      "why": "too small"
+    },
+    {
+      "title": "File:Panorama di palaia dalla Rocca.JPG",
+      "why": "too small"
+    },
+    {
+      "title": "File:Sanmartinopalaia.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#736a60",
+        "share": 0.337
+      },
+      {
+        "hex": "#4e4a46",
+        "share": 0.199
+      },
+      {
+        "hex": "#262222",
+        "share": 0.179
+      },
+      {
+        "hex": "#b49e89",
+        "share": 0.165
+      },
+      {
+        "hex": "#7fa0c2",
+        "share": 0.12
+      }
+    ],
+    "strongest": "#7fa0c2"
+  }
+}

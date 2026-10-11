@@ -1,0 +1,275 @@
+{
+  "id": "temple-expiatori-del-sagrat-cor-tibidabo",
+  "name": "Temple Expiatori del Sagrat Cor, Tibidabo (Barcelona)",
+  "lat": 41.42228,
+  "lng": 2.11862,
+  "enrichedAt": "2026-10-11T01:21:40.437Z",
+  "place": {
+    "town": "Barcelona",
+    "locality": "Sarrià - Sant Gervasi",
+    "county": "Barcelonès",
+    "adminArea": "Barcelonès",
+    "region": "Catalonia",
+    "country": "Spain",
+    "sovereign": "Spain",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.42228&lon=2.11862&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Vallvidrera, el Tibidabo i les Planes, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalonia, Spain"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "sagrada-familia",
+        "name": "Sagrada Família",
+        "km": 5.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Temple Expiatori del Sagrat Cor",
+      "description": "Church in Barcelona, Spain",
+      "extract": "The Temple Expiatori del Sagrat Cor is a Roman Catholic church and minor basilica located on the summit of Mount Tibidabo in Barcelona, Catalonia, Spain. The building is the work of the Catalan architect Enric Sagnier and was completed by his son Josep Maria Sagnier i Vidal. The construction of the church, dedicated to the Sacred Heart of Jesus, lasted from 1902 to 1961.",
+      "url": "https://en.wikipedia.org/wiki/Temple_Expiatori_del_Sagrat_Cor",
+      "coordinates": {
+        "lat": 41.422075,
+        "lng": 2.11886111
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Temple_del_Sagrat_Cor_vist_des_de_la_Talaia_del_Tibidabo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Barcelona",
+      "description": "City and municipality in Catalonia, Spain",
+      "extract": "Barcelona is a city on the northeastern coast of Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second-most populous municipality of Spain after Madrid. With a population of 1.7 million within city limits, its urban area extends to numerous neighbouring municipalities within the province of Barcelona and is home to around 5.7 million people, making it the fifth most populous urban area of the European Union after Paris, the Ruhr area, Madrid, and Milan. It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range.",
+      "url": "https://en.wikipedia.org/wiki/Barcelona",
+      "coordinates": {
+        "lat": 41.38333333,
+        "lng": 2.18333333
+      },
+      "km": 6.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/3840px-Evening_light_over_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Crypt 1903–11, main church 1915–51; by Catalan architect Enric Sagnier. Crowns the Tibidabo hill over the city.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/temple-expiatori-del-sagrat-cor-tibidabo/own-temple-expiatori-del-sagrat-cor-tibidabo.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/temple-expiatori-del-sagrat-cor-tibidabo.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5180c3",
+            "share": 0.231
+          },
+          {
+            "hex": "#b1aea7",
+            "share": 0.222
+          },
+          {
+            "hex": "#84a6d4",
+            "share": 0.203
+          },
+          {
+            "hex": "#7f7a70",
+            "share": 0.199
+          },
+          {
+            "hex": "#434b3e",
+            "share": 0.144
+          }
+        ],
+        "strongest": "#5180c3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/temple-expiatori-del-sagrat-cor-tibidabo/commons-1.jpg",
+      "title": "File:016 Temple expiatori del Sagrat Cor del Tibidabo (Barcelona), interior de la cripta.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:016_Temple_expiatori_del_Sagrat_Cor_del_Tibidabo_(Barcelona),_interior_de_la_cripta.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2816,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#211e18",
+            "share": 0.271
+          },
+          {
+            "hex": "#37332d",
+            "share": 0.266
+          },
+          {
+            "hex": "#565450",
+            "share": 0.236
+          },
+          {
+            "hex": "#7d7f82",
+            "share": 0.167
+          },
+          {
+            "hex": "#c0c1c0",
+            "share": 0.06
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/temple-expiatori-del-sagrat-cor-tibidabo/commons-2.jpg",
+      "title": "File:013 Temple expiatori del Sagrat Cor del Tibidabo (Barcelona), altar major de la cripta.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:013_Temple_expiatori_del_Sagrat_Cor_del_Tibidabo_(Barcelona),_altar_major_de_la_cripta.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2112,
+      "height": 2816,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#53483c",
+            "share": 0.241
+          },
+          {
+            "hex": "#61666a",
+            "share": 0.239
+          },
+          {
+            "hex": "#322e28",
+            "share": 0.222
+          },
+          {
+            "hex": "#181510",
+            "share": 0.2
+          },
+          {
+            "hex": "#92918d",
+            "share": 0.098
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/temple-expiatori-del-sagrat-cor-tibidabo/commons-3.jpg",
+      "title": "File:019 Temple expiatori del Sagrat Cor del Tibidabo (Barcelona), viacrucis de la cripta.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:019_Temple_expiatori_del_Sagrat_Cor_del_Tibidabo_(Barcelona),_viacrucis_de_la_cripta.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2816,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#463f37",
+            "share": 0.279
+          },
+          {
+            "hex": "#312c25",
+            "share": 0.259
+          },
+          {
+            "hex": "#1d1a16",
+            "share": 0.196
+          },
+          {
+            "hex": "#5f584e",
+            "share": 0.161
+          },
+          {
+            "hex": "#86837b",
+            "share": 0.104
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/temple-expiatori-del-sagrat-cor-tibidabo/commons-4.jpg",
+      "title": "File:017 Temple expiatori del Sagrat Cor del Tibidabo (Barcelona), l'ermita originària.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:017_Temple_expiatori_del_Sagrat_Cor_del_Tibidabo_(Barcelona),_l%27ermita_origin%C3%A0ria.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3120,
+      "height": 4160,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#938e8a",
+            "share": 0.33
+          },
+          {
+            "hex": "#ada9a7",
+            "share": 0.304
+          },
+          {
+            "hex": "#78706a",
+            "share": 0.207
+          },
+          {
+            "hex": "#474442",
+            "share": 0.101
+          },
+          {
+            "hex": "#82d4fa",
+            "share": 0.058
+          }
+        ],
+        "strongest": "#82d4fa"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5180c3",
+        "share": 0.231
+      },
+      {
+        "hex": "#b1aea7",
+        "share": 0.222
+      },
+      {
+        "hex": "#84a6d4",
+        "share": 0.203
+      },
+      {
+        "hex": "#7f7a70",
+        "share": 0.199
+      },
+      {
+        "hex": "#434b3e",
+        "share": 0.144
+      }
+    ],
+    "strongest": "#5180c3"
+  }
+}

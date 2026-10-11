@@ -1,0 +1,292 @@
+{
+  "id": "st-davids-head",
+  "name": "St David's Head ponies, Pembrokeshire",
+  "lat": 51.9075,
+  "lng": -5.3,
+  "enrichedAt": "2026-10-11T01:21:34.655Z",
+  "place": {
+    "town": "St Davids",
+    "locality": "St. David's and the Cathedral Close",
+    "county": "Pembrokeshire",
+    "adminArea": "Pembrokeshire",
+    "region": null,
+    "country": "Wales",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.9075&lon=-5.3&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "St. David's and the Cathedral Close, St Davids, Pembrokeshire, Wales, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "skomer",
+        "name": "Skomer (puffins)",
+        "km": 19.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "St David's Head",
+      "description": "Headland in Pembrokeshire, Wales",
+      "extract": "St David's Head is a headland in the Pembrokeshire Coast National Park, southwest Wales, which marks the divide between the Irish Sea and the Celtic Sea. It is noted for its wildflowers and wildlife, and for the remains of ancient human settlement. The headland and its immediate hinterland are owned by the National Trust, and are accessible to the public by foot via the Pembrokeshire Coast Path.",
+      "url": "https://en.wikipedia.org/wiki/St_David's_Head",
+      "coordinates": {
+        "lat": 51.902778,
+        "lng": -5.3125
+      },
+      "km": 1,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/54/St_davids_Head_from_the_northeast_-_geograph.org.uk_-_1529832.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "St Davids",
+      "description": "Cathedral city in Pembrokeshire, Wales",
+      "extract": "St Davids or St David's is a cathedral city in Pembrokeshire, Wales. It lies on the River Alun and is part of the community of St Davids and the Cathedral Close. It is the resting place of Saint David, Wales's patron saint, and named after him.",
+      "url": "https://en.wikipedia.org/wiki/St_Davids",
+      "coordinates": {
+        "lat": 51.882,
+        "lng": -5.269
+      },
+      "km": 3.5,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cf/StDavidsCathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Wild ponies on the headland at Britain’s smallest city.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "wildlife"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/st-davids-head/own-st-davids-head.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/st-davids-head.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e7f2f9",
+            "share": 0.292
+          },
+          {
+            "hex": "#303012",
+            "share": 0.214
+          },
+          {
+            "hex": "#635832",
+            "share": 0.209
+          },
+          {
+            "hex": "#867d5a",
+            "share": 0.15
+          },
+          {
+            "hex": "#b4cdde",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#303012"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-davids-head/commons-1.jpg",
+      "title": "File:Penmaen Dewi - St David's Head - geograph.org.uk - 4303629.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Penmaen_Dewi_-_St_David%27s_Head_-_geograph.org.uk_-_4303629.jpg",
+      "author": "Ian Medcalf",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3600,
+      "height": 2400,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e9acb",
+            "share": 0.247
+          },
+          {
+            "hex": "#acc1e3",
+            "share": 0.247
+          },
+          {
+            "hex": "#504d42",
+            "share": 0.228
+          },
+          {
+            "hex": "#3c3a35",
+            "share": 0.188
+          },
+          {
+            "hex": "#747558",
+            "share": 0.09
+          }
+        ],
+        "strongest": "#acc1e3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-davids-head/commons-2.jpg",
+      "title": "File:Ger Penmaen Dewi - Near St David's Head - geograph.org.uk - 4303639.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ger_Penmaen_Dewi_-_Near_St_David%27s_Head_-_geograph.org.uk_-_4303639.jpg",
+      "author": "Ian Medcalf",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3600,
+      "height": 2400,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8b714f",
+            "share": 0.297
+          },
+          {
+            "hex": "#7ca8ec",
+            "share": 0.292
+          },
+          {
+            "hex": "#5e5347",
+            "share": 0.188
+          },
+          {
+            "hex": "#9d8f7d",
+            "share": 0.12
+          },
+          {
+            "hex": "#598fc3",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#7ca8ec"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-davids-head/commons-3.jpg",
+      "title": "File:National Trust sign on Penmaen Dewi (St Davud's Head), Sir Benfro, Cymru, Wales 05.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:National_Trust_sign_on_Penmaen_Dewi_(St_Davud%27s_Head),_Sir_Benfro,_Cymru,_Wales_05.jpg",
+      "author": "Llywelyn2000",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a5740",
+            "share": 0.282
+          },
+          {
+            "hex": "#666e5d",
+            "share": 0.231
+          },
+          {
+            "hex": "#303e29",
+            "share": 0.183
+          },
+          {
+            "hex": "#888d78",
+            "share": 0.165
+          },
+          {
+            "hex": "#adb3a6",
+            "share": 0.139
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-davids-head/commons-4.jpg",
+      "title": "File:Llwybr Arfordir Sir Benfro - Pembrokeshire Coast Path - geograph.org.uk - 4303609.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Llwybr_Arfordir_Sir_Benfro_-_Pembrokeshire_Coast_Path_-_geograph.org.uk_-_4303609.jpg",
+      "author": "Ian Medcalf",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3600,
+      "height": 2400,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e6644",
+            "share": 0.271
+          },
+          {
+            "hex": "#7fa3e2",
+            "share": 0.257
+          },
+          {
+            "hex": "#5488ab",
+            "share": 0.223
+          },
+          {
+            "hex": "#918c75",
+            "share": 0.177
+          },
+          {
+            "hex": "#bcb9b0",
+            "share": 0.072
+          }
+        ],
+        "strongest": "#7fa3e2"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Ponies grazing at St David's Head - geograph.org.uk - 478443.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Burial chamber, St David's Head-by-Lis-Burke.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Field system at St David's Head - geograph.org.uk - 478440.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:St davids Head from the northeast - geograph.org.uk - 1529832.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#e7f2f9",
+        "share": 0.292
+      },
+      {
+        "hex": "#303012",
+        "share": 0.214
+      },
+      {
+        "hex": "#635832",
+        "share": 0.209
+      },
+      {
+        "hex": "#867d5a",
+        "share": 0.15
+      },
+      {
+        "hex": "#b4cdde",
+        "share": 0.135
+      }
+    ],
+    "strongest": "#303012"
+  }
+}

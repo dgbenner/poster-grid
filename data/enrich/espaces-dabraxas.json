@@ -1,0 +1,286 @@
+{
+  "id": "espaces-dabraxas",
+  "name": "Les Espaces d'Abraxas, Noisy-le-Grand",
+  "lat": 48.8403,
+  "lng": 2.5519,
+  "enrichedAt": "2026-10-11T01:21:40.805Z",
+  "place": {
+    "town": "Noisy-le-Grand",
+    "locality": "Quartier Ouest",
+    "county": "Seine-Saint-Denis",
+    "adminArea": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8403&lon=2.5519&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier Ouest, Noisy-le-Grand, Le Raincy, Seine-Saint-Denis, Ile-de-France, Metropolitan France, 93160, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "arenes-de-picasso",
+        "name": "Les Arènes de Picasso, Noisy-le-Grand",
+        "km": 0.45
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "arenes-de-picasso",
+        "name": "Les Arènes de Picasso, Noisy-le-Grand",
+        "km": 0.5
+      },
+      {
+        "id": "fifth-element-cite-du-cinema",
+        "name": "La Cité du Cinéma, Saint-Denis",
+        "km": 17.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Les Espaces d'Abraxas",
+      "description": "Building complex in Noisy-le-Grand, France",
+      "extract": "Les Espaces d'Abraxas is a high-density housing complex in Noisy-le-Grand, approximately 12 km (7.5 mi) from Paris, France. The building was designed by architect Ricardo Bofill and his architecture practice Ricardo Bofill Taller de Arquitectura (RBTA) in 1978 on behalf of the French government, during a period of increased urbanisation across France after World War II. This rapid urbanisation led to overcrowding and insufficient housing in Paris. To offset this, the French government implemented a project to create five 'New Towns' on the outskirts of the city.",
+      "url": "https://en.wikipedia.org/wiki/Les_Espaces_d'Abraxas",
+      "coordinates": {
+        "lat": 48.8401,
+        "lng": 2.5431
+      },
+      "km": 0.6,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d7/Le_Palacio_at_Les_Espaces_d%27Abraxas.jpg/3840px-Le_Palacio_at_Les_Espaces_d%27Abraxas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Noisy-le-Grand",
+      "description": "Commune in Île-de-France, France",
+      "extract": "Noisy-le-Grand or simply Noisy is a commune in the eastern outer suburbs of Paris, France.",
+      "url": "https://en.wikipedia.org/wiki/Noisy-le-Grand",
+      "coordinates": {
+        "lat": 48.8478,
+        "lng": 2.5528
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mairie_Noisy_Grand_24.jpg/3840px-Mairie_Noisy_Grand_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ricardo Bofill brutalist housing estate, 1982.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/espaces-dabraxas/own-espaces-dabraxas.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/espaces-dabraxas.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7a7b7a",
+            "share": 0.284
+          },
+          {
+            "hex": "#565958",
+            "share": 0.253
+          },
+          {
+            "hex": "#989c9c",
+            "share": 0.234
+          },
+          {
+            "hex": "#303735",
+            "share": 0.147
+          },
+          {
+            "hex": "#bdccce",
+            "share": 0.082
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/espaces-dabraxas/commons-1.jpg",
+      "title": "File:Panneau Direction Noisy Grand D75e Gournay Marne 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panneau_Direction_Noisy_Grand_D75e_Gournay_Marne_2.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3c4e4c",
+            "share": 0.254
+          },
+          {
+            "hex": "#6e6862",
+            "share": 0.206
+          },
+          {
+            "hex": "#222b2b",
+            "share": 0.196
+          },
+          {
+            "hex": "#e1dac2",
+            "share": 0.192
+          },
+          {
+            "hex": "#a4968b",
+            "share": 0.152
+          }
+        ],
+        "strongest": "#e1dac2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/espaces-dabraxas/commons-2.jpg",
+      "title": "File:Panneau Accès Gare Noisy Grand Mont Est Avenue Pavé Neuf - Noisy-le-Grand (FR93) - 2025-01-28 - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panneau_Acc%C3%A8s_Gare_Noisy_Grand_Mont_Est_Avenue_Pav%C3%A9_Neuf_-_Noisy-le-Grand_(FR93)_-_2025-01-28_-_1.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4284,
+      "height": 5712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a49a8f",
+            "share": 0.277
+          },
+          {
+            "hex": "#7e746a",
+            "share": 0.202
+          },
+          {
+            "hex": "#cebfb4",
+            "share": 0.18
+          },
+          {
+            "hex": "#435558",
+            "share": 0.173
+          },
+          {
+            "hex": "#202235",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#202235"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/espaces-dabraxas/commons-3.jpg",
+      "title": "File:Iveco Urbanway 18 GNV n°6889 (RATP - Ligne 206) - (Noisy-le-Grand - Mont d'Est RER, Avenue du Pavé Neuf) - (Noisy-le-Grand, FR93) - 07-10-2024 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iveco_Urbanway_18_GNV_n%C2%B06889_(RATP_-_Ligne_206)_-_(Noisy-le-Grand_-_Mont_d%27Est_RER,_Avenue_du_Pav%C3%A9_Neuf)_-_(Noisy-le-Grand,_FR93)_-_07-10-2024_2.jpg",
+      "author": "Manchesterunited1234",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3819,
+      "height": 1325,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#303232",
+            "share": 0.319
+          },
+          {
+            "hex": "#54544e",
+            "share": 0.276
+          },
+          {
+            "hex": "#161719",
+            "share": 0.173
+          },
+          {
+            "hex": "#7b7b79",
+            "share": 0.146
+          },
+          {
+            "hex": "#cbcecf",
+            "share": 0.087
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/espaces-dabraxas/commons-4.jpg",
+      "title": "File:Iveco Urbanway 18 GNV n°6889 (RATP - Ligne 206) - (Noisy-le-Grand - Mont d'Est RER, Avenue du Pavé Neuf) - (Noisy-le-Grand, FR93) - 07-10-2024 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iveco_Urbanway_18_GNV_n%C2%B06889_(RATP_-_Ligne_206)_-_(Noisy-le-Grand_-_Mont_d%27Est_RER,_Avenue_du_Pav%C3%A9_Neuf)_-_(Noisy-le-Grand,_FR93)_-_07-10-2024_3.jpg",
+      "author": "Manchesterunited1234",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1640,
+      "height": 474,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#383b44",
+            "share": 0.381
+          },
+          {
+            "hex": "#474b51",
+            "share": 0.231
+          },
+          {
+            "hex": "#1e2127",
+            "share": 0.167
+          },
+          {
+            "hex": "#b1b48e",
+            "share": 0.115
+          },
+          {
+            "hex": "#74776d",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#b1b48e"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7a7b7a",
+        "share": 0.284
+      },
+      {
+        "hex": "#565958",
+        "share": 0.253
+      },
+      {
+        "hex": "#989c9c",
+        "share": 0.234
+      },
+      {
+        "hex": "#303735",
+        "share": 0.147
+      },
+      {
+        "hex": "#bdccce",
+        "share": 0.082
+      }
+    ],
+    "strongest": null
+  }
+}

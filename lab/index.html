@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grid Lab</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="lab.css">
+  <script type="module" src="lab.js"></script>
+</head>
+<body>
+  <aside class="panel">
+    <header class="panel-head">
+      <p class="kicker">Poster Grid · Phase 1</p>
+      <h1>Grid Lab</h1>
+      <p class="lede">One A4 page. Switch on each part of the grid to see what it does, then change the numbers and watch the sample poster rearrange.</p>
+    </header>
+
+    <section class="block">
+      <h2 class="block-title">The grid</h2>
+      <div id="parts"></div>
+    </section>
+
+    <section class="block">
+      <h2 class="block-title">Build</h2>
+      <button class="play" id="play" type="button"><span class="play-icon" aria-hidden="true"></span><span id="playLabel">Play build</span></button>
+      <p class="hint">Draws margins, columns, gutters, baseline and rows, then drops each element into its cells. Key: <kbd>P</kbd></p>
+    </section>
+
+    <section class="block">
+      <h2 class="block-title">Type</h2>
+      <div class="pairings" id="pairings"></div>
+    </section>
+
+    <section class="block">
+      <h2 class="block-title">Readout</h2>
+      <dl class="readout" id="readout"></dl>
+    </section>
+
+    <section class="block file">
+      <h2 class="block-title">grid/grid.json</h2>
+      <div class="file-row">
+        <button class="btn" id="save" type="button" disabled>Save</button>
+        <button class="btn ghost" id="revert" type="button" disabled>Revert</button>
+        <span class="status" id="status"></span>
+      </div>
+      <p class="hint">Every poster reads its grid from this file. Saving here changes the grid for everything.</p>
+    </section>
+  </aside>
+
+  <main class="stage">
+    <div class="stage-bar">
+      <div class="seg" id="zoom" role="group" aria-label="Zoom">
+        <button type="button" data-zoom="fit" aria-pressed="true">Fit</button>
+        <button type="button" data-zoom="1" aria-pressed="false">100%</button>
+        <button type="button" data-zoom="2" aria-pressed="false">200%</button>
+      </div>
+      <button class="btn ghost small" id="overlayAll" type="button">Overlay <kbd>G</kbd></button>
+    </div>
+    <div class="viewport" id="viewport">
+      <div class="paper-wrap" id="paperWrap">
+        <div class="paper" id="paper">
+          <div class="els" id="els"></div>
+          <svg class="overlay" id="overlay" aria-hidden="true"></svg>
+          <svg class="hl" id="hl" aria-hidden="true"></svg>
+        </div>
+      </div>
+    </div>
+    <p class="narration" id="narration" aria-live="polite"></p>
+  </main>
+</body>
+</html>

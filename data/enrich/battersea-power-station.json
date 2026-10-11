@@ -1,0 +1,346 @@
+{
+  "id": "battersea-power-station",
+  "name": "Battersea Power Station",
+  "lat": 51.4817738,
+  "lng": -0.1445821,
+  "enrichedAt": "2026-10-11T01:21:45.565Z",
+  "place": {
+    "town": "London",
+    "locality": "Nine Elms",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Wandsworth",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4817738&lon=-0.1445821&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Nine Elms, London Borough of Wandsworth, Greater London, England, SW8 5EE, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 1.56
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 3.25
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 4.36
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 4.4
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 1.6
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 3.3
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 4.4
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 4.4
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 6
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 6.4
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 10
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 10.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Battersea Power Station",
+      "description": "Decommissioned coal-fired power station",
+      "extract": "Battersea Power Station is a preserved coal-fired power station located on the south bank of the River Thames in Nine Elms in the London Borough of Wandsworth. It was built by the London Power Company (LPC) to the design of Leonard Pearce, Engineer in Chief to the LPC, and CS Allott & Son Engineers. The architects were J. Theo Halliday and Giles Gilbert Scott. The station is one of the world's largest brick buildings and notable for its original, Art Deco interior fittings and decor.",
+      "url": "https://en.wikipedia.org/wiki/Battersea_Power_Station",
+      "coordinates": {
+        "lat": 51.48166667,
+        "lng": -0.14472222
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Battersea_Power_Station_from_the_river.jpg/3840px-Battersea_Power_Station_from_the_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "London Borough of Wandsworth",
+      "description": "London borough in United Kingdom",
+      "extract": "Wandsworth is a London borough in South West London, England. It forms part of Inner London and has an estimated population of 329,677 inhabitants. Its main communities are Battersea, Balham, Putney, Tooting and Wandsworth Town.",
+      "url": "https://en.wikipedia.org/wiki/London_Borough_of_Wandsworth",
+      "coordinates": {
+        "lat": 51.45730556,
+        "lng": -0.19486111
+      },
+      "km": 4.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Battersea_Power_Station_IMG_0739.jpg/3840px-Battersea_Power_Station_IMG_0739.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Iconic decommissioned coal power station with four chimneys, famed from Pink Floyd's Animals cover, now a retail and leisure hub.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial",
+    "music",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/battersea-power-station/own-battersea-power-station.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/battersea-power-station.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2a669b",
+            "share": 0.341
+          },
+          {
+            "hex": "#29201a",
+            "share": 0.283
+          },
+          {
+            "hex": "#4c82ab",
+            "share": 0.169
+          },
+          {
+            "hex": "#705e4d",
+            "share": 0.12
+          },
+          {
+            "hex": "#95a6ad",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#2a669b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/battersea-power-station/commons-1.jpg",
+      "title": "File:Battersea Power Station from the river.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station_from_the_river.jpg",
+      "author": "Alberto Pascual",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4885,
+      "height": 3257,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2b679c",
+            "share": 0.361
+          },
+          {
+            "hex": "#29201a",
+            "share": 0.285
+          },
+          {
+            "hex": "#5085ad",
+            "share": 0.155
+          },
+          {
+            "hex": "#715f4d",
+            "share": 0.117
+          },
+          {
+            "hex": "#98a7ad",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#2b679c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/battersea-power-station/commons-2.jpg",
+      "title": "File:Battersea Power Station, 1934 with only two chimneys (Our Generation, 1938).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station,_1934_with_only_two_chimneys_(Our_Generation,_1938).jpg",
+      "author": "Andy Dingley (scanner)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1449,
+      "height": 1379,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#868686",
+            "share": 0.306
+          },
+          {
+            "hex": "#727272",
+            "share": 0.246
+          },
+          {
+            "hex": "#b3b3b3",
+            "share": 0.179
+          },
+          {
+            "hex": "#9c9c9c",
+            "share": 0.167
+          },
+          {
+            "hex": "#545454",
+            "share": 0.101
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/battersea-power-station/commons-3.jpg",
+      "title": "File:Battersea Power Station, Nine Elms, London.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station,_Nine_Elms,_London.jpg",
+      "author": "David Samuel, User:Hellodavey1902",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5432,
+      "height": 3716,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#444853",
+            "share": 0.342
+          },
+          {
+            "hex": "#442418",
+            "share": 0.261
+          },
+          {
+            "hex": "#180604",
+            "share": 0.155
+          },
+          {
+            "hex": "#6a6f72",
+            "share": 0.152
+          },
+          {
+            "hex": "#814824",
+            "share": 0.091
+          }
+        ],
+        "strongest": "#442418"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/battersea-power-station/commons-4.jpg",
+      "title": "File:Battersea Power Station Tube Station.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station_Tube_Station.jpg",
+      "author": "Jack Soley",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3296,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9fc2f6",
+            "share": 0.258
+          },
+          {
+            "hex": "#9aa2b2",
+            "share": 0.215
+          },
+          {
+            "hex": "#d3cecb",
+            "share": 0.183
+          },
+          {
+            "hex": "#514b53",
+            "share": 0.182
+          },
+          {
+            "hex": "#6d788e",
+            "share": 0.163
+          }
+        ],
+        "strongest": "#9fc2f6"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Battersea Power Station - geograph.org.uk - 794104.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Battersea Power Station - geograph.org.uk - 829933.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Battersea Power Station Feb05.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#2a669b",
+        "share": 0.341
+      },
+      {
+        "hex": "#29201a",
+        "share": 0.283
+      },
+      {
+        "hex": "#4c82ab",
+        "share": 0.169
+      },
+      {
+        "hex": "#705e4d",
+        "share": 0.12
+      },
+      {
+        "hex": "#95a6ad",
+        "share": 0.087
+      }
+    ],
+    "strongest": "#2a669b"
+  }
+}

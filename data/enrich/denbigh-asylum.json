@@ -1,0 +1,294 @@
+{
+  "id": "denbigh-asylum",
+  "name": "Denbigh Asylum",
+  "lat": 53.19,
+  "lng": -3.43,
+  "enrichedAt": "2026-10-11T01:21:34.745Z",
+  "place": {
+    "town": "Denbigh",
+    "locality": "Denbigh",
+    "county": "Denbighshire",
+    "adminArea": "Denbighshire",
+    "region": null,
+    "country": "Wales",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.19&lon=-3.43&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Denbigh, Denbighshire, Wales, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Denbigh",
+      "description": "Town in Denbighshire, Wales",
+      "extract": "Denbigh is a market town and a community in Denbighshire, Wales. It was the original county town of the historic county of Denbighshire created in 1536. Denbigh's Welsh name translates to \"Little Fortress\"; a reference to its historic castle. Denbigh lies near the Clwydian Hills.",
+      "url": "https://en.wikipedia.org/wiki/Denbigh",
+      "coordinates": {
+        "lat": 53.1854,
+        "lng": -3.4178
+      },
+      "km": 1,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Denbigh_Library_%28geograph_4696820%29.jpg/3840px-Denbigh_Library_%28geograph_4696820%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Denbigh",
+      "description": "Town in Denbighshire, Wales",
+      "extract": "Denbigh is a market town and a community in Denbighshire, Wales. It was the original county town of the historic county of Denbighshire created in 1536. Denbigh's Welsh name translates to \"Little Fortress\"; a reference to its historic castle. Denbigh lies near the Clwydian Hills.",
+      "url": "https://en.wikipedia.org/wiki/Denbigh",
+      "coordinates": {
+        "lat": 53.1854,
+        "lng": -3.4178
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Denbigh_Library_%28geograph_4696820%29.jpg/3840px-Denbigh_Library_%28geograph_4696820%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The decaying North Wales Hospital — an urbex landmark (now part-redeveloped; access restricted).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/denbigh-asylum/own-denbigh-asylum.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/denbigh-asylum.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.365
+          },
+          {
+            "hex": "#4c4841",
+            "share": 0.259
+          },
+          {
+            "hex": "#706d6c",
+            "share": 0.162
+          },
+          {
+            "hex": "#322e2a",
+            "share": 0.146
+          },
+          {
+            "hex": "#aaa6a6",
+            "share": 0.067
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denbigh-asylum/commons-1.jpg",
+      "title": "File:Denbigh Library (geograph 4696820).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Denbigh_Library_(geograph_4696820).jpg",
+      "author": "Jeff Buck",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#776759",
+            "share": 0.27
+          },
+          {
+            "hex": "#e1e4eb",
+            "share": 0.245
+          },
+          {
+            "hex": "#46372d",
+            "share": 0.179
+          },
+          {
+            "hex": "#b7b3ac",
+            "share": 0.174
+          },
+          {
+            "hex": "#9b8c78",
+            "share": 0.131
+          }
+        ],
+        "strongest": "#46372d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denbigh-asylum/commons-2.jpg",
+      "title": "File:Denbigh Library (geograph 4696820).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Denbigh_Library_(geograph_4696820).jpg",
+      "author": "Jeff Buck",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#776759",
+            "share": 0.27
+          },
+          {
+            "hex": "#e1e4eb",
+            "share": 0.245
+          },
+          {
+            "hex": "#46372d",
+            "share": 0.179
+          },
+          {
+            "hex": "#b7b3ac",
+            "share": 0.174
+          },
+          {
+            "hex": "#9b8c78",
+            "share": 0.131
+          }
+        ],
+        "strongest": "#46372d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denbigh-asylum/commons-3.jpg",
+      "title": "File:Denbigh town 02220.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Denbigh_town_02220.jpg",
+      "author": "Thomas Pennant",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2279,
+      "height": 896,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c0bda9",
+            "share": 0.346
+          },
+          {
+            "hex": "#767261",
+            "share": 0.186
+          },
+          {
+            "hex": "#91907c",
+            "share": 0.173
+          },
+          {
+            "hex": "#aaa98e",
+            "share": 0.158
+          },
+          {
+            "hex": "#545145",
+            "share": 0.138
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/denbigh-asylum/commons-4.jpg",
+      "title": "File:Eglwys Wen, St Marcella's Church, Denbigh.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Eglwys_Wen,_St_Marcella%27s_Church,_Denbigh.JPG",
+      "author": "Yahra",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3840,
+      "height": 2880,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4f4b33",
+            "share": 0.294
+          },
+          {
+            "hex": "#59719e",
+            "share": 0.271
+          },
+          {
+            "hex": "#191b15",
+            "share": 0.153
+          },
+          {
+            "hex": "#716c66",
+            "share": 0.143
+          },
+          {
+            "hex": "#8d99af",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#59719e"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:(General view, Denbigh, Wales) (LOC) (3752434034).jpg",
+      "why": "licence No restrictions"
+    },
+    {
+      "title": "File:A North View of Denbigh Castle, in north Wales.jpeg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Burgess Gate, Denbigh - geograph.org.uk - 1323661.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Denbigh Town Hall - geograph.org.uk - 666850 (cropped).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Denbigh castle, Denbighshire.jpeg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Denbigh castle, Denbighshire.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.365
+      },
+      {
+        "hex": "#4c4841",
+        "share": 0.259
+      },
+      {
+        "hex": "#706d6c",
+        "share": 0.162
+      },
+      {
+        "hex": "#322e2a",
+        "share": 0.146
+      },
+      {
+        "hex": "#aaa6a6",
+        "share": 0.067
+      }
+    ],
+    "strongest": null
+  }
+}

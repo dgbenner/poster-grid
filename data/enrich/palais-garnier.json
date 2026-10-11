@@ -1,0 +1,421 @@
+{
+  "id": "palais-garnier",
+  "name": "Palais Garnier",
+  "lat": 48.8719,
+  "lng": 2.3316,
+  "enrichedAt": "2026-10-11T01:21:40.673Z",
+  "place": {
+    "town": "Paris",
+    "locality": "9th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8719&lon=2.3316&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier de la Chaussée-d'Antin, 9th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75009, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 0.15
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 1.12
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.33
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.33
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 1.36
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 1.37
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 1.37
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 1.61
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 1.67
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 1.96
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 2.18
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 2.27
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 3.11
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 4.67
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 4.69
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 0.2
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 1.1
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.3
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.3
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 1.4
+      },
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 1.4
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 1.4
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 1.6
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 1.7
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 2
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 2.2
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 2.3
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 3.1
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 4.7
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 4.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Palais Garnier",
+      "description": "Opera house in Paris, France",
+      "extract": "The Palais Garnier, also known as Opéra Garnier, is a historic 1,979-seat opera house at the Place de l'Opéra in the 9th arrondissement of Paris, France. It was built for the Paris Opera from 1861 to 1875 at the behest of Emperor Napoleon III. Initially referred to as le nouvel Opéra de Paris, it soon became known as the Palais Garnier, \"in acknowledgment of its extraordinary opulence\" and the architect Charles Garnier's plans and designs, which are representative of the Napoleon III style. It was the primary theatre of the Paris Opera and its associated Paris Opera Ballet until 1989, when a new opera house, the Opéra Bastille, opened at the Place de la Bastille. The company now uses the Palais Garnier mainly for ballet. The theatre has been a monument historique of France since 1923.",
+      "url": "https://en.wikipedia.org/wiki/Palais_Garnier",
+      "coordinates": {
+        "lat": 48.87194444,
+        "lng": 2.33166667
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 2.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/palais-garnier/own-palais-garnier.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/palais-garnier.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#366e92",
+            "share": 0.296
+          },
+          {
+            "hex": "#8a7c69",
+            "share": 0.222
+          },
+          {
+            "hex": "#5e5347",
+            "share": 0.217
+          },
+          {
+            "hex": "#25211c",
+            "share": 0.135
+          },
+          {
+            "hex": "#bbaa91",
+            "share": 0.129
+          }
+        ],
+        "strongest": "#366e92"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/palais-garnier/commons-1.jpg",
+      "title": "File:Amphitheater-Entrance-Palais-Garnier.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amphitheater-Entrance-Palais-Garnier.jpg",
+      "author": "Gre regiment",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6d5d52",
+            "share": 0.253
+          },
+          {
+            "hex": "#947c5f",
+            "share": 0.237
+          },
+          {
+            "hex": "#9b9492",
+            "share": 0.22
+          },
+          {
+            "hex": "#453935",
+            "share": 0.199
+          },
+          {
+            "hex": "#d6bfa0",
+            "share": 0.09
+          }
+        ],
+        "strongest": "#d6bfa0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/palais-garnier/commons-2.jpg",
+      "title": "File:Artemis-Endymion-Palais-Garnier.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemis-Endymion-Palais-Garnier.jpg",
+      "author": "Gre regiment",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2480,
+      "height": 3760,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6f4b2b",
+            "share": 0.246
+          },
+          {
+            "hex": "#48382d",
+            "share": 0.217
+          },
+          {
+            "hex": "#645e5e",
+            "share": 0.19
+          },
+          {
+            "hex": "#866541",
+            "share": 0.182
+          },
+          {
+            "hex": "#94846f",
+            "share": 0.166
+          }
+        ],
+        "strongest": "#6f4b2b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/palais-garnier/commons-3.jpg",
+      "title": "File:Calliope-Dianoia-Euprepia-Palais-Garnier.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Calliope-Dianoia-Euprepia-Palais-Garnier.jpg",
+      "author": "Gre regiment",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2489,
+      "height": 3913,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9c5923",
+            "share": 0.364
+          },
+          {
+            "hex": "#c27a29",
+            "share": 0.307
+          },
+          {
+            "hex": "#62361d",
+            "share": 0.167
+          },
+          {
+            "hex": "#dfa24a",
+            "share": 0.126
+          },
+          {
+            "hex": "#7e7b9c",
+            "share": 0.036
+          }
+        ],
+        "strongest": "#9c5923"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/palais-garnier/commons-4.jpg",
+      "title": "File:Ceilings of the palais Garnier in Paris, 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ceilings_of_the_palais_Garnier_in_Paris,_03.jpg",
+      "author": "isogood",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1000,
+      "height": 667,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#985311",
+            "share": 0.277
+          },
+          {
+            "hex": "#b7751f",
+            "share": 0.262
+          },
+          {
+            "hex": "#b48855",
+            "share": 0.215
+          },
+          {
+            "hex": "#692f0a",
+            "share": 0.134
+          },
+          {
+            "hex": "#c5ab92",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#985311"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#366e92",
+        "share": 0.296
+      },
+      {
+        "hex": "#8a7c69",
+        "share": 0.222
+      },
+      {
+        "hex": "#5e5347",
+        "share": 0.217
+      },
+      {
+        "hex": "#25211c",
+        "share": 0.135
+      },
+      {
+        "hex": "#bbaa91",
+        "share": 0.129
+      }
+    ],
+    "strongest": "#366e92"
+  }
+}

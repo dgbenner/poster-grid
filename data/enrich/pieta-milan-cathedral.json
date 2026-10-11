@@ -1,0 +1,292 @@
+{
+  "id": "pieta-milan-cathedral",
+  "name": "Pietà, Milan Cathedral",
+  "lat": 45.4642,
+  "lng": 9.1919,
+  "enrichedAt": "2026-10-11T01:21:47.313Z",
+  "place": {
+    "town": "Milan",
+    "locality": "Municipio 1",
+    "county": "Milan",
+    "adminArea": "Milan",
+    "region": "Lombardy",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.4642&lon=9.1919&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cerchia dei Navigli, Municipio 1, Milan, Rodano, Milan, Lombardy, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "milan-duomo",
+        "name": "Milan — the Duomo",
+        "km": 0
+      },
+      {
+        "id": "piazzale-loreto-milan",
+        "name": "Piazzale Loreto, Milan",
+        "km": 3.1
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "milan-duomo",
+        "name": "Milan — the Duomo",
+        "km": 0
+      },
+      {
+        "id": "piazzale-loreto-milan",
+        "name": "Piazzale Loreto, Milan",
+        "km": 3.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Milan Cathedral",
+      "description": "Cathedral church of Milan, Italy",
+      "extract": "Milan Cathedral, or Metropolitan Cathedral-Basilica of the Nativity of Saint Mary, is the cathedral church of Milan, Lombardy, Italy. Dedicated to the Nativity of St. Mary, it is the seat of the Archbishop of Milan, currently Archbishop Mario Delpini.",
+      "url": "https://en.wikipedia.org/wiki/Milan_Cathedral",
+      "coordinates": {
+        "lat": 45.46416667,
+        "lng": 9.19138889
+      },
+      "km": 0,
+      "matchedBy": "nearby article",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/3840px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Milan",
+      "description": "Second-largest city in Italy",
+      "extract": "Milan is the capital and largest city of the region of Lombardy, in northern Italy, and the seat of the Metropolitan City of Milan. It is the second-largest city in Italy after the country’s capital, Rome, with a population of 1,362,863 in 2026. The city's wider metropolitan area is the largest in Italy, and the fourth-largest in the European Union, with an estimated population of 6.55 million. Milan is considered Italy's economic capital, and its metropolitan area accounts for about 20% of the country's GDP.",
+      "url": "https://en.wikipedia.org/wiki/Milan",
+      "coordinates": {
+        "lat": 45.46694444,
+        "lng": 9.19
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/3840px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "A Pietà sculpture housed within the Gothic Milan Cathedral (Duomo di Milano), one of the world's largest churches.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "art",
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/pieta-milan-cathedral/own-pieta-milan-cathedral.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/pieta-milan-cathedral.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a301c",
+            "share": 0.319
+          },
+          {
+            "hex": "#704e2b",
+            "share": 0.287
+          },
+          {
+            "hex": "#947a50",
+            "share": 0.155
+          },
+          {
+            "hex": "#c1aa7d",
+            "share": 0.123
+          },
+          {
+            "hex": "#21150e",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#4a301c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pieta-milan-cathedral/commons-1.jpg",
+      "title": "File:Milan Cathedral from Piazza del Duomo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+      "author": "Jiuguang Wang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4164,
+      "height": 3129,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0e65b4",
+            "share": 0.439
+          },
+          {
+            "hex": "#83868b",
+            "share": 0.189
+          },
+          {
+            "hex": "#5d5e62",
+            "share": 0.129
+          },
+          {
+            "hex": "#b6b7b6",
+            "share": 0.128
+          },
+          {
+            "hex": "#2f2e33",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#0e65b4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pieta-milan-cathedral/commons-2.jpg",
+      "title": "File:Chancel and Altar of Milan Cathedral.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chancel_and_Altar_of_Milan_Cathedral.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5778,
+      "height": 3852,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#20180e",
+            "share": 0.288
+          },
+          {
+            "hex": "#0c0805",
+            "share": 0.266
+          },
+          {
+            "hex": "#3a2d1e",
+            "share": 0.214
+          },
+          {
+            "hex": "#594a3a",
+            "share": 0.174
+          },
+          {
+            "hex": "#8a7e6a",
+            "share": 0.058
+          }
+        ],
+        "strongest": "#3a2d1e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pieta-milan-cathedral/commons-3.jpg",
+      "title": "File:Chapel of the Madonna dell'Albero, Milan Cathedral.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chapel_of_the_Madonna_dell%27Albero,_Milan_Cathedral.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3782,
+      "height": 5741,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3c2e22",
+            "share": 0.279
+          },
+          {
+            "hex": "#5e4c3e",
+            "share": 0.225
+          },
+          {
+            "hex": "#1b130c",
+            "share": 0.217
+          },
+          {
+            "hex": "#917c6d",
+            "share": 0.16
+          },
+          {
+            "hex": "#cebeac",
+            "share": 0.118
+          }
+        ],
+        "strongest": "#3c2e22"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/pieta-milan-cathedral/commons-4.jpg",
+      "title": "File:Columns of Milan Cathedral.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Columns_of_Milan_Cathedral.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5806,
+      "height": 3871,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2c2114",
+            "share": 0.324
+          },
+          {
+            "hex": "#493a29",
+            "share": 0.246
+          },
+          {
+            "hex": "#130e08",
+            "share": 0.233
+          },
+          {
+            "hex": "#74614b",
+            "share": 0.164
+          },
+          {
+            "hex": "#b7b1a8",
+            "share": 0.033
+          }
+        ],
+        "strongest": "#2c2114"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4a301c",
+        "share": 0.319
+      },
+      {
+        "hex": "#704e2b",
+        "share": 0.287
+      },
+      {
+        "hex": "#947a50",
+        "share": 0.155
+      },
+      {
+        "hex": "#c1aa7d",
+        "share": 0.123
+      },
+      {
+        "hex": "#21150e",
+        "share": 0.117
+      }
+    ],
+    "strongest": "#4a301c"
+  }
+}

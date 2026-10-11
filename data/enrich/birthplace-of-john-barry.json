@@ -1,0 +1,157 @@
+{
+  "id": "birthplace-of-john-barry",
+  "name": "Birthplace of John Barry",
+  "lat": 52.2,
+  "lng": -6.55,
+  "enrichedAt": "2026-10-11T01:21:37.094Z",
+  "place": {
+    "town": "The Borough District of Wexford",
+    "locality": null,
+    "county": "County Wexford",
+    "adminArea": "County Wexford",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.2&lon=-6.55&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Sarshill, Kilmore ED, The Borough District of Wexford, County Wexford, Leinster, Y35 TW30, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "baldwinstown-castle",
+        "name": "Baldwinstown Castle",
+        "km": 6
+      },
+      {
+        "id": "deserted-castle-overlooking-wexford-town",
+        "name": "Deserted castle overlooking Wexford town",
+        "km": 16.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "\"Father of the US Navy,\" born about three miles from Baldwinstown.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/birthplace-of-john-barry/commons-1.jpg",
+      "title": "File:County Wexford - St. Marys Church, Kilmore, County Wexford - 20241118121326.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:County_Wexford_-_St._Marys_Church,_Kilmore,_County_Wexford_-_20241118121326.jpg",
+      "author": "Rogue29567",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3151,
+      "height": 1827,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dedfe9",
+            "share": 0.26
+          },
+          {
+            "hex": "#36342b",
+            "share": 0.211
+          },
+          {
+            "hex": "#635e57",
+            "share": 0.193
+          },
+          {
+            "hex": "#c9ccd4",
+            "share": 0.19
+          },
+          {
+            "hex": "#949496",
+            "share": 0.147
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/birthplace-of-john-barry/commons-2.jpg",
+      "title": "File:County Wexford - St. Marys Church, Kilmore, County Wexford - 20241118121339.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:County_Wexford_-_St._Marys_Church,_Kilmore,_County_Wexford_-_20241118121339.jpg",
+      "author": "Rogue29567",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3668,
+      "height": 2184,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e4e9f1",
+            "share": 0.275
+          },
+          {
+            "hex": "#5f564c",
+            "share": 0.236
+          },
+          {
+            "hex": "#2f2a22",
+            "share": 0.19
+          },
+          {
+            "hex": "#c8ced7",
+            "share": 0.16
+          },
+          {
+            "hex": "#88898b",
+            "share": 0.139
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Kilmore pharmacy - geograph.org.uk - 1239511.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Aromatherapy centre, Kilmore - geograph.org.uk - 1301978.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#dedfe9",
+        "share": 0.26
+      },
+      {
+        "hex": "#36342b",
+        "share": 0.211
+      },
+      {
+        "hex": "#635e57",
+        "share": 0.193
+      },
+      {
+        "hex": "#c9ccd4",
+        "share": 0.19
+      },
+      {
+        "hex": "#949496",
+        "share": 0.147
+      }
+    ],
+    "strongest": null
+  }
+}

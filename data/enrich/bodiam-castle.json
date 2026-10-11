@@ -1,0 +1,276 @@
+{
+  "id": "bodiam-castle",
+  "name": "Bodiam Castle",
+  "lat": 51.0022632,
+  "lng": 0.5432201,
+  "enrichedAt": "2026-10-11T01:21:47.567Z",
+  "place": {
+    "town": "Rother",
+    "locality": null,
+    "county": "East Sussex",
+    "adminArea": "East Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.0022632&lon=0.5432201&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bodiam, Ewhurst Green, Rother, East Sussex, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "beachy-head",
+        "name": "Beachy Head",
+        "km": 35.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Bodiam Castle",
+      "description": "14th-century moated castle near Robertsbridge in East Sussex, England",
+      "extract": "Bodiam Castle is a 14th-century moated castle near Robertsbridge in East Sussex, England. It was built in 1385 by Sir Edward Dalyngrigge with the permission of Richard II, ostensibly to defend the area against French invasion during the Hundred Years' War. Of quadrangular plan, Bodiam Castle has no keep, having its various chambers built around the outer defensive walls and inner courts. Its corners and entrance are marked by towers, and topped by battlements. Its structure, details and situation in an artificial watery landscape indicate that display was an important aspect of the castle's design as well as defence. It was the home of the Dalyngrigge family and the centre of the manor of Bodiam.",
+      "url": "https://en.wikipedia.org/wiki/Bodiam_Castle",
+      "coordinates": {
+        "lat": 51.0023,
+        "lng": 0.5435
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bodiam-castle-10My8-1197.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Moated 14th-century medieval castle in East Sussex, a picturesque National Trust ruin.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bodiam-castle/own-bodiam-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bodiam-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#746e52",
+            "share": 0.29
+          },
+          {
+            "hex": "#a4a4aa",
+            "share": 0.286
+          },
+          {
+            "hex": "#8b8c7a",
+            "share": 0.155
+          },
+          {
+            "hex": "#4a4d3a",
+            "share": 0.146
+          },
+          {
+            "hex": "#ddc1af",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#ddc1af"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bodiam-castle/commons-1.jpg",
+      "title": "File:Bodiam-castle-10My8-1197.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bodiam-castle-10My8-1197.jpg",
+      "author": "Antony McCallum",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1348,
+      "height": 899,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a4a4a9",
+            "share": 0.297
+          },
+          {
+            "hex": "#736d50",
+            "share": 0.273
+          },
+          {
+            "hex": "#888a76",
+            "share": 0.164
+          },
+          {
+            "hex": "#494d39",
+            "share": 0.144
+          },
+          {
+            "hex": "#ddc1b0",
+            "share": 0.123
+          }
+        ],
+        "strongest": "#ddc1b0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bodiam-castle/commons-2.jpg",
+      "title": "File:Bodiam Castle fromthe north.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bodiam_Castle_fromthe_north.jpg",
+      "author": "Mydogategodshat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1544,
+      "height": 1024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#edeeea",
+            "share": 0.243
+          },
+          {
+            "hex": "#716f69",
+            "share": 0.217
+          },
+          {
+            "hex": "#949798",
+            "share": 0.214
+          },
+          {
+            "hex": "#514b42",
+            "share": 0.167
+          },
+          {
+            "hex": "#c2c0bd",
+            "share": 0.16
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bodiam-castle/commons-3.jpg",
+      "title": "File:Bodiam Castle - geograph.org.uk - 4307491.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bodiam_Castle_-_geograph.org.uk_-_4307491.jpg",
+      "author": "Michael Garlick",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4835,
+      "height": 3163,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#89b8ea",
+            "share": 0.337
+          },
+          {
+            "hex": "#46443b",
+            "share": 0.228
+          },
+          {
+            "hex": "#69655a",
+            "share": 0.187
+          },
+          {
+            "hex": "#1d1e17",
+            "share": 0.163
+          },
+          {
+            "hex": "#d4e4f2",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#89b8ea"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bodiam-castle/commons-4.jpg",
+      "title": "File:Morris dancing in Bodiam Castle - geograph.org.uk - 7277238.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Morris_dancing_in_Bodiam_Castle_-_geograph.org.uk_-_7277238.jpg",
+      "author": "David M Clark",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 683,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#accd56",
+            "share": 0.236
+          },
+          {
+            "hex": "#8d9071",
+            "share": 0.235
+          },
+          {
+            "hex": "#64724e",
+            "share": 0.2
+          },
+          {
+            "hex": "#3e4d30",
+            "share": 0.191
+          },
+          {
+            "hex": "#e1d3a5",
+            "share": 0.137
+          }
+        ],
+        "strongest": "#accd56"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Aerial photo of Bodiam Castle.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Bodiam Castle ground plan.jpg",
+      "why": "logo/map/album filter"
+    },
+    {
+      "title": "File:File-Bodiam Castle gatehouse.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#746e52",
+        "share": 0.29
+      },
+      {
+        "hex": "#a4a4aa",
+        "share": 0.286
+      },
+      {
+        "hex": "#8b8c7a",
+        "share": 0.155
+      },
+      {
+        "hex": "#4a4d3a",
+        "share": 0.146
+      },
+      {
+        "hex": "#ddc1af",
+        "share": 0.124
+      }
+    ],
+    "strongest": "#ddc1af"
+  }
+}

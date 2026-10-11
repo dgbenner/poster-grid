@@ -1,0 +1,291 @@
+{
+  "id": "piazzale-loreto-milan",
+  "name": "Piazzale Loreto, Milan",
+  "lat": 45.486,
+  "lng": 9.2167,
+  "enrichedAt": "2026-10-11T01:21:42.481Z",
+  "place": {
+    "town": "Milan",
+    "locality": "Municipio 3",
+    "county": "Milan",
+    "adminArea": "Milan",
+    "region": "Lombardy",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.486&lon=9.2167&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Municipio 3, Milan, Rodano, Milan, Lombardy, Italy"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "milan-duomo",
+        "name": "Milan — the Duomo",
+        "km": 3.1
+      },
+      {
+        "id": "pieta-milan-cathedral",
+        "name": "Pietà, Milan Cathedral",
+        "km": 3.1
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "milan-duomo",
+        "name": "Milan — the Duomo",
+        "km": 3.1
+      },
+      {
+        "id": "pieta-milan-cathedral",
+        "name": "Pietà, Milan Cathedral",
+        "km": 3.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Piazzale Loreto",
+      "description": "City square in Milan, Italy",
+      "extract": "Piazzale Loreto is a major city square in Milan, Italy.",
+      "url": "https://en.wikipedia.org/wiki/Piazzale_Loreto",
+      "coordinates": {
+        "lat": 45.48645,
+        "lng": 9.21615
+      },
+      "km": 0.1,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Piazzale_Loreto.jpg/3840px-Piazzale_Loreto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Milan",
+      "description": "Second-largest city in Italy",
+      "extract": "Milan is the capital and largest city of the region of Lombardy, in northern Italy, and the seat of the Metropolitan City of Milan. It is the second-largest city in Italy after the country’s capital, Rome, with a population of 1,362,863 in 2026. The city's wider metropolitan area is the largest in Italy, and the fourth-largest in the European Union, with an estimated population of 6.55 million. Milan is considered Italy's economic capital, and its metropolitan area accounts for about 20% of the country's GDP.",
+      "url": "https://en.wikipedia.org/wiki/Milan",
+      "coordinates": {
+        "lat": 45.46694444,
+        "lng": 9.19
+      },
+      "km": 3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/3840px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Where Mussolini's body was displayed in 1945; the spot is now a McDonald's.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/piazzale-loreto-milan/own-piazzale-loreto-milan.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/piazzale-loreto-milan.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#366a94",
+            "share": 0.414
+          },
+          {
+            "hex": "#7794a8",
+            "share": 0.208
+          },
+          {
+            "hex": "#5d6262",
+            "share": 0.147
+          },
+          {
+            "hex": "#cbc9c0",
+            "share": 0.117
+          },
+          {
+            "hex": "#1e272f",
+            "share": 0.114
+          }
+        ],
+        "strongest": "#366a94"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/piazzale-loreto-milan/commons-1.jpg",
+      "title": "File:Piazzale Loreto.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazzale_Loreto.jpg",
+      "author": "Bramfab",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#366a94",
+            "share": 0.411
+          },
+          {
+            "hex": "#7593a8",
+            "share": 0.207
+          },
+          {
+            "hex": "#5c6262",
+            "share": 0.15
+          },
+          {
+            "hex": "#cac8bf",
+            "share": 0.12
+          },
+          {
+            "hex": "#1d262e",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#366a94"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/piazzale-loreto-milan/commons-2.jpg",
+      "title": "File:Piazzale Loreto in Milan.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazzale_Loreto_in_Milan.jpg",
+      "author": "Kaitu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2126,
+      "height": 1634,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b1adac",
+            "share": 0.407
+          },
+          {
+            "hex": "#bab7b8",
+            "share": 0.273
+          },
+          {
+            "hex": "#9f9995",
+            "share": 0.129
+          },
+          {
+            "hex": "#7c746f",
+            "share": 0.103
+          },
+          {
+            "hex": "#464442",
+            "share": 0.088
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/piazzale-loreto-milan/commons-3.jpg",
+      "title": "File:Mussolini e Petacci a Piazzale Loreto, 1945.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mussolini_e_Petacci_a_Piazzale_Loreto,_1945.jpg",
+      "author": "Vincenzo Carrese",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2042,
+      "height": 1451,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f7f5e9",
+            "share": 0.221
+          },
+          {
+            "hex": "#6f705f",
+            "share": 0.217
+          },
+          {
+            "hex": "#464837",
+            "share": 0.205
+          },
+          {
+            "hex": "#989888",
+            "share": 0.195
+          },
+          {
+            "hex": "#c6c4b5",
+            "share": 0.163
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/piazzale-loreto-milan/commons-4.jpg",
+      "title": "File:Piazzale Loreto.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piazzale_Loreto.jpg",
+      "author": "Bramfab",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#366a94",
+            "share": 0.411
+          },
+          {
+            "hex": "#7593a8",
+            "share": 0.207
+          },
+          {
+            "hex": "#5c6262",
+            "share": 0.15
+          },
+          {
+            "hex": "#cac8bf",
+            "share": 0.12
+          },
+          {
+            "hex": "#1d262e",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#366a94"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#366a94",
+        "share": 0.414
+      },
+      {
+        "hex": "#7794a8",
+        "share": 0.208
+      },
+      {
+        "hex": "#5d6262",
+        "share": 0.147
+      },
+      {
+        "hex": "#cbc9c0",
+        "share": 0.117
+      },
+      {
+        "hex": "#1e272f",
+        "share": 0.114
+      }
+    ],
+    "strongest": "#366a94"
+  }
+}

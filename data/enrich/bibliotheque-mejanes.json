@@ -1,0 +1,275 @@
+{
+  "id": "bibliotheque-mejanes",
+  "name": "Bibliothèque Méjanes, Aix-en-Provence",
+  "lat": 43.5226,
+  "lng": 5.4419,
+  "enrichedAt": "2026-10-11T01:21:41.396Z",
+  "place": {
+    "town": "Aix-en-Provence",
+    "locality": "Cuques",
+    "county": "Bouches-du-Rhône",
+    "adminArea": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.5226&lon=5.4419&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cuques, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13621, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "unite-dhabitation-marseille",
+        "name": "Unité d'Habitation, Marseille",
+        "km": 29.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Aix-en-Provence",
+      "description": "City and commune in Southern France",
+      "extract": "Aix-en-Provence, often known as simply Aix, is a city and commune in southern France, about 30 km (20 mi) north of Marseille. A former capital of Provence, it is the subprefecture of the arrondissement of Aix-en-Provence, in the department of Bouches-du-Rhône, in the region of Provence-Alpes-Côte d'Azur. The population of Aix-en-Provence is approximately 148,000. Its inhabitants are called Aixois or, less commonly, Aquisextains.",
+      "url": "https://en.wikipedia.org/wiki/Aix-en-Provence",
+      "coordinates": {
+        "lat": 43.526304,
+        "lng": 5.445429
+      },
+      "km": 0.5,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aix_en_Provence_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Aix-en-Provence",
+      "description": "City and commune in Southern France",
+      "extract": "Aix-en-Provence, often known as simply Aix, is a city and commune in southern France, about 30 km (20 mi) north of Marseille. A former capital of Provence, it is the subprefecture of the arrondissement of Aix-en-Provence, in the department of Bouches-du-Rhône, in the region of Provence-Alpes-Côte d'Azur. The population of Aix-en-Provence is approximately 148,000. Its inhabitants are called Aixois or, less commonly, Aquisextains.",
+      "url": "https://en.wikipedia.org/wiki/Aix-en-Provence",
+      "coordinates": {
+        "lat": 43.526304,
+        "lng": 5.445429
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aix_en_Provence_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Façade shaped like three giant books: Camus's The Stranger, Saint-Exupéry's The Little Prince, Molière's The Imaginary Invalid.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "literary"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bibliotheque-mejanes/own-bibliotheque-mejanes.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bibliotheque-mejanes.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c1aa9c",
+            "share": 0.241
+          },
+          {
+            "hex": "#d4d0ce",
+            "share": 0.219
+          },
+          {
+            "hex": "#794b35",
+            "share": 0.201
+          },
+          {
+            "hex": "#070503",
+            "share": 0.169
+          },
+          {
+            "hex": "#9e8171",
+            "share": 0.169
+          }
+        ],
+        "strongest": "#794b35"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bibliotheque-mejanes/commons-1.jpg",
+      "title": "File:2016 Aix-en-Provence - Hôtel de ville.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2016_Aix-en-Provence_-_H%C3%B4tel_de_ville.jpg",
+      "author": "Ladislaus Hoffner",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1607,
+      "height": 1071,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e5e3c",
+            "share": 0.274
+          },
+          {
+            "hex": "#d3d4de",
+            "share": 0.234
+          },
+          {
+            "hex": "#51402c",
+            "share": 0.209
+          },
+          {
+            "hex": "#261f0f",
+            "share": 0.17
+          },
+          {
+            "hex": "#967b5d",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#7e5e3c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bibliotheque-mejanes/commons-2.jpg",
+      "title": "File:2016 Aix-en-Provence - Le cours Mirabeau.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2016_Aix-en-Provence_-_Le_cours_Mirabeau.jpg",
+      "author": "Ladislaus Hoffner",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1643,
+      "height": 1096,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#35461a",
+            "share": 0.269
+          },
+          {
+            "hex": "#172708",
+            "share": 0.257
+          },
+          {
+            "hex": "#5d633f",
+            "share": 0.235
+          },
+          {
+            "hex": "#918975",
+            "share": 0.144
+          },
+          {
+            "hex": "#c1c1c0",
+            "share": 0.095
+          }
+        ],
+        "strongest": "#35461a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bibliotheque-mejanes/commons-3.jpg",
+      "title": "File:Aix-en-Provence-Fountain-Oct-2001.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aix-en-Provence-Fountain-Oct-2001.jpeg",
+      "author": "Daniel Arnold",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 2036,
+      "height": 1389,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ab9284",
+            "share": 0.271
+          },
+          {
+            "hex": "#7a6966",
+            "share": 0.227
+          },
+          {
+            "hex": "#ceb8a8",
+            "share": 0.214
+          },
+          {
+            "hex": "#4e3c46",
+            "share": 0.149
+          },
+          {
+            "hex": "#f4f0ed",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#ceb8a8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bibliotheque-mejanes/commons-4.jpg",
+      "title": "File:Aix-en-Provence-Les-Bains-Oct-2001.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aix-en-Provence-Les-Bains-Oct-2001.jpeg",
+      "author": "Daniel Arnold",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1373,
+      "height": 2036,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f1e8db",
+            "share": 0.364
+          },
+          {
+            "hex": "#9b8984",
+            "share": 0.275
+          },
+          {
+            "hex": "#654e56",
+            "share": 0.162
+          },
+          {
+            "hex": "#d4c0ae",
+            "share": 0.13
+          },
+          {
+            "hex": "#bad3e7",
+            "share": 0.069
+          }
+        ],
+        "strongest": "#bad3e7"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#c1aa9c",
+        "share": 0.241
+      },
+      {
+        "hex": "#d4d0ce",
+        "share": 0.219
+      },
+      {
+        "hex": "#794b35",
+        "share": 0.201
+      },
+      {
+        "hex": "#070503",
+        "share": 0.169
+      },
+      {
+        "hex": "#9e8171",
+        "share": 0.169
+      }
+    ],
+    "strongest": "#794b35"
+  }
+}

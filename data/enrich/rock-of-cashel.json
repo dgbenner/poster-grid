@@ -1,0 +1,262 @@
+{
+  "id": "rock-of-cashel",
+  "name": "Rock of Cashel",
+  "lat": 52.5201,
+  "lng": -7.8906,
+  "enrichedAt": "2026-10-11T01:21:38.695Z",
+  "place": {
+    "town": "The Municipal District of Cahir — Cashel",
+    "locality": null,
+    "county": "County Tipperary",
+    "adminArea": "County Tipperary",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.5201&lon=-7.8906&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Saint Patricksrock, Cashel Rural, The Municipal District of Cahir — Cashel, County Tipperary, Munster, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "cahir-castle",
+        "name": "Cahir Castle",
+        "km": 16.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Rock of Cashel",
+      "description": "Historic ecclesiastical site in Ireland",
+      "extract": "The Rock of Cashel, also known as Cashel of the Kings and St. Patrick's Rock, is a historical site located dramatically above a plain at Cashel, County Tipperary, Ireland.",
+      "url": "https://en.wikipedia.org/wiki/Rock_of_Cashel",
+      "coordinates": {
+        "lat": 52.52,
+        "lng": -7.89
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rock_of_Cashel_%2849163525453%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The great ecclesiastical fortress on the rock.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/rock-of-cashel/own-rock-of-cashel.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/rock-of-cashel.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e5e5e9",
+            "share": 0.394
+          },
+          {
+            "hex": "#5a5d3d",
+            "share": 0.288
+          },
+          {
+            "hex": "#706b5e",
+            "share": 0.163
+          },
+          {
+            "hex": "#2c321f",
+            "share": 0.126
+          },
+          {
+            "hex": "#a3a09c",
+            "share": 0.029
+          }
+        ],
+        "strongest": "#5a5d3d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rock-of-cashel/commons-1.jpg",
+      "title": "File:Carvings and frescoes, Cormac's Chapel, The Rock of Cashel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carvings_and_frescoes,_Cormac%27s_Chapel,_The_Rock_of_Cashel.jpg",
+      "author": "Rob Hurson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4593,
+      "height": 3416,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#272119",
+            "share": 0.271
+          },
+          {
+            "hex": "#3e352b",
+            "share": 0.26
+          },
+          {
+            "hex": "#62513e",
+            "share": 0.19
+          },
+          {
+            "hex": "#8d755b",
+            "share": 0.169
+          },
+          {
+            "hex": "#d1b086",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#d1b086"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rock-of-cashel/commons-2.jpg",
+      "title": "File:Cashel Cathedral, Rock of Cashel, Caiseal, Éire (32717177688).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cashel_Cathedral,_Rock_of_Cashel,_Caiseal,_%C3%89ire_(32717177688).jpg",
+      "author": "Warren LeMay from Covington, KY, United States",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3024,
+      "height": 4032,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b2c2db",
+            "share": 0.256
+          },
+          {
+            "hex": "#d1bf99",
+            "share": 0.221
+          },
+          {
+            "hex": "#36342e",
+            "share": 0.192
+          },
+          {
+            "hex": "#a99a78",
+            "share": 0.19
+          },
+          {
+            "hex": "#6f6651",
+            "share": 0.142
+          }
+        ],
+        "strongest": "#b2c2db"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rock-of-cashel/commons-3.jpg",
+      "title": "File:Cashel Cathedral, Rock of Cashel, Caiseal, Éire (45867558944).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cashel_Cathedral,_Rock_of_Cashel,_Caiseal,_%C3%89ire_(45867558944).jpg",
+      "author": "Warren LeMay from Covington, KY, United States",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#423727",
+            "share": 0.277
+          },
+          {
+            "hex": "#1e180c",
+            "share": 0.23
+          },
+          {
+            "hex": "#67553f",
+            "share": 0.229
+          },
+          {
+            "hex": "#977e5d",
+            "share": 0.162
+          },
+          {
+            "hex": "#ccd3e2",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#423727"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rock-of-cashel/commons-4.jpg",
+      "title": "File:Cormac's Chapel, Rock of Cashel, Caiseal, Éire (stitched).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cormac%27s_Chapel,_Rock_of_Cashel,_Caiseal,_%C3%89ire_(stitched).jpg",
+      "author": "Warren LeMay from Covington, KY, United States, stitched by Borvan53",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 2448,
+      "height": 2552,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a7b6cf",
+            "share": 0.308
+          },
+          {
+            "hex": "#e6c98d",
+            "share": 0.221
+          },
+          {
+            "hex": "#6e6142",
+            "share": 0.194
+          },
+          {
+            "hex": "#3f3a24",
+            "share": 0.144
+          },
+          {
+            "hex": "#b0986a",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#e6c98d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#e5e5e9",
+        "share": 0.394
+      },
+      {
+        "hex": "#5a5d3d",
+        "share": 0.288
+      },
+      {
+        "hex": "#706b5e",
+        "share": 0.163
+      },
+      {
+        "hex": "#2c321f",
+        "share": 0.126
+      },
+      {
+        "hex": "#a3a09c",
+        "share": 0.029
+      }
+    ],
+    "strongest": "#5a5d3d"
+  }
+}

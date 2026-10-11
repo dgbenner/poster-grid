@@ -1,0 +1,262 @@
+{
+  "id": "cahir-castle",
+  "name": "Cahir Castle",
+  "lat": 52.3756,
+  "lng": -7.9261,
+  "enrichedAt": "2026-10-11T01:21:38.918Z",
+  "place": {
+    "town": "The Municipal District of Cahir — Cashel",
+    "locality": null,
+    "county": "County Tipperary",
+    "adminArea": "County Tipperary",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.3756&lon=-7.9261&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Townparks, Caher, The Municipal District of Cahir — Cashel, County Tipperary, Munster, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "rock-of-cashel",
+        "name": "Rock of Cashel",
+        "km": 16.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Cahir Castle",
+      "description": "Castle in County Tipperary, Ireland",
+      "extract": "Cahir Castle, one of the largest castles in Ireland, is sited on an island in the river Suir. It was built from 1142 by Conchobar Ua Briain, King of Thomond. Now situated in Cahir town centre, County Tipperary, the castle is well preserved and has guided tour and audiovisual shows in multiple languages.",
+      "url": "https://en.wikipedia.org/wiki/Cahir_Castle",
+      "coordinates": {
+        "lat": 52.3745,
+        "lng": -7.9272
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Cahir_Castle%2C_Tipperary_County%2C_Ireland_%286961416840%29_%282%29.jpg/3840px-Cahir_Castle%2C_Tipperary_County%2C_Ireland_%286961416840%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "One of Ireland's largest, best-preserved castles.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/cahir-castle/own-cahir-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/cahir-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e8f80",
+            "share": 0.265
+          },
+          {
+            "hex": "#676a5a",
+            "share": 0.239
+          },
+          {
+            "hex": "#eff4f4",
+            "share": 0.191
+          },
+          {
+            "hex": "#3f4134",
+            "share": 0.162
+          },
+          {
+            "hex": "#b6c3c1",
+            "share": 0.143
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cahir-castle/commons-1.jpg",
+      "title": "File:Cahir Castle, Tipperary County, Ireland (6961416840) (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cahir_Castle,_Tipperary_County,_Ireland_(6961416840)_(2).jpg",
+      "author": "John5199",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3872,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e7366",
+            "share": 0.296
+          },
+          {
+            "hex": "#9e9a85",
+            "share": 0.214
+          },
+          {
+            "hex": "#424537",
+            "share": 0.193
+          },
+          {
+            "hex": "#f5f7f7",
+            "share": 0.161
+          },
+          {
+            "hex": "#bccfd3",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#bccfd3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cahir-castle/commons-2.jpg",
+      "title": "File:Cahir- castle- Ireland..jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cahir-_castle-_Ireland..jpg",
+      "author": "No machine-readable author provided. Valdoria~commonswiki assumed (based on copyright claims).",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1098,
+      "height": 822,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#616c40",
+            "share": 0.43
+          },
+          {
+            "hex": "#eaeff9",
+            "share": 0.289
+          },
+          {
+            "hex": "#323627",
+            "share": 0.131
+          },
+          {
+            "hex": "#b3cfec",
+            "share": 0.1
+          },
+          {
+            "hex": "#908f86",
+            "share": 0.051
+          }
+        ],
+        "strongest": "#b3cfec"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cahir-castle/commons-3.jpg",
+      "title": "File:Cahir Castle, Tipperary County, Ireland (6961416840) (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cahir_Castle,_Tipperary_County,_Ireland_(6961416840)_(2).jpg",
+      "author": "John5199",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3872,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6e7366",
+            "share": 0.296
+          },
+          {
+            "hex": "#9e9a85",
+            "share": 0.214
+          },
+          {
+            "hex": "#424537",
+            "share": 0.193
+          },
+          {
+            "hex": "#f5f7f7",
+            "share": 0.161
+          },
+          {
+            "hex": "#bccfd3",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#bccfd3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cahir-castle/commons-4.jpg",
+      "title": "File:Cahir Castle films plaque.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cahir_Castle_films_plaque.jpg",
+      "author": "Sheila1988",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3456,
+      "height": 4608,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#acaaab",
+            "share": 0.345
+          },
+          {
+            "hex": "#90927f",
+            "share": 0.273
+          },
+          {
+            "hex": "#464a33",
+            "share": 0.176
+          },
+          {
+            "hex": "#6b755c",
+            "share": 0.174
+          },
+          {
+            "hex": "#f0f0ee",
+            "share": 0.032
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#8e8f80",
+        "share": 0.265
+      },
+      {
+        "hex": "#676a5a",
+        "share": 0.239
+      },
+      {
+        "hex": "#eff4f4",
+        "share": 0.191
+      },
+      {
+        "hex": "#3f4134",
+        "share": 0.162
+      },
+      {
+        "hex": "#b6c3c1",
+        "share": 0.143
+      }
+    ],
+    "strongest": null
+  }
+}

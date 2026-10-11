@@ -1,0 +1,275 @@
+{
+  "id": "reichsburg-cochem",
+  "name": "Reichsburg Cochem",
+  "lat": 50.1419,
+  "lng": 7.1639,
+  "enrichedAt": "2026-10-11T01:21:38.986Z",
+  "place": {
+    "town": "Cochem",
+    "locality": "Cond",
+    "county": "Landkreis Cochem-Zell",
+    "adminArea": "Landkreis Cochem-Zell",
+    "region": "Rhineland-Palatinate",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.1419&lon=7.1639&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cond, Cochem, Landkreis Cochem-Zell, Rhineland-Palatinate, 56812, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "eltz-castle",
+        "name": "Eltz Castle",
+        "km": 16.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Cochem",
+      "description": "Town in Rhineland-Palatinate, Germany",
+      "extract": "Cochem is a town in Rhineland-Palatinate, Germany. Situated on the banks of the Moselle River, it is the administrative seat of the Cochem-Zell district and its largest town with around 5,300 inhabitants. The town is known for its riverside setting, historic old town, and the hilltop Reichsburg Cochem, which overlooks the Moselle valley.",
+      "url": "https://en.wikipedia.org/wiki/Cochem",
+      "coordinates": {
+        "lat": 50.14694444,
+        "lng": 7.16666667
+      },
+      "km": 0.6,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cochem_and_Reichsburg.jpg/3840px-Cochem_and_Reichsburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Cochem",
+      "description": "Town in Rhineland-Palatinate, Germany",
+      "extract": "Cochem is a town in Rhineland-Palatinate, Germany. Situated on the banks of the Moselle River, it is the administrative seat of the Cochem-Zell district and its largest town with around 5,300 inhabitants. The town is known for its riverside setting, historic old town, and the hilltop Reichsburg Cochem, which overlooks the Moselle valley.",
+      "url": "https://en.wikipedia.org/wiki/Cochem",
+      "coordinates": {
+        "lat": 50.14694444,
+        "lng": 7.16666667
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cochem_and_Reichsburg.jpg/3840px-Cochem_and_Reichsburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "19th-c. rebuild on a Moselle hilltop.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/reichsburg-cochem/own-reichsburg-cochem.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/reichsburg-cochem.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#322926",
+            "share": 0.271
+          },
+          {
+            "hex": "#5c4941",
+            "share": 0.203
+          },
+          {
+            "hex": "#896c5b",
+            "share": 0.203
+          },
+          {
+            "hex": "#000000",
+            "share": 0.188
+          },
+          {
+            "hex": "#b89881",
+            "share": 0.135
+          }
+        ],
+        "strongest": "#b89881"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/reichsburg-cochem/commons-1.jpg",
+      "title": "File:Cochem and Reichsburg.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cochem_and_Reichsburg.jpg",
+      "author": "Kai Pilger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5788,
+      "height": 3867,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1b3019",
+            "share": 0.273
+          },
+          {
+            "hex": "#c8d4e5",
+            "share": 0.247
+          },
+          {
+            "hex": "#42542d",
+            "share": 0.233
+          },
+          {
+            "hex": "#716c5e",
+            "share": 0.145
+          },
+          {
+            "hex": "#a09a95",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#c8d4e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/reichsburg-cochem/commons-2.jpg",
+      "title": "File:Cochem, Reichsburg, 2012-08 CN-01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cochem,_Reichsburg,_2012-08_CN-01.jpg",
+      "author": "Steffen Schmitz (more photos)",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "width": 3223,
+      "height": 2181,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#526541",
+            "share": 0.342
+          },
+          {
+            "hex": "#66734c",
+            "share": 0.278
+          },
+          {
+            "hex": "#7c796e",
+            "share": 0.174
+          },
+          {
+            "hex": "#3c4d39",
+            "share": 0.115
+          },
+          {
+            "hex": "#a49b98",
+            "share": 0.091
+          }
+        ],
+        "strongest": "#526541"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/reichsburg-cochem/commons-3.jpg",
+      "title": "File:Cochem and Reichsburg.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cochem_and_Reichsburg.jpg",
+      "author": "Kai Pilger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5788,
+      "height": 3867,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1b3019",
+            "share": 0.273
+          },
+          {
+            "hex": "#c8d4e5",
+            "share": 0.247
+          },
+          {
+            "hex": "#42542d",
+            "share": 0.233
+          },
+          {
+            "hex": "#716c5e",
+            "share": 0.145
+          },
+          {
+            "hex": "#a09a95",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#c8d4e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/reichsburg-cochem/commons-4.jpg",
+      "title": "File:One of the inner courts of Reichsburg Cochem (Imperial Castle, Cochem).JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:One_of_the_inner_courts_of_Reichsburg_Cochem_(Imperial_Castle,_Cochem).JPG",
+      "author": "Sb2s3",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1600,
+      "height": 1068,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#252315",
+            "share": 0.279
+          },
+          {
+            "hex": "#42412d",
+            "share": 0.279
+          },
+          {
+            "hex": "#5e604d",
+            "share": 0.215
+          },
+          {
+            "hex": "#8c8e6e",
+            "share": 0.156
+          },
+          {
+            "hex": "#d7d1ad",
+            "share": 0.071
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#322926",
+        "share": 0.271
+      },
+      {
+        "hex": "#5c4941",
+        "share": 0.203
+      },
+      {
+        "hex": "#896c5b",
+        "share": 0.203
+      },
+      {
+        "hex": "#000000",
+        "share": 0.188
+      },
+      {
+        "hex": "#b89881",
+        "share": 0.135
+      }
+    ],
+    "strongest": "#b89881"
+  }
+}

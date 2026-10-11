@@ -1,0 +1,275 @@
+{
+  "id": "volterra",
+  "name": "Volterra",
+  "lat": 43.4015,
+  "lng": 10.8607,
+  "enrichedAt": "2026-10-11T01:21:42.100Z",
+  "place": {
+    "town": "Volterra",
+    "locality": null,
+    "county": "Pisa",
+    "adminArea": "Pisa",
+    "region": "Tuscany",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.4015&lon=10.8607&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Le Cetine, Volterra, Pisa, Tuscany, 56048, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "palaia",
+        "name": "Palaia",
+        "km": 24
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Volterra",
+      "description": "Comune in Tuscany, Italy",
+      "extract": "Volterra is a walled mountaintop town in the Tuscany region of Italy. Its history dates from before the 8th century BC and it has substantial structures from the Etruscan, Roman, and Medieval periods.",
+      "url": "https://en.wikipedia.org/wiki/Volterra",
+      "coordinates": {
+        "lat": 43.4,
+        "lng": 10.86666667
+      },
+      "km": 0.5,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Volterra_from_above._June_2024.jpg/3840px-Volterra_from_above._June_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Volterra",
+      "description": "Comune in Tuscany, Italy",
+      "extract": "Volterra is a walled mountaintop town in the Tuscany region of Italy. Its history dates from before the 8th century BC and it has substantial structures from the Etruscan, Roman, and Medieval periods.",
+      "url": "https://en.wikipedia.org/wiki/Volterra",
+      "coordinates": {
+        "lat": 43.4,
+        "lng": 10.86666667
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Volterra_from_above._June_2024.jpg/3840px-Volterra_from_above._June_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Tuscan hill town of medieval alleys.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/volterra/own-volterra.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/volterra.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#886147",
+            "share": 0.268
+          },
+          {
+            "hex": "#5d4541",
+            "share": 0.229
+          },
+          {
+            "hex": "#3b292a",
+            "share": 0.223
+          },
+          {
+            "hex": "#020202",
+            "share": 0.176
+          },
+          {
+            "hex": "#b08b69",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#886147"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/volterra/commons-1.jpg",
+      "title": "File:Volterra from above. June 2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Volterra_from_above._June_2024.jpg",
+      "author": "BobTanGo",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7c786f",
+            "share": 0.265
+          },
+          {
+            "hex": "#9e938a",
+            "share": 0.229
+          },
+          {
+            "hex": "#535b4f",
+            "share": 0.184
+          },
+          {
+            "hex": "#2d3b24",
+            "share": 0.171
+          },
+          {
+            "hex": "#c4d7dd",
+            "share": 0.151
+          }
+        ],
+        "strongest": "#c4d7dd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/volterra/commons-2.jpg",
+      "title": "File:\"Alabasterstadt\" wird Volterra auch genannt. 09.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%22Alabasterstadt%22_wird_Volterra_auch_genannt._09.jpg",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5906,
+      "height": 3938,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#99816c",
+            "share": 0.306
+          },
+          {
+            "hex": "#ae9d90",
+            "share": 0.251
+          },
+          {
+            "hex": "#765f4c",
+            "share": 0.222
+          },
+          {
+            "hex": "#3a2a1e",
+            "share": 0.118
+          },
+          {
+            "hex": "#bee2fa",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#bee2fa"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/volterra/commons-3.jpg",
+      "title": "File:1208 wurde mit dem Bau des Palazzo dei Priori in Volterra begonnen. 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1208_wurde_mit_dem_Bau_des_Palazzo_dei_Priori_in_Volterra_begonnen._02.jpg",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4249,
+      "height": 5906,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c3b290",
+            "share": 0.355
+          },
+          {
+            "hex": "#6e6253",
+            "share": 0.249
+          },
+          {
+            "hex": "#5392e3",
+            "share": 0.198
+          },
+          {
+            "hex": "#93b5e7",
+            "share": 0.117
+          },
+          {
+            "hex": "#dae5f6",
+            "share": 0.081
+          }
+        ],
+        "strongest": "#5392e3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/volterra/commons-4.jpg",
+      "title": "File:Ruin of the Roman theatre, Volterra, Italy.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ruin_of_the_Roman_theatre,_Volterra,_Italy.jpg",
+      "author": "Peter K Burian",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2700,
+      "height": 1802,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#817e58",
+            "share": 0.313
+          },
+          {
+            "hex": "#a19e58",
+            "share": 0.249
+          },
+          {
+            "hex": "#5a5c40",
+            "share": 0.218
+          },
+          {
+            "hex": "#bfb880",
+            "share": 0.112
+          },
+          {
+            "hex": "#2f3f1f",
+            "share": 0.109
+          }
+        ],
+        "strongest": "#a19e58"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#886147",
+        "share": 0.268
+      },
+      {
+        "hex": "#5d4541",
+        "share": 0.229
+      },
+      {
+        "hex": "#3b292a",
+        "share": 0.223
+      },
+      {
+        "hex": "#020202",
+        "share": 0.176
+      },
+      {
+        "hex": "#b08b69",
+        "share": 0.104
+      }
+    ],
+    "strongest": "#886147"
+  }
+}

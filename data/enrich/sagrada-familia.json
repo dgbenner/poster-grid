@@ -1,0 +1,276 @@
+{
+  "id": "sagrada-familia",
+  "name": "Sagrada Família",
+  "lat": 41.4035046,
+  "lng": 2.1744283,
+  "enrichedAt": "2026-10-11T01:21:44.310Z",
+  "place": {
+    "town": "Barcelona",
+    "locality": "l'Eixample",
+    "county": "Barcelonès",
+    "adminArea": "Barcelonès",
+    "region": "Catalonia",
+    "country": "Spain",
+    "sovereign": "Spain",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.4035046&lon=2.1744283&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "la Sagrada Família, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, Spain"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "temple-expiatori-del-sagrat-cor-tibidabo",
+        "name": "Temple Expiatori del Sagrat Cor, Tibidabo (Barcelona)",
+        "km": 5.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Sagrada Família",
+      "description": "Basilica under construction since 1882 in Barcelona, Spain",
+      "extract": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic church in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, it is the tallest church \nin the world. On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica. In 2005, parts of the Sagrada Família were declared a UNESCO World Heritage Site, under \"Works of Antoni Gaudí\".",
+      "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+      "coordinates": {
+        "lat": 41.40369,
+        "lng": 2.17433
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SF_maig_2_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Barcelona",
+      "description": "City and municipality in Catalonia, Spain",
+      "extract": "Barcelona is a city on the northeastern coast of Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second-most populous municipality of Spain after Madrid. With a population of 1.7 million within city limits, its urban area extends to numerous neighbouring municipalities within the province of Barcelona and is home to around 5.7 million people, making it the fifth most populous urban area of the European Union after Paris, the Ruhr area, Madrid, and Milan. It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range.",
+      "url": "https://en.wikipedia.org/wiki/Barcelona",
+      "coordinates": {
+        "lat": 41.38333333,
+        "lng": 2.18333333
+      },
+      "km": 2.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/3840px-Evening_light_over_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Gaudí's unfinished basilica, under construction since 1882 and a UNESCO World Heritage masterpiece of Catalan modernism.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/sagrada-familia/own-sagrada-familia.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/sagrada-familia.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e2e8ee",
+            "share": 0.295
+          },
+          {
+            "hex": "#b8c4d1",
+            "share": 0.212
+          },
+          {
+            "hex": "#373220",
+            "share": 0.196
+          },
+          {
+            "hex": "#6e5f4d",
+            "share": 0.164
+          },
+          {
+            "hex": "#9d8d7d",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#373220"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sagrada-familia/commons-1.jpg",
+      "title": "File:019 Sagrada Família, interior, façana de la Glòria.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:019_Sagrada_Fam%C3%ADlia,_interior,_fa%C3%A7ana_de_la_Gl%C3%B2ria.jpg",
+      "author": "Enfo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1704,
+      "height": 2272,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d3f2a",
+            "share": 0.396
+          },
+          {
+            "hex": "#685c44",
+            "share": 0.261
+          },
+          {
+            "hex": "#33291d",
+            "share": 0.15
+          },
+          {
+            "hex": "#d7dde0",
+            "share": 0.101
+          },
+          {
+            "hex": "#928e80",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#4d3f2a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sagrada-familia/commons-2.jpg",
+      "title": "File:Apse Ceiling, Sagrada Família, Barcelona, 2023.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Apse_Ceiling,_Sagrada_Fam%C3%ADlia,_Barcelona,_2023.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3848,
+      "height": 5935,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#674f30",
+            "share": 0.316
+          },
+          {
+            "hex": "#8d8675",
+            "share": 0.202
+          },
+          {
+            "hex": "#342416",
+            "share": 0.18
+          },
+          {
+            "hex": "#b88017",
+            "share": 0.176
+          },
+          {
+            "hex": "#d1cbaf",
+            "share": 0.126
+          }
+        ],
+        "strongest": "#b88017"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sagrada-familia/commons-3.jpg",
+      "title": "File:Apse of the Sagrada Família, Barcelona, 2023.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Apse_of_the_Sagrada_Fam%C3%ADlia,_Barcelona,_2023.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 5883,
+      "height": 3227,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3a303c",
+            "share": 0.306
+          },
+          {
+            "hex": "#14111b",
+            "share": 0.258
+          },
+          {
+            "hex": "#846139",
+            "share": 0.18
+          },
+          {
+            "hex": "#54537d",
+            "share": 0.131
+          },
+          {
+            "hex": "#c2a96b",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#846139"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sagrada-familia/commons-4.jpg",
+      "title": "File:Baldomer Gili Roig. La Sagrada Família, 1905 Copia moderna del negatiu original de vidre.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Baldomer_Gili_Roig._La_Sagrada_Fam%C3%ADlia,_1905_Copia_moderna_del_negatiu_original_de_vidre.jpg",
+      "author": "Baldomer Gili i Roig",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1024,
+      "height": 802,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5b5b5b",
+            "share": 0.259
+          },
+          {
+            "hex": "#3b3b3b",
+            "share": 0.228
+          },
+          {
+            "hex": "#f1f1f1",
+            "share": 0.219
+          },
+          {
+            "hex": "#7b7b7b",
+            "share": 0.212
+          },
+          {
+            "hex": "#afafaf",
+            "share": 0.082
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#e2e8ee",
+        "share": 0.295
+      },
+      {
+        "hex": "#b8c4d1",
+        "share": 0.212
+      },
+      {
+        "hex": "#373220",
+        "share": 0.196
+      },
+      {
+        "hex": "#6e5f4d",
+        "share": 0.164
+      },
+      {
+        "hex": "#9d8d7d",
+        "share": 0.133
+      }
+    ],
+    "strongest": "#373220"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "marksburg",
+  "name": "Marksburg",
+  "lat": 50.2747,
+  "lng": 7.6486,
+  "enrichedAt": "2026-10-11T01:21:38.936Z",
+  "place": {
+    "town": "Braubach",
+    "locality": "Nord",
+    "county": "Rhein-Lahn-Kreis",
+    "adminArea": "Rhein-Lahn-Kreis",
+    "region": "Rhineland-Palatinate",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.2747&lon=7.6486&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Hof Schlierbach, Nord, Braubach, Loreley, Rhein-Lahn-Kreis, Rhineland-Palatinate, 56338, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Marksburg",
+      "description": "Castle in Braubach, Rhineland-Palatinate, Germany",
+      "extract": "The Marksburg is a castle above the town of Braubach in Rhineland-Palatinate, Germany. It is one of the principal sites of the Rhine Gorge UNESCO World Heritage Site. The fortress was used for protection rather than as a residence for royal families. It has a striking example of a bergfried designed as a butter-churn tower. Of the 40 hill castles between Bingen am Rhein and Koblenz the Marksburg was one of only two which was never destroyed, and the only one that never fell into disrepair.",
+      "url": "https://en.wikipedia.org/wiki/Marksburg",
+      "coordinates": {
+        "lat": 50.27180556,
+        "lng": 7.64916667
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Marksburg-Braubach.jpg/3840px-Marksburg-Braubach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Braubach",
+      "description": "Town in Rhineland-Palatinate, Germany",
+      "extract": "Braubach is a municipality in the Rhein-Lahn-Kreis, in Rhineland-Palatinate, Germany. It is situated on the right bank of the Rhine, approx. 10 km southeast of Koblenz. Braubach has assorted medieval architecture intact, including portions of the town wall, half-timbered buildings, and castle Marksburg on the hill above.",
+      "url": "https://en.wikipedia.org/wiki/Braubach",
+      "coordinates": {
+        "lat": 50.27472222,
+        "lng": 7.64611111
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Braubach_-_Schlankes_Fachwerkhaus_in_engen_Gassen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "12th–15th c.; the only Rhine hill-castle never destroyed.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/marksburg/own-marksburg.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/marksburg.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.537
+          },
+          {
+            "hex": "#1b1511",
+            "share": 0.208
+          },
+          {
+            "hex": "#453426",
+            "share": 0.108
+          },
+          {
+            "hex": "#dfd2ce",
+            "share": 0.092
+          },
+          {
+            "hex": "#9d7258",
+            "share": 0.055
+          }
+        ],
+        "strongest": "#453426"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marksburg/commons-1.jpg",
+      "title": "File:Marksburg-Braubach.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marksburg-Braubach.jpg",
+      "author": "Tobi 87",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5000,
+      "height": 2959,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4483db",
+            "share": 0.37
+          },
+          {
+            "hex": "#508bdc",
+            "share": 0.24
+          },
+          {
+            "hex": "#283021",
+            "share": 0.217
+          },
+          {
+            "hex": "#dfc1a2",
+            "share": 0.101
+          },
+          {
+            "hex": "#7f776d",
+            "share": 0.072
+          }
+        ],
+        "strongest": "#4483db"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marksburg/commons-2.jpg",
+      "title": "File:Marksburg Braubach 2012.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marksburg_Braubach_2012.jpg",
+      "author": "Felix König",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2200,
+      "height": 1737,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#58624f",
+            "share": 0.26
+          },
+          {
+            "hex": "#374834",
+            "share": 0.218
+          },
+          {
+            "hex": "#81aae7",
+            "share": 0.204
+          },
+          {
+            "hex": "#bbc7e6",
+            "share": 0.173
+          },
+          {
+            "hex": "#74828b",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#81aae7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marksburg/commons-3.jpg",
+      "title": "File:Die Marksburg am Rhein (9268916862).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Die_Marksburg_am_Rhein_(9268916862).jpg",
+      "author": "Heribert Pohl --- Thanks for half a million clicks! from Germering bei München, Bayern",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3032,
+      "height": 1973,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0798ee",
+            "share": 0.272
+          },
+          {
+            "hex": "#45b2ef",
+            "share": 0.217
+          },
+          {
+            "hex": "#202b39",
+            "share": 0.215
+          },
+          {
+            "hex": "#706240",
+            "share": 0.199
+          },
+          {
+            "hex": "#b9b5aa",
+            "share": 0.097
+          }
+        ],
+        "strongest": "#0798ee"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/marksburg/commons-4.jpg",
+      "title": "File:Mittelrheintal, Marksburg bei Braubach (11093976185).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mittelrheintal,_Marksburg_bei_Braubach_(11093976185).jpg",
+      "author": "Heribert Pohl --- Thanks for half a million clicks! from Germering bei München, Bayern",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3469,
+      "height": 2302,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#048ddd",
+            "share": 0.363
+          },
+          {
+            "hex": "#463e0b",
+            "share": 0.265
+          },
+          {
+            "hex": "#094465",
+            "share": 0.147
+          },
+          {
+            "hex": "#1f2512",
+            "share": 0.125
+          },
+          {
+            "hex": "#74631f",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#048ddd"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.537
+      },
+      {
+        "hex": "#1b1511",
+        "share": 0.208
+      },
+      {
+        "hex": "#453426",
+        "share": 0.108
+      },
+      {
+        "hex": "#dfd2ce",
+        "share": 0.092
+      },
+      {
+        "hex": "#9d7258",
+        "share": 0.055
+      }
+    ],
+    "strongest": "#453426"
+  }
+}

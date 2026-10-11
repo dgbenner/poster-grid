@@ -1,0 +1,590 @@
+{
+  "id": "005-beachy-head",
+  "number": 5,
+  "pin_id": "beachy-head",
+  "created_at": "2026-10-11T01:56:12.915Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "Beachy Head lies at the south-east edge of England, so its photo takes the lower right corner of the grid outright, where the place sits on the map."
+  },
+  "title": "Beachy Head",
+  "place": {
+    "town": "Eastbourne",
+    "locality": "Holywell",
+    "county": "East Sussex",
+    "adminArea": "East Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.738185&lon=0.2494669&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Holywell, Eastbourne, East Sussex, England, BN20 7RT, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "accent": "#C8102E",
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Beachy\nHead"
+    },
+    {
+      "element": "county",
+      "text": "East Sussex"
+    },
+    {
+      "element": "region",
+      "text": "South East England"
+    },
+    {
+      "element": "lead",
+      "text": "A chalk headland close to Eastbourne, immediately east of the Seven Sisters."
+    },
+    {
+      "element": "body",
+      "text": "The highest chalk sea cliff in Great Britain, part of the Eastbourne Downland Estate."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Beachy_Head",
+    "https://en.wikipedia.org/wiki/Eastbourne"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/beachy-head/commons-1.jpg",
+    "title": "File:Beachy Head, East Sussex, England-2Oct2011 (1).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head,_East_Sussex,_England-2Oct2011_(1).jpg",
+    "author": "Ian Stannard from Southsea, England",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 2629,
+    "height": 1760,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#425261",
+          "share": 0.298
+        },
+        {
+          "hex": "#29373e",
+          "share": 0.229
+        },
+        {
+          "hex": "#98a8c1",
+          "share": 0.181
+        },
+        {
+          "hex": "#677789",
+          "share": 0.17
+        },
+        {
+          "hex": "#d9d5d4",
+          "share": 0.122
+        }
+      ],
+      "strongest": "#98a8c1"
+    },
+    "credit": "Ian Stannard from Southsea, England, CC BY-SA 2.0"
+  },
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 5,
+      "text": "Beachy\nHead",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 7,
+      "row_span": 1,
+      "text": "East Sussex",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "region",
+      "kind": "label",
+      "col": 6,
+      "col_span": 7,
+      "row": 7,
+      "row_span": 1,
+      "text": "South East England",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 3,
+      "text": "A chalk headland close to Eastbourne, immediately east of the Seven Sisters.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 4,
+      "row": 11,
+      "row_span": 2,
+      "text": "The highest chalk sea cliff in Great Britain, part of the Eastbourne Downland Estate.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 6,
+      "col_span": 7,
+      "row": 8,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 1,
+      "focus_x": 0.6,
+      "focus_y": 0.6,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 7,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 6
+    },
+    "notes": [
+      "Idea: the photo sits in columns 6–12, rows 8–12, but stops at the margins and the footer rule, so it reads as a normal right-hand image, not as the south-east corner taken outright. Widen it to columns 5–12 so it runs to the right margin and down onto the footer rule, then make it the only element in that quadrant.",
+      "Headline: 'Beachy' fills all 12 columns while 'Head' ends at about column 9. That leaves an unplanned empty block of columns 10–12 in rows 5–6. Either let that empty block mirror the photo's corner as a deliberate empty module, or reduce the size slightly so 'Beachy' ends at column 11 and the right edge reads as intentional.",
+      "Spacing: the labels in row 7 sit almost on the baseline of 'Head', with very little air, then a full empty band follows before row 8. Move the labels down half a row, or push the lead and photo up so the gap above and below row 7 is equal.",
+      "Lead: at this size in 4 columns, rows 8–10, the lead breaks into six short lines with a jagged rag ('close to' / 'Eastbourne,'). Widen it to columns 1–5, which makes column 5 the gutter to the photo at column 6, or drop one size step to get four or five even lines.",
+      "Body: the body hangs at the top of row 11 and stops about two-thirds of the way down. That leaves the bottom of row 12 empty next to the photo's lower edge. Bottom-align the body's last baseline with the photo's bottom edge at the end of row 12 so the left column locks to the corner the idea is about.",
+      "Lead and body share columns 1–4 with no change of measure. Keep the lead on 1–4 and set the body on columns 1–3 for a shorter measure at text size. This also tightens its rag.",
+      "Color: the red is used only on the small row-7 label above the photo, in columns 6–12. It points to the corner but is too weak to carry the idea. Repeat the accent once more, for example as a rule on the photo's top edge across columns 6–12, or remove it and let the photo's blue and white carry the color against the warm paper."
+    ],
+    "summary": "This is a competent, clean layout. The 12-column headline is strong and the photo is clearly anchored at lower right, aligned to the red label on column 6. The map-corner idea is only half delivered, though: the photo is boxed in by the margins, and the left text column floats instead of locking to the photo's bottom edge. Tighten the row-7 spacing, re-measure the lead, and bottom-align the body to row 12 to reach a keepable 7.",
+    "mean": 6.4
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 5
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#C8102E"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Beachy Head",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "East Sussex",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "05 / 10",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Beachy Head"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "East Sussex"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Nature"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Ian Stannard from Southsea, England, CC BY-SA 2.0"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Beachy\nHead"
+      },
+      {
+        "id": "el-2",
+        "name": "county",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 7,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "East Sussex"
+      },
+      {
+        "id": "el-3",
+        "name": "region",
+        "kind": "label",
+        "c": 6,
+        "cs": 7,
+        "r": 7,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "South East England"
+      },
+      {
+        "id": "el-4",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 4,
+        "r": 8,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A chalk headland close to Eastbourne, immediately east of the Seven Sisters.",
+        "style": "lead"
+      },
+      {
+        "id": "el-5",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 4,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "The highest chalk sea cliff in Great Britain, part of the Eastbourne Downland Estate.",
+        "style": "body"
+      },
+      {
+        "id": "el-6",
+        "name": "photo",
+        "kind": "photo",
+        "c": 6,
+        "cs": 7,
+        "r": 8,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/beachy-head/commons-1.jpg",
+        "zoom": 1,
+        "focus": [
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  "image": "posters/img/005-beachy-head.png"
+}

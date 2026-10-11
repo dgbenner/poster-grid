@@ -1,0 +1,289 @@
+{
+  "id": "umlauftank-2-circulating-tank",
+  "name": "Umlauftank 2 (Circulating Tank)",
+  "lat": 52.5087,
+  "lng": 13.3277,
+  "enrichedAt": "2026-10-11T01:21:45.021Z",
+  "place": {
+    "town": "Berlin",
+    "locality": "Charlottenburg",
+    "county": "Berlin",
+    "adminArea": null,
+    "region": null,
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.5087&lon=13.3277&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "brandenburg-gate",
+        "name": "Brandenburg Gate",
+        "km": 3.49
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "brandenburg-gate",
+        "name": "Brandenburg Gate",
+        "km": 3.5
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 5.2
+      },
+      {
+        "id": "boltanski-missing-house",
+        "name": "Boltanski, The Missing House",
+        "km": 5.2
+      },
+      {
+        "id": "berlin-street-chess",
+        "name": "Berlin Street Chess",
+        "km": 5.4
+      },
+      {
+        "id": "erholungspark-marzahn-chinese-garden",
+        "name": "Erholungspark Marzahn — Chinese Garden",
+        "km": 17
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Berlin",
+      "description": "Capital and largest city of Germany",
+      "extract": "Berlin is the capital and largest city of Germany. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union (EU). The metropolis is also one of the states of Germany, being the third-smallest state in the country by area. Berlin is surrounded by the state of Brandenburg, bordering Brandenburg's capital Potsdam to the southwest. The urban area of Berlin has a population of 4.5 million, making it the second most populous in Germany after the Ruhr. The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's second-largest metropolitan region after the Rhine-Ruhr region, as well as the fifth-biggest metropolitan region by GDP in the EU. Berlin is a global city of culture, politics, media and science.",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "km": 5.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/3840px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ludwig Leo's iconic 1974 experimental water research facility with a blue cube and giant pink circulating pipe on the Landwehr Canal.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/umlauftank-2-circulating-tank/own-umlauftank-2-circulating-tank.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/umlauftank-2-circulating-tank.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c6a6f",
+            "share": 0.254
+          },
+          {
+            "hex": "#ccd0d7",
+            "share": 0.211
+          },
+          {
+            "hex": "#474130",
+            "share": 0.197
+          },
+          {
+            "hex": "#e9edf5",
+            "share": 0.188
+          },
+          {
+            "hex": "#b49796",
+            "share": 0.15
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/umlauftank-2-circulating-tank/commons-1.jpg",
+      "title": "File:Charlottenburg Konzertsaal der UDK.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Charlottenburg_Konzertsaal_der_UDK.JPG",
+      "author": "Fridolin freudenfett (Peter Kuley)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3072,
+      "height": 1977,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#908e8c",
+            "share": 0.359
+          },
+          {
+            "hex": "#394045",
+            "share": 0.212
+          },
+          {
+            "hex": "#4c87d0",
+            "share": 0.194
+          },
+          {
+            "hex": "#63a3e7",
+            "share": 0.119
+          },
+          {
+            "hex": "#d6d3d1",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#4c87d0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/umlauftank-2-circulating-tank/commons-2.jpg",
+      "title": "File:Wyndham Excelsior Hotel Berlin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wyndham_Excelsior_Hotel_Berlin.jpg",
+      "author": "Gerd Fahrenhorst",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4896,
+      "height": 3672,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#707070",
+            "share": 0.306
+          },
+          {
+            "hex": "#575554",
+            "share": 0.295
+          },
+          {
+            "hex": "#f5f5f8",
+            "share": 0.194
+          },
+          {
+            "hex": "#32302e",
+            "share": 0.129
+          },
+          {
+            "hex": "#929598",
+            "share": 0.076
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/umlauftank-2-circulating-tank/commons-3.jpg",
+      "title": "File:Schwarze PVC-Skulptur.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schwarze_PVC-Skulptur.jpg",
+      "author": "Shisma",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4048,
+      "height": 3036,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a9a598",
+            "share": 0.327
+          },
+          {
+            "hex": "#fafbfa",
+            "share": 0.236
+          },
+          {
+            "hex": "#cfcdc5",
+            "share": 0.164
+          },
+          {
+            "hex": "#2c333a",
+            "share": 0.145
+          },
+          {
+            "hex": "#696c69",
+            "share": 0.127
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/umlauftank-2-circulating-tank/commons-4.jpg",
+      "title": "File:Charlottenburg Konzertsaal der UDK-001.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Charlottenburg_Konzertsaal_der_UDK-001.JPG",
+      "author": "Fridolin freudenfett (Peter Kuley)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9f9a92",
+            "share": 0.286
+          },
+          {
+            "hex": "#65aaf0",
+            "share": 0.27
+          },
+          {
+            "hex": "#7a7462",
+            "share": 0.188
+          },
+          {
+            "hex": "#3c3e36",
+            "share": 0.186
+          },
+          {
+            "hex": "#cfcbc8",
+            "share": 0.071
+          }
+        ],
+        "strongest": "#65aaf0"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6c6a6f",
+        "share": 0.254
+      },
+      {
+        "hex": "#ccd0d7",
+        "share": 0.211
+      },
+      {
+        "hex": "#474130",
+        "share": 0.197
+      },
+      {
+        "hex": "#e9edf5",
+        "share": 0.188
+      },
+      {
+        "hex": "#b49796",
+        "share": 0.15
+      }
+    ],
+    "strongest": null
+  }
+}

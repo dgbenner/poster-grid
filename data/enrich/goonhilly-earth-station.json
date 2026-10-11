@@ -1,0 +1,281 @@
+{
+  "id": "goonhilly-earth-station",
+  "name": "Goonhilly Earth Station",
+  "lat": 50.0490966,
+  "lng": -5.183317,
+  "enrichedAt": "2026-10-11T01:21:45.900Z",
+  "place": {
+    "town": "Mawgan-in-Meneage",
+    "locality": null,
+    "county": "Cornwall",
+    "adminArea": "Cornwall",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.0490966&lon=-5.183317&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Higher Relowas, Chybilly, Mawgan-in-Meneage, Cornwall, England, TR12 6AG, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "tintagel-castle",
+        "name": "Tintagel Castle",
+        "km": 75.1
+      },
+      {
+        "id": "museum-of-witchcraft-and-magic",
+        "name": "Museum of Witchcraft and Magic",
+        "km": 79.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Goonhilly Satellite Earth Station",
+      "description": "Radiocommunication site in Cornwall, England",
+      "extract": "Goonhilly Satellite Earth Station is a large radiocommunication site located on Goonhilly Downs near Helston on the Lizard peninsula in Cornwall, Britain. Owned by Goonhilly Earth Station Ltd under a 999-year lease from BT Group plc, it was at one time the largest satellite earth station in the world, with more than 30 communication antennas and dishes in use. The site also links into undersea cable lines.",
+      "url": "https://en.wikipedia.org/wiki/Goonhilly_Satellite_Earth_Station",
+      "coordinates": {
+        "lat": 50.04805556,
+        "lng": -5.18194444
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Goonhilly2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Mawgan-in-Meneage",
+      "description": "Civil parish in Cornwall, England",
+      "extract": "Mawgan-in-Meneage is a village and civil parish in Cornwall, England. It is within the Meneage district of The Lizard peninsula, south of Helston, in the former administrative district of Kerrier. Mawgan-in-Meneage lies within the Cornwall National Landscape. The parish population at the 2011 census was 1437.",
+      "url": "https://en.wikipedia.org/wiki/Mawgan-in-Meneage",
+      "coordinates": {
+        "lat": 50.08,
+        "lng": -5.206
+      },
+      "km": 3.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Mawgan-in-Meneage_church_-_geograph.org.uk_-_418399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Historic satellite ground station on the Lizard, home to giant dishes that carried the first Telstar transatlantic TV link.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/goonhilly-earth-station/own-goonhilly-earth-station.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/goonhilly-earth-station.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eaecec",
+            "share": 0.458
+          },
+          {
+            "hex": "#191d0e",
+            "share": 0.237
+          },
+          {
+            "hex": "#d2d3d1",
+            "share": 0.131
+          },
+          {
+            "hex": "#47433a",
+            "share": 0.115
+          },
+          {
+            "hex": "#919493",
+            "share": 0.058
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/goonhilly-earth-station/commons-1.jpg",
+      "title": "File:Goonhilly Satellite Earth Station, Cornwall, England-29Sept2009.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Goonhilly_Satellite_Earth_Station,_Cornwall,_England-29Sept2009.jpg",
+      "author": "Edward Webb from Cornwall, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2136,
+      "height": 2694,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#243037",
+            "share": 0.29
+          },
+          {
+            "hex": "#1f68b0",
+            "share": 0.252
+          },
+          {
+            "hex": "#5c6764",
+            "share": 0.177
+          },
+          {
+            "hex": "#b2c3cb",
+            "share": 0.176
+          },
+          {
+            "hex": "#5e8fbc",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#1f68b0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/goonhilly-earth-station/commons-2.jpg",
+      "title": "File:Goonhilly Satellite Earth Station - geograph.org.uk - 6498539.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Goonhilly_Satellite_Earth_Station_-_geograph.org.uk_-_6498539.jpg",
+      "author": "Colin Park",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1200,
+      "height": 1800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a7a0a5",
+            "share": 0.231
+          },
+          {
+            "hex": "#605e60",
+            "share": 0.206
+          },
+          {
+            "hex": "#878ca4",
+            "share": 0.199
+          },
+          {
+            "hex": "#bcbacb",
+            "share": 0.189
+          },
+          {
+            "hex": "#272524",
+            "share": 0.174
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/goonhilly-earth-station/commons-3.jpg",
+      "title": "File:Dishes at Goonhilly Satellite Earth Station in 1988 (geograph 2243298).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dishes_at_Goonhilly_Satellite_Earth_Station_in_1988_(geograph_2243298).jpg",
+      "author": "peter robinson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1355,
+      "height": 1044,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a09a9b",
+            "share": 0.287
+          },
+          {
+            "hex": "#684a32",
+            "share": 0.226
+          },
+          {
+            "hex": "#827e81",
+            "share": 0.203
+          },
+          {
+            "hex": "#976b4a",
+            "share": 0.202
+          },
+          {
+            "hex": "#ccbbb4",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#684a32"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/goonhilly-earth-station/commons-4.jpg",
+      "title": "File:\"Merlin\" dish at Goonhilly Earth Station - geograph.org.uk - 8036334.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%22Merlin%22_dish_at_Goonhilly_Earth_Station_-_geograph.org.uk_-_8036334.jpg",
+      "author": "Chris Gorringe",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2976,
+      "height": 1979,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a8bfce",
+            "share": 0.446
+          },
+          {
+            "hex": "#1d1f10",
+            "share": 0.267
+          },
+          {
+            "hex": "#88a0ad",
+            "share": 0.181
+          },
+          {
+            "hex": "#d3dee0",
+            "share": 0.068
+          },
+          {
+            "hex": "#535f5c",
+            "share": 0.038
+          }
+        ],
+        "strongest": "#a8bfce"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#eaecec",
+        "share": 0.458
+      },
+      {
+        "hex": "#191d0e",
+        "share": 0.237
+      },
+      {
+        "hex": "#d2d3d1",
+        "share": 0.131
+      },
+      {
+        "hex": "#47433a",
+        "share": 0.115
+      },
+      {
+        "hex": "#919493",
+        "share": 0.058
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "id": "relics-mary-magdalene",
+  "name": "Relics of Mary Magdalene, Basilique Sainte-Marie-Madeleine, Saint-Maximin-la-Sainte-Baume",
+  "lat": 43.4525,
+  "lng": 5.8625,
+  "enrichedAt": "2026-10-11T01:21:41.329Z",
+  "place": {
+    "town": "Saint-Maximin-la-Sainte-Baume",
+    "locality": "Quartier Les Terrasses",
+    "county": "Var",
+    "adminArea": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.4525&lon=5.8625&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier Les Terrasses, Saint-Maximin-la-Sainte-Baume, Brignoles, Var, Provence-Alpes-Côte d'Azur, Metropolitan France, 83470, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "gaumont-de-funes-museum",
+        "name": "Gaumont / Louis de Funès Museum, Saint-Raphaël",
+        "km": 73.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Saint-Maximin-la-Sainte-Baume",
+      "description": "Commune in Provence-Alpes-Côte d'Azur, France",
+      "extract": "Saint-Maximin-la-Sainte-Baume is a commune in the southeastern French department of Var, in the Provence-Alpes-Côte d'Azur region. Located 40 km (25 mi) east of Aix-en-Provence, the town lies at the foot of the Sainte-Baume mountains. Baume or bama is the Provençal equivalent of cave. The town's basilica is dedicated to Mary Magdalene.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Maximin-la-Sainte-Baume",
+      "coordinates": {
+        "lat": 43.4532,
+        "lng": 5.8614
+      },
+      "km": 0.1,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/fd/STmaximin-MarkSweep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Saint-Maximin-la-Sainte-Baume",
+      "description": "Commune in Provence-Alpes-Côte d'Azur, France",
+      "extract": "Saint-Maximin-la-Sainte-Baume is a commune in the southeastern French department of Var, in the Provence-Alpes-Côte d'Azur region. Located 40 km (25 mi) east of Aix-en-Provence, the town lies at the foot of the Sainte-Baume mountains. Baume or bama is the Provençal equivalent of cave. The town's basilica is dedicated to Mary Magdalene.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Maximin-la-Sainte-Baume",
+      "coordinates": {
+        "lat": 43.4532,
+        "lng": 5.8614
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/fd/STmaximin-MarkSweep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The gold-ensconced skull, \"one of the most precious relics in all Christendom.\"",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/relics-mary-magdalene/own-relics-mary-magdalene.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/relics-mary-magdalene.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1e1c1b",
+            "share": 0.26
+          },
+          {
+            "hex": "#795335",
+            "share": 0.231
+          },
+          {
+            "hex": "#a27851",
+            "share": 0.21
+          },
+          {
+            "hex": "#4a382c",
+            "share": 0.167
+          },
+          {
+            "hex": "#c0a07e",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#795335"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/relics-mary-magdalene/commons-1.jpg",
+      "title": "File:12 PAC - Var - Saint-Maximin-la-Sainte-Baume - La basilique (2014-09-22 16-09-07).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12_PAC_-_Var_-_Saint-Maximin-la-Sainte-Baume_-_La_basilique_(2014-09-22_16-09-07).jpg",
+      "author": "Johan Allard",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a665e",
+            "share": 0.263
+          },
+          {
+            "hex": "#85827d",
+            "share": 0.262
+          },
+          {
+            "hex": "#a09fa0",
+            "share": 0.245
+          },
+          {
+            "hex": "#3b3833",
+            "share": 0.131
+          },
+          {
+            "hex": "#c3c8d1",
+            "share": 0.098
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/relics-mary-magdalene/commons-2.jpg",
+      "title": "File:12 PAC - Var - Saint-Maximin-la-Sainte-Baume - La basilique (2014-09-22 16-08-08).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12_PAC_-_Var_-_Saint-Maximin-la-Sainte-Baume_-_La_basilique_(2014-09-22_16-08-08).jpg",
+      "author": "Johan Allard",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#75736f",
+            "share": 0.273
+          },
+          {
+            "hex": "#58544d",
+            "share": 0.24
+          },
+          {
+            "hex": "#959390",
+            "share": 0.229
+          },
+          {
+            "hex": "#352e27",
+            "share": 0.156
+          },
+          {
+            "hex": "#b7b9bd",
+            "share": 0.102
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/relics-mary-magdalene/commons-3.jpg",
+      "title": "File:12 PAC - Var - Saint-Maximin-la-Sainte-Baume - La basilique (2014-09-22 15-10-53).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12_PAC_-_Var_-_Saint-Maximin-la-Sainte-Baume_-_La_basilique_(2014-09-22_15-10-53).jpg",
+      "author": "Johan Allard",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e9bbe",
+            "share": 0.239
+          },
+          {
+            "hex": "#625139",
+            "share": 0.211
+          },
+          {
+            "hex": "#352d1d",
+            "share": 0.2
+          },
+          {
+            "hex": "#917f63",
+            "share": 0.185
+          },
+          {
+            "hex": "#c1ac85",
+            "share": 0.167
+          }
+        ],
+        "strongest": "#7e9bbe"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/relics-mary-magdalene/commons-4.jpg",
+      "title": "File:12 PAC - Var - Saint-Maximin-la-Sainte-Baume - La basilique (2014-09-22 15-10-24).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12_PAC_-_Var_-_Saint-Maximin-la-Sainte-Baume_-_La_basilique_(2014-09-22_15-10-24).jpg",
+      "author": "Johan Allard",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#809ebf",
+            "share": 0.226
+          },
+          {
+            "hex": "#cdb47e",
+            "share": 0.22
+          },
+          {
+            "hex": "#9e8b6c",
+            "share": 0.2
+          },
+          {
+            "hex": "#6c5c46",
+            "share": 0.186
+          },
+          {
+            "hex": "#312a1d",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#cdb47e"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#1e1c1b",
+        "share": 0.26
+      },
+      {
+        "hex": "#795335",
+        "share": 0.231
+      },
+      {
+        "hex": "#a27851",
+        "share": 0.21
+      },
+      {
+        "hex": "#4a382c",
+        "share": 0.167
+      },
+      {
+        "hex": "#c0a07e",
+        "share": 0.133
+      }
+    ],
+    "strongest": "#795335"
+  }
+}

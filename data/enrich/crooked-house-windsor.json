@@ -1,0 +1,256 @@
+{
+  "id": "crooked-house-windsor",
+  "name": "Crooked House of Windsor",
+  "lat": 51.4837,
+  "lng": -0.609,
+  "enrichedAt": "2026-10-11T01:21:34.970Z",
+  "place": {
+    "town": "Windsor",
+    "locality": "Clewer New Town",
+    "county": "Berkshire",
+    "adminArea": "Royal Borough of Windsor and Maidenhead",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4837&lon=-0.609&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Long Walk Gate, Clewer New Town, Clewer Village, Windsor, Royal Borough of Windsor and Maidenhead, England, SL4 2AB, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Crooked House of Windsor",
+      "description": "Commercial building in Windsor",
+      "extract": "The Crooked House of Windsor is a commercial building in Windsor, England, dating from c. 1687. It is the oldest teahouse in England and Grade II listed. The building was reconstructed in the 17th century and now stands on \"an outrageous slant.\" It has three storeys and bay windows to the front and rear.",
+      "url": "https://en.wikipedia.org/wiki/Crooked_House_of_Windsor",
+      "coordinates": {
+        "lat": 51.4823,
+        "lng": -0.6071
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Market_Cross_House_-_The_Crooked_House_-_Windsor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "Lopsided 1592 teahouse beside the castle.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "food"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/crooked-house-windsor/own-crooked-house-windsor.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/crooked-house-windsor.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#605b55",
+            "share": 0.246
+          },
+          {
+            "hex": "#eeeeee",
+            "share": 0.232
+          },
+          {
+            "hex": "#86827f",
+            "share": 0.209
+          },
+          {
+            "hex": "#bebbb6",
+            "share": 0.165
+          },
+          {
+            "hex": "#32312e",
+            "share": 0.148
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crooked-house-windsor/commons-1.jpg",
+      "title": "File:Market Cross House - The Crooked House - Windsor.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Market_Cross_House_-_The_Crooked_House_-_Windsor.jpg",
+      "author": "DeFacto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2419,
+      "height": 2993,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#615c57",
+            "share": 0.257
+          },
+          {
+            "hex": "#eeeeef",
+            "share": 0.23
+          },
+          {
+            "hex": "#888480",
+            "share": 0.203
+          },
+          {
+            "hex": "#bfbcb7",
+            "share": 0.164
+          },
+          {
+            "hex": "#32312e",
+            "share": 0.146
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crooked-house-windsor/commons-2.jpg",
+      "title": "File:Windsor Castle Henry VIII Gateway.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_Henry_VIII_Gateway.jpg",
+      "author": "Thomas Duesing",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2560,
+      "height": 1920,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ada490",
+            "share": 0.3
+          },
+          {
+            "hex": "#878271",
+            "share": 0.238
+          },
+          {
+            "hex": "#1f63a7",
+            "share": 0.189
+          },
+          {
+            "hex": "#31381d",
+            "share": 0.178
+          },
+          {
+            "hex": "#3b7cbb",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#1f63a7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crooked-house-windsor/commons-3.jpg",
+      "title": "File:Windsor Castle - geograph.org.uk - 3972293.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_-_geograph.org.uk_-_3972293.jpg",
+      "author": "Peter S",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3e3b33",
+            "share": 0.305
+          },
+          {
+            "hex": "#54504a",
+            "share": 0.208
+          },
+          {
+            "hex": "#fbfafb",
+            "share": 0.198
+          },
+          {
+            "hex": "#242917",
+            "share": 0.189
+          },
+          {
+            "hex": "#cccaca",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#242917"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/crooked-house-windsor/commons-4.jpg",
+      "title": "File:King Edward VII Gateway - 16-18 Thames Street Windsor SL4 1PL.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:King_Edward_VII_Gateway_-_16-18_Thames_Street_Windsor_SL4_1PL.jpg",
+      "author": "Spudgun67",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#443e3f",
+            "share": 0.258
+          },
+          {
+            "hex": "#5f6062",
+            "share": 0.24
+          },
+          {
+            "hex": "#1a1b1e",
+            "share": 0.199
+          },
+          {
+            "hex": "#848887",
+            "share": 0.181
+          },
+          {
+            "hex": "#bac0be",
+            "share": 0.122
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#605b55",
+        "share": 0.246
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.232
+      },
+      {
+        "hex": "#86827f",
+        "share": 0.209
+      },
+      {
+        "hex": "#bebbb6",
+        "share": 0.165
+      },
+      {
+        "hex": "#32312e",
+        "share": 0.148
+      }
+    ],
+    "strongest": null
+  }
+}

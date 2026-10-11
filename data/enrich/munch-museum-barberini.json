@@ -1,0 +1,269 @@
+{
+  "id": "munch-museum-barberini",
+  "name": "Munch, Lebenslandschaft, Museum Barberini, Potsdam",
+  "lat": 52.3956,
+  "lng": 13.0608,
+  "enrichedAt": "2026-10-11T01:21:40.286Z",
+  "place": {
+    "town": "Potsdam",
+    "locality": "Historische Innenstadt",
+    "county": "Brandenburg",
+    "adminArea": null,
+    "region": "Brandenburg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.3956&lon=13.0608&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Historische Innenstadt, Potsdam, Brandenburg, 14467, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Museum Barberini",
+      "description": "Art museum in Potsdam",
+      "extract": "The Museum Barberini is an art museum in the reconstructed Palast Barberini in Potsdam, which opened in 2017. Its exhibitions range from the so-called Old Masters to contemporary art, with an emphasis on impressionist painting. Centered around works from the collection of its founder and patron Hasso Plattner, the Barberini presents three temporary exhibitions per year, featuring loans from international museums and private collections. Academic conferences serve to prepare these exhibitions. At the same time, shorter gallery displays – the so-called “art histories” – put works from the collection into constantly shifting contexts. The museum aims to offer a diverse programme of events and educational activities as well as digital offers like the Barberini App and the 4K Smart Wall in the museum.",
+      "url": "https://en.wikipedia.org/wiki/Museum_Barberini",
+      "coordinates": {
+        "lat": 52.395169,
+        "lng": 13.062282
+      },
+      "km": 0.1,
+      "matchedBy": "nearby article",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Museum_Barberini_%28von_der_Freundschaftsinsel_aus%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Potsdam",
+      "description": "Capital of Brandenburg, Germany",
+      "extract": "Potsdam is the capital and largest city of the German state of Brandenburg. It is part of the Berlin/Brandenburg Metropolitan Region. Potsdam sits on the River Havel, a tributary of the Elbe, downstream of Berlin, and lies embedded in a hilly morainic landscape dotted with many lakes, around 20 of which are located within Potsdam's city limits. It lies some 25 kilometres southwest of Berlin's city centre. The name of the city and of many of its boroughs are of Slavic origin.",
+      "url": "https://en.wikipedia.org/wiki/Potsdam",
+      "coordinates": {
+        "lat": 52.40055556,
+        "lng": 13.05916667
+      },
+      "km": 0.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/munch-museum-barberini/own-munch-museum-barberini.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/munch-museum-barberini.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d8d3c7",
+            "share": 0.328
+          },
+          {
+            "hex": "#786164",
+            "share": 0.244
+          },
+          {
+            "hex": "#010101",
+            "share": 0.192
+          },
+          {
+            "hex": "#564739",
+            "share": 0.17
+          },
+          {
+            "hex": "#ab9a8c",
+            "share": 0.065
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/munch-museum-barberini/commons-1.jpg",
+      "title": "File:Jahrhundertschritt Museum Barberini.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jahrhundertschritt_Museum_Barberini.jpg",
+      "author": "Daniel Naber",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8e867d",
+            "share": 0.341
+          },
+          {
+            "hex": "#ada5a0",
+            "share": 0.225
+          },
+          {
+            "hex": "#676057",
+            "share": 0.209
+          },
+          {
+            "hex": "#24271e",
+            "share": 0.167
+          },
+          {
+            "hex": "#fcfcfc",
+            "share": 0.058
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/munch-museum-barberini/commons-2.jpg",
+      "title": "File:Le palais Barberini (Potsdam) (37065598495).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_palais_Barberini_(Potsdam)_(37065598495).jpg",
+      "author": "Jean-Pierre Dalbéra from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1800,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9c978c",
+            "share": 0.338
+          },
+          {
+            "hex": "#7d776c",
+            "share": 0.242
+          },
+          {
+            "hex": "#7fb3f4",
+            "share": 0.229
+          },
+          {
+            "hex": "#c6bfaf",
+            "share": 0.107
+          },
+          {
+            "hex": "#44433c",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#7fb3f4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/munch-museum-barberini/commons-3.jpg",
+      "title": "File:Museum Barberini (von der Freundschaftsinsel aus).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Museum_Barberini_(von_der_Freundschaftsinsel_aus).jpg",
+      "author": "Daniel Naber",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f1f3f6",
+            "share": 0.33
+          },
+          {
+            "hex": "#887a66",
+            "share": 0.237
+          },
+          {
+            "hex": "#5c4933",
+            "share": 0.202
+          },
+          {
+            "hex": "#b2a188",
+            "share": 0.182
+          },
+          {
+            "hex": "#bfc7ce",
+            "share": 0.049
+          }
+        ],
+        "strongest": "#5c4933"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/munch-museum-barberini/commons-4.jpg",
+      "title": "File:Museum Barberini Innenraum leer.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Museum_Barberini_Innenraum_leer.jpg",
+      "author": "Daniel Naber",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5b4432",
+            "share": 0.299
+          },
+          {
+            "hex": "#8a5c33",
+            "share": 0.251
+          },
+          {
+            "hex": "#f2e7e2",
+            "share": 0.18
+          },
+          {
+            "hex": "#332c26",
+            "share": 0.164
+          },
+          {
+            "hex": "#a17d63",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#8a5c33"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#d8d3c7",
+        "share": 0.328
+      },
+      {
+        "hex": "#786164",
+        "share": 0.244
+      },
+      {
+        "hex": "#010101",
+        "share": 0.192
+      },
+      {
+        "hex": "#564739",
+        "share": 0.17
+      },
+      {
+        "hex": "#ab9a8c",
+        "share": 0.065
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "id": "walden-docks-of-cardiff",
+  "name": "Lionel Walden, The Docks of Cardiff (1894)",
+  "lat": 48.86,
+  "lng": 2.3266,
+  "enrichedAt": "2026-10-11T01:21:40.526Z",
+  "place": {
+    "town": "Paris",
+    "locality": "7th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.86&lon=2.3266&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier Saint-Thomas-d'Aquin, 7th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75007, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 0.51
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 0.81
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 0.81
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 0.95
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 1.05
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 1.16
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.37
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.52
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 1.91
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 2.36
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 2.71
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.33
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 4.89
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 4.89
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 0.5
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 0.8
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 0.8
+      },
+      {
+        "id": "the-gates-of-hell-la-porte-de-l-enfer",
+        "name": "The Gates of Hell (La Porte de l'Enfer)",
+        "km": 0.9
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 1.1
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 1.2
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 1.4
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 1.5
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 1.9
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 2.4
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 2.7
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 3.3
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 4.9
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 4.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 1.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "A painting you flagged at the Musée d'Orsay.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/walden-docks-of-cardiff/own-walden-docks-of-cardiff.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/walden-docks-of-cardiff.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e8b71",
+            "share": 0.228
+          },
+          {
+            "hex": "#000000",
+            "share": 0.219
+          },
+          {
+            "hex": "#99a684",
+            "share": 0.211
+          },
+          {
+            "hex": "#b4bb97",
+            "share": 0.206
+          },
+          {
+            "hex": "#5a6760",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#b4bb97"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/walden-docks-of-cardiff/commons-1.jpg",
+      "title": "File:Musée d”Orsay 09 12 24 947000.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%E2%80%9DOrsay_09_12_24_947000.jpeg",
+      "author": "Cnbrb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 2268,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#888888",
+            "share": 0.266
+          },
+          {
+            "hex": "#e8e8e8",
+            "share": 0.205
+          },
+          {
+            "hex": "#626262",
+            "share": 0.199
+          },
+          {
+            "hex": "#292929",
+            "share": 0.188
+          },
+          {
+            "hex": "#b8b8b8",
+            "share": 0.143
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/walden-docks-of-cardiff/commons-2.jpg",
+      "title": "File:Ours Orsay 905.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ours_Orsay_905.jpg",
+      "author": "Luistxo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#37383b",
+            "share": 0.311
+          },
+          {
+            "hex": "#887c71",
+            "share": 0.254
+          },
+          {
+            "hex": "#a5a099",
+            "share": 0.188
+          },
+          {
+            "hex": "#6a5647",
+            "share": 0.173
+          },
+          {
+            "hex": "#dddddd",
+            "share": 0.075
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/walden-docks-of-cardiff/commons-3.jpg",
+      "title": "File:Giant Clock At Musée D Orsay (194005863).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Giant_Clock_At_Mus%C3%A9e_D_Orsay_(194005863).jpeg",
+      "author": "Wenchao Wang",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2048,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#040404",
+            "share": 0.444
+          },
+          {
+            "hex": "#595959",
+            "share": 0.155
+          },
+          {
+            "hex": "#8e8e8e",
+            "share": 0.141
+          },
+          {
+            "hex": "#2c2c2c",
+            "share": 0.14
+          },
+          {
+            "hex": "#dddddd",
+            "share": 0.121
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/walden-docks-of-cardiff/commons-4.jpg",
+      "title": "File:Museu D’Orsay - Antiga estação de Paris - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Museu_D%E2%80%99Orsay_-_Antiga_esta%C3%A7%C3%A3o_de_Paris_-_panoramio.jpg",
+      "author": "Rodrigo Pereira da S…",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8c8a85",
+            "share": 0.281
+          },
+          {
+            "hex": "#666766",
+            "share": 0.226
+          },
+          {
+            "hex": "#f6f9fa",
+            "share": 0.224
+          },
+          {
+            "hex": "#abaaa6",
+            "share": 0.174
+          },
+          {
+            "hex": "#39393a",
+            "share": 0.095
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7e8b71",
+        "share": 0.228
+      },
+      {
+        "hex": "#000000",
+        "share": 0.219
+      },
+      {
+        "hex": "#99a684",
+        "share": 0.211
+      },
+      {
+        "hex": "#b4bb97",
+        "share": 0.206
+      },
+      {
+        "hex": "#5a6760",
+        "share": 0.136
+      }
+    ],
+    "strongest": "#b4bb97"
+  }
+}

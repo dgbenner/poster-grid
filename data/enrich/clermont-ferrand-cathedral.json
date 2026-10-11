@@ -1,0 +1,269 @@
+{
+  "id": "clermont-ferrand-cathedral",
+  "name": "Clermont-Ferrand Cathedral",
+  "lat": 45.7789,
+  "lng": 3.0836,
+  "enrichedAt": "2026-10-11T01:21:45.253Z",
+  "place": {
+    "town": "Clermont-Ferrand",
+    "locality": "Plateau central",
+    "county": "Puy-de-Dôme",
+    "adminArea": "Puy-de-Dôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=45.7789&lon=3.0836&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Saint-Alyre, Plateau central, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, 63000, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Clermont-Ferrand Cathedral",
+      "description": "Cathedral in Clermont-Ferrand, Auvergne, France",
+      "extract": "Clermont-Ferrand Cathedral, or the Cathedral of Our Lady of the Assumption of Clermont-Ferrand, is a Gothic cathedral and French national monument located in the city of Clermont-Ferrand in the Auvergne. It is the seat of the Archbishops of Clermont.",
+      "url": "https://en.wikipedia.org/wiki/Clermont-Ferrand_Cathedral",
+      "coordinates": {
+        "lat": 45.778727,
+        "lng": 3.085766
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cathedrale_vue_de_montjuzet_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Clermont-Ferrand",
+      "description": "Prefecture and commune in Auvergne-Rhône-Alpes, France",
+      "extract": "Clermont-Ferrand is a city and commune of France, in the Auvergne-Rhône-Alpes region, with a population of 146,351 (2023). Its metropolitan area had 510,685 inhabitants in 2023. It is the prefecture (capital) of the Puy-de-Dôme département. Julien Bony is its current mayor.",
+      "url": "https://en.wikipedia.org/wiki/Clermont-Ferrand",
+      "coordinates": {
+        "lat": 45.7831,
+        "lng": 3.0824
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ville_de_Clermont-Ferrand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Gothic cathedral built from black volcanic lava stone, dominating the skyline of Clermont-Ferrand.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/clermont-ferrand-cathedral/own-clermont-ferrand-cathedral.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/clermont-ferrand-cathedral.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a0948e",
+            "share": 0.226
+          },
+          {
+            "hex": "#a5bed0",
+            "share": 0.22
+          },
+          {
+            "hex": "#ced9df",
+            "share": 0.216
+          },
+          {
+            "hex": "#6d6e74",
+            "share": 0.174
+          },
+          {
+            "hex": "#2e3945",
+            "share": 0.164
+          }
+        ],
+        "strongest": "#a5bed0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/clermont-ferrand-cathedral/commons-1.jpg",
+      "title": "File:Clermont-Ferrand-Cathedral-0016.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Clermont-Ferrand-Cathedral-0016.jpg",
+      "author": "Source: User:Fabien1309Derivative: User:MathKnight",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1606,
+      "height": 1206,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#adbccc",
+            "share": 0.346
+          },
+          {
+            "hex": "#7a7063",
+            "share": 0.211
+          },
+          {
+            "hex": "#49443d",
+            "share": 0.168
+          },
+          {
+            "hex": "#dcdeda",
+            "share": 0.157
+          },
+          {
+            "hex": "#9aa2a9",
+            "share": 0.118
+          }
+        ],
+        "strongest": "#adbccc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/clermont-ferrand-cathedral/commons-2.jpg",
+      "title": "File:Clermont Ferrand Cathedrale 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Clermont_Ferrand_Cathedrale_03.jpg",
+      "author": null,
+      "license": "CC BY-SA 1.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+      "width": 1021,
+      "height": 1800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8ecce9",
+            "share": 0.356
+          },
+          {
+            "hex": "#d0c1b4",
+            "share": 0.242
+          },
+          {
+            "hex": "#b2a295",
+            "share": 0.239
+          },
+          {
+            "hex": "#7c6a6d",
+            "share": 0.089
+          },
+          {
+            "hex": "#badbee",
+            "share": 0.075
+          }
+        ],
+        "strongest": "#8ecce9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/clermont-ferrand-cathedral/commons-3.jpg",
+      "title": "File:Clermont Ferrand Notre-Dame-de-l'Assomption 250.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Clermont_Ferrand_Notre-Dame-de-l%27Assomption_250.jpg",
+      "author": "A.Angelo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2112,
+      "height": 2816,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#312a29",
+            "share": 0.285
+          },
+          {
+            "hex": "#504848",
+            "share": 0.267
+          },
+          {
+            "hex": "#141212",
+            "share": 0.237
+          },
+          {
+            "hex": "#817b77",
+            "share": 0.125
+          },
+          {
+            "hex": "#cdc9ca",
+            "share": 0.086
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/clermont-ferrand-cathedral/commons-4.jpg",
+      "title": "File:Facade cathedrale clermont-ferrand.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Facade_cathedrale_clermont-ferrand.jpg",
+      "author": "Fabien1309",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "width": 2000,
+      "height": 3008,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7b6e6c",
+            "share": 0.287
+          },
+          {
+            "hex": "#cadcf7",
+            "share": 0.211
+          },
+          {
+            "hex": "#524a4c",
+            "share": 0.204
+          },
+          {
+            "hex": "#211f22",
+            "share": 0.15
+          },
+          {
+            "hex": "#9b959a",
+            "share": 0.148
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a0948e",
+        "share": 0.226
+      },
+      {
+        "hex": "#a5bed0",
+        "share": 0.22
+      },
+      {
+        "hex": "#ced9df",
+        "share": 0.216
+      },
+      {
+        "hex": "#6d6e74",
+        "share": 0.174
+      },
+      {
+        "hex": "#2e3945",
+        "share": 0.164
+      }
+    ],
+    "strongest": "#a5bed0"
+  }
+}

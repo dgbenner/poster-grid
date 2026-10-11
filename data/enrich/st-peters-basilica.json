@@ -1,0 +1,351 @@
+{
+  "id": "st-peters-basilica",
+  "name": "St Peter's Basilica & Square",
+  "lat": 41.9022,
+  "lng": 12.4539,
+  "enrichedAt": "2026-10-11T01:21:41.631Z",
+  "place": {
+    "town": "Vatican City",
+    "locality": "Vatican City",
+    "county": "Vatican City",
+    "adminArea": null,
+    "region": null,
+    "country": "Vatican City",
+    "sovereign": "Vatican City",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.9022&lon=12.4539&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Vatican City, 00120, Vatican City"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 0.09
+      },
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 0.11
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.28
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0.48
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 0.48
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.03
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 1.95
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 2.18
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 2.24
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 2.8
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 3.42
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "fazzini-resurrection",
+        "name": "Pericle Fazzini, The Resurrection (1977)",
+        "km": 0.1
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 0.1
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.3
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 0.5
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "St. Peter's Square",
+      "description": "Piazza in Vatican City",
+      "extract": "St. Peter's Square is a large plaza located directly in front of St. Peter's Basilica in Vatican City, the papal enclave in Rome, directly west of the neighborhood (rione) of Borgo. Both the square and the basilica are named after Saint Peter, an apostle of Jesus whom Catholics consider the first pope.",
+      "url": "https://en.wikipedia.org/wiki/St._Peter's_Square",
+      "coordinates": {
+        "lat": 41.9022,
+        "lng": 12.4572
+      },
+      "km": 0.3,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/3840px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Vatican City",
+      "description": "Enclaved Holy See's independent city-state",
+      "extract": "Vatican City, officially the Vatican City State, often shortened as the Vatican, is a landlocked sovereign city-state in Southern Europe. Ruled by the pope, it is an enclave within the city of Rome, Italy, and serves as the administrative centre of the Catholic Church. Vatican City is governed by the See of Rome, commonly known as the Holy See, itself a sovereign entity under international law, which maintains its temporal power, governance, diplomacy, and spiritual independence. Vatican is also used as a metonym for the Holy See, which is the central governing body of the Catholic Church and Vatican City, comprising the pope and the Roman Curia. The independent state of Vatican City came into existence in 1929 via the Lateran Treaty between the Holy See and the Kingdom of Italy, which spoke of it as a creation, not as a vestige of the much larger Papal States (756–1870), which had previously encompassed much of Central Italy.",
+      "url": "https://en.wikipedia.org/wiki/Vatican_City",
+      "coordinates": {
+        "lat": 41.9025,
+        "lng": 12.4525
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/1280px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Shot at sunset; the basilica faces west, unusual among churches.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/st-peters-basilica/own-st-peters-basilica.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/st-peters-basilica.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#98a39a",
+            "share": 0.265
+          },
+          {
+            "hex": "#494d4a",
+            "share": 0.253
+          },
+          {
+            "hex": "#333431",
+            "share": 0.232
+          },
+          {
+            "hex": "#060606",
+            "share": 0.161
+          },
+          {
+            "hex": "#d9d2ad",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#d9d2ad"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peters-basilica/commons-1.jpg",
+      "title": "File:St Peter's Square, Vatican City - April 2007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 4200,
+      "height": 2359,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a38c6f",
+            "share": 0.339
+          },
+          {
+            "hex": "#696456",
+            "share": 0.262
+          },
+          {
+            "hex": "#c3b098",
+            "share": 0.194
+          },
+          {
+            "hex": "#89a4b7",
+            "share": 0.115
+          },
+          {
+            "hex": "#323628",
+            "share": 0.09
+          }
+        ],
+        "strongest": "#a38c6f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peters-basilica/commons-2.jpg",
+      "title": "File:Old St Peter's Basilica, Rome, about the year 1450 restored from ancient authorities.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Old_St_Peter%27s_Basilica,_Rome,_about_the_year_1450_restored_from_ancient_authorities.jpg",
+      "author": "Henry William Brewer (1836-1903)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1000,
+      "height": 611,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b4a791",
+            "share": 0.249
+          },
+          {
+            "hex": "#a29786",
+            "share": 0.233
+          },
+          {
+            "hex": "#8e8577",
+            "share": 0.209
+          },
+          {
+            "hex": "#c4b8a3",
+            "share": 0.208
+          },
+          {
+            "hex": "#746d62",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#c4b8a3"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peters-basilica/commons-3.jpg",
+      "title": "File:St. Peter's Square Newlyweds.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Square_Newlyweds.jpg",
+      "author": "Thomas J. O'Halloran",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 5086,
+      "height": 3378,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#999999",
+            "share": 0.323
+          },
+          {
+            "hex": "#b0b0b0",
+            "share": 0.257
+          },
+          {
+            "hex": "#d0d0d0",
+            "share": 0.208
+          },
+          {
+            "hex": "#777777",
+            "share": 0.145
+          },
+          {
+            "hex": "#3e3e3e",
+            "share": 0.066
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/st-peters-basilica/commons-4.jpg",
+      "title": "File:St Peter's Square, Vatican City - April 2007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 4200,
+      "height": 2359,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a38c6f",
+            "share": 0.339
+          },
+          {
+            "hex": "#696456",
+            "share": 0.262
+          },
+          {
+            "hex": "#c3b098",
+            "share": 0.194
+          },
+          {
+            "hex": "#89a4b7",
+            "share": 0.115
+          },
+          {
+            "hex": "#323628",
+            "share": 0.09
+          }
+        ],
+        "strongest": "#a38c6f"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#98a39a",
+        "share": 0.265
+      },
+      {
+        "hex": "#494d4a",
+        "share": 0.253
+      },
+      {
+        "hex": "#333431",
+        "share": 0.232
+      },
+      {
+        "hex": "#060606",
+        "share": 0.161
+      },
+      {
+        "hex": "#d9d2ad",
+        "share": 0.089
+      }
+    ],
+    "strongest": "#d9d2ad"
+  }
+}

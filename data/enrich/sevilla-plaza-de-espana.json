@@ -1,0 +1,256 @@
+{
+  "id": "sevilla-plaza-de-espana",
+  "name": "Sevilla — Plaza de España",
+  "lat": 37.37727,
+  "lng": -5.98692,
+  "enrichedAt": "2026-10-11T01:21:40.433Z",
+  "place": {
+    "town": "Seville",
+    "locality": null,
+    "county": "Andalusia",
+    "adminArea": null,
+    "region": "Andalusia",
+    "country": "Spain",
+    "sovereign": "Spain",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=37.37727&lon=-5.98692&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "El Prado-Parque de María Luisa, Distrito Sur, Seville, Sevilla, Andalusia, Spain"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Seville",
+      "description": "Capital of Andalusia and the Province of Seville, Spain",
+      "extract": "Seville is the capital and largest city of the Spanish autonomous community of Andalusia and the province of Seville. It is situated on the lower reaches of the River Guadalquivir, in the southwest of the Iberian Peninsula.",
+      "url": "https://en.wikipedia.org/wiki/Seville",
+      "coordinates": {
+        "lat": 37.38861111,
+        "lng": -5.995
+      },
+      "km": 1.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Sevilla_Cathedral_-_Southeast.jpg/3840px-Sevilla_Cathedral_-_Southeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Stood in for Naboo in Star Wars: Attack of the Clones.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/sevilla-plaza-de-espana/own-sevilla-plaza-de-espana.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/sevilla-plaza-de-espana.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a4433",
+            "share": 0.263
+          },
+          {
+            "hex": "#598bbe",
+            "share": 0.261
+          },
+          {
+            "hex": "#807657",
+            "share": 0.194
+          },
+          {
+            "hex": "#759ec9",
+            "share": 0.17
+          },
+          {
+            "hex": "#c9c1a5",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#598bbe"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sevilla-plaza-de-espana/commons-1.jpg",
+      "title": "File:Plaza de España, Sevilla, España - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a,_Sevilla,_Espa%C3%B1a_-_panoramio.jpg",
+      "author": "McBodes",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5e5958",
+            "share": 0.347
+          },
+          {
+            "hex": "#81736e",
+            "share": 0.246
+          },
+          {
+            "hex": "#e8edef",
+            "share": 0.235
+          },
+          {
+            "hex": "#3d3937",
+            "share": 0.118
+          },
+          {
+            "hex": "#b3adad",
+            "share": 0.054
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sevilla-plaza-de-espana/commons-2.jpg",
+      "title": "File:Sevilla, Plaza de España - panoramio (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sevilla,_Plaza_de_Espa%C3%B1a_-_panoramio_(1).jpg",
+      "author": "cesar.ruiz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2376,
+      "height": 1584,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1b7ad6",
+            "share": 0.301
+          },
+          {
+            "hex": "#b1a89e",
+            "share": 0.285
+          },
+          {
+            "hex": "#70736d",
+            "share": 0.183
+          },
+          {
+            "hex": "#429ee3",
+            "share": 0.15
+          },
+          {
+            "hex": "#2c2d1b",
+            "share": 0.081
+          }
+        ],
+        "strongest": "#1b7ad6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sevilla-plaza-de-espana/commons-3.jpg",
+      "title": "File:Sevilla, Plaza de España - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sevilla,_Plaza_de_Espa%C3%B1a_-_panoramio.jpg",
+      "author": "cesar.ruiz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2376,
+      "height": 1584,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#534e42",
+            "share": 0.247
+          },
+          {
+            "hex": "#66afee",
+            "share": 0.233
+          },
+          {
+            "hex": "#636a7a",
+            "share": 0.225
+          },
+          {
+            "hex": "#979083",
+            "share": 0.156
+          },
+          {
+            "hex": "#b5d5ee",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#66afee"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sevilla-plaza-de-espana/commons-4.jpg",
+      "title": "File:Plaza España Sevilla 0081.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Plaza_Espa%C3%B1a_Sevilla_0081.jpg",
+      "author": "Fedoce1 (Fernando Domínguez Cerejido)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5395,
+      "height": 3596,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bac3d8",
+            "share": 0.362
+          },
+          {
+            "hex": "#4f4531",
+            "share": 0.217
+          },
+          {
+            "hex": "#626962",
+            "share": 0.197
+          },
+          {
+            "hex": "#896848",
+            "share": 0.15
+          },
+          {
+            "hex": "#a49380",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#bac3d8"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4a4433",
+        "share": 0.263
+      },
+      {
+        "hex": "#598bbe",
+        "share": 0.261
+      },
+      {
+        "hex": "#807657",
+        "share": 0.194
+      },
+      {
+        "hex": "#759ec9",
+        "share": 0.17
+      },
+      {
+        "hex": "#c9c1a5",
+        "share": 0.112
+      }
+    ],
+    "strongest": "#598bbe"
+  }
+}

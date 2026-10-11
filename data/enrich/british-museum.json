@@ -1,0 +1,341 @@
+{
+  "id": "british-museum",
+  "name": "British Museum / Rosetta Stone",
+  "lat": 51.5194,
+  "lng": -0.127,
+  "enrichedAt": "2026-10-11T01:21:34.272Z",
+  "place": {
+    "town": "London",
+    "locality": "Bloomsbury",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Camden",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.5194&lon=-0.127&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bloomsbury, London Borough of Camden, Greater London, England, WC1E 7HU, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 1.28
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 1.81
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 2.43
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 3.15
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 3.81
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 4.36
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 1.3
+      },
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 1.8
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 2.4
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 3.1
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 3.8
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 4.4
+      },
+      {
+        "id": "greenwich-gmt",
+        "name": "Greenwich / GMT",
+        "km": 10
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 12.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "British Museum",
+      "description": "National museum in London, England",
+      "extract": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present. Established in 1753, the British Museum was the world's first public national museum. In 2025, the museum received 6,440,120 visitors and was the second most visited attraction in the United Kingdom.",
+      "url": "https://en.wikipedia.org/wiki/British_Museum",
+      "coordinates": {
+        "lat": 51.5194,
+        "lng": -0.1269
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/3a/British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "London Borough of Camden",
+      "description": "Borough in Inner London, England",
+      "extract": "The London Borough of Camden is a borough in Inner London, England. Camden Town Hall, on Euston Road, lies 2 mi (3.2 km) north of Charing Cross. The borough was established on 1 April 1965 from the former metropolitan boroughs of Holborn, St Pancras and Hampstead.",
+      "url": "https://en.wikipedia.org/wiki/London_Borough_of_Camden",
+      "coordinates": {
+        "lat": 51.53333333,
+        "lng": -0.16666667
+      },
+      "km": 3.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pancras_Renaissance_London_Hotel_2011-06-19.jpg/3840px-St_Pancras_Renaissance_London_Hotel_2011-06-19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Rosetta Stone, the Parthenon marbles, the Great Court roof.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/british-museum/own-british-museum-rosetta.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/british-museum-rosetta.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.312
+          },
+          {
+            "hex": "#404337",
+            "share": 0.264
+          },
+          {
+            "hex": "#333626",
+            "share": 0.187
+          },
+          {
+            "hex": "#535342",
+            "share": 0.134
+          },
+          {
+            "hex": "#212317",
+            "share": 0.104
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/british-museum/commons-1.jpg",
+      "title": "File:A pair of lamassus from the Throne Room, Room B, of the North-West Palace at Nimrud, Iraq, 9th century BC. The British Museum.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_pair_of_lamassus_from_the_Throne_Room,_Room_B,_of_the_North-West_Palace_at_Nimrud,_Iraq,_9th_century_BC._The_British_Museum.jpg",
+      "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2048,
+      "height": 1361,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#76654c",
+            "share": 0.272
+          },
+          {
+            "hex": "#a29374",
+            "share": 0.246
+          },
+          {
+            "hex": "#874315",
+            "share": 0.205
+          },
+          {
+            "hex": "#362518",
+            "share": 0.171
+          },
+          {
+            "hex": "#dac89e",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#874315"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/british-museum/commons-2.jpg",
+      "title": "File:Ain Sakhri Lovers - British Museum - Joy of Museums.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg",
+      "author": "Joyofmuseums",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3222,
+      "height": 4679,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#79582e",
+            "share": 0.453
+          },
+          {
+            "hex": "#48291c",
+            "share": 0.188
+          },
+          {
+            "hex": "#665558",
+            "share": 0.144
+          },
+          {
+            "hex": "#9e8256",
+            "share": 0.109
+          },
+          {
+            "hex": "#caba9c",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#79582e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/british-museum/commons-3.jpg",
+      "title": "File:Amitabha Buddha Statue, British Museum - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amitabha_Buddha_Statue,_British_Museum_-_panoramio.jpg",
+      "author": "N19±",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2376,
+      "height": 4264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a28d54",
+            "share": 0.26
+          },
+          {
+            "hex": "#291e0c",
+            "share": 0.209
+          },
+          {
+            "hex": "#87713b",
+            "share": 0.194
+          },
+          {
+            "hex": "#b5a476",
+            "share": 0.188
+          },
+          {
+            "hex": "#5c4722",
+            "share": 0.15
+          }
+        ],
+        "strongest": "#5c4722"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/british-museum/commons-4.jpg",
+      "title": "File:Aztec double-headed serpent - Denis Bourez - British Museum, London.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_double-headed_serpent_-_Denis_Bourez_-_British_Museum,_London.jpg",
+      "author": "Denis Bourez from France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4265,
+      "height": 3199,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0b0502",
+            "share": 0.5
+          },
+          {
+            "hex": "#3d3517",
+            "share": 0.193
+          },
+          {
+            "hex": "#6a5d30",
+            "share": 0.144
+          },
+          {
+            "hex": "#1e1508",
+            "share": 0.12
+          },
+          {
+            "hex": "#b7a66b",
+            "share": 0.043
+          }
+        ],
+        "strongest": "#3d3517"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.312
+      },
+      {
+        "hex": "#404337",
+        "share": 0.264
+      },
+      {
+        "hex": "#333626",
+        "share": 0.187
+      },
+      {
+        "hex": "#535342",
+        "share": 0.134
+      },
+      {
+        "hex": "#212317",
+        "share": 0.104
+      }
+    ],
+    "strongest": null
+  }
+}

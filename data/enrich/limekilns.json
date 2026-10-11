@@ -1,0 +1,332 @@
+{
+  "id": "limekilns",
+  "name": "Limekilns",
+  "lat": 56.0306,
+  "lng": -3.4783,
+  "enrichedAt": "2026-10-11T01:21:30.542Z",
+  "place": {
+    "town": "Limekilns",
+    "locality": null,
+    "county": "Fife",
+    "adminArea": "Fife",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.0306&lon=-3.4783&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Limekilns, Fife, Scotland, KY11 3HS, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "scotland-s-secret-bunker",
+        "name": "Scotland's Secret Bunker",
+        "km": 55.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Limekilns",
+      "description": "Human settlement in Scotland",
+      "extract": "Limekilns is a historic coastal village in Fife, Scotland. It lies on the shore of the Firth of Forth, around 3 miles (5 km) south of Dunfermline and 13 miles (21km) northwest of Edinburgh.",
+      "url": "https://en.wikipedia.org/wiki/Limekilns",
+      "coordinates": {
+        "lat": 56.0329,
+        "lng": -3.4795
+      },
+      "km": 0.3,
+      "matchedBy": "town",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Limekilns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Limekilns",
+      "description": "Human settlement in Scotland",
+      "extract": "Limekilns is a historic coastal village in Fife, Scotland. It lies on the shore of the Firth of Forth, around 3 miles (5 km) south of Dunfermline and 13 miles (21km) northwest of Edinburgh.",
+      "url": "https://en.wikipedia.org/wiki/Limekilns",
+      "coordinates": {
+        "lat": 56.0329,
+        "lng": -3.4795
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Limekilns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Forth-side village; the Bruce Inn featured in Outlander. (Split from Cove Harbour — verify.)",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/limekilns/own-limekilns.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/limekilns.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3b4946",
+            "share": 0.276
+          },
+          {
+            "hex": "#556056",
+            "share": 0.263
+          },
+          {
+            "hex": "#ab9e9c",
+            "share": 0.176
+          },
+          {
+            "hex": "#837b79",
+            "share": 0.17
+          },
+          {
+            "hex": "#cac4c6",
+            "share": 0.115
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/limekilns/commons-1.jpg",
+      "title": "File:Pier wall at Limekilns - geograph.org.uk - 3329238.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pier_wall_at_Limekilns_-_geograph.org.uk_-_3329238.jpg",
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c9d8e5",
+            "share": 0.227
+          },
+          {
+            "hex": "#958b70",
+            "share": 0.217
+          },
+          {
+            "hex": "#3d3b2d",
+            "share": 0.192
+          },
+          {
+            "hex": "#756e57",
+            "share": 0.192
+          },
+          {
+            "hex": "#aaa698",
+            "share": 0.172
+          }
+        ],
+        "strongest": "#c9d8e5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/limekilns/commons-2.jpg",
+      "title": "File:Capernaum Pier, Bruce Haven, Limekilns.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Capernaum_Pier,_Bruce_Haven,_Limekilns.jpg",
+      "author": "Kirsty S. Ross",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 8160,
+      "height": 3768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#353c25",
+            "share": 0.261
+          },
+          {
+            "hex": "#a2b3c6",
+            "share": 0.247
+          },
+          {
+            "hex": "#8995a3",
+            "share": 0.219
+          },
+          {
+            "hex": "#c8d3de",
+            "share": 0.149
+          },
+          {
+            "hex": "#585e5c",
+            "share": 0.123
+          }
+        ],
+        "strongest": "#353c25"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/limekilns/commons-3.jpg",
+      "title": "File:Boats out of water - geograph.org.uk - 3329237.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Boats_out_of_water_-_geograph.org.uk_-_3329237.jpg",
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8c959e",
+            "share": 0.315
+          },
+          {
+            "hex": "#5b584c",
+            "share": 0.263
+          },
+          {
+            "hex": "#7c7c75",
+            "share": 0.153
+          },
+          {
+            "hex": "#bbbab8",
+            "share": 0.14
+          },
+          {
+            "hex": "#343328",
+            "share": 0.13
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/limekilns/commons-4.jpg",
+      "title": "File:Security measures - geograph.org.uk - 3329235.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Security_measures_-_geograph.org.uk_-_3329235.jpg",
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#86806d",
+            "share": 0.473
+          },
+          {
+            "hex": "#7a7563",
+            "share": 0.367
+          },
+          {
+            "hex": "#989e9d",
+            "share": 0.055
+          },
+          {
+            "hex": "#d5ccad",
+            "share": 0.054
+          },
+          {
+            "hex": "#42443d",
+            "share": 0.051
+          }
+        ],
+        "strongest": "#d5ccad"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:18thC house, Limekilns - geograph.org.uk - 1516198.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Limekilns.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Rocks off Limekilns - geograph.org.uk - 1354303.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:View to Limekilns - geograph.org.uk - 1419640.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Beach, Limekilns Harbour - geograph.org.uk - 1354221.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Boat sheds, Limekilns - geograph.org.uk - 1354308.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Pier, Brucehaven Harbour - geograph.org.uk - 1354295.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Yachts at Capernaum Pier - geograph.org.uk - 1419629.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Low tide, Bruce Haven - geograph.org.uk - 1542521.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Yachts - geograph.org.uk - 473516.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Brucehaven - geograph.org.uk - 4766394.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Brucehaven - geograph.org.uk - 4334051.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Anchor, Forth Cruising Club - geograph.org.uk - 1354214.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Boats at Brucehaven - geograph.org.uk - 4766392.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3b4946",
+        "share": 0.276
+      },
+      {
+        "hex": "#556056",
+        "share": 0.263
+      },
+      {
+        "hex": "#ab9e9c",
+        "share": 0.176
+      },
+      {
+        "hex": "#837b79",
+        "share": 0.17
+      },
+      {
+        "hex": "#cac4c6",
+        "share": 0.115
+      }
+    ],
+    "strongest": null
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "id": "greenwich-gmt",
+  "name": "Greenwich / GMT",
+  "lat": 51.4769,
+  "lng": -0.0005,
+  "enrichedAt": "2026-10-11T01:21:34.484Z",
+  "place": {
+    "town": "London",
+    "locality": "East Greenwich",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Greenwich",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4769&lon=-0.0005&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 9GG, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "black-friar-pub",
+        "name": "The Black Friar",
+        "km": 8.1
+      },
+      {
+        "id": "tate-britain",
+        "name": "Tate Britain / Turner",
+        "km": 9
+      },
+      {
+        "id": "battersea-power-station",
+        "name": "Battersea Power Station",
+        "km": 10
+      },
+      {
+        "id": "british-museum",
+        "name": "British Museum / Rosetta Stone",
+        "km": 10
+      },
+      {
+        "id": "ziggy-stardust-plaque",
+        "name": "Ziggy Stardust Plaque",
+        "km": 10.3
+      },
+      {
+        "id": "camden",
+        "name": "Camden",
+        "km": 12
+      },
+      {
+        "id": "abbey-road-studios-and-zebra-crossing",
+        "name": "Abbey Road Studios and Zebra Crossing",
+        "km": 13.7
+      },
+      {
+        "id": "kew-gardens",
+        "name": "Kew Gardens",
+        "km": 20.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Greenwich",
+      "description": "Town in south-east London, United Kingdom",
+      "extract": "Greenwich is an affluent area in south-east London, England, within the Royal Borough of Greenwich and the ceremonial county of Greater London, 5.5 miles (8.9 km) east-south-east of Charing Cross. It contains the UNESCO World Heritage Site of Maritime Greenwich.",
+      "url": "https://en.wikipedia.org/wiki/Greenwich",
+      "coordinates": {
+        "lat": 51.48,
+        "lng": 0
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/312SFEC_LONDON-20070917.JPG/3840px-312SFEC_LONDON-20070917.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Royal Borough of Greenwich",
+      "description": "Borough in London, United Kingdom",
+      "extract": "The Royal Borough of Greenwich is a London borough in southeast Greater London, England. The London Borough of Greenwich was formed in 1965 by the London Government Act 1963. The new borough covered the former area of the Metropolitan Borough of Greenwich and most of the Metropolitan Borough of Woolwich to the east. The local council is Greenwich London Borough Council which meets in Woolwich Town Hall.",
+      "url": "https://en.wikipedia.org/wiki/Royal_Borough_of_Greenwich",
+      "coordinates": {
+        "lat": 51.45,
+        "lng": 0.05
+      },
+      "km": 4.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/O2_Arena.jpg/3840px-O2_Arena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Stand on the Prime Meridian at the Royal Observatory.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/greenwich-gmt/own-greenwich-gmt.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/greenwich-gmt.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#233316",
+            "share": 0.309
+          },
+          {
+            "hex": "#6c7a85",
+            "share": 0.249
+          },
+          {
+            "hex": "#cbcbc6",
+            "share": 0.2
+          },
+          {
+            "hex": "#6d6b3c",
+            "share": 0.157
+          },
+          {
+            "hex": "#9da1a1",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#233316"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/greenwich-gmt/commons-1.jpg",
+      "title": "File:312SFEC LONDON-20070917.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:312SFEC_LONDON-20070917.JPG",
+      "author": "Steve F-E-Cameron",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 3861,
+      "height": 2565,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#223215",
+            "share": 0.308
+          },
+          {
+            "hex": "#6c7a84",
+            "share": 0.253
+          },
+          {
+            "hex": "#ccccc7",
+            "share": 0.201
+          },
+          {
+            "hex": "#69693a",
+            "share": 0.154
+          },
+          {
+            "hex": "#a1a5a5",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#223215"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/greenwich-gmt/commons-2.jpg",
+      "title": "File:1-15 Maidenstone Hill, Greenwich, April 2023.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1-15_Maidenstone_Hill,_Greenwich,_April_2023.jpg",
+      "author": "No Swan So Fine",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bdc5cc",
+            "share": 0.261
+          },
+          {
+            "hex": "#828077",
+            "share": 0.242
+          },
+          {
+            "hex": "#444138",
+            "share": 0.2
+          },
+          {
+            "hex": "#8dabcf",
+            "share": 0.196
+          },
+          {
+            "hex": "#558cc9",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#8dabcf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/greenwich-gmt/commons-3.jpg",
+      "title": "File:4-14 King George Street, Greenwich, April 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:4-14_King_George_Street,_Greenwich,_April_2022.jpg",
+      "author": "No Swan So Fine",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b1c3d4",
+            "share": 0.377
+          },
+          {
+            "hex": "#606665",
+            "share": 0.203
+          },
+          {
+            "hex": "#8f9a9d",
+            "share": 0.146
+          },
+          {
+            "hex": "#649ad7",
+            "share": 0.137
+          },
+          {
+            "hex": "#272725",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#649ad7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/greenwich-gmt/commons-4.jpg",
+      "title": "File:Adriaen van Stalbemt - A View of Greenwich.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Adriaen_van_Stalbemt_-_A_View_of_Greenwich.jpg",
+      "author": "Adriaen van Stalbemt",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1500,
+      "height": 1148,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#39380a",
+            "share": 0.264
+          },
+          {
+            "hex": "#c9c39e",
+            "share": 0.26
+          },
+          {
+            "hex": "#6a6223",
+            "share": 0.186
+          },
+          {
+            "hex": "#86814a",
+            "share": 0.185
+          },
+          {
+            "hex": "#a2a37f",
+            "share": 0.105
+          }
+        ],
+        "strongest": "#39380a"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#233316",
+        "share": 0.309
+      },
+      {
+        "hex": "#6c7a85",
+        "share": 0.249
+      },
+      {
+        "hex": "#cbcbc6",
+        "share": 0.2
+      },
+      {
+        "hex": "#6d6b3c",
+        "share": 0.157
+      },
+      {
+        "hex": "#9da1a1",
+        "share": 0.084
+      }
+    ],
+    "strongest": "#233316"
+  }
+}

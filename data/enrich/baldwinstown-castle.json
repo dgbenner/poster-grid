@@ -1,0 +1,51 @@
+{
+  "id": "baldwinstown-castle",
+  "name": "Baldwinstown Castle",
+  "lat": 52.2167,
+  "lng": -6.6333,
+  "enrichedAt": "2026-10-11T01:21:36.492Z",
+  "place": {
+    "town": "The Borough District of Wexford",
+    "locality": null,
+    "county": "County Wexford",
+    "adminArea": "County Wexford",
+    "region": null,
+    "country": "Ireland",
+    "sovereign": "Ireland",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.2167&lon=-6.6333&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Reahouse, Killag ED, The Borough District of Wexford, County Wexford, Leinster, Ireland"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "birthplace-of-john-barry",
+        "name": "Birthplace of John Barry",
+        "km": 6
+      },
+      {
+        "id": "deserted-castle-overlooking-wexford-town",
+        "name": "Deserted castle overlooking Wexford town",
+        "km": 17.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "Your ancestors built it in 1195; burned after the Cromwellian war in 1649 and the family dispossessed, but it still stands.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "castle"
+  ],
+  "images": [],
+  "rejectedImages": [],
+  "colors": null
+}

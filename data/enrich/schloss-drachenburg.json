@@ -1,0 +1,269 @@
+{
+  "id": "schloss-drachenburg",
+  "name": "Schloss Drachenburg",
+  "lat": 50.6669,
+  "lng": 7.2078,
+  "enrichedAt": "2026-10-11T01:21:39.317Z",
+  "place": {
+    "town": "Königswinter",
+    "locality": "Königswinter",
+    "county": "Rhein-Sieg-Kreis",
+    "adminArea": "Rhein-Sieg-Kreis",
+    "region": "North Rhine-Westphalia",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.6669&lon=7.2078&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Königswinter, Rhein-Sieg-Kreis, North Rhine-Westphalia, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Schloss Drachenburg",
+      "description": "Villa in Königswinter",
+      "extract": "Schloss Drachenburg or Drachenburg Castle is a private villa styled as a palace and constructed in the late 19th century. It was completed in only two years (1882–84) on the Drachenfels hill in Königswinter, a German town on the east bank of the Rhine, south of the city of Bonn. Baron Stephan von Sarter (1833–1902), a broker and banker, planned to live there, but never did.",
+      "url": "https://en.wikipedia.org/wiki/Schloss_Drachenburg",
+      "coordinates": {
+        "lat": 50.6686729,
+        "lng": 7.2063442
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Aerial_image_of_Schloss_Drachenburg_%28view_from_the_northeast%29.jpg/3840px-Aerial_image_of_Schloss_Drachenburg_%28view_from_the_northeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Königswinter",
+      "description": "Town in North Rhine-Westphalia, Germany",
+      "extract": "Königswinter is a town and summer resort in the Rhein-Sieg district, in North Rhine-Westphalia, Germany.",
+      "url": "https://en.wikipedia.org/wiki/K%C3%B6nigswinter",
+      "coordinates": {
+        "lat": 50.67361111,
+        "lng": 7.19472222
+      },
+      "km": 1.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Koenigswinter_Sankt_Remigius_2.jpg/3840px-Koenigswinter_Sankt_Remigius_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "19th-c. neo-Gothic palace above the Rhine.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/schloss-drachenburg/own-schloss-drachenburg.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/schloss-drachenburg.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f382f",
+            "share": 0.273
+          },
+          {
+            "hex": "#7f633d",
+            "share": 0.21
+          },
+          {
+            "hex": "#5a6578",
+            "share": 0.183
+          },
+          {
+            "hex": "#030302",
+            "share": 0.177
+          },
+          {
+            "hex": "#b4bec7",
+            "share": 0.157
+          }
+        ],
+        "strongest": "#7f633d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-drachenburg/commons-1.jpg",
+      "title": "File:Aerial image of Schloss Drachenburg (view from the northeast).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5200,
+      "height": 3200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#334632",
+            "share": 0.287
+          },
+          {
+            "hex": "#172425",
+            "share": 0.222
+          },
+          {
+            "hex": "#53653f",
+            "share": 0.221
+          },
+          {
+            "hex": "#7b8165",
+            "share": 0.154
+          },
+          {
+            "hex": "#afae9d",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#53653f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-drachenburg/commons-2.jpg",
+      "title": "File:20130816 Schloss Drachenburg 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20130816_Schloss_Drachenburg_02.jpg",
+      "author": "Dmitry Tonkonog and Ksenia Fedosova",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3009,
+      "height": 2006,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bbd1f7",
+            "share": 0.47
+          },
+          {
+            "hex": "#626f48",
+            "share": 0.211
+          },
+          {
+            "hex": "#3c534d",
+            "share": 0.18
+          },
+          {
+            "hex": "#937f7b",
+            "share": 0.084
+          },
+          {
+            "hex": "#b3a7af",
+            "share": 0.055
+          }
+        ],
+        "strongest": "#bbd1f7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-drachenburg/commons-3.jpg",
+      "title": "File:Aerial image of Schloss Drachenburg (view from the northeast).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5200,
+      "height": 3200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#334632",
+            "share": 0.287
+          },
+          {
+            "hex": "#172425",
+            "share": 0.222
+          },
+          {
+            "hex": "#53653f",
+            "share": 0.221
+          },
+          {
+            "hex": "#7b8165",
+            "share": 0.154
+          },
+          {
+            "hex": "#afae9d",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#53653f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/schloss-drachenburg/commons-4.jpg",
+      "title": "File:Schloss Drachenburg Luftbild 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Drachenburg_Luftbild_01.jpg",
+      "author": "MFSG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2309,
+      "height": 1517,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#736e5f",
+            "share": 0.324
+          },
+          {
+            "hex": "#59544a",
+            "share": 0.269
+          },
+          {
+            "hex": "#8f8884",
+            "share": 0.178
+          },
+          {
+            "hex": "#353531",
+            "share": 0.141
+          },
+          {
+            "hex": "#b5b6b8",
+            "share": 0.088
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3f382f",
+        "share": 0.273
+      },
+      {
+        "hex": "#7f633d",
+        "share": 0.21
+      },
+      {
+        "hex": "#5a6578",
+        "share": 0.183
+      },
+      {
+        "hex": "#030302",
+        "share": 0.177
+      },
+      {
+        "hex": "#b4bec7",
+        "share": 0.157
+      }
+    ],
+    "strongest": "#7f633d"
+  }
+}

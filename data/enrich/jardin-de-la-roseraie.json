@@ -1,0 +1,256 @@
+{
+  "id": "jardin-de-la-roseraie",
+  "name": "Jardin de la Roseraie (Roseraie du Val-de-Marne, L'Haÿ-les-Roses)",
+  "lat": 48.7794,
+  "lng": 2.3361,
+  "enrichedAt": "2026-10-11T01:21:40.800Z",
+  "place": {
+    "town": "L'Haÿ-les-Roses",
+    "locality": null,
+    "county": "Val-de-Marne",
+    "adminArea": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.7794&lon=2.3361&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "L'Haÿ-les-Roses, Val-de-Marne, Ile-de-France, Metropolitan France, 94240, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "L'Haÿ-les-Roses",
+      "description": "Subprefecture and commune in Île-de-France, France",
+      "extract": "L'Haÿ-les-Roses is a commune in the southern suburbs of Paris, France. It is located 8.5 km (5.3 mi) from the centre of Paris. L'Haÿ-les-Roses is a subprefecture of the Val-de-Marne département, being the seat of the Arrondissement of L'Haÿ-les-Roses. The current mayor, serving until 2026, is Vincent Jeanbrun, from the Republicans party.",
+      "url": "https://en.wikipedia.org/wiki/L'Ha%C3%BF-les-Roses",
+      "coordinates": {
+        "lat": 48.779995,
+        "lng": 2.337393
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pavillon_normand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/jardin-de-la-roseraie/own-jardin-de-la-roseraie.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/jardin-de-la-roseraie.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5c4d2e",
+            "share": 0.249
+          },
+          {
+            "hex": "#d1dae2",
+            "share": 0.247
+          },
+          {
+            "hex": "#191b12",
+            "share": 0.231
+          },
+          {
+            "hex": "#c0c3c1",
+            "share": 0.16
+          },
+          {
+            "hex": "#9c8e72",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#5c4d2e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jardin-de-la-roseraie/commons-1.jpg",
+      "title": "File:Square Léon Elmelik - L'Haÿ-les-Roses (FR94) - 2022-05-20 - 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Square_L%C3%A9on_Elmelik_-_L%27Ha%C3%BF-les-Roses_(FR94)_-_2022-05-20_-_3.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#585138",
+            "share": 0.323
+          },
+          {
+            "hex": "#7b7546",
+            "share": 0.271
+          },
+          {
+            "hex": "#9d966d",
+            "share": 0.177
+          },
+          {
+            "hex": "#372f1c",
+            "share": 0.158
+          },
+          {
+            "hex": "#d0d4bf",
+            "share": 0.073
+          }
+        ],
+        "strongest": "#7b7546"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jardin-de-la-roseraie/commons-2.jpg",
+      "title": "File:Square Léon Elmelik - L'Haÿ-les-Roses (FR94) - 2022-05-20 - 4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Square_L%C3%A9on_Elmelik_-_L%27Ha%C3%BF-les-Roses_(FR94)_-_2022-05-20_-_4.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#989cad",
+            "share": 0.241
+          },
+          {
+            "hex": "#6d5844",
+            "share": 0.235
+          },
+          {
+            "hex": "#382e22",
+            "share": 0.208
+          },
+          {
+            "hex": "#7f7f76",
+            "share": 0.171
+          },
+          {
+            "hex": "#b4bcd4",
+            "share": 0.145
+          }
+        ],
+        "strongest": "#382e22"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jardin-de-la-roseraie/commons-3.jpg",
+      "title": "File:Panneau Informations Maison Baudson - L'Haÿ-les-Roses (FR94) - 2022-05-20 - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panneau_Informations_Maison_Baudson_-_L%27Ha%C3%BF-les-Roses_(FR94)_-_2022-05-20_-_1.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c2bba9",
+            "share": 0.243
+          },
+          {
+            "hex": "#7f585a",
+            "share": 0.234
+          },
+          {
+            "hex": "#6a333a",
+            "share": 0.199
+          },
+          {
+            "hex": "#500d17",
+            "share": 0.183
+          },
+          {
+            "hex": "#99847e",
+            "share": 0.142
+          }
+        ],
+        "strongest": "#500d17"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/jardin-de-la-roseraie/commons-4.jpg",
+      "title": "File:Rue Bourgeot - L'Haÿ-les-Roses (FR94) - 2022-05-20 - 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rue_Bourgeot_-_L%27Ha%C3%BF-les-Roses_(FR94)_-_2022-05-20_-_2.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#888382",
+            "share": 0.408
+          },
+          {
+            "hex": "#aca5a3",
+            "share": 0.198
+          },
+          {
+            "hex": "#635e52",
+            "share": 0.173
+          },
+          {
+            "hex": "#353626",
+            "share": 0.148
+          },
+          {
+            "hex": "#d3d7d7",
+            "share": 0.072
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#5c4d2e",
+        "share": 0.249
+      },
+      {
+        "hex": "#d1dae2",
+        "share": 0.247
+      },
+      {
+        "hex": "#191b12",
+        "share": 0.231
+      },
+      {
+        "hex": "#c0c3c1",
+        "share": 0.16
+      },
+      {
+        "hex": "#9c8e72",
+        "share": 0.112
+      }
+    ],
+    "strongest": "#5c4d2e"
+  }
+}

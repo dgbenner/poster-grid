@@ -1,0 +1,235 @@
+{
+  "id": "trembling-rock-huelgoat",
+  "name": "The Trembling Rock (Roche Tremblante), Huelgoat",
+  "lat": 48.3658,
+  "lng": -3.7472,
+  "enrichedAt": "2026-10-11T01:21:41.049Z",
+  "place": {
+    "town": "Huelgoat",
+    "locality": null,
+    "county": "Finistère",
+    "adminArea": "Finistère",
+    "region": "Brittany",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.3658&lon=-3.7472&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Kerguibel, Huelgoat, Châteaulin, Finistère, Brittany, Metropolitan France, 29690, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Huelgoat",
+      "description": "Commune in Brittany, France",
+      "extract": "Huelgoat is a commune in the Finistère department of Brittany in northwestern FRANCE.",
+      "url": "https://en.wikipedia.org/wiki/Huelgoat",
+      "coordinates": {
+        "lat": 48.365,
+        "lng": -3.7436
+      },
+      "km": 0.3,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/4a/2010_Huelgoat_1_La_ville_vue_du_lac.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Huelgoat",
+      "description": "Commune in Brittany, France",
+      "extract": "Huelgoat is a commune in the Finistère department of Brittany in northwestern FRANCE.",
+      "url": "https://en.wikipedia.org/wiki/Huelgoat",
+      "coordinates": {
+        "lat": 48.365,
+        "lng": -3.7436
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/4a/2010_Huelgoat_1_La_ville_vue_du_lac.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "A 132-ton granite block balanced so anyone can rock it slightly.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/trembling-rock-huelgoat/commons-1.jpg",
+      "title": "File:2010 Huelgoat 1 La ville vue du lac.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:2010_Huelgoat_1_La_ville_vue_du_lac.JPG",
+      "author": "Moreau.henri",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7c8990",
+            "share": 0.231
+          },
+          {
+            "hex": "#3b3f3f",
+            "share": 0.203
+          },
+          {
+            "hex": "#e4f7fe",
+            "share": 0.201
+          },
+          {
+            "hex": "#abd1ef",
+            "share": 0.187
+          },
+          {
+            "hex": "#697933",
+            "share": 0.178
+          }
+        ],
+        "strongest": "#abd1ef"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/trembling-rock-huelgoat/commons-2.jpg",
+      "title": "File:Huelgoat champ.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Huelgoat_champ.jpg",
+      "author": "Wurzeller",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1200,
+      "height": 1600,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#aca9a4",
+            "share": 0.252
+          },
+          {
+            "hex": "#373939",
+            "share": 0.235
+          },
+          {
+            "hex": "#7f8b81",
+            "share": 0.213
+          },
+          {
+            "hex": "#58645b",
+            "share": 0.193
+          },
+          {
+            "hex": "#d6dcdb",
+            "share": 0.107
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/trembling-rock-huelgoat/commons-3.jpg",
+      "title": "File:Huelgoat - la rivière d'argent.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Huelgoat_-_la_rivi%C3%A8re_d%27argent.JPG",
+      "author": "GaMip",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f432d",
+            "share": 0.306
+          },
+          {
+            "hex": "#212418",
+            "share": 0.252
+          },
+          {
+            "hex": "#5f5f50",
+            "share": 0.204
+          },
+          {
+            "hex": "#e7edf5",
+            "share": 0.143
+          },
+          {
+            "hex": "#8d8b88",
+            "share": 0.095
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/trembling-rock-huelgoat/commons-4.jpg",
+      "title": "File:Huelgoat - près de la grotte du diable.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Huelgoat_-_pr%C3%A8s_de_la_grotte_du_diable.JPG",
+      "author": "GaMip",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#0d1009",
+            "share": 0.285
+          },
+          {
+            "hex": "#293318",
+            "share": 0.264
+          },
+          {
+            "hex": "#4b5332",
+            "share": 0.212
+          },
+          {
+            "hex": "#747b5f",
+            "share": 0.169
+          },
+          {
+            "hex": "#d6dad3",
+            "share": 0.071
+          }
+        ],
+        "strongest": "#293318"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7c8990",
+        "share": 0.231
+      },
+      {
+        "hex": "#3b3f3f",
+        "share": 0.203
+      },
+      {
+        "hex": "#e4f7fe",
+        "share": 0.201
+      },
+      {
+        "hex": "#abd1ef",
+        "share": 0.187
+      },
+      {
+        "hex": "#697933",
+        "share": 0.178
+      }
+    ],
+    "strongest": "#abd1ef"
+  }
+}

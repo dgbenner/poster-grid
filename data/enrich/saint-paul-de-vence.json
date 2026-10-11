@@ -1,0 +1,269 @@
+{
+  "id": "saint-paul-de-vence",
+  "name": "Saint-Paul-de-Vence",
+  "lat": 43.6953,
+  "lng": 7.1222,
+  "enrichedAt": "2026-10-11T01:21:41.326Z",
+  "place": {
+    "town": "Saint-Paul-de-Vence",
+    "locality": null,
+    "county": "Maritime Alps",
+    "adminArea": "Maritime Alps",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.6953&lon=7.1222&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Saint-Paul-de-Vence, Grasse, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, 06570, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Saint-Paul-de-Vence",
+      "description": "Commune in Provence-Alpes-Côte d'Azur, France",
+      "extract": "Saint-Paul-de-Vence is a commune in the Alpes-Maritimes department in the Provence-Alpes-Côte d'Azur region of Southeastern France. One of the oldest medieval towns on the French Riviera, Saint-Paul-de-Vence is well known for its modern and contemporary art museums and galleries such as the Fondation Maeght, and for the 17th-century Saint Charles-Saint Claude chapel, which in 2012–2013 was decorated with murals by French artist Paul Conte.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Paul-de-Vence",
+      "coordinates": {
+        "lat": 43.698,
+        "lng": 7.122
+      },
+      "km": 0.3,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/France-002626B_-_Saint-Paul-de-Vence_%2815745144948%29.jpg/3840px-France-002626B_-_Saint-Paul-de-Vence_%2815745144948%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Saint-Paul-de-Vence",
+      "description": "Commune in Provence-Alpes-Côte d'Azur, France",
+      "extract": "Saint-Paul-de-Vence is a commune in the Alpes-Maritimes department in the Provence-Alpes-Côte d'Azur region of Southeastern France. One of the oldest medieval towns on the French Riviera, Saint-Paul-de-Vence is well known for its modern and contemporary art museums and galleries such as the Fondation Maeght, and for the 17th-century Saint Charles-Saint Claude chapel, which in 2012–2013 was decorated with murals by French artist Paul Conte.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Paul-de-Vence",
+      "coordinates": {
+        "lat": 43.698,
+        "lng": 7.122
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/France-002626B_-_Saint-Paul-de-Vence_%2815745144948%29.jpg/3840px-France-002626B_-_Saint-Paul-de-Vence_%2815745144948%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "One of the oldest medieval towns on the Riviera; home of poet Jacques Prévert.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/saint-paul-de-vence/own-saint-paul-de-vence.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/saint-paul-de-vence.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eafcfd",
+            "share": 0.245
+          },
+          {
+            "hex": "#c3ebfb",
+            "share": 0.212
+          },
+          {
+            "hex": "#556040",
+            "share": 0.204
+          },
+          {
+            "hex": "#898b63",
+            "share": 0.172
+          },
+          {
+            "hex": "#1b251e",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#c3ebfb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-paul-de-vence/commons-1.jpg",
+      "title": "File:France-002626B - Saint-Paul-de-Vence (15745144948).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:France-002626B_-_Saint-Paul-de-Vence_(15745144948).jpg",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eafcfe",
+            "share": 0.243
+          },
+          {
+            "hex": "#c3ecfc",
+            "share": 0.211
+          },
+          {
+            "hex": "#56613e",
+            "share": 0.208
+          },
+          {
+            "hex": "#1a261c",
+            "share": 0.17
+          },
+          {
+            "hex": "#8a8c64",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#c3ecfc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-paul-de-vence/commons-2.jpg",
+      "title": "File:France-002626B - Saint-Paul-de-Vence (15745144948).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:France-002626B_-_Saint-Paul-de-Vence_(15745144948).jpg",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#eafcfe",
+            "share": 0.243
+          },
+          {
+            "hex": "#c3ecfc",
+            "share": 0.211
+          },
+          {
+            "hex": "#56613e",
+            "share": 0.208
+          },
+          {
+            "hex": "#1a261c",
+            "share": 0.17
+          },
+          {
+            "hex": "#8a8c64",
+            "share": 0.168
+          }
+        ],
+        "strongest": "#c3ecfc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-paul-de-vence/commons-3.jpg",
+      "title": "File:Saint Paul de Vence Chapelle Saint-Claude-et-Saint-Charles.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint_Paul_de_Vence_Chapelle_Saint-Claude-et-Saint-Charles.jpg",
+      "author": "Aimelaime",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fdfdfd",
+            "share": 0.292
+          },
+          {
+            "hex": "#a19476",
+            "share": 0.252
+          },
+          {
+            "hex": "#746a56",
+            "share": 0.207
+          },
+          {
+            "hex": "#2f2c1f",
+            "share": 0.185
+          },
+          {
+            "hex": "#b6b5a7",
+            "share": 0.064
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-paul-de-vence/commons-4.jpg",
+      "title": "File:The Wall, Saint Paul de Vence, Provence-Alpes-Côte d'Azur, France - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Wall,_Saint_Paul_de_Vence,_Provence-Alpes-C%C3%B4te_d%27Azur,_France_-_panoramio.jpg",
+      "author": "M.Strīķis",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2816,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#79afe4",
+            "share": 0.289
+          },
+          {
+            "hex": "#6198d2",
+            "share": 0.24
+          },
+          {
+            "hex": "#969491",
+            "share": 0.22
+          },
+          {
+            "hex": "#231e1a",
+            "share": 0.148
+          },
+          {
+            "hex": "#6b6663",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#79afe4"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#eafcfd",
+        "share": 0.245
+      },
+      {
+        "hex": "#c3ebfb",
+        "share": 0.212
+      },
+      {
+        "hex": "#556040",
+        "share": 0.204
+      },
+      {
+        "hex": "#898b63",
+        "share": 0.172
+      },
+      {
+        "hex": "#1b251e",
+        "share": 0.168
+      }
+    ],
+    "strongest": "#c3ebfb"
+  }
+}

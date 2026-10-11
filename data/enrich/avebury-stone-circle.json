@@ -1,0 +1,277 @@
+{
+  "id": "avebury-stone-circle",
+  "name": "Avebury Stone Circle",
+  "lat": 51.4286099,
+  "lng": -1.8517053,
+  "enrichedAt": "2026-10-11T01:21:47.228Z",
+  "place": {
+    "town": "Beckhampton",
+    "locality": null,
+    "county": "Wiltshire",
+    "adminArea": "Wiltshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4286099&lon=-1.8517053&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Silbury Cottages, West Kennett, Beckhampton, Avebury, Wiltshire, England, SN8 1QH, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "castle-combe",
+        "name": "Castle Combe",
+        "km": 26.9
+      },
+      {
+        "id": "stonehenge",
+        "name": "Stonehenge",
+        "km": 27.8
+      },
+      {
+        "id": "king-alfreds-tower",
+        "name": "King Alfred's Tower, Stourhead",
+        "km": 48.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Avebury",
+      "description": "Neolithic henge monument in Wiltshire, England",
+      "extract": "Avebury is a Neolithic henge monument containing three stone circles, around the village of Avebury in Wiltshire, in south-west England. One of the best-known prehistoric sites in Britain, it contains the largest megalithic stone circle in the world. It is both a tourist attraction and a place of religious importance to contemporary pagans.",
+      "url": "https://en.wikipedia.org/wiki/Avebury",
+      "coordinates": {
+        "lat": 51.42861111,
+        "lng": -1.85416667
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wiltshire-Avebury.jpg/3840px-Wiltshire-Avebury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The largest stone circle in Britain, a Neolithic henge you can walk through, near Silbury Hill.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/avebury-stone-circle/own-avebury-stone-circle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/avebury-stone-circle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#917e58",
+            "share": 0.289
+          },
+          {
+            "hex": "#a9936d",
+            "share": 0.209
+          },
+          {
+            "hex": "#74665d",
+            "share": 0.19
+          },
+          {
+            "hex": "#494643",
+            "share": 0.171
+          },
+          {
+            "hex": "#736f3f",
+            "share": 0.142
+          }
+        ],
+        "strongest": "#917e58"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/avebury-stone-circle/commons-1.jpg",
+      "title": "File:Wiltshire-Avebury.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wiltshire-Avebury.jpg",
+      "author": "MikPeach",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4272,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#907c5b",
+            "share": 0.316
+          },
+          {
+            "hex": "#a9936c",
+            "share": 0.207
+          },
+          {
+            "hex": "#6d6158",
+            "share": 0.187
+          },
+          {
+            "hex": "#464440",
+            "share": 0.153
+          },
+          {
+            "hex": "#76733e",
+            "share": 0.137
+          }
+        ],
+        "strongest": "#907c5b"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/avebury-stone-circle/commons-2.jpg",
+      "title": "File:The henge at the Avebury Stone Circle - geograph.org.uk - 6258935.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_henge_at_the_Avebury_Stone_Circle_-_geograph.org.uk_-_6258935.jpg",
+      "author": "Mike Pennington",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1600,
+      "height": 1067,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d6dbe7",
+            "share": 0.288
+          },
+          {
+            "hex": "#1c2015",
+            "share": 0.209
+          },
+          {
+            "hex": "#4d4f32",
+            "share": 0.183
+          },
+          {
+            "hex": "#c1bd8a",
+            "share": 0.165
+          },
+          {
+            "hex": "#a0a16a",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#d6dbe7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/avebury-stone-circle/commons-3.jpg",
+      "title": "File:Avebury (South Inner Circle), Wiltshire, UK - Diliff.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Avebury_(South_Inner_Circle),_Wiltshire,_UK_-_Diliff.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5760,
+      "height": 3840,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#95a251",
+            "share": 0.254
+          },
+          {
+            "hex": "#79873a",
+            "share": 0.231
+          },
+          {
+            "hex": "#dce0e5",
+            "share": 0.199
+          },
+          {
+            "hex": "#454a2d",
+            "share": 0.193
+          },
+          {
+            "hex": "#a7bed0",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#79873a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/avebury-stone-circle/commons-4.jpg",
+      "title": "File:The barber stone avebury great circle02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_barber_stone_avebury_great_circle02.jpg",
+      "author": "JimChampion",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2025,
+      "height": 2700,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#464819",
+            "share": 0.271
+          },
+          {
+            "hex": "#93c6eb",
+            "share": 0.228
+          },
+          {
+            "hex": "#c6ab6a",
+            "share": 0.219
+          },
+          {
+            "hex": "#1c2112",
+            "share": 0.149
+          },
+          {
+            "hex": "#907e4b",
+            "share": 0.132
+          }
+        ],
+        "strongest": "#93c6eb"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Northwest of Avebury Circle.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#917e58",
+        "share": 0.289
+      },
+      {
+        "hex": "#a9936d",
+        "share": 0.209
+      },
+      {
+        "hex": "#74665d",
+        "share": 0.19
+      },
+      {
+        "hex": "#494643",
+        "share": 0.171
+      },
+      {
+        "hex": "#736f3f",
+        "share": 0.142
+      }
+    ],
+    "strongest": "#917e58"
+  }
+}

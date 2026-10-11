@@ -1,0 +1,486 @@
+{
+  "id": "princes-st-gardens",
+  "name": "Princes St & Gardens",
+  "lat": 55.9519,
+  "lng": -3.1965,
+  "enrichedAt": "2026-10-11T01:21:29.860Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9519&lon=-3.1965&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.19
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.19
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.34
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.36
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.42
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.42
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.42
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.44
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.46
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.53
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.68
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.91
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.05
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.27
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.33
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.52
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 1.68
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.32
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.54
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.43
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.61
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 0.2
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 0.2
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 0.3
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 0.4
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 0.4
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.4
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 0.4
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 0.4
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 0.5
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.5
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 0.7
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.9
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 1.3
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.3
+      },
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.5
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 1.7
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 2.3
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.5
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 4.4
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 4.6
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 12.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.5,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Valley garden below the castle rock; floral clock, the Ross Fountain.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/princes-st-gardens/own-princes-st-gardens.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/princes-st-gardens.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2e3c20",
+            "share": 0.312
+          },
+          {
+            "hex": "#d9e2eb",
+            "share": 0.226
+          },
+          {
+            "hex": "#7cb9f5",
+            "share": 0.209
+          },
+          {
+            "hex": "#79892c",
+            "share": 0.177
+          },
+          {
+            "hex": "#7e8070",
+            "share": 0.077
+          }
+        ],
+        "strongest": "#7cb9f5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/princes-st-gardens/commons-1.jpg",
+      "title": "File:Tram on Princes Street, Edinburgh - geograph.org.uk - 5434861.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tram_on_Princes_Street,_Edinburgh_-_geograph.org.uk_-_5434861.jpg",
+      "author": "Andrew Curtis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#72706d",
+            "share": 0.366
+          },
+          {
+            "hex": "#4f4c48",
+            "share": 0.201
+          },
+          {
+            "hex": "#f9f9f9",
+            "share": 0.174
+          },
+          {
+            "hex": "#a7a7a6",
+            "share": 0.137
+          },
+          {
+            "hex": "#20201e",
+            "share": 0.121
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/princes-st-gardens/commons-2.jpg",
+      "title": "File:Tram in Princes Street, Edinburgh (geograph 4070020).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tram_in_Princes_Street,_Edinburgh_(geograph_4070020).jpg",
+      "author": "Jim Barton",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 762,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#717275",
+            "share": 0.321
+          },
+          {
+            "hex": "#504f53",
+            "share": 0.254
+          },
+          {
+            "hex": "#969799",
+            "share": 0.22
+          },
+          {
+            "hex": "#28272d",
+            "share": 0.125
+          },
+          {
+            "hex": "#e8ecf2",
+            "share": 0.08
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/princes-st-gardens/commons-3.jpg",
+      "title": "File:An Edinburgh tram on Princes Street (geograph 1863879).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:An_Edinburgh_tram_on_Princes_Street_(geograph_1863879).jpg",
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#878581",
+            "share": 0.395
+          },
+          {
+            "hex": "#5e5454",
+            "share": 0.26
+          },
+          {
+            "hex": "#6c99c9",
+            "share": 0.133
+          },
+          {
+            "hex": "#c5c2c0",
+            "share": 0.111
+          },
+          {
+            "hex": "#202224",
+            "share": 0.101
+          }
+        ],
+        "strongest": "#6c99c9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/princes-st-gardens/commons-4.jpg",
+      "title": "File:Royal-Scottish-Academy.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal-Scottish-Academy.JPG",
+      "author": "Marjolein Mijnders",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2816,
+      "height": 2112,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#abe0fa",
+            "share": 0.298
+          },
+          {
+            "hex": "#4c4b51",
+            "share": 0.273
+          },
+          {
+            "hex": "#252627",
+            "share": 0.209
+          },
+          {
+            "hex": "#82827e",
+            "share": 0.153
+          },
+          {
+            "hex": "#4495d4",
+            "share": 0.067
+          }
+        ],
+        "strongest": "#abe0fa"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Princes Street, Edinburgh - geograph.org.uk - 1161522.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Queen Victoria statue by Sir John Steell - geograph.org.uk - 2357403.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Hanover St (geograph 2286888).jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#2e3c20",
+        "share": 0.312
+      },
+      {
+        "hex": "#d9e2eb",
+        "share": 0.226
+      },
+      {
+        "hex": "#7cb9f5",
+        "share": 0.209
+      },
+      {
+        "hex": "#79892c",
+        "share": 0.177
+      },
+      {
+        "hex": "#7e8070",
+        "share": 0.077
+      }
+    ],
+    "strongest": "#7cb9f5"
+  }
+}

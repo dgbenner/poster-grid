@@ -1,0 +1,135 @@
+{
+  "id": "rocca-calascio",
+  "name": "Rocca Calascio, Abruzzo",
+  "lat": 42.3416,
+  "lng": 13.7066,
+  "enrichedAt": "2026-10-11T01:21:43.725Z",
+  "place": {
+    "town": "Calascio",
+    "locality": null,
+    "county": "L'Aquila",
+    "adminArea": "L'Aquila",
+    "region": "Abruzzo",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=42.3416&lon=13.7066&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Calascio, L'Aquila, Abruzzo, 67023, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": null,
+    "town": null
+  },
+  "note": {
+    "text": "One of the highest fortresses in the Apennines, stunning in winter.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/rocca-calascio/own-rocca-calascio.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/rocca-calascio.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7c787e",
+            "share": 0.298
+          },
+          {
+            "hex": "#a39fa6",
+            "share": 0.273
+          },
+          {
+            "hex": "#4c4c54",
+            "share": 0.207
+          },
+          {
+            "hex": "#cfcdd3",
+            "share": 0.151
+          },
+          {
+            "hex": "#060607",
+            "share": 0.071
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rocca-calascio/commons-1.jpg",
+      "title": "File:Rocca Calascio - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rocca_Calascio_-_panoramio.jpg",
+      "author": "maury3001",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 2816,
+      "height": 1880,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#84baee",
+            "share": 0.255
+          },
+          {
+            "hex": "#666660",
+            "share": 0.238
+          },
+          {
+            "hex": "#7fb1e8",
+            "share": 0.186
+          },
+          {
+            "hex": "#373d3e",
+            "share": 0.17
+          },
+          {
+            "hex": "#8cc2f1",
+            "share": 0.152
+          }
+        ],
+        "strongest": "#84baee"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7c787e",
+        "share": 0.298
+      },
+      {
+        "hex": "#a39fa6",
+        "share": 0.273
+      },
+      {
+        "hex": "#4c4c54",
+        "share": 0.207
+      },
+      {
+        "hex": "#cfcdd3",
+        "share": 0.151
+      },
+      {
+        "hex": "#060607",
+        "share": 0.071
+      }
+    ],
+    "strongest": null
+  }
+}

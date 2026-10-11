@@ -1,0 +1,233 @@
+{
+  "id": "czech-jet-vr4u-europe",
+  "name": "Czech-Jet VR4U Europe",
+  "lat": 50.7663,
+  "lng": 15.0566,
+  "enrichedAt": "2026-10-11T01:21:47.053Z",
+  "place": {
+    "town": "Liberec",
+    "locality": "Nové Město",
+    "county": "Liberec Region",
+    "adminArea": null,
+    "region": "Liberec Region",
+    "country": "Czechia",
+    "sovereign": "Czechia",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.7663&lon=15.0566&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Nové Město, nečleněný Liberec, Liberec, okres Liberec, Liberec Region, 460 02, Czechia"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "jested-tower",
+        "name": "Ještěd Tower",
+        "km": 6.3
+      },
+      {
+        "id": "trosky-castle",
+        "name": "Trosky Castle",
+        "km": 30.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Liberec",
+      "description": "City in the Czech Republic",
+      "extract": "Liberec is a city in the Czech Republic. It has about 108,000 inhabitants, making it the fifth largest city in the country. It lies on the Lusatian Neisse River, in a basin surrounded by mountains. The city centre is well preserved and is protected as an urban monument zone.",
+      "url": "https://en.wikipedia.org/wiki/Liberec",
+      "coordinates": {
+        "lat": 50.76666667,
+        "lng": 15.06666667
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Liberec%2C_radnice%2C_v%C3%BDhled_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "VR4U Europe office at Zelezna 830/12a in Liberec, associated with Czech-Jet.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "commons",
+      "file": "data/images/czech-jet-vr4u-europe/commons-1.jpg",
+      "title": "File:Liberec, Fügnerova, tram zast-detail označení.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Liberec,_F%C3%BCgnerova,_tram_zast-detail_ozna%C4%8Den%C3%AD.jpg",
+      "author": "cs:User:ŠJů",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fafbfb",
+            "share": 0.312
+          },
+          {
+            "hex": "#636364",
+            "share": 0.227
+          },
+          {
+            "hex": "#868d98",
+            "share": 0.216
+          },
+          {
+            "hex": "#3f3129",
+            "share": 0.196
+          },
+          {
+            "hex": "#c2c3c7",
+            "share": 0.049
+          }
+        ],
+        "strongest": "#3f3129"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/czech-jet-vr4u-europe/commons-2.jpg",
+      "title": "File:Liberec, Fügnerova, tram zast a Tesco.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Liberec,_F%C3%BCgnerova,_tram_zast_a_Tesco.jpg",
+      "author": "cs:User:ŠJů",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1482,
+      "height": 1990,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#646061",
+            "share": 0.378
+          },
+          {
+            "hex": "#f7f7f7",
+            "share": 0.224
+          },
+          {
+            "hex": "#332e2d",
+            "share": 0.223
+          },
+          {
+            "hex": "#854020",
+            "share": 0.095
+          },
+          {
+            "hex": "#919094",
+            "share": 0.08
+          }
+        ],
+        "strongest": "#854020"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/czech-jet-vr4u-europe/commons-3.jpg",
+      "title": "File:Liberec, Fügnerova, tram v zastávce.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Liberec,_F%C3%BCgnerova,_tram_v_zast%C3%A1vce.jpg",
+      "author": "cs:User:ŠJů",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5e5855",
+            "share": 0.292
+          },
+          {
+            "hex": "#f3f4f6",
+            "share": 0.282
+          },
+          {
+            "hex": "#362f26",
+            "share": 0.228
+          },
+          {
+            "hex": "#a9a09c",
+            "share": 0.133
+          },
+          {
+            "hex": "#b3572a",
+            "share": 0.064
+          }
+        ],
+        "strongest": "#b3572a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/czech-jet-vr4u-europe/commons-4.jpg",
+      "title": "File:Liberec - náměstí Dr. E. Beneše během Crystal Valley Weeku 2026 (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Liberec_-_n%C3%A1m%C4%9Bst%C3%AD_Dr._E._Bene%C5%A1e_b%C4%9Bhem_Crystal_Valley_Weeku_2026_(1).jpg",
+      "author": "MartinVeselka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5988d2",
+            "share": 0.283
+          },
+          {
+            "hex": "#303034",
+            "share": 0.237
+          },
+          {
+            "hex": "#59585b",
+            "share": 0.174
+          },
+          {
+            "hex": "#b4b2b4",
+            "share": 0.161
+          },
+          {
+            "hex": "#8e8b8b",
+            "share": 0.144
+          }
+        ],
+        "strongest": "#5988d2"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#fafbfb",
+        "share": 0.312
+      },
+      {
+        "hex": "#636364",
+        "share": 0.227
+      },
+      {
+        "hex": "#868d98",
+        "share": 0.216
+      },
+      {
+        "hex": "#3f3129",
+        "share": 0.196
+      },
+      {
+        "hex": "#c2c3c7",
+        "share": 0.049
+      }
+    ],
+    "strongest": "#3f3129"
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "id": "manchester-bridge",
+  "name": "Manchester Bridge (Joy Division footbridge)",
+  "lat": 53.4709,
+  "lng": -2.2459,
+  "enrichedAt": "2026-10-11T01:21:32.607Z",
+  "place": {
+    "town": "Manchester",
+    "locality": "City Centre",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4709&lon=-2.2459&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "City Centre, Manchester, Greater Manchester, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "hacienda-site",
+        "name": "Haçienda site",
+        "km": 0.68
+      },
+      {
+        "id": "salford-lads-club",
+        "name": "Salford Lads Club",
+        "km": 1.57
+      },
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 1.99
+      },
+      {
+        "id": "southern-cemetery",
+        "name": "Southern Cemetery",
+        "km": 4.72
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "hacienda-site",
+        "name": "Haçienda site",
+        "km": 0.7
+      },
+      {
+        "id": "salford-lads-club",
+        "name": "Salford Lads Club",
+        "km": 1.6
+      },
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 2
+      },
+      {
+        "id": "southern-cemetery",
+        "name": "Southern Cemetery",
+        "km": 4.7
+      },
+      {
+        "id": "strawberry-studios",
+        "name": "Strawberry Studios",
+        "km": 9.3
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Manchester",
+      "description": "City and metropolitan borough in England",
+      "extract": "Manchester is a city and metropolitan borough in North West England, at the centre of the eponymous county of Greater Manchester. It had a population of over 589,000 in 2024. It borders the Cheshire Plain to the south, the Pennines to the north and east, and the city of Salford to the west. The two cities and the surrounding towns form one of the United Kingdom's most populous conurbations, the Greater Manchester Built-up Area, which has a population of 2.87 million.",
+      "url": "https://en.wikipedia.org/wiki/Manchester",
+      "coordinates": {
+        "lat": 53.47944444,
+        "lng": -2.24527778
+      },
+      "km": 1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Epping Walk Bridge — site of Kevin Cummins’ snow-bound Joy Division shoot.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/manchester-bridge/own-manchester-bridge.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/manchester-bridge.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a1a1a1",
+            "share": 0.294
+          },
+          {
+            "hex": "#e3e3e3",
+            "share": 0.256
+          },
+          {
+            "hex": "#eeeeee",
+            "share": 0.193
+          },
+          {
+            "hex": "#797979",
+            "share": 0.191
+          },
+          {
+            "hex": "#2d2d2d",
+            "share": 0.066
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/manchester-bridge/commons-1.jpg",
+      "title": "File:Parkway Gate Block 2 Manchester March 2025.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Parkway_Gate_Block_2_Manchester_March_2025.jpg",
+      "author": "Valienne",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#576061",
+            "share": 0.239
+          },
+          {
+            "hex": "#b6c3cf",
+            "share": 0.217
+          },
+          {
+            "hex": "#919186",
+            "share": 0.209
+          },
+          {
+            "hex": "#292f2f",
+            "share": 0.2
+          },
+          {
+            "hex": "#5880b8",
+            "share": 0.136
+          }
+        ],
+        "strongest": "#5880b8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/manchester-bridge/commons-2.jpg",
+      "title": "File:Square Gardens Manchester February 2025.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Square_Gardens_Manchester_February_2025.jpg",
+      "author": "Valienne",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 1536,
+      "height": 2048,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e0e6e9",
+            "share": 0.261
+          },
+          {
+            "hex": "#5a6669",
+            "share": 0.244
+          },
+          {
+            "hex": "#cdd5db",
+            "share": 0.185
+          },
+          {
+            "hex": "#8c9798",
+            "share": 0.158
+          },
+          {
+            "hex": "#292d29",
+            "share": 0.152
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/manchester-bridge/commons-3.jpg",
+      "title": "File:Manchester Tower - geograph.org.uk - 8099410.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Manchester_Tower_-_geograph.org.uk_-_8099410.jpg",
+      "author": "Thomas Roberts",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d4e1e9",
+            "share": 0.429
+          },
+          {
+            "hex": "#bccbd3",
+            "share": 0.153
+          },
+          {
+            "hex": "#26322f",
+            "share": 0.152
+          },
+          {
+            "hex": "#53676c",
+            "share": 0.141
+          },
+          {
+            "hex": "#849ca4",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#d4e1e9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/manchester-bridge/commons-4.jpg",
+      "title": "File:House of Social Manchester February 2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:House_of_Social_Manchester_February_2026.jpg",
+      "author": "Valienne",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4284,
+      "height": 5712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b8d0e2",
+            "share": 0.264
+          },
+          {
+            "hex": "#695854",
+            "share": 0.249
+          },
+          {
+            "hex": "#44312a",
+            "share": 0.194
+          },
+          {
+            "hex": "#808584",
+            "share": 0.182
+          },
+          {
+            "hex": "#d3e8f4",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#b8d0e2"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a1a1a1",
+        "share": 0.294
+      },
+      {
+        "hex": "#e3e3e3",
+        "share": 0.256
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.193
+      },
+      {
+        "hex": "#797979",
+        "share": 0.191
+      },
+      {
+        "hex": "#2d2d2d",
+        "share": 0.066
+      }
+    ],
+    "strongest": null
+  }
+}

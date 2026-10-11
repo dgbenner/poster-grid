@@ -1,0 +1,304 @@
+{
+  "id": "strawberry-studios",
+  "name": "Strawberry Studios",
+  "lat": 53.4070168,
+  "lng": -2.1542789,
+  "enrichedAt": "2026-10-11T01:21:45.717Z",
+  "place": {
+    "town": "Stockport",
+    "locality": "Davenport",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4070168&lon=-2.1542789&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Heaviley, Davenport, Stockport, Greater Manchester, England, SK2 6PH, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "southern-cemetery",
+        "name": "Southern Cemetery",
+        "km": 7.4
+      },
+      {
+        "id": "manchester-bridge",
+        "name": "Manchester Bridge (Joy Division footbridge)",
+        "km": 9.3
+      },
+      {
+        "id": "hacienda-site",
+        "name": "Haçienda site",
+        "km": 10
+      },
+      {
+        "id": "salford-lads-club",
+        "name": "Salford Lads Club",
+        "km": 10.9
+      },
+      {
+        "id": "salford-lads-club-2",
+        "name": "Salford Lads' Club",
+        "km": 11.1
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Strawberry Studios",
+      "description": "Former recording studio in Stockport, England",
+      "extract": "Strawberry Studios was a recording studio in Stockport, historically in Cheshire, now within Greater Manchester, England. Founded in 1968, it operated until the early 1990s. Strawberry Studios was used by a range of artists including the Ramones, 10cc, Joy Division, Neil Sedaka, Barclay James Harvest, the Smiths, the Stone Roses, the Moody Blues, Paul McCartney, Wax and Cliff Richard.",
+      "url": "https://en.wikipedia.org/wiki/Strawberry_Studios",
+      "coordinates": {
+        "lat": 53.407,
+        "lng": -2.1545
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Strawberry_Studios_%283610622%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Stockport",
+      "description": "Town in Greater Manchester, England",
+      "extract": "Stockport is a town in Greater Manchester, England, 6 miles (10 km) south-east of Manchester, 7 miles (11 km) south-west of Ashton-under-Lyne and 12 miles (19 km) north of Macclesfield. The rivers Goyt and Tame merge to create the River Mersey here. It is the main settlement of the wider Metropolitan Borough of Stockport. At the 2021 census, the built up area as defined by the Office for National Statistics had a population of 117,935, and the metropolitan borough had a population of 294,773.",
+      "url": "https://en.wikipedia.org/wiki/Stockport",
+      "coordinates": {
+        "lat": 53.4083,
+        "lng": -2.1494
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/St_Mary%E2%80%98s_Church%2C_Stockport_00_07_35_865000.jpeg/3840px-St_Mary%E2%80%98s_Church%2C_Stockport_00_07_35_865000.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Stockport studio at 3 Waterloo Road where Joy Division recorded Unknown Pleasures in 1979.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/strawberry-studios/own-strawberry-studios.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/strawberry-studios.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#886e65",
+            "share": 0.258
+          },
+          {
+            "hex": "#5d4b47",
+            "share": 0.251
+          },
+          {
+            "hex": "#aaa9a7",
+            "share": 0.185
+          },
+          {
+            "hex": "#2b2527",
+            "share": 0.16
+          },
+          {
+            "hex": "#f8fafa",
+            "share": 0.146
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/strawberry-studios/commons-1.jpg",
+      "title": "File:Strawberry Studios, Stockport, Manchester, UK 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Strawberry_Studios,_Stockport,_Manchester,_UK_01.jpg",
+      "author": "Ridiculopathy",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3120,
+      "height": 4160,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#706e67",
+            "share": 0.381
+          },
+          {
+            "hex": "#7b7d80",
+            "share": 0.267
+          },
+          {
+            "hex": "#939db0",
+            "share": 0.146
+          },
+          {
+            "hex": "#3e5680",
+            "share": 0.133
+          },
+          {
+            "hex": "#d9d8cd",
+            "share": 0.074
+          }
+        ],
+        "strongest": "#3e5680"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/strawberry-studios/commons-2.jpg",
+      "title": "File:Strawberry Studios, Stockport, Manchester, UK in the sun 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Strawberry_Studios,_Stockport,_Manchester,_UK_in_the_sun_02.jpg",
+      "author": "Ridiculopathy",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4160,
+      "height": 3120,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a5754",
+            "share": 0.301
+          },
+          {
+            "hex": "#a58670",
+            "share": 0.271
+          },
+          {
+            "hex": "#669ae0",
+            "share": 0.171
+          },
+          {
+            "hex": "#2c252a",
+            "share": 0.149
+          },
+          {
+            "hex": "#c3baab",
+            "share": 0.107
+          }
+        ],
+        "strongest": "#669ae0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/strawberry-studios/commons-3.jpg",
+      "title": "File:Strawberry Studios, Stockport - geograph.org.uk - 6016241.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Strawberry_Studios,_Stockport_-_geograph.org.uk_-_6016241.jpg",
+      "author": "Matt Harrop",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3322,
+      "height": 2356,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#503b36",
+            "share": 0.264
+          },
+          {
+            "hex": "#c2ced6",
+            "share": 0.198
+          },
+          {
+            "hex": "#68615d",
+            "share": 0.187
+          },
+          {
+            "hex": "#1d1b1b",
+            "share": 0.176
+          },
+          {
+            "hex": "#878786",
+            "share": 0.175
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/strawberry-studios/commons-4.jpg",
+      "title": "File:The former Waterloo - geograph.org.uk - 5803169.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_former_Waterloo_-_geograph.org.uk_-_5803169.jpg",
+      "author": "Gerald England",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1280,
+      "height": 989,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6b6b61",
+            "share": 0.307
+          },
+          {
+            "hex": "#f3f7f8",
+            "share": 0.28
+          },
+          {
+            "hex": "#584535",
+            "share": 0.244
+          },
+          {
+            "hex": "#848680",
+            "share": 0.119
+          },
+          {
+            "hex": "#c5ccd0",
+            "share": 0.049
+          }
+        ],
+        "strongest": "#584535"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Strawberry Studios (3610622).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Plaque for Strawberry Recording Studios, Waterloo Road - geograph.org.uk - 3610608.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#886e65",
+        "share": 0.258
+      },
+      {
+        "hex": "#5d4b47",
+        "share": 0.251
+      },
+      {
+        "hex": "#aaa9a7",
+        "share": 0.185
+      },
+      {
+        "hex": "#2b2527",
+        "share": 0.16
+      },
+      {
+        "hex": "#f8fafa",
+        "share": 0.146
+      }
+    ],
+    "strongest": null
+  }
+}

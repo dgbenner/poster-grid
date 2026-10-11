@@ -1,0 +1,276 @@
+{
+  "id": "portmeirion",
+  "name": "Portmeirion",
+  "lat": 52.9134519,
+  "lng": -4.0993545,
+  "enrichedAt": "2026-10-11T01:21:45.644Z",
+  "place": {
+    "town": "Penrhyndeudraeth",
+    "locality": "Penrhyndeudraeth",
+    "county": "Gwynedd",
+    "adminArea": "Gwynedd",
+    "region": null,
+    "country": "Wales",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.9134519&lon=-4.0993545&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Penrhyndeudraeth, Gwynedd, Wales, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "mach-loop",
+        "name": "Mach Loop, Machynlleth",
+        "km": 35.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Portmeirion",
+      "description": "Village in Wales",
+      "extract": "Portmeirion is a folly Italianate style tourist village in Gwynedd, North Wales. It lies on the estuary of the River Dwyryd in the community of Penrhyndeudraeth, 2 miles (3.2 km) from Porthmadog and 1 mile (1.6 km) from Minffordd railway station.",
+      "url": "https://en.wikipedia.org/wiki/Portmeirion",
+      "coordinates": {
+        "lat": 52.91305556,
+        "lng": -4.09916667
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Portmeirion%2C_Wales_%2848559387366%29.jpg/3840px-Portmeirion%2C_Wales_%2848559387366%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Penrhyndeudraeth",
+      "description": "Town in Gwynedd, Wales",
+      "extract": "Penrhyndeudraeth is a small town and community in the Welsh county of Gwynedd. The town is close to the mouth of the River Dwyryd on the A487 nearly 3 miles (4.8 km) east of Porthmadog, and had a population of 2,150 at the 2011 census, increased from 2,031 in 2001. The community includes the villages of Minffordd and Portmeirion.",
+      "url": "https://en.wikipedia.org/wiki/Penrhyndeudraeth",
+      "coordinates": {
+        "lat": 52.929,
+        "lng": -4.066
+      },
+      "km": 2.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Penrhyndeudraeth_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Italianate village designed by Clough Williams-Ellis, famous as the filming location for The Prisoner.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument",
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/portmeirion/own-portmeirion.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/portmeirion.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#646744",
+            "share": 0.289
+          },
+          {
+            "hex": "#8e9066",
+            "share": 0.22
+          },
+          {
+            "hex": "#e0ebf3",
+            "share": 0.202
+          },
+          {
+            "hex": "#383f24",
+            "share": 0.157
+          },
+          {
+            "hex": "#acafa0",
+            "share": 0.131
+          }
+        ],
+        "strongest": "#646744"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/portmeirion/commons-1.jpg",
+      "title": "File:Portmeirion, Wales (48559387366).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Portmeirion,_Wales_(48559387366).jpg",
+      "author": "Mike McBey",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5958,
+      "height": 3385,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#626543",
+            "share": 0.283
+          },
+          {
+            "hex": "#8b8e65",
+            "share": 0.22
+          },
+          {
+            "hex": "#e0ebf3",
+            "share": 0.204
+          },
+          {
+            "hex": "#373e23",
+            "share": 0.153
+          },
+          {
+            "hex": "#acae9e",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#626543"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/portmeirion/commons-2.jpg",
+      "title": "File:Hercules statue by William Brodie (Portmeirion, Wales).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hercules_statue_by_William_Brodie_(Portmeirion,_Wales).jpg",
+      "author": "Daniel Turner",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2304,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f8f7fa",
+            "share": 0.294
+          },
+          {
+            "hex": "#737d72",
+            "share": 0.236
+          },
+          {
+            "hex": "#97a7a0",
+            "share": 0.168
+          },
+          {
+            "hex": "#434c4a",
+            "share": 0.153
+          },
+          {
+            "hex": "#c8cfd4",
+            "share": 0.148
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/portmeirion/commons-3.jpg",
+      "title": "File:Portmeirion, Wales (48559387366).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Portmeirion,_Wales_(48559387366).jpg",
+      "author": "Mike McBey",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5958,
+      "height": 3385,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#626543",
+            "share": 0.283
+          },
+          {
+            "hex": "#8b8e65",
+            "share": 0.22
+          },
+          {
+            "hex": "#e0ebf3",
+            "share": 0.204
+          },
+          {
+            "hex": "#373e23",
+            "share": 0.153
+          },
+          {
+            "hex": "#acae9e",
+            "share": 0.14
+          }
+        ],
+        "strongest": "#626543"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/portmeirion/commons-4.jpg",
+      "title": "File:Portmeirion, Wales (49280865701).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Portmeirion,_Wales_(49280865701).jpg",
+      "author": "Mike McBey",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 5706,
+      "height": 3637,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a3b1bb",
+            "share": 0.232
+          },
+          {
+            "hex": "#5f5a52",
+            "share": 0.22
+          },
+          {
+            "hex": "#8d8a83",
+            "share": 0.209
+          },
+          {
+            "hex": "#282a1f",
+            "share": 0.18
+          },
+          {
+            "hex": "#d6dadd",
+            "share": 0.16
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#646744",
+        "share": 0.289
+      },
+      {
+        "hex": "#8e9066",
+        "share": 0.22
+      },
+      {
+        "hex": "#e0ebf3",
+        "share": 0.202
+      },
+      {
+        "hex": "#383f24",
+        "share": 0.157
+      },
+      {
+        "hex": "#acafa0",
+        "share": 0.131
+      }
+    ],
+    "strongest": "#646744"
+  }
+}

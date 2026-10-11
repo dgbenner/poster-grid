@@ -1,0 +1,294 @@
+{
+  "id": "little-solsbury-hill",
+  "name": "Little Solsbury Hill, Bath",
+  "lat": 51.4061,
+  "lng": -2.3289,
+  "enrichedAt": "2026-10-11T01:21:32.947Z",
+  "place": {
+    "town": "Batheaston",
+    "locality": null,
+    "county": "Somerset",
+    "adminArea": "Bath and North East Somerset",
+    "region": "West of England",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4061&lon=-2.3289&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Batheaston, Bath and North East Somerset, West of England, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Solsbury Hill",
+      "description": "Iron Age hillfort in Somerset, England",
+      "extract": "Little Solsbury Hill is a small flat-topped hill and the site of an Iron Age hillfort, above the village of Batheaston in Somerset, England. The hill rises to 191 metres (627 ft) above the River Avon, which is just over 2 kilometres (1 mi) to the south, and gives views of the city of Bath and the surrounding area. It is within the Cotswolds Area of Outstanding Natural Beauty.",
+      "url": "https://en.wikipedia.org/wiki/Solsbury_Hill",
+      "coordinates": {
+        "lat": 51.41,
+        "lng": -2.33416667
+      },
+      "km": 0.6,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/3/33/Solsbury_Hill_Digital_Terrain_Model.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Batheaston",
+      "description": "Village and civil parish in Somerset, England",
+      "extract": "Batheaston is a village and civil parish 2 miles (3.2 km) east of the English city of Bath, on the north bank of the River Avon. The parish had a population of 2,735 in 2011. The northern area of the parish, on the road to St Catherine, is an area known as Northend.",
+      "url": "https://en.wikipedia.org/wiki/Batheaston",
+      "coordinates": {
+        "lat": 51.40611111,
+        "lng": -2.31694444
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/6/61/Batheaston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Iron-age hillfort that gave Peter Gabriel his ‘Solsbury Hill’.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/little-solsbury-hill/own-little-solsbury-hill.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/little-solsbury-hill.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#51564e",
+            "share": 0.308
+          },
+          {
+            "hex": "#1f2225",
+            "share": 0.255
+          },
+          {
+            "hex": "#000000",
+            "share": 0.203
+          },
+          {
+            "hex": "#1b1c12",
+            "share": 0.119
+          },
+          {
+            "hex": "#939490",
+            "share": 0.115
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/little-solsbury-hill/commons-1.jpg",
+      "title": "File:Track to Little Solsbury Hill - geograph.org.uk - 6567688.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Track_to_Little_Solsbury_Hill_-_geograph.org.uk_-_6567688.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4288,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#776d4c",
+            "share": 0.274
+          },
+          {
+            "hex": "#91856f",
+            "share": 0.259
+          },
+          {
+            "hex": "#525030",
+            "share": 0.18
+          },
+          {
+            "hex": "#afa99b",
+            "share": 0.168
+          },
+          {
+            "hex": "#dfded9",
+            "share": 0.118
+          }
+        ],
+        "strongest": "#776d4c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/little-solsbury-hill/commons-2.jpg",
+      "title": "File:Solsbury Lane - geograph.org.uk - 6567626.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Solsbury_Lane_-_geograph.org.uk_-_6567626.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2848,
+      "height": 4288,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6b6439",
+            "share": 0.355
+          },
+          {
+            "hex": "#878052",
+            "share": 0.234
+          },
+          {
+            "hex": "#f5f4ef",
+            "share": 0.165
+          },
+          {
+            "hex": "#4a4827",
+            "share": 0.163
+          },
+          {
+            "hex": "#b9b39c",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#6b6439"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/little-solsbury-hill/commons-3.jpg",
+      "title": "File:Gate by Solsbury Lane - geograph.org.uk - 6567661.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gate_by_Solsbury_Lane_-_geograph.org.uk_-_6567661.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4288,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#534f2d",
+            "share": 0.291
+          },
+          {
+            "hex": "#766f4d",
+            "share": 0.246
+          },
+          {
+            "hex": "#38341a",
+            "share": 0.244
+          },
+          {
+            "hex": "#a1977b",
+            "share": 0.179
+          },
+          {
+            "hex": "#e8e6e5",
+            "share": 0.039
+          }
+        ],
+        "strongest": "#38341a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/little-solsbury-hill/commons-4.jpg",
+      "title": "File:Ripening barley above Batheaston - geograph.org.uk - 5227970.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ripening_barley_above_Batheaston_-_geograph.org.uk_-_5227970.jpg",
+      "author": "Bill Boaden",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#958331",
+            "share": 0.257
+          },
+          {
+            "hex": "#5f6030",
+            "share": 0.248
+          },
+          {
+            "hex": "#e5edf5",
+            "share": 0.215
+          },
+          {
+            "hex": "#202b13",
+            "share": 0.16
+          },
+          {
+            "hex": "#aba05c",
+            "share": 0.121
+          }
+        ],
+        "strongest": "#958331"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Entrance to Little Solsbury Hill - geograph.org.uk - 4433485.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Field by Little Solsbury Hill - geograph.org.uk - 1065980.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Solsbury Hill Digital Terrain Model.jpg",
+      "why": "licence OGL 3"
+    },
+    {
+      "title": "File:Solsbury Hill trig - geograph.org.uk - 185021.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:On the slopes of Little Solsbury Batheaston - geograph.org.uk - 289108.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Solsbury Lane, west of Batheaston - geograph.org.uk - 4432635.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#51564e",
+        "share": 0.308
+      },
+      {
+        "hex": "#1f2225",
+        "share": 0.255
+      },
+      {
+        "hex": "#000000",
+        "share": 0.203
+      },
+      {
+        "hex": "#1b1c12",
+        "share": 0.119
+      },
+      {
+        "hex": "#939490",
+        "share": 0.115
+      }
+    ],
+    "strongest": null
+  }
+}

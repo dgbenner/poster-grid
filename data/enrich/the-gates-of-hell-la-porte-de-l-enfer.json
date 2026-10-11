@@ -1,0 +1,460 @@
+{
+  "id": "the-gates-of-hell-la-porte-de-l-enfer",
+  "name": "The Gates of Hell (La Porte de l'Enfer)",
+  "lat": 48.8553,
+  "lng": 2.3158,
+  "enrichedAt": "2026-10-11T01:21:45.234Z",
+  "place": {
+    "town": "Paris",
+    "locality": "7th Arrondissement",
+    "county": "Ile-de-France",
+    "adminArea": null,
+    "region": "Ile-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.8553&lon=2.3158&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Quartier des Invalides, 7th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75007, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0.95
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 0.95
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 0.96
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 1.07
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 1.59
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.7
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.7
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 1.98
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 2.18
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 2.32
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 2.67
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 3.42
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 4.09
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "musee-dorsay",
+        "name": "Musée d'Orsay",
+        "km": 0.9
+      },
+      {
+        "id": "walden-docks-of-cardiff",
+        "name": "Lionel Walden, The Docks of Cardiff (1894)",
+        "km": 0.9
+      },
+      {
+        "id": "pont-alexandre-iii",
+        "name": "Pont Alexandre III",
+        "km": 1
+      },
+      {
+        "id": "water-lilies-orangerie",
+        "name": "Monet's Water Lilies, Musée de l'Orangerie",
+        "km": 1.1
+      },
+      {
+        "id": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "km": 1.6
+      },
+      {
+        "id": "coronation-of-napoleon",
+        "name": "David, The Coronation of Napoleon",
+        "km": 1.7
+      },
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "km": 1.7
+      },
+      {
+        "id": "la-samaritaine",
+        "name": "La Samaritaine",
+        "km": 2
+      },
+      {
+        "id": "palais-garnier",
+        "name": "Palais Garnier",
+        "km": 2.2
+      },
+      {
+        "id": "galeries-lafayette",
+        "name": "Galeries Lafayette Haussmann",
+        "km": 2.3
+      },
+      {
+        "id": "puddles-paris-1",
+        "name": "Puddles in Paris",
+        "km": 2.7
+      },
+      {
+        "id": "moulin-rouge",
+        "name": "Moulin Rouge",
+        "km": 3.4
+      },
+      {
+        "id": "passe-muraille",
+        "name": "Le Passe-Muraille (Walker-Through-Walls)",
+        "km": 4.1
+      },
+      {
+        "id": "jim-morrison-s-grave",
+        "name": "Jim Morrison's Grave",
+        "km": 5.7
+      },
+      {
+        "id": "pere-lachaise",
+        "name": "Père Lachaise Cemetery",
+        "km": 5.7
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Paris",
+      "description": "Capital and largest city of France",
+      "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "coordinates": {
+        "lat": 48.8567,
+        "lng": 2.3522
+      },
+      "km": 2.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Rodin's monumental bronze doors depicting scenes from Dante's Inferno, cast for and displayed at the Musée Rodin.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/the-gates-of-hell-la-porte-de-l-enfer/own-the-gates-of-hell-la-porte-de-l-enfer.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/the-gates-of-hell-la-porte-de-l-enfer.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#43403b",
+            "share": 0.296
+          },
+          {
+            "hex": "#5a5753",
+            "share": 0.295
+          },
+          {
+            "hex": "#2d2b25",
+            "share": 0.218
+          },
+          {
+            "hex": "#767373",
+            "share": 0.16
+          },
+          {
+            "hex": "#d4d0c2",
+            "share": 0.031
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-gates-of-hell-la-porte-de-l-enfer/commons-1.jpg",
+      "title": "File:Le Cri dAuguste Rodin (musée Rodin) (6215583946).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_Cri_dAuguste_Rodin_(mus%C3%A9e_Rodin)_(6215583946).jpg",
+      "author": "Jean-Pierre Dalbéra from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1024,
+      "height": 1024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dbd7d1",
+            "share": 0.479
+          },
+          {
+            "hex": "#3c302d",
+            "share": 0.163
+          },
+          {
+            "hex": "#715745",
+            "share": 0.155
+          },
+          {
+            "hex": "#c5bcb3",
+            "share": 0.116
+          },
+          {
+            "hex": "#8a8882",
+            "share": 0.087
+          }
+        ],
+        "strongest": "#715745"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-gates-of-hell-la-porte-de-l-enfer/commons-2.jpg",
+      "title": "File:Le Monument aux Bourgeois de Calais dAuguste Rodin (musée Rodin) (5527575232).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_Monument_aux_Bourgeois_de_Calais_dAuguste_Rodin_(mus%C3%A9e_Rodin)_(5527575232).jpg",
+      "author": "Jean-Pierre Dalbéra from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2989,
+      "height": 2242,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f6559",
+            "share": 0.319
+          },
+          {
+            "hex": "#808579",
+            "share": 0.248
+          },
+          {
+            "hex": "#e2ddcf",
+            "share": 0.178
+          },
+          {
+            "hex": "#b0afa3",
+            "share": 0.163
+          },
+          {
+            "hex": "#30342f",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#e2ddcf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-gates-of-hell-la-porte-de-l-enfer/commons-3.jpg",
+      "title": "File:Lhôtel Biron (Musée Rodin) (4730367795).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lh%C3%B4tel_Biron_(Mus%C3%A9e_Rodin)_(4730367795).jpg",
+      "author": "Jean-Pierre Dalbéra from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1800,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#ece3d7",
+            "share": 0.301
+          },
+          {
+            "hex": "#dbd0c0",
+            "share": 0.205
+          },
+          {
+            "hex": "#7f7b69",
+            "share": 0.191
+          },
+          {
+            "hex": "#b1a893",
+            "share": 0.156
+          },
+          {
+            "hex": "#4c5145",
+            "share": 0.147
+          }
+        ],
+        "strongest": "#dbd0c0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/the-gates-of-hell-la-porte-de-l-enfer/commons-4.jpg",
+      "title": "File:Le Baiser par Auguste Rodin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_Baiser_par_Auguste_Rodin.jpg",
+      "author": "couscouschocolat from Issy-Les-Moulineaux, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2304,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#847b7f",
+            "share": 0.275
+          },
+          {
+            "hex": "#2b1d1b",
+            "share": 0.206
+          },
+          {
+            "hex": "#463835",
+            "share": 0.203
+          },
+          {
+            "hex": "#b5b5bf",
+            "share": 0.167
+          },
+          {
+            "hex": "#6b615f",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#2b1d1b"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Henry Moore au musée Rodin (5125601256).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Rodin par Bourdelle (musée Rodin) (6215064155).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:La Cathédrale (musée Rodin) (7611126470).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:\"LEternelle Idole\" dAuguste Rodin (Musée Rodin) (5505502873).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Rodin et lantique (musée Rodin) (7611125186).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Camille Claudel (Musée Rodin) (7610807876).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Le musée Rodin (Paris) (5135541774).jpg",
+      "why": "logo/map/album filter"
+    },
+    {
+      "title": "File:Le musée Rodin (7611121670).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Ivan Mestrovic au musée Rodin (8032158209).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:La Cathédrale by Auguste Rodin, musée Rodin, 6 March 2011.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Auguste Rodin par Camille Claudel (musée Rodin) (8026456955).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Gustav Mahler (musée Rodin) (7610903338).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Stair of the Hôtel Biron, Paris 19 July 2012.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:\"La Vague\" de Camille Claudel (Musée Rodin) (7610808418).jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Guanyin (musée Rodin) (6215581070).jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#43403b",
+        "share": 0.296
+      },
+      {
+        "hex": "#5a5753",
+        "share": 0.295
+      },
+      {
+        "hex": "#2d2b25",
+        "share": 0.218
+      },
+      {
+        "hex": "#767373",
+        "share": 0.16
+      },
+      {
+        "hex": "#d4d0c2",
+        "share": 0.031
+      }
+    ],
+    "strongest": null
+  }
+}

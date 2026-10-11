@@ -1,0 +1,269 @@
+{
+  "id": "cinque-terre",
+  "name": "Cinque Terre",
+  "lat": 44.1271,
+  "lng": 9.7089,
+  "enrichedAt": "2026-10-11T01:21:44.133Z",
+  "place": {
+    "town": "Corniglia",
+    "locality": null,
+    "county": "La Spezia",
+    "adminArea": "La Spezia",
+    "region": "Liguria",
+    "country": "Italy",
+    "sovereign": "Italy",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.1271&lon=9.7089&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Prevo, San Bernardino, Corniglia, Vernazza, La Spezia, Liguria, 19018, Italy"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Cinque Terre",
+      "description": "Rugged portion of coast on the Italian Riviera, Liguria",
+      "extract": "The Cinque Terre is a coastal area within Liguria, in the northwest of Italy. It lies in the west of La Spezia Province, and comprises five villages: Monterosso al Mare, Vernazza, Corniglia, Manarola and Riomaggiore. The coastline, the five villages, and the surrounding hillsides are all part of the Cinque Terre National Park, a UNESCO World Heritage Site. Vernazza is also one of \"I Borghi più belli d'Italia\".",
+      "url": "https://en.wikipedia.org/wiki/Cinque_Terre",
+      "coordinates": {
+        "lat": 44.11944444,
+        "lng": 9.71666667
+      },
+      "km": 1.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg/3840px-Cinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Corniglia",
+      "description": "Hamlet in Vernazza, Italy",
+      "extract": "Corniglia is a frazione (\"hamlet\") within the comune of Vernazza in the province of La Spezia, Liguria, northern Italy, with a population of about 150. Unlike the other localities of the Cinque Terre, Corniglia is not directly adjacent to the sea. Instead, it is on the top of a promontory about 100 metres high, surrounded on three sides by vineyards and terraces, the fourth side descends steeply to the sea. To reach Corniglia, it is necessary to climb the Lardarina, a long brick flight of steps composed of 33 flights with 383 steps or, otherwise follow a vehicular road that, from the station, leads to the village. Sometimes a small bus runs.",
+      "url": "https://en.wikipedia.org/wiki/Corniglia",
+      "coordinates": {
+        "lat": 44.11972222,
+        "lng": 9.70861111
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/East_Above_Corniglia_Cinque_Terre_Sep23_A7C_06797.jpg/3840px-East_Above_Corniglia_Cinque_Terre_Sep23_A7C_06797.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "The five coastal villages; the Monterosso al Mare → Vernazza walk is rewarding, if tiring.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/cinque-terre/own-cinque-terre.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/cinque-terre.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3493ce",
+            "share": 0.263
+          },
+          {
+            "hex": "#29432f",
+            "share": 0.222
+          },
+          {
+            "hex": "#627a5f",
+            "share": 0.19
+          },
+          {
+            "hex": "#80b9d6",
+            "share": 0.184
+          },
+          {
+            "hex": "#a9aa9b",
+            "share": 0.141
+          }
+        ],
+        "strongest": "#3493ce"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cinque-terre/commons-1.jpg",
+      "title": "File:Cinque Terre (Italy, October 2020) - 24 (50543603956).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cinque_Terre_(Italy,_October_2020)_-_24_(50543603956).jpg",
+      "author": "Bruno Rijsman",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5438,
+      "height": 3626,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3d9ad0",
+            "share": 0.327
+          },
+          {
+            "hex": "#253f2a",
+            "share": 0.19
+          },
+          {
+            "hex": "#a0bec8",
+            "share": 0.183
+          },
+          {
+            "hex": "#516d55",
+            "share": 0.166
+          },
+          {
+            "hex": "#8c967d",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#3d9ad0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cinque-terre/commons-2.jpg",
+      "title": "File:Cinque Terre (Italy, October 2020) - 24 (50543603956).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cinque_Terre_(Italy,_October_2020)_-_24_(50543603956).jpg",
+      "author": "Bruno Rijsman",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5438,
+      "height": 3626,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3d9ad0",
+            "share": 0.327
+          },
+          {
+            "hex": "#253f2a",
+            "share": 0.19
+          },
+          {
+            "hex": "#a0bec8",
+            "share": 0.183
+          },
+          {
+            "hex": "#516d55",
+            "share": 0.166
+          },
+          {
+            "hex": "#8c967d",
+            "share": 0.134
+          }
+        ],
+        "strongest": "#3d9ad0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cinque-terre/commons-3.jpg",
+      "title": "File:East Above Corniglia Cinque Terre crop Sep23 A7C 06797.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:East_Above_Corniglia_Cinque_Terre_crop_Sep23_A7C_06797.jpg",
+      "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4626,
+      "height": 3470,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#525231",
+            "share": 0.287
+          },
+          {
+            "hex": "#887b55",
+            "share": 0.25
+          },
+          {
+            "hex": "#5a7dab",
+            "share": 0.243
+          },
+          {
+            "hex": "#bdac93",
+            "share": 0.137
+          },
+          {
+            "hex": "#1a4e85",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#1a4e85"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/cinque-terre/commons-4.jpg",
+      "title": "File:ISS067-E-152539 - View of Cinque Terre coast, Gulf of La Spezia, Italy (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:ISS067-E-152539_-_View_of_Cinque_Terre_coast,_Gulf_of_La_Spezia,_Italy_(cropped).jpg",
+      "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 4501,
+      "height": 1476,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#38485c",
+            "share": 0.266
+          },
+          {
+            "hex": "#405c76",
+            "share": 0.253
+          },
+          {
+            "hex": "#37516f",
+            "share": 0.237
+          },
+          {
+            "hex": "#485364",
+            "share": 0.137
+          },
+          {
+            "hex": "#606573",
+            "share": 0.108
+          }
+        ],
+        "strongest": "#37516f"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#3493ce",
+        "share": 0.263
+      },
+      {
+        "hex": "#29432f",
+        "share": 0.222
+      },
+      {
+        "hex": "#627a5f",
+        "share": 0.19
+      },
+      {
+        "hex": "#80b9d6",
+        "share": 0.184
+      },
+      {
+        "hex": "#a9aa9b",
+        "share": 0.141
+      }
+    ],
+    "strongest": "#3493ce"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": "herrenchiemsee",
+  "name": "Herrenchiemsee",
+  "lat": 47.8667,
+  "lng": 12.3992,
+  "enrichedAt": "2026-10-11T01:21:39.258Z",
+  "place": {
+    "town": "Chiemsee",
+    "locality": null,
+    "county": "Landkreis Rosenheim",
+    "adminArea": "Landkreis Rosenheim",
+    "region": "Bavaria",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.8667&lon=12.3992&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Chiemsee, Breitbrunn am Chiemsee (VGem), Landkreis Rosenheim, Bavaria, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Herrenchiemsee",
+      "description": "Royal building complex in Bavaria, Germany",
+      "extract": "Herrenchiemsee is a complex of royal buildings on Herreninsel, the largest island in the Chiemsee lake, in southern Bavaria, Germany. Together with the neighbouring isle of Frauenchiemsee and the uninhabited Krautinsel, it forms the municipality of Chiemsee, located about 60 kilometres (37 mi) southeast of Munich in the district of Rosenheim.",
+      "url": "https://en.wikipedia.org/wiki/Herrenchiemsee",
+      "coordinates": {
+        "lat": 47.86055556,
+        "lng": 12.39805556
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/be/Schloss_Herrenchiemsee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Chiemsee",
+      "description": "Freshwater lake in Bavaria, Germany",
+      "extract": "Chiemsee is a freshwater lake in Bavaria, Germany, near Rosenheim. It is often called \"the Bavarian Sea\". The rivers Tiroler Achen and Prien flow into the lake from the south, and the river Alz flows out towards the north. The Alz flows into the Inn which then merges with the Danube. The Chiemsee is divided into the bigger, north section, in the northeast, called Weitsee, and the Inselsee, in the southwest.",
+      "url": "https://en.wikipedia.org/wiki/Chiemsee",
+      "coordinates": {
+        "lat": 47.89,
+        "lng": 12.47
+      },
+      "km": 5.9,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/50/LakeChiemsee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ludwig II's Versailles on an island; the Hall of Mirrors (1879–81) is longer than the original.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/herrenchiemsee/own-herrenchiemsee.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/herrenchiemsee.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a9886c",
+            "share": 0.272
+          },
+          {
+            "hex": "#8d6b4e",
+            "share": 0.243
+          },
+          {
+            "hex": "#020201",
+            "share": 0.215
+          },
+          {
+            "hex": "#664934",
+            "share": 0.155
+          },
+          {
+            "hex": "#c0ac9b",
+            "share": 0.115
+          }
+        ],
+        "strongest": "#8d6b4e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/herrenchiemsee/commons-1.jpg",
+      "title": "File:Aerial image of the New Palace Herrenchiemsee.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4000,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#283d3c",
+            "share": 0.439
+          },
+          {
+            "hex": "#3c4f46",
+            "share": 0.203
+          },
+          {
+            "hex": "#182e36",
+            "share": 0.199
+          },
+          {
+            "hex": "#747a79",
+            "share": 0.09
+          },
+          {
+            "hex": "#b7b6b5",
+            "share": 0.069
+          }
+        ],
+        "strongest": "#182e36"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/herrenchiemsee/commons-2.jpg",
+      "title": "File:Herrenchiemsee, Neues Schloss, Eingangshalle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Herrenchiemsee,_Neues_Schloss,_Eingangshalle.jpg",
+      "author": "Richard Huber",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4874,
+      "height": 3226,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#80776c",
+            "share": 0.403
+          },
+          {
+            "hex": "#63584e",
+            "share": 0.29
+          },
+          {
+            "hex": "#979390",
+            "share": 0.145
+          },
+          {
+            "hex": "#c5c7c3",
+            "share": 0.087
+          },
+          {
+            "hex": "#352b21",
+            "share": 0.075
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/herrenchiemsee/commons-3.jpg",
+      "title": "File:Herrenchiemsee NeuesSchloss.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Herrenchiemsee_NeuesSchloss.JPG",
+      "author": "Bbb",
+      "license": "CC BY-SA 1.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+      "width": 1384,
+      "height": 933,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#988b6e",
+            "share": 0.276
+          },
+          {
+            "hex": "#d5c39a",
+            "share": 0.275
+          },
+          {
+            "hex": "#5f98e0",
+            "share": 0.184
+          },
+          {
+            "hex": "#71a9ef",
+            "share": 0.16
+          },
+          {
+            "hex": "#3d4437",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#71a9ef"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/herrenchiemsee/commons-4.jpg",
+      "title": "File:Neues Schloss Herrenchiemsee Spiegelgalerie.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Neues_Schloss_Herrenchiemsee_Spiegelgalerie.jpg",
+      "author": "rjones0856",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1200,
+      "height": 800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#594d41",
+            "share": 0.318
+          },
+          {
+            "hex": "#46342b",
+            "share": 0.31
+          },
+          {
+            "hex": "#2e1a15",
+            "share": 0.181
+          },
+          {
+            "hex": "#757061",
+            "share": 0.154
+          },
+          {
+            "hex": "#d3d5c7",
+            "share": 0.036
+          }
+        ],
+        "strongest": "#2e1a15"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Neues Schloss Herrenchiemsee Arbeitszimmer.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#a9886c",
+        "share": 0.272
+      },
+      {
+        "hex": "#8d6b4e",
+        "share": 0.243
+      },
+      {
+        "hex": "#020201",
+        "share": 0.215
+      },
+      {
+        "hex": "#664934",
+        "share": 0.155
+      },
+      {
+        "hex": "#c0ac9b",
+        "share": 0.115
+      }
+    ],
+    "strongest": "#8d6b4e"
+  }
+}

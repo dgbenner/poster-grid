@@ -1,0 +1,280 @@
+{
+  "id": "hadrians-wall",
+  "name": "Hadrian's Wall",
+  "lat": 55.0123,
+  "lng": -2.3312,
+  "enrichedAt": "2026-10-11T01:21:30.947Z",
+  "place": {
+    "town": "Bardon Mill",
+    "locality": "Bardon Mill",
+    "county": "Northumberland",
+    "adminArea": "Northumberland",
+    "region": "North East",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.0123&lon=-2.3312&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bardon Mill, Northumberland, North East, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "bamburgh-castle",
+        "name": "Bamburgh Castle",
+        "km": 77.1
+      },
+      {
+        "id": "lindisfarne-castle",
+        "name": "Lindisfarne Castle",
+        "km": 80.8
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Hadrian's Wall",
+      "description": "Defensive fortification in Roman Britain",
+      "extract": "Hadrian's Wall is a former defensive fortification of the Roman province of Britannia, begun in AD 122 in the reign of the Emperor Hadrian. Running from Wallsend on the River Tyne in the east to Bowness-on-Solway in the west of what is now northern England, it was a stone wall with large ditches in front and behind, stretching across the whole width of the island. Soldiers were garrisoned along the line of the wall in large forts, smaller milecastles, and intervening turrets. In addition to the wall's defensive military role, its gates may have been customs posts.",
+      "url": "https://en.wikipedia.org/wiki/Hadrian's_Wall",
+      "coordinates": {
+        "lat": 55.01666667,
+        "lng": -2.28333333
+      },
+      "km": 3.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hadrians_Wall_map.svg/960px-Hadrians_Wall_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bardon Mill",
+      "description": "Village in Northumberland, England",
+      "extract": "Bardon Mill is a small village in Northumberland, within the vicinity of the ancient Hadrian's Wall. It is located around 10+1⁄2 miles from Hexham, 26+1⁄2 mi (43 km) from Carlisle, and 32 mi (51 km) from Newcastle upon Tyne.",
+      "url": "https://en.wikipedia.org/wiki/Bardon_Mill",
+      "coordinates": {
+        "lat": 54.975,
+        "lng": -2.337
+      },
+      "km": 4.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bardon_Mill_in_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Roman frontier across England. Wall is open; forts (Housesteads) are ticketed.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/hadrians-wall/own-hadrians-wall.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/hadrians-wall.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.248
+          },
+          {
+            "hex": "#6b6b3d",
+            "share": 0.219
+          },
+          {
+            "hex": "#b1c1cb",
+            "share": 0.2
+          },
+          {
+            "hex": "#a39e6d",
+            "share": 0.195
+          },
+          {
+            "hex": "#3a3c25",
+            "share": 0.139
+          }
+        ],
+        "strongest": "#6b6b3d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hadrians-wall/commons-1.jpg",
+      "title": "File:Hadrian's Wall, junction of the Broad Wall and Narrow Wall bases.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall,_junction_of_the_Broad_Wall_and_Narrow_Wall_bases.jpg",
+      "author": "Richard Keatinge",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1600,
+      "height": 900,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#747d27",
+            "share": 0.389
+          },
+          {
+            "hex": "#2a3529",
+            "share": 0.178
+          },
+          {
+            "hex": "#5c594a",
+            "share": 0.157
+          },
+          {
+            "hex": "#868071",
+            "share": 0.152
+          },
+          {
+            "hex": "#dae0e9",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#747d27"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hadrians-wall/commons-2.jpg",
+      "title": "File:Hadrian's Wall Vallum - 2007-05-19.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_Vallum_-_2007-05-19.jpg",
+      "author": "Voice of Clam",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2592,
+      "height": 1944,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6b8a1c",
+            "share": 0.358
+          },
+          {
+            "hex": "#d7e1dd",
+            "share": 0.243
+          },
+          {
+            "hex": "#597120",
+            "share": 0.213
+          },
+          {
+            "hex": "#8d9ea1",
+            "share": 0.107
+          },
+          {
+            "hex": "#586d57",
+            "share": 0.079
+          }
+        ],
+        "strongest": "#6b8a1c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hadrians-wall/commons-3.jpg",
+      "title": "File:Hadrian's Wall at Sycamore Gap - geograph.org.uk - 4593047.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Sycamore_Gap_-_geograph.org.uk_-_4593047.jpg",
+      "author": "Andrew Curtis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e9edf1",
+            "share": 0.26
+          },
+          {
+            "hex": "#79823c",
+            "share": 0.246
+          },
+          {
+            "hex": "#9d9f53",
+            "share": 0.242
+          },
+          {
+            "hex": "#4a5136",
+            "share": 0.177
+          },
+          {
+            "hex": "#b8b194",
+            "share": 0.075
+          }
+        ],
+        "strongest": "#79823c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hadrians-wall/commons-4.jpg",
+      "title": "File:Hadrian's Wall reconstruction at Vindolanda.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_reconstruction_at_Vindolanda.jpg",
+      "author": "Richard Keatinge",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1200,
+      "height": 1600,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bbc0cd",
+            "share": 0.295
+          },
+          {
+            "hex": "#4d4639",
+            "share": 0.247
+          },
+          {
+            "hex": "#342e25",
+            "share": 0.195
+          },
+          {
+            "hex": "#46530d",
+            "share": 0.172
+          },
+          {
+            "hex": "#e4e6ed",
+            "share": 0.091
+          }
+        ],
+        "strongest": "#46530d"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#010101",
+        "share": 0.248
+      },
+      {
+        "hex": "#6b6b3d",
+        "share": 0.219
+      },
+      {
+        "hex": "#b1c1cb",
+        "share": 0.2
+      },
+      {
+        "hex": "#a39e6d",
+        "share": 0.195
+      },
+      {
+        "hex": "#3a3c25",
+        "share": 0.139
+      }
+    ],
+    "strongest": "#6b6b3d"
+  }
+}

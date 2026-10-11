@@ -1,0 +1,281 @@
+{
+  "id": "trosky-castle",
+  "name": "Trosky Castle",
+  "lat": 50.5164024,
+  "lng": 15.2302531,
+  "enrichedAt": "2026-10-11T01:21:47.104Z",
+  "place": {
+    "town": "Troskovice",
+    "locality": null,
+    "county": "Liberec Region",
+    "adminArea": null,
+    "region": "Liberec Region",
+    "country": "Czechia",
+    "sovereign": "Czechia",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.5164024&lon=15.2302531&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Tachov, Troskovice, okres Semily, Liberec Region, 512 62, Czechia"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "jested-tower",
+        "name": "Ještěd Tower",
+        "km": 29.7
+      },
+      {
+        "id": "czech-jet-vr4u-europe",
+        "name": "Czech-Jet VR4U Europe",
+        "km": 30.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Trosky Castle",
+      "description": "Castle in Liberec Region, Czech Republic",
+      "extract": "Trosky Castle is a castle ruin in the municipality of Troskovice in the Liberec Region of the Czech Republic and its name translates literally as \"ruins\" or \"debris\". It lies about 10 kilometres (6 mi) south of Semily. It is located on the summits of two basalt volcanic plugs. On the lower peak, 47 metres (154 ft), is the two-storey structure called Baba (Crone), and on the higher outcrop, 57 metres (187 ft), is the four-sided structure known as Panna (Maiden). The castle is a landmark of the Bohemian Paradise region.",
+      "url": "https://en.wikipedia.org/wiki/Trosky_Castle",
+      "coordinates": {
+        "lat": 50.51638889,
+        "lng": 15.23083333
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hrad_Trosky%2C_leteck%C3%BD_sn%C3%ADmek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Troskovice",
+      "description": "Municipality in Liberec, Czech Republic",
+      "extract": "Troskovice is a municipality and village in Semily District in the Liberec Region of the Czech Republic. It has about 80 inhabitants.",
+      "url": "https://en.wikipedia.org/wiki/Troskovice",
+      "coordinates": {
+        "lat": 50.51166667,
+        "lng": 15.2225
+      },
+      "km": 0.8,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Troskovice%2C_z_Trosek_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ruined 14th-century castle perched on two basalt volcanic plugs, an iconic Bohemian Paradise landmark.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/trosky-castle/own-trosky-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/trosky-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4f6b6f",
+            "share": 0.267
+          },
+          {
+            "hex": "#817a33",
+            "share": 0.22
+          },
+          {
+            "hex": "#5a5d29",
+            "share": 0.2
+          },
+          {
+            "hex": "#31422f",
+            "share": 0.17
+          },
+          {
+            "hex": "#a49d9b",
+            "share": 0.143
+          }
+        ],
+        "strongest": "#817a33"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/trosky-castle/commons-1.jpg",
+      "title": "File:Trosky Castle Cesky Raj.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trosky_Castle_Cesky_Raj.jpg",
+      "author": "Dcpeets",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4608,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#293220",
+            "share": 0.22
+          },
+          {
+            "hex": "#757856",
+            "share": 0.218
+          },
+          {
+            "hex": "#b4c7d7",
+            "share": 0.193
+          },
+          {
+            "hex": "#a1957c",
+            "share": 0.192
+          },
+          {
+            "hex": "#4d5730",
+            "share": 0.176
+          }
+        ],
+        "strongest": "#b4c7d7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/trosky-castle/commons-2.jpg",
+      "title": "File:Hrad Trosky, letecký snímek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hrad_Trosky,_leteck%C3%BD_sn%C3%ADmek.jpg",
+      "author": "Zdeněk Fiedler",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3000,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#787430",
+            "share": 0.305
+          },
+          {
+            "hex": "#3d4929",
+            "share": 0.257
+          },
+          {
+            "hex": "#4b6667",
+            "share": 0.257
+          },
+          {
+            "hex": "#7e91a8",
+            "share": 0.12
+          },
+          {
+            "hex": "#cda279",
+            "share": 0.062
+          }
+        ],
+        "strongest": "#787430"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/trosky-castle/commons-3.jpg",
+      "title": "File:Panorama der Burg Trosky.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panorama_der_Burg_Trosky.jpg",
+      "author": "Klaus Kettner",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 1781,
+      "height": 350,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#363f28",
+            "share": 0.237
+          },
+          {
+            "hex": "#747560",
+            "share": 0.236
+          },
+          {
+            "hex": "#accddd",
+            "share": 0.201
+          },
+          {
+            "hex": "#79accd",
+            "share": 0.167
+          },
+          {
+            "hex": "#5e8eaa",
+            "share": 0.16
+          }
+        ],
+        "strongest": "#accddd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/trosky-castle/commons-4.jpg",
+      "title": "File:Trosky, nádvoří a Panna.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trosky,_n%C3%A1dvo%C5%99%C3%AD_a_Panna.jpg",
+      "author": "User:ŠJů",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1e211e",
+            "share": 0.281
+          },
+          {
+            "hex": "#e9f2fd",
+            "share": 0.281
+          },
+          {
+            "hex": "#77735c",
+            "share": 0.189
+          },
+          {
+            "hex": "#b1a694",
+            "share": 0.13
+          },
+          {
+            "hex": "#44453f",
+            "share": 0.12
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4f6b6f",
+        "share": 0.267
+      },
+      {
+        "hex": "#817a33",
+        "share": 0.22
+      },
+      {
+        "hex": "#5a5d29",
+        "share": 0.2
+      },
+      {
+        "hex": "#31422f",
+        "share": 0.17
+      },
+      {
+        "hex": "#a49d9b",
+        "share": 0.143
+      }
+    ],
+    "strongest": "#817a33"
+  }
+}

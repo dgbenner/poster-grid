@@ -1,0 +1,278 @@
+{
+  "id": "stahleck-castle",
+  "name": "Stahleck Castle",
+  "lat": 50.0589,
+  "lng": 7.7669,
+  "enrichedAt": "2026-10-11T01:21:38.992Z",
+  "place": {
+    "town": "Bacharach",
+    "locality": null,
+    "county": "Landkreis Mainz-Bingen",
+    "adminArea": "Landkreis Mainz-Bingen",
+    "region": "Rhineland-Palatinate",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.0589&lon=7.7669&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Nauheim, Neurath, Bacharach, Rhein-Nahe, Landkreis Mainz-Bingen, Rhineland-Palatinate, 55422, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Stahleck Castle",
+      "description": "12th-century fortified castle in Bacharach, Germany",
+      "extract": "Stahleck Castle is a 12th-century fortified castle in the Upper Middle Rhine Valley at Bacharach in Rhineland-Palatinate, Germany. It stands on a crag approximately 160 metres (520 ft) above sea level on the left bank of the river at the mouth of the Steeg valley, approximately 50 kilometres (31 mi) south of Koblenz, and offers a commanding view of the Lorelei valley. Its name means \"impregnable castle on a crag\", from the Middle High German words stahel (steel) and ecke. It has a water-filled partial moat, a rarity in Germany. Built on the orders of the Archbishop of Cologne, it was destroyed in the late 17th century but rebuilt in the 20th and is now a hostel.",
+      "url": "https://en.wikipedia.org/wiki/Stahleck_Castle",
+      "coordinates": {
+        "lat": 50.05805556,
+        "lng": 7.76555556
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stahleck_top.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bacharach",
+      "description": "Town in Rhineland-Palatinate, Germany",
+      "extract": "Bacharach is a town in the Mainz-Bingen district in Rhineland-Palatinate, Germany. It belongs to the Verbandsgemeinde of Rhein-Nahe, whose seat is in Bingen am Rhein, although that town is not within its bounds.",
+      "url": "https://en.wikipedia.org/wiki/Bacharach",
+      "coordinates": {
+        "lat": 50.06666667,
+        "lng": 7.76666667
+      },
+      "km": 0.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Bacharach_from_the_Postenturm.jpg/3840px-Bacharach_from_the_Postenturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "12th c., above Bacharach on the Rhine.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/stahleck-castle/own-stahleck-castle.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/stahleck-castle.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4b5142",
+            "share": 0.332
+          },
+          {
+            "hex": "#283027",
+            "share": 0.261
+          },
+          {
+            "hex": "#010202",
+            "share": 0.205
+          },
+          {
+            "hex": "#837a5f",
+            "share": 0.135
+          },
+          {
+            "hex": "#c2bfb4",
+            "share": 0.068
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stahleck-castle/commons-1.jpg",
+      "title": "File:Stahleck Castle (now operating as a hostel).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stahleck_Castle_(now_operating_as_a_hostel).jpg",
+      "author": "Lhalas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4608,
+      "height": 3072,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#847f81",
+            "share": 0.277
+          },
+          {
+            "hex": "#5a575a",
+            "share": 0.244
+          },
+          {
+            "hex": "#e6f5fd",
+            "share": 0.189
+          },
+          {
+            "hex": "#2f2525",
+            "share": 0.178
+          },
+          {
+            "hex": "#a6bfdb",
+            "share": 0.113
+          }
+        ],
+        "strongest": "#a6bfdb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stahleck-castle/commons-2.jpg",
+      "title": "File:Stahleck top.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stahleck_top.jpg",
+      "author": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c6dae4",
+            "share": 0.317
+          },
+          {
+            "hex": "#8a887a",
+            "share": 0.218
+          },
+          {
+            "hex": "#67695a",
+            "share": 0.212
+          },
+          {
+            "hex": "#3c3c35",
+            "share": 0.16
+          },
+          {
+            "hex": "#b4ada0",
+            "share": 0.093
+          }
+        ],
+        "strongest": "#c6dae4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stahleck-castle/commons-3.jpg",
+      "title": "File:Wernerkapelle, 1287 errichtet, 1689 wurde die Kapelle bei der Sprengung der Burg Stahleck stark beschädigt - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wernerkapelle,_1287_errichtet,_1689_wurde_die_Kapelle_bei_der_Sprengung_der_Burg_Stahleck_stark_besch%C3%A4digt_-_panoramio.jpg",
+      "author": "qwesy qwesy",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 4928,
+      "height": 3264,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#423939",
+            "share": 0.257
+          },
+          {
+            "hex": "#61514f",
+            "share": 0.248
+          },
+          {
+            "hex": "#1e1e1c",
+            "share": 0.19
+          },
+          {
+            "hex": "#c2cad5",
+            "share": 0.157
+          },
+          {
+            "hex": "#777177",
+            "share": 0.149
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/stahleck-castle/commons-4.jpg",
+      "title": "File:Wernerkapelle, 1287 errichtet, 1689 wurde die Kapelle bei der Sprengung der Burg Stahleck stark beschädigt - panoramio (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wernerkapelle,_1287_errichtet,_1689_wurde_die_Kapelle_bei_der_Sprengung_der_Burg_Stahleck_stark_besch%C3%A4digt_-_panoramio_(1).jpg",
+      "author": "qwesy qwesy",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9d8982",
+            "share": 0.334
+          },
+          {
+            "hex": "#7c6862",
+            "share": 0.305
+          },
+          {
+            "hex": "#b5afae",
+            "share": 0.164
+          },
+          {
+            "hex": "#49453f",
+            "share": 0.121
+          },
+          {
+            "hex": "#f5f6f7",
+            "share": 0.076
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Bundesarchiv B 145 Bild-P001665, Bacharach, Burg Stahleck.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Bundesarchiv Bild 102-13416, Bacharach, Burg Stahleck.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4b5142",
+        "share": 0.332
+      },
+      {
+        "hex": "#283027",
+        "share": 0.261
+      },
+      {
+        "hex": "#010202",
+        "share": 0.205
+      },
+      {
+        "hex": "#837a5f",
+        "share": 0.135
+      },
+      {
+        "hex": "#c2bfb4",
+        "share": 0.068
+      }
+    ],
+    "strongest": null
+  }
+}

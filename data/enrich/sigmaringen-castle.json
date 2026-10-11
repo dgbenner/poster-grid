@@ -1,0 +1,269 @@
+{
+  "id": "sigmaringen-castle",
+  "name": "Sigmaringen Castle",
+  "lat": 48.0875,
+  "lng": 9.2161,
+  "enrichedAt": "2026-10-11T01:21:39.112Z",
+  "place": {
+    "town": "Sigmaringen",
+    "locality": null,
+    "county": "Landkreis Sigmaringen",
+    "adminArea": "Landkreis Sigmaringen",
+    "region": "Baden-Württemberg",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.0875&lon=9.2161&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Böhlerhof, Sigmaringen, GVV Sigmaringen, Landkreis Sigmaringen, Baden-Württemberg, 72488, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Sigmaringen Castle",
+      "description": "Castle in Sigmaringen, Baden-Württemberg, Germany",
+      "extract": "Sigmaringen Castle was the princely castle and seat of government for the Princes of Hohenzollern-Sigmaringen. Situated in the Swabian Alb region of Baden-Württemberg, Germany, this castle dominates the skyline of the town of Sigmaringen. The castle was rebuilt following a fire in 1893, and only the towers of the earlier medieval fortress remain. Schloss Sigmaringen was a family estate of the Swabian Hohenzollern family, a cadet branch of the Hohenzollern family, from which the German Emperors and kings of Prussia came. During the closing months of World War II, Schloss Sigmaringen was briefly the seat of the Vichy French Government after France was liberated by the Allies. The castle and museums may be visited throughout the year, but only on guided tours. It is still owned by the Hohenzollern-Sigmaringen family, although they no longer reside there.",
+      "url": "https://en.wikipedia.org/wiki/Sigmaringen_Castle",
+      "coordinates": {
+        "lat": 48.08777778,
+        "lng": 9.21694444
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/3840px-Schloss_Sigmaringen_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Sigmaringen",
+      "description": "City in Germany",
+      "extract": "Sigmaringen is a town in southern Germany, in the state of Baden-Württemberg. Situated on the upper Danube, it is the capital of the Sigmaringen district.",
+      "url": "https://en.wikipedia.org/wiki/Sigmaringen",
+      "coordinates": {
+        "lat": 48.0869,
+        "lng": 9.2167
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Sigmaringen_August_2015.jpg/3840px-Sigmaringen_August_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Dominates the town skyline; rebuilt after an 1893 fire, only the medieval towers remain.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/sigmaringen-castle/own-sigmaringen-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/sigmaringen-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#675a47",
+            "share": 0.243
+          },
+          {
+            "hex": "#3e382a",
+            "share": 0.233
+          },
+          {
+            "hex": "#6ea1da",
+            "share": 0.232
+          },
+          {
+            "hex": "#c2d0e2",
+            "share": 0.203
+          },
+          {
+            "hex": "#a4947f",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#6ea1da"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sigmaringen-castle/commons-1.jpg",
+      "title": "File:Schloss Sigmaringen 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Sigmaringen_2022.jpg",
+      "author": "Jörg Braukmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 8881,
+      "height": 5000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f392b",
+            "share": 0.251
+          },
+          {
+            "hex": "#685c48",
+            "share": 0.23
+          },
+          {
+            "hex": "#6ea1d9",
+            "share": 0.23
+          },
+          {
+            "hex": "#c2d0e2",
+            "share": 0.205
+          },
+          {
+            "hex": "#a7957d",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#6ea1d9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sigmaringen-castle/commons-2.jpg",
+      "title": "File:Neptune Portuguese Gallery Schloss Sigmaringen.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Neptune_Portuguese_Gallery_Schloss_Sigmaringen.jpg",
+      "author": "Tobyc75",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6d4a2d",
+            "share": 0.275
+          },
+          {
+            "hex": "#957659",
+            "share": 0.257
+          },
+          {
+            "hex": "#3b2720",
+            "share": 0.19
+          },
+          {
+            "hex": "#c1a486",
+            "share": 0.172
+          },
+          {
+            "hex": "#f5e8d7",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#6d4a2d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sigmaringen-castle/commons-3.jpg",
+      "title": "File:Schloss Sigmaringen.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Sigmaringen.jpg",
+      "author": "Roland Nonnenmacher D-71579 Spiegelberg (de:User:Roland Nonnenmacher)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 2608,
+      "height": 1952,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#39423a",
+            "share": 0.323
+          },
+          {
+            "hex": "#1f2819",
+            "share": 0.22
+          },
+          {
+            "hex": "#a88c7f",
+            "share": 0.175
+          },
+          {
+            "hex": "#6c5e56",
+            "share": 0.171
+          },
+          {
+            "hex": "#bdd2df",
+            "share": 0.111
+          }
+        ],
+        "strongest": "#bdd2df"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/sigmaringen-castle/commons-4.jpg",
+      "title": "File:Schloss Sigmaringen 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Sigmaringen_2022.jpg",
+      "author": "Jörg Braukmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 8881,
+      "height": 5000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f392b",
+            "share": 0.251
+          },
+          {
+            "hex": "#685c48",
+            "share": 0.23
+          },
+          {
+            "hex": "#6ea1d9",
+            "share": 0.23
+          },
+          {
+            "hex": "#c2d0e2",
+            "share": 0.205
+          },
+          {
+            "hex": "#a7957d",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#6ea1d9"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#675a47",
+        "share": 0.243
+      },
+      {
+        "hex": "#3e382a",
+        "share": 0.233
+      },
+      {
+        "hex": "#6ea1da",
+        "share": 0.232
+      },
+      {
+        "hex": "#c2d0e2",
+        "share": 0.203
+      },
+      {
+        "hex": "#a4947f",
+        "share": 0.089
+      }
+    ],
+    "strongest": "#6ea1da"
+  }
+}

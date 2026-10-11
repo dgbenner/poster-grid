@@ -1,0 +1,281 @@
+{
+  "id": "neuschwanstein",
+  "name": "Neuschwanstein",
+  "lat": 47.5576,
+  "lng": 10.7498,
+  "enrichedAt": "2026-10-11T01:21:39.205Z",
+  "place": {
+    "town": "Schwangau",
+    "locality": null,
+    "county": "Landkreis Ostallgäu",
+    "adminArea": "Landkreis Ostallgäu",
+    "region": "Bavaria",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.5576&lon=10.7498&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Hohenschwangau, Schwangau, Landkreis Ostallgäu, Bavaria, 87645, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "hohenschwangau",
+        "name": "Hohenschwangau",
+        "km": 0.9
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "hohenschwangau",
+        "name": "Hohenschwangau",
+        "km": 0.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Neuschwanstein Castle",
+      "description": "Palace in Bavaria, Germany",
+      "extract": "Neuschwanstein Castle is a 19th-century historicist palace on a rugged hill of the foothills of the Alps in the very south of Germany, near the border with Austria. It is located in the Swabia region of Bavaria, in the municipality of Schwangau, above the incorporated village of Hohenschwangau, which is also the location of Hohenschwangau Castle. The closest larger town is Füssen. The castle stands above the narrow gorge of the Pöllat stream, east of the Alpsee and Schwansee lakes, close to the mouth of the Lech into Lake Forggensee. Since 2025, the castle has been part of the UNESCO World Heritage Site \"The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee\". According to Guinness World Records, at 65 metres, it is the tallest castle in the world.",
+      "url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+      "coordinates": {
+        "lat": 47.5575,
+        "lng": 10.74944444
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/3840px-Schloss_Neuschwanstein_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Schwangau",
+      "description": "Municipality in Bavaria, Germany",
+      "extract": "Schwangau is a municipality in the district of Ostallgäu in Bavaria, Germany. The village lies 4 km from the larger town of Füssen and just 1.5 km from Hohenschwangau, a collection of tourist-oriented facilities adjacent to the major tourist attractions of Neuschwanstein Castle and Hohenschwangau Castle.",
+      "url": "https://en.wikipedia.org/wiki/Schwangau",
+      "coordinates": {
+        "lat": 47.58333333,
+        "lng": 10.73333333
+      },
+      "km": 3.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorf_Hohenschwangau.jpg/3840px-Dorf_Hohenschwangau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Ludwig II's fantasy castle; the icon.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/neuschwanstein/own-neuschwanstein.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/neuschwanstein.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#44471d",
+            "share": 0.316
+          },
+          {
+            "hex": "#c3cdd5",
+            "share": 0.236
+          },
+          {
+            "hex": "#89bde8",
+            "share": 0.168
+          },
+          {
+            "hex": "#72776b",
+            "share": 0.156
+          },
+          {
+            "hex": "#559cdc",
+            "share": 0.125
+          }
+        ],
+        "strongest": "#89bde8"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/neuschwanstein/commons-1.jpg",
+      "title": "File:Schloss Neuschwanstein 2013.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg",
+      "author": "Thomas Wolf, www.foto-tw.de",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "width": 5979,
+      "height": 4468,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#424616",
+            "share": 0.294
+          },
+          {
+            "hex": "#6baae1",
+            "share": 0.24
+          },
+          {
+            "hex": "#bdd4e5",
+            "share": 0.226
+          },
+          {
+            "hex": "#686e5d",
+            "share": 0.152
+          },
+          {
+            "hex": "#b0aba3",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#6baae1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/neuschwanstein/commons-2.jpg",
+      "title": "File:Aerial image of Neuschwanstein Castle (view from the northwest).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Neuschwanstein_Castle_(view_from_the_northwest).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4500,
+      "height": 2800,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#374435",
+            "share": 0.385
+          },
+          {
+            "hex": "#565a4f",
+            "share": 0.203
+          },
+          {
+            "hex": "#212b29",
+            "share": 0.172
+          },
+          {
+            "hex": "#b8b6b3",
+            "share": 0.128
+          },
+          {
+            "hex": "#7d7d78",
+            "share": 0.113
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/neuschwanstein/commons-3.jpg",
+      "title": "File:Neuschwanstein Castle 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2.jpg",
+      "author": "Valerio Bruscianelli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 14876,
+      "height": 3488,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#191d15",
+            "share": 0.394
+          },
+          {
+            "hex": "#cce3f1",
+            "share": 0.26
+          },
+          {
+            "hex": "#405544",
+            "share": 0.147
+          },
+          {
+            "hex": "#4e7e9a",
+            "share": 0.107
+          },
+          {
+            "hex": "#8fd5f1",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#cce3f1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/neuschwanstein/commons-4.jpg",
+      "title": "File:Neuschwanstein Castle LOC print rotated.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_LOC_print_rotated.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3502,
+      "height": 2554,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f1eced",
+            "share": 0.314
+          },
+          {
+            "hex": "#342713",
+            "share": 0.261
+          },
+          {
+            "hex": "#59482c",
+            "share": 0.21
+          },
+          {
+            "hex": "#846e5d",
+            "share": 0.132
+          },
+          {
+            "hex": "#c3a99e",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#342713"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#44471d",
+        "share": 0.316
+      },
+      {
+        "hex": "#c3cdd5",
+        "share": 0.236
+      },
+      {
+        "hex": "#89bde8",
+        "share": 0.168
+      },
+      {
+        "hex": "#72776b",
+        "share": 0.156
+      },
+      {
+        "hex": "#559cdc",
+        "share": 0.125
+      }
+    ],
+    "strongest": "#89bde8"
+  }
+}

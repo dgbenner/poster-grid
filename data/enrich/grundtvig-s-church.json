@@ -1,0 +1,269 @@
+{
+  "id": "grundtvig-s-church",
+  "name": "Grundtvig's Church",
+  "lat": 55.7205,
+  "lng": 12.5335,
+  "enrichedAt": "2026-10-11T01:21:44.854Z",
+  "place": {
+    "town": "Copenhagen",
+    "locality": "Nørrebro",
+    "county": "Capital Region of Denmark",
+    "adminArea": null,
+    "region": "Capital Region of Denmark",
+    "country": "Denmark",
+    "sovereign": "Denmark",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.7205&lon=12.5335&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Mjølnerparken, Lyngbyvejskvarteret, Nørrebro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2200, Denmark"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Grundtvig's Church",
+      "description": "Church in Copenhagen, Denmark",
+      "extract": "Grundtvig's Church is located in the Bispebjerg district of Copenhagen, Denmark. It is a rare example of expressionist church architecture. Due to its originality, it is one of the best known churches in the city.",
+      "url": "https://en.wikipedia.org/wiki/Grundtvig's_Church",
+      "coordinates": {
+        "lat": 55.71658333,
+        "lng": 12.53361111
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Grundtvig%E2%80%99s_Church_02_%28level_and_colour_adjust%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Copenhagen",
+      "description": "Capital and most populous city of Denmark",
+      "extract": "Copenhagen is the capital and most populous city of Denmark, with an urban population of 1.4 million. The city is situated mainly on the island of Zealand (Sjælland), with a smaller part on the island of Amager. Copenhagen is separated from Malmö, Sweden, by the Øresund strait. The Øresund Bridge connects the two cities by rail and road.",
+      "url": "https://en.wikipedia.org/wiki/Copenhagen",
+      "coordinates": {
+        "lat": 55.67611111,
+        "lng": 12.56833333
+      },
+      "km": 5.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/3840px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Expressionist yellow-brick church completed in 1940, blending Gothic form with modernist design.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/grundtvig-s-church/own-grundtvig-s-church.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/grundtvig-s-church.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#58351e",
+            "share": 0.274
+          },
+          {
+            "hex": "#7e4c2a",
+            "share": 0.228
+          },
+          {
+            "hex": "#342015",
+            "share": 0.214
+          },
+          {
+            "hex": "#a16839",
+            "share": 0.187
+          },
+          {
+            "hex": "#c19c76",
+            "share": 0.098
+          }
+        ],
+        "strongest": "#58351e"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/grundtvig-s-church/commons-1.jpg",
+      "title": "File:Grundtvig’s Church 02 (level and colour adjust).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grundtvig%E2%80%99s_Church_02_(level_and_colour_adjust).jpg",
+      "author": "Haydn Blackey from Cardiff, Wales",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2992,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#434a26",
+            "share": 0.277
+          },
+          {
+            "hex": "#9f9a8f",
+            "share": 0.2
+          },
+          {
+            "hex": "#756f63",
+            "share": 0.195
+          },
+          {
+            "hex": "#e2f3fb",
+            "share": 0.165
+          },
+          {
+            "hex": "#fbfdfe",
+            "share": 0.163
+          }
+        ],
+        "strongest": "#434a26"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/grundtvig-s-church/commons-2.jpg",
+      "title": "File:P.v. jensen-klint 09, grundtvig memorial church.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:P.v._jensen-klint_09,_grundtvig_memorial_church.jpg",
+      "author": "seier+seier",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3264,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8a6a45",
+            "share": 0.317
+          },
+          {
+            "hex": "#bdb6ac",
+            "share": 0.206
+          },
+          {
+            "hex": "#a18a6f",
+            "share": 0.204
+          },
+          {
+            "hex": "#e1e6ef",
+            "share": 0.149
+          },
+          {
+            "hex": "#624528",
+            "share": 0.123
+          }
+        ],
+        "strongest": "#8a6a45"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/grundtvig-s-church/commons-3.jpg",
+      "title": "File:Pv jensen-klint 05 grundtvig memorial church 1913-1940.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pv_jensen-klint_05_grundtvig_memorial_church_1913-1940.jpg",
+      "author": "seier+seier",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 2349,
+      "height": 3700,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#22569c",
+            "share": 0.3
+          },
+          {
+            "hex": "#ab9a87",
+            "share": 0.237
+          },
+          {
+            "hex": "#877a6c",
+            "share": 0.214
+          },
+          {
+            "hex": "#6291c6",
+            "share": 0.134
+          },
+          {
+            "hex": "#413c39",
+            "share": 0.115
+          }
+        ],
+        "strongest": "#22569c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/grundtvig-s-church/commons-4.jpg",
+      "title": "File:Pv jensen-klint 10 grundtvig memorial church 1913-1940.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pv_jensen-klint_10_grundtvig_memorial_church_1913-1940.jpg",
+      "author": "seier+seier",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1938,
+      "height": 3091,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#40220b",
+            "share": 0.346
+          },
+          {
+            "hex": "#624627",
+            "share": 0.33
+          },
+          {
+            "hex": "#806446",
+            "share": 0.186
+          },
+          {
+            "hex": "#250c05",
+            "share": 0.109
+          },
+          {
+            "hex": "#bcaa9b",
+            "share": 0.029
+          }
+        ],
+        "strongest": "#40220b"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#58351e",
+        "share": 0.274
+      },
+      {
+        "hex": "#7e4c2a",
+        "share": 0.228
+      },
+      {
+        "hex": "#342015",
+        "share": 0.214
+      },
+      {
+        "hex": "#a16839",
+        "share": 0.187
+      },
+      {
+        "hex": "#c19c76",
+        "share": 0.098
+      }
+    ],
+    "strongest": "#58351e"
+  }
+}

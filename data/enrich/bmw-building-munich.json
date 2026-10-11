@@ -1,0 +1,268 @@
+{
+  "id": "bmw-building-munich",
+  "name": "BMW Building (BMW Welt / HQ), Munich",
+  "lat": 48.1771,
+  "lng": 11.5564,
+  "enrichedAt": "2026-10-11T01:21:40.090Z",
+  "place": {
+    "town": "Munich",
+    "locality": "Milbertshofen-Am Hart",
+    "county": "Bavaria",
+    "adminArea": null,
+    "region": "Bavaria",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=48.1771&lon=11.5564&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Am Riesenfeld, Milbertshofen-Am Hart, Munich, Bavaria, 80809, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "bmw-museum-bmw-welt",
+        "name": "BMW Museum & BMW Welt",
+        "km": 0.2
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "bmw-museum-bmw-welt",
+        "name": "BMW Museum & BMW Welt",
+        "km": 0.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Munich",
+      "description": "Capital of Bavaria, Germany",
+      "extract": "Munich is the capital and most populous city of the German state of Bavaria. As of 30 November 2024, its population was 1,604,384, making it the third most-populous city in Germany after Berlin and Hamburg. Munich is the largest city in Germany that is not a state of its own, and it ranks as the 11th-largest city in the European Union (EU). The metropolitan area has around 3 million inhabitants, and the broader Munich Metropolitan Region is home to about 6.2 million people. It is the third largest metropolitan region by GDP in the EU. Munich is located on the river Isar north of the Alps. It is the seat of the Upper Bavarian administrative region. With 4,800 people per km2, Munich is Germany's most densely populated municipality. It is also the second-largest city in the Bavarian dialect area after Vienna.",
+      "url": "https://en.wikipedia.org/wiki/Munich",
+      "coordinates": {
+        "lat": 48.1375,
+        "lng": 11.575
+      },
+      "km": 4.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/3840px-Stadtbild_M%C3%BCnchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bmw-building-munich/own-bmw-building-munich.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bmw-building-munich.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6f6c70",
+            "share": 0.279
+          },
+          {
+            "hex": "#8c8a8e",
+            "share": 0.254
+          },
+          {
+            "hex": "#57504d",
+            "share": 0.251
+          },
+          {
+            "hex": "#272e37",
+            "share": 0.123
+          },
+          {
+            "hex": "#cec7c3",
+            "share": 0.093
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-building-munich/commons-1.jpg",
+      "title": "File:Exhibition of roadster cars in BMW-Museum in Munich, Bayern.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Exhibition_of_roadster_cars_in_BMW-Museum_in_Munich,_Bayern.JPG",
+      "author": "Jiří Sedláček",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3888,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d4d6d8",
+            "share": 0.285
+          },
+          {
+            "hex": "#2d2724",
+            "share": 0.243
+          },
+          {
+            "hex": "#4e4844",
+            "share": 0.213
+          },
+          {
+            "hex": "#b2aea9",
+            "share": 0.149
+          },
+          {
+            "hex": "#857972",
+            "share": 0.11
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-building-munich/commons-2.jpg",
+      "title": "File:Nick Heidfeld racing overall BMW-Museum in Munich, Bayern.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Nick_Heidfeld_racing_overall_BMW-Museum_in_Munich,_Bayern.JPG",
+      "author": "Jiří Sedláček",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2592,
+      "height": 3888,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#363735",
+            "share": 0.304
+          },
+          {
+            "hex": "#4c4b49",
+            "share": 0.248
+          },
+          {
+            "hex": "#242423",
+            "share": 0.199
+          },
+          {
+            "hex": "#736c64",
+            "share": 0.148
+          },
+          {
+            "hex": "#a29584",
+            "share": 0.102
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-building-munich/commons-3.jpg",
+      "title": "File:BMW Isetta 250 Standard in BMW-Museum in Munich, Bayern.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_Isetta_250_Standard_in_BMW-Museum_in_Munich,_Bayern.JPG",
+      "author": "Jiří Sedláček",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3888,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#896f56",
+            "share": 0.374
+          },
+          {
+            "hex": "#a1907e",
+            "share": 0.237
+          },
+          {
+            "hex": "#6e5236",
+            "share": 0.209
+          },
+          {
+            "hex": "#37210f",
+            "share": 0.124
+          },
+          {
+            "hex": "#dec8a0",
+            "share": 0.057
+          }
+        ],
+        "strongest": "#37210f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bmw-building-munich/commons-4.jpg",
+      "title": "File:Ball exposition of modelling of BMW car in BMW-Museum in Munich, Bayern.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Ball_exposition_of_modelling_of_BMW_car_in_BMW-Museum_in_Munich,_Bayern.JPG",
+      "author": "Jiří Sedláček",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3888,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#60605e",
+            "share": 0.254
+          },
+          {
+            "hex": "#494847",
+            "share": 0.246
+          },
+          {
+            "hex": "#302e2e",
+            "share": 0.229
+          },
+          {
+            "hex": "#838380",
+            "share": 0.201
+          },
+          {
+            "hex": "#b1afb0",
+            "share": 0.069
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#6f6c70",
+        "share": 0.279
+      },
+      {
+        "hex": "#8c8a8e",
+        "share": 0.254
+      },
+      {
+        "hex": "#57504d",
+        "share": 0.251
+      },
+      {
+        "hex": "#272e37",
+        "share": 0.123
+      },
+      {
+        "hex": "#cec7c3",
+        "share": 0.093
+      }
+    ],
+    "strongest": null
+  }
+}

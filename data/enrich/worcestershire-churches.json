@@ -1,0 +1,303 @@
+{
+  "id": "worcestershire-churches",
+  "name": "Worcestershire churches (Cradley, Colwall, Kempsey)",
+  "lat": 52.1167,
+  "lng": -2.3833,
+  "enrichedAt": "2026-10-11T01:21:32.765Z",
+  "place": {
+    "town": "Mathon",
+    "locality": null,
+    "county": "Herefordshire",
+    "adminArea": "Herefordshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.1167&lon=-2.3833&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Mathon, Herefordshire, England, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Worcestershire",
+      "description": "County of England",
+      "extract": "Worcestershire is a ceremonial county in the West Midlands of England. It is bordered by Shropshire, Staffordshire, and the West Midlands county to the north, Warwickshire to the east, Gloucestershire to the south, and Herefordshire to the west. The city of Worcester is the largest settlement.",
+      "url": "https://en.wikipedia.org/wiki/Worcestershire",
+      "coordinates": {
+        "lat": 52.2,
+        "lng": -2.16666667
+      },
+      "km": 17.4,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/0/00/River_Severn%2C_Central_Worcester_-_geograph.org.uk_-_3185511_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Mathon, Herefordshire",
+      "description": "Village in Herefordshire, England",
+      "extract": "Mathon is a small village and civil parish in eastern Herefordshire, England, lying just to the west of the Malvern Hills between Malvern and Ledbury. Nearby villages include Cradley and Colwall. Immediately to the east is the county boundary with Worcestershire.",
+      "url": "https://en.wikipedia.org/wiki/Mathon%2C_Herefordshire",
+      "coordinates": {
+        "lat": 52.11,
+        "lng": -2.385
+      },
+      "km": 0.8,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lych_gate_to_Mathon_Church_-_geograph.org.uk_-_775582.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Three village churches — Cradley, Colwall, Kempsey. (Pinned at Cradley; split into three later.)",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "cathedral"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/worcestershire-churches/own-worcestershire-churches-1.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/worcestershire-churches-1.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000100",
+            "share": 0.422
+          },
+          {
+            "hex": "#2d6fbf",
+            "share": 0.19
+          },
+          {
+            "hex": "#424f55",
+            "share": 0.179
+          },
+          {
+            "hex": "#262e28",
+            "share": 0.119
+          },
+          {
+            "hex": "#857d6f",
+            "share": 0.089
+          }
+        ],
+        "strongest": "#2d6fbf"
+      }
+    },
+    {
+      "kind": "personal",
+      "file": "data/images/worcestershire-churches/own-worcestershire-churches-2.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/worcestershire-churches-2.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.42
+          },
+          {
+            "hex": "#563921",
+            "share": 0.193
+          },
+          {
+            "hex": "#331d10",
+            "share": 0.14
+          },
+          {
+            "hex": "#796039",
+            "share": 0.135
+          },
+          {
+            "hex": "#627c81",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#331d10"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/worcestershire-churches/commons-1.jpg",
+      "title": "File:Lea & Perrins worcestershire sauce 150ml.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lea_%26_Perrins_worcestershire_sauce_150ml.jpg",
+      "author": "photo: Qurren",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1200,
+      "height": 3000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#fefefc",
+            "share": 0.481
+          },
+          {
+            "hex": "#1c1211",
+            "share": 0.191
+          },
+          {
+            "hex": "#ae472a",
+            "share": 0.174
+          },
+          {
+            "hex": "#c47f67",
+            "share": 0.079
+          },
+          {
+            "hex": "#d9d0c4",
+            "share": 0.075
+          }
+        ],
+        "strongest": "#ae472a"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/worcestershire-churches/commons-2.jpg",
+      "title": "File:Worcestershire Beacon.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Worcestershire_Beacon.jpg",
+      "author": "The original uploader was StephenDawson at English Wikipedia.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2048,
+      "height": 1536,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f8bd0",
+            "share": 0.344
+          },
+          {
+            "hex": "#585440",
+            "share": 0.287
+          },
+          {
+            "hex": "#a2c8e5",
+            "share": 0.158
+          },
+          {
+            "hex": "#616b69",
+            "share": 0.114
+          },
+          {
+            "hex": "#7797ae",
+            "share": 0.097
+          }
+        ],
+        "strongest": "#3f8bd0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/worcestershire-churches/commons-3.jpg",
+      "title": "File:Sheep feeding on a root crop - geograph.org.uk - 6770967.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheep_feeding_on_a_root_crop_-_geograph.org.uk_-_6770967.jpg",
+      "author": "Philip Halling",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#936f4d",
+            "share": 0.359
+          },
+          {
+            "hex": "#6a604e",
+            "share": 0.235
+          },
+          {
+            "hex": "#9ecbf0",
+            "share": 0.207
+          },
+          {
+            "hex": "#888278",
+            "share": 0.137
+          },
+          {
+            "hex": "#32302a",
+            "share": 0.062
+          }
+        ],
+        "strongest": "#9ecbf0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/worcestershire-churches/commons-4.jpg",
+      "title": "File:Tree trunks at Netherley Hall Farm - geograph.org.uk - 6770946.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tree_trunks_at_Netherley_Hall_Farm_-_geograph.org.uk_-_6770946.jpg",
+      "author": "Philip Halling",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5f513d",
+            "share": 0.325
+          },
+          {
+            "hex": "#7e7762",
+            "share": 0.221
+          },
+          {
+            "hex": "#a0a09c",
+            "share": 0.17
+          },
+          {
+            "hex": "#b2dbf9",
+            "share": 0.146
+          },
+          {
+            "hex": "#372d24",
+            "share": 0.139
+          }
+        ],
+        "strongest": "#b2dbf9"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000100",
+        "share": 0.422
+      },
+      {
+        "hex": "#2d6fbf",
+        "share": 0.19
+      },
+      {
+        "hex": "#424f55",
+        "share": 0.179
+      },
+      {
+        "hex": "#262e28",
+        "share": 0.119
+      },
+      {
+        "hex": "#857d6f",
+        "share": 0.089
+      }
+    ],
+    "strongest": "#2d6fbf"
+  }
+}

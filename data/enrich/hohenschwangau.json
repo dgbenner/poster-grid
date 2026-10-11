@@ -1,0 +1,281 @@
+{
+  "id": "hohenschwangau",
+  "name": "Hohenschwangau",
+  "lat": 47.5578,
+  "lng": 10.7378,
+  "enrichedAt": "2026-10-11T01:21:39.189Z",
+  "place": {
+    "town": "Schwangau",
+    "locality": null,
+    "county": "Landkreis Ostallgäu",
+    "adminArea": "Landkreis Ostallgäu",
+    "region": "Bavaria",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.5578&lon=10.7378&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Hohenschwangau, Schwangau, Landkreis Ostallgäu, Bavaria, 87645, Germany"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "neuschwanstein",
+        "name": "Neuschwanstein",
+        "km": 0.9
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "neuschwanstein",
+        "name": "Neuschwanstein",
+        "km": 0.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Hohenschwangau",
+      "description": "Human settlement in Germany",
+      "extract": "Hohenschwangau is a former village and now an urban district of the municipality of Schwangau, Ostallgäu district, Bavaria, Germany.",
+      "url": "https://en.wikipedia.org/wiki/Hohenschwangau",
+      "coordinates": {
+        "lat": 47.55833333,
+        "lng": 10.74166667
+      },
+      "km": 0.3,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hohenschwangau_Castle_and_Village.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Schwangau",
+      "description": "Municipality in Bavaria, Germany",
+      "extract": "Schwangau is a municipality in the district of Ostallgäu in Bavaria, Germany. The village lies 4 km from the larger town of Füssen and just 1.5 km from Hohenschwangau, a collection of tourist-oriented facilities adjacent to the major tourist attractions of Neuschwanstein Castle and Hohenschwangau Castle.",
+      "url": "https://en.wikipedia.org/wiki/Schwangau",
+      "coordinates": {
+        "lat": 47.58333333,
+        "lng": 10.73333333
+      },
+      "km": 2.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorf_Hohenschwangau.jpg/3840px-Dorf_Hohenschwangau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "19th c.; the yellow castle where Ludwig II grew up.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/hohenschwangau/own-hohenschwangau.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/hohenschwangau.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2b342b",
+            "share": 0.321
+          },
+          {
+            "hex": "#000000",
+            "share": 0.235
+          },
+          {
+            "hex": "#49502d",
+            "share": 0.213
+          },
+          {
+            "hex": "#747439",
+            "share": 0.152
+          },
+          {
+            "hex": "#b99457",
+            "share": 0.08
+          }
+        ],
+        "strongest": "#747439"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenschwangau/commons-1.jpg",
+      "title": "File:Hohenschwangau Castle and Village.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hohenschwangau_Castle_and_Village.jpg",
+      "author": "User:Abelson",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 3008,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#729eaf",
+            "share": 0.246
+          },
+          {
+            "hex": "#3e492d",
+            "share": 0.227
+          },
+          {
+            "hex": "#2d3823",
+            "share": 0.216
+          },
+          {
+            "hex": "#334947",
+            "share": 0.189
+          },
+          {
+            "hex": "#566c6b",
+            "share": 0.121
+          }
+        ],
+        "strongest": "#729eaf"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenschwangau/commons-2.jpg",
+      "title": "File:Ortseinfahrt Hohenschwangau.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ortseinfahrt_Hohenschwangau.jpg",
+      "author": "Bruno413",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 1600,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#22381b",
+            "share": 0.254
+          },
+          {
+            "hex": "#bcc1d5",
+            "share": 0.252
+          },
+          {
+            "hex": "#606822",
+            "share": 0.222
+          },
+          {
+            "hex": "#9b9b9e",
+            "share": 0.176
+          },
+          {
+            "hex": "#5d6c68",
+            "share": 0.096
+          }
+        ],
+        "strongest": "#606822"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenschwangau/commons-3.jpg",
+      "title": "File:Hohenschwangau Castle at sunrise.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hohenschwangau_Castle_at_sunrise.jpg",
+      "author": "Giladtop",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 7053,
+      "height": 6499,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#31464d",
+            "share": 0.283
+          },
+          {
+            "hex": "#232b23",
+            "share": 0.274
+          },
+          {
+            "hex": "#d5e5ee",
+            "share": 0.206
+          },
+          {
+            "hex": "#5b6f76",
+            "share": 0.142
+          },
+          {
+            "hex": "#9ba69e",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#31464d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/hohenschwangau/commons-4.jpg",
+      "title": "File:Early morning at Hohenschwangau Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Early_morning_at_Hohenschwangau_Castle.jpg",
+      "author": "Giladtop",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5609,
+      "height": 6976,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#bec7ce",
+            "share": 0.241
+          },
+          {
+            "hex": "#1e251f",
+            "share": 0.236
+          },
+          {
+            "hex": "#433e32",
+            "share": 0.227
+          },
+          {
+            "hex": "#3f555f",
+            "share": 0.158
+          },
+          {
+            "hex": "#8e908a",
+            "share": 0.138
+          }
+        ],
+        "strongest": "#3f555f"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#2b342b",
+        "share": 0.321
+      },
+      {
+        "hex": "#000000",
+        "share": 0.235
+      },
+      {
+        "hex": "#49502d",
+        "share": 0.213
+      },
+      {
+        "hex": "#747439",
+        "share": 0.152
+      },
+      {
+        "hex": "#b99457",
+        "share": 0.08
+      }
+    ],
+    "strongest": "#747439"
+  }
+}

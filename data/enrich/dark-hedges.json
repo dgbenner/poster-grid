@@ -1,0 +1,256 @@
+{
+  "id": "dark-hedges",
+  "name": "The Dark Hedges",
+  "lat": 55.1347,
+  "lng": -6.3814,
+  "enrichedAt": "2026-10-11T01:21:40.197Z",
+  "place": {
+    "town": "Causeway Coast and Glens District",
+    "locality": null,
+    "county": "Northern Ireland",
+    "adminArea": null,
+    "region": null,
+    "country": "Northern Ireland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.1347&lon=-6.3814&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Gracehill, Causeway Coast and Glens District, County Antrim, Northern Ireland, BT53 8TU, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Dark Hedges",
+      "description": "Avenue of trees in County Antrim, Northern Ireland",
+      "extract": "The Dark Hedges is an carriage avenue of mature beech trees along Bregagh Road between Armoy and Stranocum in County Antrim, Northern Ireland. The trees on both sides of the road are European beech trees, which are not indigenous to Ireland, they meet overhead, growing into a twisted canopy and forming a tree tunnel that is between 6 and 10 metres in width – the avenue is about 150 metres. The Dark Hedges are one of Northern Ireland's most photographed attraction, in the 1990s Northern Ireland started using images from the carriage road in their tourism campaigns. Planted around 1775, the iconic beech trees are roughly 250 years old, surpassing the typical 150-to-200-year life expectancy of common beech trees. The trees are in a state of natural decline and near the end of their lifespan. The tunnel of beech trees shot to international fame when they were filmed on location in the US TV drama Game of Thrones (2011). The Bregagh Road was permanently pedestrianised and closed to general public vehicle traffic since October 2017 to protect the sensitive root systems from vehicle compaction. Around 75 of the original 150 trees remain as of 2026.",
+      "url": "https://en.wikipedia.org/wiki/Dark_Hedges",
+      "coordinates": {
+        "lat": 55.1344,
+        "lng": -6.3806
+      },
+      "km": 0.1,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dark_Hedges_near_Armoy%2C_Co_Antrim_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": null
+  },
+  "note": {
+    "text": "The tunnel of interlaced beeches.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/dark-hedges/own-dark-hedges.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/dark-hedges.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#2f2829",
+            "share": 0.318
+          },
+          {
+            "hex": "#443839",
+            "share": 0.281
+          },
+          {
+            "hex": "#5e4d4d",
+            "share": 0.193
+          },
+          {
+            "hex": "#1b1818",
+            "share": 0.149
+          },
+          {
+            "hex": "#897372",
+            "share": 0.059
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dark-hedges/commons-1.jpg",
+      "title": "File:Dark Hedges near Armoy, Co Antrim (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Hedges_near_Armoy,_Co_Antrim_(cropped).jpg",
+      "author": "Colin Park",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 3473,
+      "height": 2183,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#585c40",
+            "share": 0.277
+          },
+          {
+            "hex": "#61655f",
+            "share": 0.264
+          },
+          {
+            "hex": "#424332",
+            "share": 0.244
+          },
+          {
+            "hex": "#29281f",
+            "share": 0.148
+          },
+          {
+            "hex": "#848b7b",
+            "share": 0.066
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dark-hedges/commons-2.jpg",
+      "title": "File:Dark hedges 2023-05-26 11.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_hedges_2023-05-26_11.jpg",
+      "author": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5120,
+      "height": 2448,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e8068",
+            "share": 0.262
+          },
+          {
+            "hex": "#a09b91",
+            "share": 0.231
+          },
+          {
+            "hex": "#5d6a41",
+            "share": 0.23
+          },
+          {
+            "hex": "#394f25",
+            "share": 0.171
+          },
+          {
+            "hex": "#e3e4e3",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#394f25"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dark-hedges/commons-3.jpg",
+      "title": "File:Dark hedges 2023-05-26 16.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_hedges_2023-05-26_16.jpg",
+      "author": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3648,
+      "height": 1744,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#536c36",
+            "share": 0.328
+          },
+          {
+            "hex": "#74765a",
+            "share": 0.281
+          },
+          {
+            "hex": "#d4dbde",
+            "share": 0.159
+          },
+          {
+            "hex": "#333d21",
+            "share": 0.116
+          },
+          {
+            "hex": "#969485",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#536c36"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dark-hedges/commons-4.jpg",
+      "title": "File:The Dark Hedges - geograph.org.uk - 7006510.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Dark_Hedges_-_geograph.org.uk_-_7006510.jpg",
+      "author": "Matthew Chadwick",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#61675b",
+            "share": 0.295
+          },
+          {
+            "hex": "#484e40",
+            "share": 0.273
+          },
+          {
+            "hex": "#7e827d",
+            "share": 0.192
+          },
+          {
+            "hex": "#2f352b",
+            "share": 0.181
+          },
+          {
+            "hex": "#b1aeb9",
+            "share": 0.059
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#2f2829",
+        "share": 0.318
+      },
+      {
+        "hex": "#443839",
+        "share": 0.281
+      },
+      {
+        "hex": "#5e4d4d",
+        "share": 0.193
+      },
+      {
+        "hex": "#1b1818",
+        "share": 0.149
+      },
+      {
+        "hex": "#897372",
+        "share": 0.059
+      }
+    ],
+    "strongest": null
+  }
+}

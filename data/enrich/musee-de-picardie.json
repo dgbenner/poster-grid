@@ -1,0 +1,282 @@
+{
+  "id": "musee-de-picardie",
+  "name": "Musée de Picardie, Amiens",
+  "lat": 49.8919,
+  "lng": 2.2967,
+  "enrichedAt": "2026-10-11T01:21:41.483Z",
+  "place": {
+    "town": "Amiens",
+    "locality": null,
+    "county": "Somme",
+    "adminArea": "Somme",
+    "region": "Hauts-de-France",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.8919&lon=2.2967&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Amiens, Somme, Hauts-de-France, Metropolitan France, 80000, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Musée de Picardie",
+      "description": "Museum in France",
+      "extract": "The Musée de Picardie is the main museum of Amiens and Picardy, in France. It is located at 48, rue de la République, Amiens. Its collections include artifacts ranging from prehistory to the 19th century, and form one of the largest regional museums in France.",
+      "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_Picardie",
+      "coordinates": {
+        "lat": 49.8905,
+        "lng": 2.2953
+      },
+      "km": 0.2,
+      "matchedBy": "search",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Amiens_-_Mus%C3%A9e_de_Picardie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Amiens",
+      "description": "Capital of Somme, France",
+      "extract": "Amiens is a city and commune in northern France, located 120 km (75 mi) north of Paris and 100 km (62 mi) southwest of Lille. With 136,449 inhabitants (2023), it is the prefecture of the Somme department in the Hauts-de-France region. A central landmark of the city is Amiens Cathedral, the largest Gothic cathedral in France. Amiens also has one of the largest university hospitals in France, with a capacity of 1,200 beds. The author Jules Verne lived in Amiens from 1871 until his death in 1905, and served on the city council for 15 years. Amiens is the birthplace of current French president Emmanuel Macron.",
+      "url": "https://en.wikipedia.org/wiki/Amiens",
+      "coordinates": {
+        "lat": 49.892,
+        "lng": 2.299
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/c/c3/0_Amiens_-_Place_du_Don_-_Cath%C3%A9drale_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/musee-de-picardie/own-musee-de-picardie.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/musee-de-picardie.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7b7573",
+            "share": 0.331
+          },
+          {
+            "hex": "#615956",
+            "share": 0.263
+          },
+          {
+            "hex": "#f9fbfc",
+            "share": 0.185
+          },
+          {
+            "hex": "#969496",
+            "share": 0.128
+          },
+          {
+            "hex": "#35372c",
+            "share": 0.093
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/musee-de-picardie/commons-1.jpg",
+      "title": "File:Amiens - Musée de Picardie.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amiens_-_Mus%C3%A9e_de_Picardie.jpg",
+      "author": "HaguardDuNord",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 1232,
+      "height": 1632,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7c7675",
+            "share": 0.333
+          },
+          {
+            "hex": "#615a57",
+            "share": 0.278
+          },
+          {
+            "hex": "#f9fbfd",
+            "share": 0.184
+          },
+          {
+            "hex": "#989699",
+            "share": 0.113
+          },
+          {
+            "hex": "#34362b",
+            "share": 0.092
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/musee-de-picardie/commons-2.jpg",
+      "title": "File:Léda et le Cygne Amiens FRA 001.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%A9da_et_le_Cygne_Amiens_FRA_001.jpg",
+      "author": "ignis",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 2311,
+      "height": 3471,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1f1a15",
+            "share": 0.468
+          },
+          {
+            "hex": "#3d3327",
+            "share": 0.22
+          },
+          {
+            "hex": "#090705",
+            "share": 0.194
+          },
+          {
+            "hex": "#836843",
+            "share": 0.064
+          },
+          {
+            "hex": "#debe95",
+            "share": 0.053
+          }
+        ],
+        "strongest": "#debe95"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/musee-de-picardie/commons-3.jpg",
+      "title": "File:Amiens, Somme, France (09.08.2026) 176.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amiens,_Somme,_France_(09.08.2026)_176.jpg",
+      "author": "Gargarapalvin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3072,
+      "height": 4096,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c8ccd5",
+            "share": 0.219
+          },
+          {
+            "hex": "#867969",
+            "share": 0.217
+          },
+          {
+            "hex": "#b1a18e",
+            "share": 0.201
+          },
+          {
+            "hex": "#d7dde9",
+            "share": 0.19
+          },
+          {
+            "hex": "#534d44",
+            "share": 0.172
+          }
+        ],
+        "strongest": "#d7dde9"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/musee-de-picardie/commons-4.jpg",
+      "title": "File:Immeuble Caisse Épargne - Amiens (FR80) - 2021-05-30 - 4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Immeuble_Caisse_%C3%89pargne_-_Amiens_(FR80)_-_2021-05-30_-_4.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 3024,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#727071",
+            "share": 0.321
+          },
+          {
+            "hex": "#568de4",
+            "share": 0.302
+          },
+          {
+            "hex": "#4f4c4d",
+            "share": 0.148
+          },
+          {
+            "hex": "#949192",
+            "share": 0.143
+          },
+          {
+            "hex": "#d2cbc7",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#568de4"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Amiens, musée de Picardie, divinité gauloise à l'oreille de cervidé 02.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Pierre Puvis de Chavannes, 1863, Le Travail, Musée de Picardie.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Greco-amiens.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7b7573",
+        "share": 0.331
+      },
+      {
+        "hex": "#615956",
+        "share": 0.263
+      },
+      {
+        "hex": "#f9fbfc",
+        "share": 0.185
+      },
+      {
+        "hex": "#969496",
+        "share": 0.128
+      },
+      {
+        "hex": "#35372c",
+        "share": 0.093
+      }
+    ],
+    "strongest": null
+  }
+}

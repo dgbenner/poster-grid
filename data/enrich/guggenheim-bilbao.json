@@ -1,0 +1,269 @@
+{
+  "id": "guggenheim-bilbao",
+  "name": "Guggenheim Bilbao",
+  "lat": 43.26869,
+  "lng": -2.93396,
+  "enrichedAt": "2026-10-11T01:21:40.360Z",
+  "place": {
+    "town": "Bilbao",
+    "locality": "Abando",
+    "county": "Biscay",
+    "adminArea": "Biscay",
+    "region": "Autonomous Community of the Basque Country",
+    "country": "Spain",
+    "sovereign": "Spain",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=43.26869&lon=-2.93396&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Abando, Bilbao, Biscay, Autonomous Community of the Basque Country, Spain"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Guggenheim Museum Bilbao",
+      "description": "Modern and contemporary art museum in Bilbao, Spain",
+      "extract": "The Guggenheim Museum Bilbao is a museum of modern and contemporary art in Bilbao, Biscay, Spain. It is one of several museums affiliated to the Solomon R. Guggenheim Foundation and features permanent and visiting exhibits of works by Spanish and international artists. It was inaugurated on 18 October 1997 by King Juan Carlos I of Spain, with an exhibition of 250 contemporary works of art. It is one of the largest museums in Spain.",
+      "url": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+      "coordinates": {
+        "lat": 43.26861111,
+        "lng": -2.93388889
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg/3840px-Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Bilbao",
+      "description": "Municipality in Basque Country, Spain",
+      "extract": "Bilbao is a city in northern Spain, the largest city in the province of Biscay and in the autonomous community of the Basque Country. With a population of 347,342 as of 2024, it is the 11th most populous city in Spain, and the most populous in northern Spain. The Bilbao metropolitan area has 1,037,847 inhabitants, making it the most populous metropolitan area in northern Spain. The comarca of Greater Bilbao is the fifth-largest urban area in Spain. Bilbao is also the main urban area in what is defined as the Greater Basque region.",
+      "url": "https://en.wikipedia.org/wiki/Bilbao",
+      "coordinates": {
+        "lat": 43.25694444,
+        "lng": -2.92361111
+      },
+      "km": 1.6,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/Collage_de_Bilbao%2C_Pa%C3%ADs_Vasco%2C_Espa%C3%B1a.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Frank Gehry's titanium-clad museum on the Nervión; Louise Bourgeois's Maman spider out front. Basque Country.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/guggenheim-bilbao/own-guggenheim-bilbao.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/guggenheim-bilbao.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#504f44",
+            "share": 0.24
+          },
+          {
+            "hex": "#78766c",
+            "share": 0.216
+          },
+          {
+            "hex": "#a2a1a0",
+            "share": 0.21
+          },
+          {
+            "hex": "#c5c7d1",
+            "share": 0.171
+          },
+          {
+            "hex": "#232417",
+            "share": 0.163
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/guggenheim-bilbao/commons-1.jpg",
+      "title": "File:Museo Guggenheim, Bilbao (31273245344).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim,_Bilbao_(31273245344).jpg",
+      "author": "Naotake Murayama",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4272,
+      "height": 2848,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#919293",
+            "share": 0.269
+          },
+          {
+            "hex": "#def0fb",
+            "share": 0.215
+          },
+          {
+            "hex": "#67676a",
+            "share": 0.206
+          },
+          {
+            "hex": "#b4cfe4",
+            "share": 0.193
+          },
+          {
+            "hex": "#343941",
+            "share": 0.116
+          }
+        ],
+        "strongest": "#b4cfe4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/guggenheim-bilbao/commons-2.jpg",
+      "title": "File:Bilbao Guggenheim Museum, Basque Country, Spain.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bilbao_Guggenheim_Museum,_Basque_Country,_Spain.JPG",
+      "author": "Creator:Iñaki Crespo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2560,
+      "height": 1712,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#727f86",
+            "share": 0.295
+          },
+          {
+            "hex": "#46535a",
+            "share": 0.21
+          },
+          {
+            "hex": "#859eb2",
+            "share": 0.193
+          },
+          {
+            "hex": "#777155",
+            "share": 0.156
+          },
+          {
+            "hex": "#467da6",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#467da6"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/guggenheim-bilbao/commons-3.jpg",
+      "title": "File:Interior of Guggenheim Museum Bilbao.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Guggenheim_Museum_Bilbao.jpg",
+      "author": "Xabier",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#b39f8d",
+            "share": 0.284
+          },
+          {
+            "hex": "#89898a",
+            "share": 0.216
+          },
+          {
+            "hex": "#594e45",
+            "share": 0.196
+          },
+          {
+            "hex": "#352c25",
+            "share": 0.18
+          },
+          {
+            "hex": "#856e55",
+            "share": 0.125
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/guggenheim-bilbao/commons-4.jpg",
+      "title": "File:Detail of the Guggenheim Museum staircase, Bilbao, Spain (PPL3-Altered) julesvernex2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Detail_of_the_Guggenheim_Museum_staircase,_Bilbao,_Spain_(PPL3-Altered)_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3923,
+      "height": 6000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#68635e",
+            "share": 0.376
+          },
+          {
+            "hex": "#524535",
+            "share": 0.239
+          },
+          {
+            "hex": "#2e2112",
+            "share": 0.188
+          },
+          {
+            "hex": "#6e92b0",
+            "share": 0.147
+          },
+          {
+            "hex": "#d4e7f4",
+            "share": 0.051
+          }
+        ],
+        "strongest": "#2e2112"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#504f44",
+        "share": 0.24
+      },
+      {
+        "hex": "#78766c",
+        "share": 0.216
+      },
+      {
+        "hex": "#a2a1a0",
+        "share": 0.21
+      },
+      {
+        "hex": "#c5c7d1",
+        "share": 0.171
+      },
+      {
+        "hex": "#232417",
+        "share": 0.163
+      }
+    ],
+    "strongest": null
+  }
+}

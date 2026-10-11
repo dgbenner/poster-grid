@@ -1,0 +1,270 @@
+{
+  "id": "saint-cirq-lapopie",
+  "name": "Saint-Cirq-Lapopie",
+  "lat": 44.4647712,
+  "lng": 1.6687454,
+  "enrichedAt": "2026-10-11T01:21:44.921Z",
+  "place": {
+    "town": "Saint-Cirq-Lapopie",
+    "locality": null,
+    "county": "Lot",
+    "adminArea": "Lot",
+    "region": "Occitania",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=44.4647712&lon=1.6687454&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Castan, Saint-Cirq-Lapopie, Cahors, Lot, Occitania, Metropolitan France, 46330, France"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Saint-Cirq-Lapopie",
+      "description": "Commune in Occitania, France",
+      "extract": "Saint-Cirq-Lapopie is a commune in the Lot department in south-western France. It is a member of the Les Plus Beaux Villages de France association.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Cirq-Lapopie",
+      "coordinates": {
+        "lat": 44.4653,
+        "lng": 1.6706
+      },
+      "km": 0.2,
+      "matchedBy": "town",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Saint-Cyrq-Lapopie_51.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Saint-Cirq-Lapopie",
+      "description": "Commune in Occitania, France",
+      "extract": "Saint-Cirq-Lapopie is a commune in the Lot department in south-western France. It is a member of the Les Plus Beaux Villages de France association.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Cirq-Lapopie",
+      "coordinates": {
+        "lat": 44.4653,
+        "lng": 1.6706
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Saint-Cyrq-Lapopie_51.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Clifftop medieval village above the Lot River, ranked among the most beautiful villages in France.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument",
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/saint-cirq-lapopie/own-saint-cirq-lapopie.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/saint-cirq-lapopie.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#dae6f2",
+            "share": 0.299
+          },
+          {
+            "hex": "#736d5a",
+            "share": 0.273
+          },
+          {
+            "hex": "#4e543d",
+            "share": 0.209
+          },
+          {
+            "hex": "#96897b",
+            "share": 0.139
+          },
+          {
+            "hex": "#bdb0a1",
+            "share": 0.079
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-cirq-lapopie/commons-1.jpg",
+      "title": "File:Saint-Cirq-Lapopie, France.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Cirq-Lapopie,_France.jpg",
+      "author": "AronMSzabo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 6000,
+      "height": 4000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#736f5d",
+            "share": 0.3
+          },
+          {
+            "hex": "#4b4c40",
+            "share": 0.293
+          },
+          {
+            "hex": "#a49488",
+            "share": 0.203
+          },
+          {
+            "hex": "#232921",
+            "share": 0.156
+          },
+          {
+            "hex": "#e0dad6",
+            "share": 0.048
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-cirq-lapopie/commons-2.jpg",
+      "title": "File:Saint-Cirq-Lapopie - Rue des Trois châteaux - boîte à livres.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Cirq-Lapopie_-_Rue_des_Trois_ch%C3%A2teaux_-_bo%C3%AEte_%C3%A0_livres.jpg",
+      "author": "Silène Edgar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1875,
+      "height": 2500,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7d7774",
+            "share": 0.243
+          },
+          {
+            "hex": "#a09e9d",
+            "share": 0.238
+          },
+          {
+            "hex": "#524d48",
+            "share": 0.223
+          },
+          {
+            "hex": "#c4c1c1",
+            "share": 0.19
+          },
+          {
+            "hex": "#201d1c",
+            "share": 0.107
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-cirq-lapopie/commons-3.jpg",
+      "title": "File:Rue Droite in Saint-Cirq-Lapopie 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rue_Droite_in_Saint-Cirq-Lapopie_01.jpg",
+      "author": "Krzysztof Golik",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2566,
+      "height": 4631,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a96c7",
+            "share": 0.278
+          },
+          {
+            "hex": "#555a52",
+            "share": 0.256
+          },
+          {
+            "hex": "#2a3d28",
+            "share": 0.214
+          },
+          {
+            "hex": "#847c70",
+            "share": 0.165
+          },
+          {
+            "hex": "#b9b7b7",
+            "share": 0.088
+          }
+        ],
+        "strongest": "#5a96c7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/saint-cirq-lapopie/commons-4.jpg",
+      "title": "File:Saint-Cirq-Lapopie - 2014-09-20 - i2996.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Cirq-Lapopie_-_2014-09-20_-_i2996.jpg",
+      "author": "Mathieu MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3648,
+      "height": 2736,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#8c8c95",
+            "share": 0.326
+          },
+          {
+            "hex": "#696a5e",
+            "share": 0.237
+          },
+          {
+            "hex": "#b8afaf",
+            "share": 0.161
+          },
+          {
+            "hex": "#384035",
+            "share": 0.155
+          },
+          {
+            "hex": "#fbfafa",
+            "share": 0.12
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#dae6f2",
+        "share": 0.299
+      },
+      {
+        "hex": "#736d5a",
+        "share": 0.273
+      },
+      {
+        "hex": "#4e543d",
+        "share": 0.209
+      },
+      {
+        "hex": "#96897b",
+        "share": 0.139
+      },
+      {
+        "hex": "#bdb0a1",
+        "share": 0.079
+      }
+    ],
+    "strongest": null
+  }
+}

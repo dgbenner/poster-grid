@@ -1,0 +1,286 @@
+{
+  "id": "glasgow",
+  "name": "Glasgow",
+  "lat": 55.8642,
+  "lng": -4.2518,
+  "enrichedAt": "2026-10-11T01:21:30.739Z",
+  "place": {
+    "town": "Glasgow",
+    "locality": "Port Dundas",
+    "county": "Glasgow City",
+    "adminArea": "Glasgow City",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.8642&lon=-4.2518&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Cowcaddens, Port Dundas, Glasgow, Glasgow City, Scotland, G4 0HZ, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Glasgow",
+      "description": "Largest city in Scotland",
+      "extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+      "url": "https://en.wikipedia.org/wiki/Glasgow",
+      "coordinates": {
+        "lat": 55.86111111,
+        "lng": -4.25
+      },
+      "km": 0.4,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/3840px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Glasgow",
+      "description": "Largest city in Scotland",
+      "extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+      "url": "https://en.wikipedia.org/wiki/Glasgow",
+      "coordinates": {
+        "lat": 55.86111111,
+        "lng": -4.25
+      },
+      "km": 0.4,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/3840px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Kelvingrove, the Mackintosh trail, the Necropolis — a city pin to break out later.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/glasgow/own-glasgow.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/glasgow.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#808287",
+            "share": 0.266
+          },
+          {
+            "hex": "#a2ceea",
+            "share": 0.224
+          },
+          {
+            "hex": "#636160",
+            "share": 0.196
+          },
+          {
+            "hex": "#9ea3a9",
+            "share": 0.162
+          },
+          {
+            "hex": "#262e3a",
+            "share": 0.151
+          }
+        ],
+        "strongest": "#a2ceea"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glasgow/commons-1.jpg",
+      "title": "File:Glasgow - aerial - 2025-04-17 14.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Glasgow_-_aerial_-_2025-04-17_14.jpg",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4032,
+      "height": 2268,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#838489",
+            "share": 0.269
+          },
+          {
+            "hex": "#a3cfeb",
+            "share": 0.212
+          },
+          {
+            "hex": "#646361",
+            "share": 0.208
+          },
+          {
+            "hex": "#272f3a",
+            "share": 0.159
+          },
+          {
+            "hex": "#a1a7af",
+            "share": 0.152
+          }
+        ],
+        "strongest": "#a3cfeb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glasgow/commons-2.jpg",
+      "title": "File:380101 at Glasgow Central.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:380101_at_Glasgow_Central.jpg",
+      "author": "Pencefn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3456,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#89888d",
+            "share": 0.235
+          },
+          {
+            "hex": "#bcbfc6",
+            "share": 0.23
+          },
+          {
+            "hex": "#5d5b5b",
+            "share": 0.198
+          },
+          {
+            "hex": "#e6e6e6",
+            "share": 0.172
+          },
+          {
+            "hex": "#202222",
+            "share": 0.166
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glasgow/commons-3.jpg",
+      "title": "File:Gezicht in Glasgow The Clyde from Sailors Home (titel op object), RP-F-F01864.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gezicht_in_Glasgow_The_Clyde_from_Sailors_Home_(titel_op_object),_RP-F-F01864.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 6520,
+      "height": 4288,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cfc8ac",
+            "share": 0.425
+          },
+          {
+            "hex": "#80735c",
+            "share": 0.186
+          },
+          {
+            "hex": "#a2957a",
+            "share": 0.144
+          },
+          {
+            "hex": "#bdb39a",
+            "share": 0.141
+          },
+          {
+            "hex": "#534435",
+            "share": 0.104
+          }
+        ],
+        "strongest": "#cfc8ac"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/glasgow/commons-4.jpg",
+      "title": "File:Glasgow-Cathedral-old-photo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Glasgow-Cathedral-old-photo.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3522,
+      "height": 2614,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#f4f6f8",
+            "share": 0.312
+          },
+          {
+            "hex": "#2f3628",
+            "share": 0.221
+          },
+          {
+            "hex": "#646667",
+            "share": 0.186
+          },
+          {
+            "hex": "#96969d",
+            "share": 0.163
+          },
+          {
+            "hex": "#d9e6eb",
+            "share": 0.119
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:(looking down) Buchanan Street, Glasgow.jpg",
+      "why": "licence Attribution"
+    },
+    {
+      "title": "File:16-11-15-Straßenszene Glasgow-RR2 7200.jpg",
+      "why": "licence GFDL 1.2"
+    },
+    {
+      "title": "File:A Middle East Soldier Revisits Britain- Life in Wartime Glasgow, Scotland, UK, 1943 D15608.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Doulton Fountain - Glasgow Green.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#808287",
+        "share": 0.266
+      },
+      {
+        "hex": "#a2ceea",
+        "share": 0.224
+      },
+      {
+        "hex": "#636160",
+        "share": 0.196
+      },
+      {
+        "hex": "#9ea3a9",
+        "share": 0.162
+      },
+      {
+        "hex": "#262e3a",
+        "share": 0.151
+      }
+    ],
+    "strongest": "#a2ceea"
+  }
+}

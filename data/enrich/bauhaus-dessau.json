@@ -1,0 +1,282 @@
+{
+  "id": "bauhaus-dessau",
+  "name": "Bauhaus, Dessau",
+  "lat": 51.8392,
+  "lng": 12.2275,
+  "enrichedAt": "2026-10-11T01:21:40.129Z",
+  "place": {
+    "town": "Dessau-Roßlau",
+    "locality": "Siedlung",
+    "county": "Saxony-Anhalt",
+    "adminArea": null,
+    "region": "Saxony-Anhalt",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.8392&lon=12.2275&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Siedlung, Dessau, Dessau-Roßlau, Saxony-Anhalt, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Bauhaus Dessau",
+      "description": "Historic building in Saxony-Anhalt, Germany",
+      "extract": "Bauhaus Dessau, also Bauhaus-Building Dessau, is a building-complex in Dessau-Roßlau. It is considered the pinnacle of pre-war modern design in Europe and originated out of the dissolution of the Weimar School and the move by local politicians to reconcile the city's industrial character with its cultural past.",
+      "url": "https://en.wikipedia.org/wiki/Bauhaus_Dessau",
+      "coordinates": {
+        "lat": 51.8392,
+        "lng": 12.2272
+      },
+      "km": 0,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg/3840px-Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Dessau-Roßlau",
+      "description": "Town in Saxony-Anhalt, Germany",
+      "extract": "Dessau-Roßlau is a kreisfreie Stadt in the German state of Saxony-Anhalt. It is situated at the confluence of the rivers Elbe and Mulde. The town was formed by merging the towns of Dessau and Roßlau as part of the 2007 regional boundary reform of Saxony-Anhalt. The reform involved a reduction in the number of rural districts in the state from 21 to 11, in anticipation of a continued population decline.",
+      "url": "https://en.wikipedia.org/wiki/Dessau-Ro%C3%9Flau",
+      "coordinates": {
+        "lat": 51.83333333,
+        "lng": 12.25
+      },
+      "km": 1.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Dessau_asv2022-08_img27_Hbf_und_Umgebung.jpg/3840px-Dessau_asv2022-08_img27_Hbf_und_Umgebung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/bauhaus-dessau/own-bauhaus-dessau.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bauhaus-dessau.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9b9aa3",
+            "share": 0.254
+          },
+          {
+            "hex": "#6b7178",
+            "share": 0.211
+          },
+          {
+            "hex": "#bdc6db",
+            "share": 0.208
+          },
+          {
+            "hex": "#ebeaf5",
+            "share": 0.17
+          },
+          {
+            "hex": "#32592e",
+            "share": 0.158
+          }
+        ],
+        "strongest": "#bdc6db"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bauhaus-dessau/commons-1.jpg",
+      "title": "File:Bauhaus-Dessau Verbindung.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bauhaus-Dessau_Verbindung.JPG",
+      "author": null,
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 2118,
+      "height": 1434,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#98a7b6",
+            "share": 0.245
+          },
+          {
+            "hex": "#414644",
+            "share": 0.209
+          },
+          {
+            "hex": "#676b6c",
+            "share": 0.203
+          },
+          {
+            "hex": "#1f211d",
+            "share": 0.173
+          },
+          {
+            "hex": "#d4ddeb",
+            "share": 0.17
+          }
+        ],
+        "strongest": "#d4ddeb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bauhaus-dessau/commons-2.jpg",
+      "title": "File:Bauhaus-Dessau wohnheim2.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Bauhaus-Dessau_wohnheim2.JPG",
+      "author": null,
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 2240,
+      "height": 1488,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#717373",
+            "share": 0.281
+          },
+          {
+            "hex": "#5179a4",
+            "share": 0.237
+          },
+          {
+            "hex": "#8e96a1",
+            "share": 0.201
+          },
+          {
+            "hex": "#ccd0db",
+            "share": 0.172
+          },
+          {
+            "hex": "#3f4344",
+            "share": 0.108
+          }
+        ],
+        "strongest": "#5179a4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bauhaus-dessau/commons-3.jpg",
+      "title": "File:Bauhaus Dessau,Gropiusallee.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bauhaus_Dessau,Gropiusallee.jpg",
+      "author": "M_H.DE",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2414,
+      "height": 1200,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4970b2",
+            "share": 0.393
+          },
+          {
+            "hex": "#302931",
+            "share": 0.283
+          },
+          {
+            "hex": "#544b4b",
+            "share": 0.141
+          },
+          {
+            "hex": "#c1b9b9",
+            "share": 0.101
+          },
+          {
+            "hex": "#898388",
+            "share": 0.082
+          }
+        ],
+        "strongest": "#4970b2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/bauhaus-dessau/commons-4.jpg",
+      "title": "File:Dessau, Bauhaus, Konsumgebäude von Walter Gropius.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dessau,_Bauhaus,_Konsumgeb%C3%A4ude_von_Walter_Gropius.jpg",
+      "author": "M_H.DE",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3701,
+      "height": 2600,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#586ba2",
+            "share": 0.387
+          },
+          {
+            "hex": "#3d392b",
+            "share": 0.243
+          },
+          {
+            "hex": "#1b1b1a",
+            "share": 0.163
+          },
+          {
+            "hex": "#b8aaa9",
+            "share": 0.119
+          },
+          {
+            "hex": "#6d6872",
+            "share": 0.088
+          }
+        ],
+        "strongest": "#586ba2"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Dessau Bauhaus-Gebäude asv2024-06 img1.jpg",
+      "why": "licence FAL"
+    },
+    {
+      "title": "File:Bauhaus-Dessau Werkstätten.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Bundesarchiv Bild 183-1983-0804-025, Dessau, Bauhaus.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#9b9aa3",
+        "share": 0.254
+      },
+      {
+        "hex": "#6b7178",
+        "share": 0.211
+      },
+      {
+        "hex": "#bdc6db",
+        "share": 0.208
+      },
+      {
+        "hex": "#ebeaf5",
+        "share": 0.17
+      },
+      {
+        "hex": "#32592e",
+        "share": 0.158
+      }
+    ],
+    "strongest": "#bdc6db"
+  }
+}

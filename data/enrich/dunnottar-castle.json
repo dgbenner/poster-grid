@@ -1,0 +1,280 @@
+{
+  "id": "dunnottar-castle",
+  "name": "Dunnottar Castle",
+  "lat": 56.9459963,
+  "lng": -2.1970568,
+  "enrichedAt": "2026-10-11T01:21:45.844Z",
+  "place": {
+    "town": "Stonehaven",
+    "locality": "Old Town",
+    "county": "Aberdeenshire",
+    "adminArea": "Aberdeenshire",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=56.9459963&lon=-2.1970568&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Boggartyhead, Old Town, Mains of Dunnottar, Stonehaven, Aberdeenshire, Scotland, AB39 2TJ, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Dunnottar Castle",
+      "description": "Ruined castle in Scotland",
+      "extract": "Dunnottar Castle is a ruined medieval fortress located upon a rocky headland on the northeast coast of Scotland, about 2 miles south of Stonehaven in Aberdeenshire.",
+      "url": "https://en.wikipedia.org/wiki/Dunnottar_Castle",
+      "coordinates": {
+        "lat": 56.946,
+        "lng": -2.197
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dunnottar_Castle_-_geograph.org.uk_-_8057610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Stonehaven",
+      "description": "Town in Aberdeenshire, Scotland",
+      "extract": "Stonehaven is a coastal town on the northeast coast of Scotland, 15 miles (24 km) south of Aberdeen. The town had a population of 11,177 at the 2022 Census.",
+      "url": "https://en.wikipedia.org/wiki/Stonehaven",
+      "coordinates": {
+        "lat": 56.964,
+        "lng": -2.211
+      },
+      "km": 2.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Stonehaven_Bay_-_geograph.org.uk_-_487567.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Dramatic ruined medieval clifftop fortress above the North Sea near Stonehaven, featured in Zeffirelli's Hamlet.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle",
+    "coast",
+    "monument"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/dunnottar-castle/own-dunnottar-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/dunnottar-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#423a3b",
+            "share": 0.385
+          },
+          {
+            "hex": "#d5dadf",
+            "share": 0.202
+          },
+          {
+            "hex": "#bacae0",
+            "share": 0.193
+          },
+          {
+            "hex": "#946c45",
+            "share": 0.117
+          },
+          {
+            "hex": "#658daf",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#bacae0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunnottar-castle/commons-1.jpg",
+      "title": "File:Dunnottar Castle, ruin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle,_ruin.jpg",
+      "author": "Andrewmckie",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3000,
+      "height": 1943,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#af964d",
+            "share": 0.278
+          },
+          {
+            "hex": "#282519",
+            "share": 0.228
+          },
+          {
+            "hex": "#e6eaf2",
+            "share": 0.224
+          },
+          {
+            "hex": "#849daa",
+            "share": 0.175
+          },
+          {
+            "hex": "#afceed",
+            "share": 0.095
+          }
+        ],
+        "strongest": "#af964d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunnottar-castle/commons-2.jpg",
+      "title": "File:Dunnottar Castle - geograph.org.uk - 8057610.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_-_geograph.org.uk_-_8057610.jpg",
+      "author": "Anne Burgess",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 683,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#423a3b",
+            "share": 0.387
+          },
+          {
+            "hex": "#d2d7df",
+            "share": 0.258
+          },
+          {
+            "hex": "#b0c3dd",
+            "share": 0.159
+          },
+          {
+            "hex": "#976d45",
+            "share": 0.113
+          },
+          {
+            "hex": "#5b86a8",
+            "share": 0.084
+          }
+        ],
+        "strongest": "#b0c3dd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunnottar-castle/commons-3.jpg",
+      "title": "File:Dunnottar Castle John Slezer.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_John_Slezer.jpg",
+      "author": "John Slezer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 10071,
+      "height": 6464,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#e7dfd0",
+            "share": 0.315
+          },
+          {
+            "hex": "#dad1c3",
+            "share": 0.264
+          },
+          {
+            "hex": "#a89d91",
+            "share": 0.166
+          },
+          {
+            "hex": "#c7bdb0",
+            "share": 0.146
+          },
+          {
+            "hex": "#867b72",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#e7dfd0"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/dunnottar-castle/commons-4.jpg",
+      "title": "File:Dunnottar Castle by Walter Hugh Paton 1867.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_by_Walter_Hugh_Paton_1867.JPG",
+      "author": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3088,
+      "height": 2056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#60684f",
+            "share": 0.225
+          },
+          {
+            "hex": "#484b35",
+            "share": 0.215
+          },
+          {
+            "hex": "#90875b",
+            "share": 0.215
+          },
+          {
+            "hex": "#282a1f",
+            "share": 0.206
+          },
+          {
+            "hex": "#b9a971",
+            "share": 0.139
+          }
+        ],
+        "strongest": "#b9a971"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Dunnottar Castle - James Cassie - ABDAG002252.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Dunnottar Castle - geograph.org.uk - 1550279.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#423a3b",
+        "share": 0.385
+      },
+      {
+        "hex": "#d5dadf",
+        "share": 0.202
+      },
+      {
+        "hex": "#bacae0",
+        "share": 0.193
+      },
+      {
+        "hex": "#946c45",
+        "share": 0.117
+      },
+      {
+        "hex": "#658daf",
+        "share": 0.103
+      }
+    ],
+    "strongest": "#bacae0"
+  }
+}

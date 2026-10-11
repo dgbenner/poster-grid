@@ -1,0 +1,250 @@
+{
+  "id": "isle-of-skye",
+  "name": "Isle of Skye (Fairy Glen, Sligachan)",
+  "lat": 57.5826,
+  "lng": -6.2533,
+  "enrichedAt": "2026-10-11T01:21:30.350Z",
+  "place": {
+    "town": "Staffin",
+    "locality": "Staffin",
+    "county": "Highland",
+    "adminArea": "Highland",
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=57.5826&lon=-6.2533&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Staffin, Highland, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "glenfinnan-viaduct",
+        "name": "Glenfinnan Viaduct",
+        "km": 92.9
+      },
+      {
+        "id": "loch-ness-2",
+        "name": "Loch Ness",
+        "km": 113.2
+      },
+      {
+        "id": "loch-ness",
+        "name": "Loch Ness",
+        "km": 113.2
+      },
+      {
+        "id": "highland-coos",
+        "name": "Highland coos",
+        "km": 121.5
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Staffin",
+      "description": "Human settlement in Scotland",
+      "extract": "\nStaffin is a township with the Gaelic name An Taobh Sear, which translates as \"the East Side\", on the northeast coast of the Trotternish peninsula on the Isle of Skye. It is located on the A855 road about 17 miles north of Portree and is overlooked by the Trotternish Ridge. The township forms part of a parish comprising 23 townships. From south to north: Rigg, Tote, Lealt, Lonfearn, Grealin, Breackry, Culnancnoc, Valtos, Raiseburgh, Ellishadder, Garafad, Clachan, Garros, Marishader, Maligar, Stenscholl, Brogaig, Sartle, Glasphein, Digg, Dunans, Flodigarry and Greap.",
+      "url": "https://en.wikipedia.org/wiki/Staffin",
+      "coordinates": {
+        "lat": 57.62635,
+        "lng": -6.2067
+      },
+      "km": 5.6,
+      "matchedBy": "title",
+      "leadImage": null,
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Fairy Glen’s miniature hills + the Sligachan bridge and Cuillin views.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/isle-of-skye/own-isle-of-skye.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/isle-of-skye.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#64b5e4",
+            "share": 0.585
+          },
+          {
+            "hex": "#fdc729",
+            "share": 0.154
+          },
+          {
+            "hex": "#f6f7f7",
+            "share": 0.094
+          },
+          {
+            "hex": "#b8aa58",
+            "share": 0.084
+          },
+          {
+            "hex": "#57a9de",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#64b5e4"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/isle-of-skye/commons-1.jpg",
+      "title": "File:Summit of Beinn Edra - geograph.org.uk - 4884117.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Summit_of_Beinn_Edra_-_geograph.org.uk_-_4884117.jpg",
+      "author": "John Allan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 768,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a6aebc",
+            "share": 0.304
+          },
+          {
+            "hex": "#382b12",
+            "share": 0.209
+          },
+          {
+            "hex": "#888c96",
+            "share": 0.185
+          },
+          {
+            "hex": "#715f1d",
+            "share": 0.178
+          },
+          {
+            "hex": "#c9c9c9",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#715f1d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/isle-of-skye/commons-2.jpg",
+      "title": "File:Summit of Beinn Edra - geograph.org.uk - 6765447.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Summit_of_Beinn_Edra_-_geograph.org.uk_-_6765447.jpg",
+      "author": "John Allan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 1024,
+      "height": 801,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a18f65",
+            "share": 0.246
+          },
+          {
+            "hex": "#7f755d",
+            "share": 0.24
+          },
+          {
+            "hex": "#c0dbf0",
+            "share": 0.217
+          },
+          {
+            "hex": "#bcd4e7",
+            "share": 0.185
+          },
+          {
+            "hex": "#58554c",
+            "share": 0.112
+          }
+        ],
+        "strongest": "#c0dbf0"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:The east face of Beinn Edra - geograph.org.uk - 780818.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:West side of Beinn Edra - geograph.org.uk - 1356264.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Beinn Edra summit and trig point - geograph.org.uk - 4497605.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Flush bracket S9404 - geograph.org.uk - 4991852.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:The trig on Beinn Edra - geograph.org.uk - 3483846.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Beinn Edra summit - geograph.org.uk - 1356248.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Beinn Edra Trigpoint - geograph.org.uk - 2882497.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Summit ridge of Beinn Edra - geograph.org.uk - 1995504.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Trig point on Beinn Edra - geograph.org.uk - 1076087.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:On the north ridge of Beinn Edra - geograph.org.uk - 3073429.jpg",
+      "why": "too small"
+    },
+    {
+      "title": "File:Beinn Edra - geograph.org.uk - 1076080.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#64b5e4",
+        "share": 0.585
+      },
+      {
+        "hex": "#fdc729",
+        "share": 0.154
+      },
+      {
+        "hex": "#f6f7f7",
+        "share": 0.094
+      },
+      {
+        "hex": "#b8aa58",
+        "share": 0.084
+      },
+      {
+        "hex": "#57a9de",
+        "share": 0.083
+      }
+    ],
+    "strongest": "#64b5e4"
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "id": "arthurs-seat",
+  "name": "Arthur's Seat",
+  "lat": 55.9442,
+  "lng": -3.1618,
+  "enrichedAt": "2026-10-11T01:21:30.219Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Northfield/Willowbrae",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9442&lon=-3.1618&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Northfield/Willowbrae, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.14
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.21
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.43
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1.77
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 1.8
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 1.87
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 1.9
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 1.91
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 1.93
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 2.13
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 2.15
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 2.17
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 2.18
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 2.21
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 2.23
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 2.32
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 2.42
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 3.55
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 3.77
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 4.29
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 1.1
+      },
+      {
+        "id": "scottish-parliament",
+        "name": "Scottish Parliament",
+        "km": 1.2
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 1.4
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 1.8
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 1.8
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 1.9
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 1.9
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 1.9
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 1.9
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 2.1
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 2.2
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 2.2
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 2.2
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 2.2
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 2.2
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 2.3
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 2.4
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 3.6
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 3.8
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 4.3
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 6.7
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 15
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Arthur's Seat",
+      "description": "Mountainous hill in Edinburgh, Scotland",
+      "extract": "Arthur's Seat is an ancient extinct volcano. It is the main peak of a group of hills in Edinburgh, Scotland, which form most of Holyrood Park. Robert Louis Stevenson described it as \"a hill for magnitude, a mountain in virtue of its bold design\". It is situated just to the east of the city centre, about 1 mile (1.6 km) to the east of Edinburgh Castle. The hill rises above the city to a height of 250.5 m (822 ft), provides panoramic views of the city and beyond, is relatively easy to climb, and is popular for hillwalking. Though it can be climbed from almost any direction, the easiest ascent is from the east, where a grassy slope rises above Dunsapie Loch. At a spur of the hill, Salisbury Crags has historically been a rock climbing venue with routes of various degrees of difficulty. Rock climbing was restricted to the South Quarry, but access was banned altogether in 2019 by Historic Environment Scotland.",
+      "url": "https://en.wikipedia.org/wiki/Arthur's_Seat",
+      "coordinates": {
+        "lat": 55.94416667,
+        "lng": -3.16194444
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Arthur%27s_Seat%2C_Edinburgh.JPG/3840px-Arthur%27s_Seat%2C_Edinburgh.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Extinct volcano in the middle of the city; best view in Edinburgh.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/arthurs-seat/own-arthurs-seat.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/arthurs-seat.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#797155",
+            "share": 0.287
+          },
+          {
+            "hex": "#9dc2eb",
+            "share": 0.213
+          },
+          {
+            "hex": "#cbdbf2",
+            "share": 0.183
+          },
+          {
+            "hex": "#a49b78",
+            "share": 0.162
+          },
+          {
+            "hex": "#4a473b",
+            "share": 0.155
+          }
+        ],
+        "strongest": "#9dc2eb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arthurs-seat/commons-1.jpg",
+      "title": "File:Arthur's Seat, Edinburgh.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Arthur%27s_Seat,_Edinburgh.JPG",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3962,
+      "height": 1441,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#797255",
+            "share": 0.298
+          },
+          {
+            "hex": "#9ec2eb",
+            "share": 0.22
+          },
+          {
+            "hex": "#ccdcf2",
+            "share": 0.172
+          },
+          {
+            "hex": "#a59c77",
+            "share": 0.156
+          },
+          {
+            "hex": "#4a473b",
+            "share": 0.154
+          }
+        ],
+        "strongest": "#9ec2eb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arthurs-seat/commons-2.jpg",
+      "title": "File:Arthur's Seat, Edinburgh.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Arthur%27s_Seat,_Edinburgh.JPG",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3962,
+      "height": 1441,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#797255",
+            "share": 0.298
+          },
+          {
+            "hex": "#9ec2eb",
+            "share": 0.22
+          },
+          {
+            "hex": "#ccdcf2",
+            "share": 0.172
+          },
+          {
+            "hex": "#a59c77",
+            "share": 0.156
+          },
+          {
+            "hex": "#4a473b",
+            "share": 0.154
+          }
+        ],
+        "strongest": "#9ec2eb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arthurs-seat/commons-3.jpg",
+      "title": "File:Arthur's Seat as seen over the Firth of Forth from Fife.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arthur%27s_Seat_as_seen_over_the_Firth_of_Forth_from_Fife.jpg",
+      "author": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3088,
+      "height": 2056,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#929394",
+            "share": 0.292
+          },
+          {
+            "hex": "#d3cfcd",
+            "share": 0.246
+          },
+          {
+            "hex": "#a2a4a7",
+            "share": 0.24
+          },
+          {
+            "hex": "#c1bfc0",
+            "share": 0.166
+          },
+          {
+            "hex": "#6c7785",
+            "share": 0.057
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arthurs-seat/commons-4.jpg",
+      "title": "File:Arthur's Seat coffins.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arthur%27s_Seat_coffins.jpg",
+      "author": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2513,
+      "height": 1916,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#cbc6b6",
+            "share": 0.247
+          },
+          {
+            "hex": "#594c30",
+            "share": 0.229
+          },
+          {
+            "hex": "#a39f8f",
+            "share": 0.186
+          },
+          {
+            "hex": "#2d2713",
+            "share": 0.177
+          },
+          {
+            "hex": "#7e7763",
+            "share": 0.162
+          }
+        ],
+        "strongest": "#2d2713"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#797155",
+        "share": 0.287
+      },
+      {
+        "hex": "#9dc2eb",
+        "share": 0.213
+      },
+      {
+        "hex": "#cbdbf2",
+        "share": 0.183
+      },
+      {
+        "hex": "#a49b78",
+        "share": 0.162
+      },
+      {
+        "hex": "#4a473b",
+        "share": 0.155
+      }
+    ],
+    "strongest": "#9dc2eb"
+  }
+}

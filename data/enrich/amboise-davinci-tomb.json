@@ -1,0 +1,281 @@
+{
+  "id": "amboise-davinci-tomb",
+  "name": "Château d'Amboise — tomb of Leonardo da Vinci",
+  "lat": 47.4131,
+  "lng": 0.9869,
+  "enrichedAt": "2026-10-11T01:21:40.968Z",
+  "place": {
+    "town": "Amboise",
+    "locality": "Quai des Violettes",
+    "county": "Indre-et-Loire",
+    "adminArea": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "country": "France",
+    "sovereign": "France",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=47.4131&lon=0.9869&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Les Violettes, Quai des Violettes, La Mothe, Amboise, Loches, Indre-et-Loire, Centre-Val de Loire, Metropolitan France, 37400, France"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "loire-amboise",
+        "name": "Loire Valley (Amboise / Touraine)",
+        "km": 0.36
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "loire-amboise",
+        "name": "Loire Valley (Amboise / Touraine)",
+        "km": 0.4
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Château d'Amboise",
+      "description": "Château in Indre-et-Loire, France",
+      "extract": "The Château d'Amboise is a château in Amboise, in the Indre-et-Loire department of the Loire Valley in France. Confiscated by the monarchy in the 15th century, it became a favoured royal residence and was extensively rebuilt. King Charles VIII died at the château in 1498 after hitting his head on a door lintel. The château fell into decline from the second half of the 16th century and the majority of the interior buildings were later demolished, but some survived and have been restored, along with the outer defensive circuit of towers and walls. It has been recognised as a monument historique by the French Ministry of Culture since 1840.",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_d'Amboise",
+      "coordinates": {
+        "lat": 47.41368,
+        "lng": 0.98603
+      },
+      "km": 0.1,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ch%C3%A2teau_et_tour_des_Minimes_%28Amboise%29.jpg/3840px-Ch%C3%A2teau_et_tour_des_Minimes_%28Amboise%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Amboise",
+      "description": "Commune in Centre-Val de Loire, France",
+      "extract": "Amboise is a commune in the Indre-et-Loire department in central France. A market town, it was once home to the French royal court.",
+      "url": "https://en.wikipedia.org/wiki/Amboise",
+      "coordinates": {
+        "lat": 47.4042,
+        "lng": 0.98
+      },
+      "km": 1.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/e/ef/AmboiseRue.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Château d'Amboise — tomb of Leonardo da Vinci.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/amboise-davinci-tomb/own-amboise-davinci-tomb.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/amboise-davinci-tomb.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#d3ba98",
+            "share": 0.337
+          },
+          {
+            "hex": "#b79f79",
+            "share": 0.21
+          },
+          {
+            "hex": "#927b5c",
+            "share": 0.2
+          },
+          {
+            "hex": "#5c513b",
+            "share": 0.149
+          },
+          {
+            "hex": "#0f0d08",
+            "share": 0.103
+          }
+        ],
+        "strongest": "#d3ba98"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amboise-davinci-tomb/commons-1.jpg",
+      "title": "File:Château et tour des Minimes (Amboise).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_et_tour_des_Minimes_(Amboise).jpg",
+      "author": "Gzen92",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4788,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#696963",
+            "share": 0.304
+          },
+          {
+            "hex": "#537fbd",
+            "share": 0.251
+          },
+          {
+            "hex": "#aab3bc",
+            "share": 0.191
+          },
+          {
+            "hex": "#8c8a7e",
+            "share": 0.155
+          },
+          {
+            "hex": "#4a4944",
+            "share": 0.099
+          }
+        ],
+        "strongest": "#537fbd"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amboise-davinci-tomb/commons-2.jpg",
+      "title": "File:Amboise Chateau - The Council Chamber.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amboise_Chateau_-_The_Council_Chamber.jpg",
+      "author": "Geoff Livingston",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 4148,
+      "height": 2754,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#9e9e9b",
+            "share": 0.339
+          },
+          {
+            "hex": "#847b5e",
+            "share": 0.243
+          },
+          {
+            "hex": "#654d24",
+            "share": 0.189
+          },
+          {
+            "hex": "#140c05",
+            "share": 0.121
+          },
+          {
+            "hex": "#c09349",
+            "share": 0.107
+          }
+        ],
+        "strongest": "#654d24"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amboise-davinci-tomb/commons-3.jpg",
+      "title": "File:Amboise Château.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amboise_Ch%C3%A2teau.jpg",
+      "author": "Benh LIEU SONG",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 5184,
+      "height": 3456,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#29340c",
+            "share": 0.269
+          },
+          {
+            "hex": "#4e4d30",
+            "share": 0.22
+          },
+          {
+            "hex": "#776b55",
+            "share": 0.216
+          },
+          {
+            "hex": "#858f9a",
+            "share": 0.149
+          },
+          {
+            "hex": "#bdc4cd",
+            "share": 0.145
+          }
+        ],
+        "strongest": "#29340c"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/amboise-davinci-tomb/commons-4.jpg",
+      "title": "File:Château - parc - buste de Léonard de Vinci (Amboise).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_-_parc_-_buste_de_L%C3%A9onard_de_Vinci_(Amboise).jpg",
+      "author": "Gzen92",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5472,
+      "height": 3648,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#344425",
+            "share": 0.38
+          },
+          {
+            "hex": "#425637",
+            "share": 0.314
+          },
+          {
+            "hex": "#96a8c2",
+            "share": 0.132
+          },
+          {
+            "hex": "#212f16",
+            "share": 0.106
+          },
+          {
+            "hex": "#767e7b",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#344425"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#d3ba98",
+        "share": 0.337
+      },
+      {
+        "hex": "#b79f79",
+        "share": 0.21
+      },
+      {
+        "hex": "#927b5c",
+        "share": 0.2
+      },
+      {
+        "hex": "#5c513b",
+        "share": 0.149
+      },
+      {
+        "hex": "#0f0d08",
+        "share": 0.103
+      }
+    ],
+    "strongest": "#d3ba98"
+  }
+}

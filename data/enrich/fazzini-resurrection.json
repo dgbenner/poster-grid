@@ -1,0 +1,194 @@
+{
+  "id": "fazzini-resurrection",
+  "name": "Pericle Fazzini, The Resurrection (1977)",
+  "lat": 41.9013,
+  "lng": 12.4534,
+  "enrichedAt": "2026-10-11T01:21:41.654Z",
+  "place": {
+    "town": "Vatican City",
+    "locality": "Vatican City",
+    "county": "Vatican City",
+    "adminArea": null,
+    "region": null,
+    "country": "Vatican City",
+    "sovereign": "Vatican City",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=41.9013&lon=12.4534&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Vatican City, 00120, Vatican City"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 0.11
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 0.2
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.34
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0.58
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 0.58
+      },
+      {
+        "id": "mausoleum-of-hadrian-castel-santangelo",
+        "name": "Mausoleum of Hadrian (Castel Sant'Angelo)",
+        "km": 1.09
+      },
+      {
+        "id": "pantheon-door",
+        "name": "The Pantheon door",
+        "km": 1.97
+      },
+      {
+        "id": "santignazio-ceiling",
+        "name": "Sant'Ignazio di Loyola — the false dome",
+        "km": 2.21
+      },
+      {
+        "id": "dali-san-marcello-rome",
+        "name": "Salvador Dalí at San Marcello al Corso",
+        "km": 2.26
+      },
+      {
+        "id": "curia-julia",
+        "name": "Curia Julia",
+        "km": 2.81
+      },
+      {
+        "id": "bernini-david",
+        "name": "Bernini, David, Galleria Borghese",
+        "km": 3.5
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "st-peters-basilica",
+        "name": "St Peter's Basilica & Square",
+        "km": 0.1
+      },
+      {
+        "id": "sistine-chapel",
+        "name": "Sistine Chapel ceiling",
+        "km": 0.2
+      },
+      {
+        "id": "st-peters-obelisk",
+        "name": "St Peter's Square obelisk",
+        "km": 0.3
+      },
+      {
+        "id": "braccio-nuovo",
+        "name": "Braccio Nuovo",
+        "km": 0.6
+      },
+      {
+        "id": "vatican-gallery-of-maps",
+        "name": "Vatican — Gallery of Maps",
+        "km": 0.6
+      }
+    ]
+  },
+  "facts": {
+    "pin": null,
+    "town": {
+      "title": "Vatican City",
+      "description": "Enclaved Holy See's independent city-state",
+      "extract": "Vatican City, officially the Vatican City State, often shortened as the Vatican, is a landlocked sovereign city-state in Southern Europe. Ruled by the pope, it is an enclave within the city of Rome, Italy, and serves as the administrative centre of the Catholic Church. Vatican City is governed by the See of Rome, commonly known as the Holy See, itself a sovereign entity under international law, which maintains its temporal power, governance, diplomacy, and spiritual independence. Vatican is also used as a metonym for the Holy See, which is the central governing body of the Catholic Church and Vatican City, comprising the pope and the Roman Curia. The independent state of Vatican City came into existence in 1929 via the Lateran Treaty between the Holy See and the Kingdom of Italy, which spoke of it as a creation, not as a vestige of the much larger Papal States (756–1870), which had previously encompassed much of Central Italy.",
+      "url": "https://en.wikipedia.org/wiki/Vatican_City",
+      "coordinates": {
+        "lat": 41.9025,
+        "lng": 12.4525
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/1280px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Colossal bronze in the Paul VI Audience Hall, Vatican (20 m wide).",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "personal",
+  "themes": [
+    "art"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/fazzini-resurrection/own-fazzini-resurrection.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/fazzini-resurrection.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.316
+          },
+          {
+            "hex": "#67513e",
+            "share": 0.244
+          },
+          {
+            "hex": "#413123",
+            "share": 0.18
+          },
+          {
+            "hex": "#927863",
+            "share": 0.143
+          },
+          {
+            "hex": "#d1cac3",
+            "share": 0.117
+          }
+        ],
+        "strongest": "#413123"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.316
+      },
+      {
+        "hex": "#67513e",
+        "share": 0.244
+      },
+      {
+        "hex": "#413123",
+        "share": 0.18
+      },
+      {
+        "hex": "#927863",
+        "share": 0.143
+      },
+      {
+        "hex": "#d1cac3",
+        "share": 0.117
+      }
+    ],
+    "strongest": "#413123"
+  }
+}

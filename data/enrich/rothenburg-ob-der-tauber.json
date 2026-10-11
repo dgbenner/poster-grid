@@ -1,0 +1,274 @@
+{
+  "id": "rothenburg-ob-der-tauber",
+  "name": "Rothenburg ob der Tauber",
+  "lat": 49.3777,
+  "lng": 10.1789,
+  "enrichedAt": "2026-10-11T01:21:39.755Z",
+  "place": {
+    "town": "Rothenburg ob der Tauber",
+    "locality": null,
+    "county": "Ansbach (district)",
+    "adminArea": "Ansbach (district)",
+    "region": "Bavaria",
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=49.3777&lon=10.1789&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Herrnmühle, Schlößlein, Rothenburg ob der Tauber, Ansbach (district), Bavaria, 91541, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": []
+  },
+  "facts": {
+    "pin": {
+      "title": "Rothenburg ob der Tauber",
+      "description": "Town in Bavaria, Germany",
+      "extract": "Rothenburg ob der Tauber is a town in the district of Ansbach of Mittelfranken, in the Franconia region of Bavaria, Germany. It is best known for its well-preserved medieval old town, a destination for tourists from around the world. It is part of the popular Romantic Road through southern Germany. Today it is one of only four towns in Germany that still have completely intact city walls, the other three being Nördlingen, Dinkelsbühl and Berching, all in Bavaria.",
+      "url": "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber",
+      "coordinates": {
+        "lat": 49.38333333,
+        "lng": 10.18333333
+      },
+      "km": 0.7,
+      "matchedBy": "town",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rothenburg_BW_4.JPG/3840px-Rothenburg_BW_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Rothenburg ob der Tauber",
+      "description": "Town in Bavaria, Germany",
+      "extract": "Rothenburg ob der Tauber is a town in the district of Ansbach of Mittelfranken, in the Franconia region of Bavaria, Germany. It is best known for its well-preserved medieval old town, a destination for tourists from around the world. It is part of the popular Romantic Road through southern Germany. Today it is one of only four towns in Germany that still have completely intact city walls, the other three being Nördlingen, Dinkelsbühl and Berching, all in Bavaria.",
+      "url": "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber",
+      "coordinates": {
+        "lat": 49.38333333,
+        "lng": 10.18333333
+      },
+      "km": 0.7,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rothenburg_BW_4.JPG/3840px-Rothenburg_BW_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Fairy-tale walled town; one of only four in Germany with fully intact city walls.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "heritage",
+  "themes": [
+    "castle"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/rothenburg-ob-der-tauber/own-rothenburg-ob-der-tauber.webp",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/rothenburg-ob-der-tauber.webp",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#7e6a5e",
+            "share": 0.299
+          },
+          {
+            "hex": "#030302",
+            "share": 0.208
+          },
+          {
+            "hex": "#524133",
+            "share": 0.167
+          },
+          {
+            "hex": "#d3995d",
+            "share": 0.167
+          },
+          {
+            "hex": "#4a506b",
+            "share": 0.16
+          }
+        ],
+        "strongest": "#d3995d"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rothenburg-ob-der-tauber/commons-1.jpg",
+      "title": "File:Rothenburg BW 4.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Rothenburg_BW_4.JPG",
+      "author": "Berthold Werner",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 3872,
+      "height": 2592,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6c645e",
+            "share": 0.306
+          },
+          {
+            "hex": "#95816e",
+            "share": 0.27
+          },
+          {
+            "hex": "#829cc2",
+            "share": 0.161
+          },
+          {
+            "hex": "#473b32",
+            "share": 0.145
+          },
+          {
+            "hex": "#c1c4c7",
+            "share": 0.119
+          }
+        ],
+        "strongest": "#829cc2"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rothenburg-ob-der-tauber/commons-2.jpg",
+      "title": "File:Rothenburg ob der Tauber, Panorama von Süden-001.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Panorama_von_S%C3%BCden-001.jpg",
+      "author": "Tilman2007",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4928,
+      "height": 1093,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a0c4dc",
+            "share": 0.436
+          },
+          {
+            "hex": "#445232",
+            "share": 0.198
+          },
+          {
+            "hex": "#1e2d18",
+            "share": 0.18
+          },
+          {
+            "hex": "#7f7265",
+            "share": 0.104
+          },
+          {
+            "hex": "#969499",
+            "share": 0.083
+          }
+        ],
+        "strongest": "#a0c4dc"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rothenburg-ob-der-tauber/commons-3.jpg",
+      "title": "File:Rothenburg ob der Tauber, Stadtbefestigung mit Klingentorturm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Stadtbefestigung_mit_Klingentorturm.jpg",
+      "author": "Weners",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3072,
+      "height": 2304,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5e644b",
+            "share": 0.281
+          },
+          {
+            "hex": "#d7d2c5",
+            "share": 0.218
+          },
+          {
+            "hex": "#9bcdfb",
+            "share": 0.189
+          },
+          {
+            "hex": "#909588",
+            "share": 0.169
+          },
+          {
+            "hex": "#23251f",
+            "share": 0.143
+          }
+        ],
+        "strongest": "#9bcdfb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/rothenburg-ob-der-tauber/commons-4.jpg",
+      "title": "File:St. Jakob (Rothenburg ob der Tauber), Heilig-Blut-Altar 018.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Jakob_(Rothenburg_ob_der_Tauber),_Heilig-Blut-Altar_018.jpg",
+      "author": "Tilman2007",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 4266,
+      "height": 3394,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#593526",
+            "share": 0.3
+          },
+          {
+            "hex": "#7a503b",
+            "share": 0.292
+          },
+          {
+            "hex": "#9b6b52",
+            "share": 0.171
+          },
+          {
+            "hex": "#301913",
+            "share": 0.168
+          },
+          {
+            "hex": "#a4adbd",
+            "share": 0.068
+          }
+        ],
+        "strongest": "#593526"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:Rothenburg ob der Tauber Bomben Zerstörung Weltkrieg 1945.jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#7e6a5e",
+        "share": 0.299
+      },
+      {
+        "hex": "#030302",
+        "share": 0.208
+      },
+      {
+        "hex": "#524133",
+        "share": 0.167
+      },
+      {
+        "hex": "#d3995d",
+        "share": 0.167
+      },
+      {
+        "hex": "#4a506b",
+        "share": 0.16
+      }
+    ],
+    "strongest": "#d3995d"
+  }
+}

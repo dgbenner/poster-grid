@@ -1,0 +1,490 @@
+{
+  "id": "scottish-parliament",
+  "name": "Scottish Parliament",
+  "lat": 55.9521,
+  "lng": -3.1751,
+  "enrichedAt": "2026-10-11T01:21:30.345Z",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9521&lon=-3.1751&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 0.2
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 0.29
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.58
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.93
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 0.99
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 1.01
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 1.04
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 1.11
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 1.15
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.21
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1.29
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 1.31
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1.33
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 1.34
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 1.39
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.59
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.58
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 2.6
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.3
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 3.44
+      }
+    ],
+    "sameCounty": [
+      {
+        "id": "holyrood-palace",
+        "name": "Holyrood Palace & Abbey",
+        "km": 0.2
+      },
+      {
+        "id": "canongate-kirkyard",
+        "name": "Canongate Kirkyard",
+        "km": 0.3
+      },
+      {
+        "id": "calton-hill",
+        "name": "Calton Hill / National Monument",
+        "km": 0.6
+      },
+      {
+        "id": "royal-mile-cockburn",
+        "name": "Royal Mile / Cockburn St",
+        "km": 0.9
+      },
+      {
+        "id": "heart-of-midlothian",
+        "name": "Heart of Midlothian",
+        "km": 1
+      },
+      {
+        "id": "mary-kings-close",
+        "name": "Mary King's Close",
+        "km": 1
+      },
+      {
+        "id": "st-giles-cathedral",
+        "name": "St Giles' Cathedral",
+        "km": 1
+      },
+      {
+        "id": "lewis-chess-pieces",
+        "name": "National Museum of Scotland — Lewis Chess Pieces",
+        "km": 1.1
+      },
+      {
+        "id": "arthurs-seat",
+        "name": "Arthur's Seat",
+        "km": 1.2
+      },
+      {
+        "id": "scott-monument",
+        "name": "Scott Monument",
+        "km": 1.2
+      },
+      {
+        "id": "camera-obscura",
+        "name": "Camera Obscura",
+        "km": 1.3
+      },
+      {
+        "id": "princes-st-gardens",
+        "name": "Princes St & Gardens",
+        "km": 1.3
+      },
+      {
+        "id": "scottish-national-gallery",
+        "name": "Scottish National Gallery",
+        "km": 1.3
+      },
+      {
+        "id": "whisky-cluster-edinburgh",
+        "name": "Whisky cluster",
+        "km": 1.3
+      },
+      {
+        "id": "literary-walking-tour",
+        "name": "Literary Walking Tour",
+        "km": 1.4
+      },
+      {
+        "id": "edinburgh-castle",
+        "name": "Edinburgh Castle",
+        "km": 1.6
+      },
+      {
+        "id": "dean-village",
+        "name": "Dean Village",
+        "km": 2.6
+      },
+      {
+        "id": "royal-botanic-garden-edinburgh",
+        "name": "Royal Botanic Garden",
+        "km": 2.6
+      },
+      {
+        "id": "royal-yacht-britannia",
+        "name": "Royal Yacht Britannia",
+        "km": 3.3
+      },
+      {
+        "id": "craigmillar-castle",
+        "name": "Craigmillar Castle",
+        "km": 3.4
+      },
+      {
+        "id": "edinburgh-zoo",
+        "name": "Edinburgh Zoo",
+        "km": 5.9
+      },
+      {
+        "id": "carlowrie-castle",
+        "name": "Carlowrie Castle",
+        "km": 14.2
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Scottish Parliament",
+      "description": "Devolved parliament of Scotland",
+      "extract": "The Scottish Parliament is the devolved, unicameral legislature of Scotland. It is located in the Holyrood area of Edinburgh, and is frequently referred to by the metonym Holyrood. It is a democratically elected body and its role is to scrutinise the Scottish Government and legislate on devolved matters that are not reserved to the Parliament of the United Kingdom.",
+      "url": "https://en.wikipedia.org/wiki/Scottish_Parliament",
+      "coordinates": {
+        "lat": 55.9522,
+        "lng": -3.1747
+      },
+      "km": 0,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2026_Scottish_Parliament.svg/500px-2026_Scottish_Parliament.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Edinburgh",
+      "description": "Capital city of Scotland",
+      "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+      "url": "https://en.wikipedia.org/wiki/Edinburgh",
+      "coordinates": {
+        "lat": 55.95333333,
+        "lng": -3.18916667
+      },
+      "km": 0.9,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Enric Miralles’ controversial, much-awarded 2004 building.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "modern",
+  "themes": [
+    "industrial"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/scottish-parliament/own-scottish-parliament.png",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/scottish-parliament.png",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.411
+          },
+          {
+            "hex": "#fef78f",
+            "share": 0.265
+          },
+          {
+            "hex": "#0baadc",
+            "share": 0.131
+          },
+          {
+            "hex": "#ef2524",
+            "share": 0.124
+          },
+          {
+            "hex": "#01b741",
+            "share": 0.069
+          }
+        ],
+        "strongest": "#fef78f"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scottish-parliament/commons-1.jpg",
+      "title": "File:Her Majesty Queen Elizabeth II at the opening of the Scottish Parliament.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Her_Majesty_Queen_Elizabeth_II_at_the_opening_of_the_Scottish_Parliament.jpg",
+      "author": "The Scottish Parliament",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 3455,
+      "height": 2429,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#070a05",
+            "share": 0.392
+          },
+          {
+            "hex": "#523e30",
+            "share": 0.17
+          },
+          {
+            "hex": "#797157",
+            "share": 0.17
+          },
+          {
+            "hex": "#222216",
+            "share": 0.166
+          },
+          {
+            "hex": "#b1ad96",
+            "share": 0.102
+          }
+        ],
+        "strongest": "#523e30"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scottish-parliament/commons-2.jpg",
+      "title": "File:Scottish Parliament - 49188771378.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_-_49188771378.jpg",
+      "author": "Jorge Franganillo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 4512,
+      "height": 2707,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#545c5f",
+            "share": 0.276
+          },
+          {
+            "hex": "#857d72",
+            "share": 0.212
+          },
+          {
+            "hex": "#759fda",
+            "share": 0.2
+          },
+          {
+            "hex": "#443d1e",
+            "share": 0.184
+          },
+          {
+            "hex": "#c4b5a2",
+            "share": 0.128
+          }
+        ],
+        "strongest": "#759fda"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scottish-parliament/commons-3.jpg",
+      "title": "File:Scottish Parliament Act (cropped).JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_Act_(cropped).JPG",
+      "author": "Globaltraveller",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1187,
+      "height": 1533,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#c0bdc3",
+            "share": 0.278
+          },
+          {
+            "hex": "#cac8ce",
+            "share": 0.255
+          },
+          {
+            "hex": "#a09da0",
+            "share": 0.226
+          },
+          {
+            "hex": "#b4b1b4",
+            "share": 0.167
+          },
+          {
+            "hex": "#848286",
+            "share": 0.074
+          }
+        ],
+        "strongest": null
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/scottish-parliament/commons-4.jpg",
+      "title": "File:Scottish Parliament Debating Chamber 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_Debating_Chamber_1.jpg",
+      "author": "Colin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4506,
+      "height": 2752,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#3f2f22",
+            "share": 0.317
+          },
+          {
+            "hex": "#251b12",
+            "share": 0.249
+          },
+          {
+            "hex": "#848075",
+            "share": 0.174
+          },
+          {
+            "hex": "#635342",
+            "share": 0.166
+          },
+          {
+            "hex": "#a0b7be",
+            "share": 0.094
+          }
+        ],
+        "strongest": "#3f2f22"
+      }
+    }
+  ],
+  "rejectedImages": [
+    {
+      "title": "File:King Charles III addresses Scottish Parliament Sep 2022.jpg",
+      "why": "licence SPCL"
+    },
+    {
+      "title": "File:Scottish Parliament - Committee Room (5732688523).jpg",
+      "why": "too small"
+    }
+  ],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.411
+      },
+      {
+        "hex": "#fef78f",
+        "share": 0.265
+      },
+      {
+        "hex": "#0baadc",
+        "share": 0.131
+      },
+      {
+        "hex": "#ef2524",
+        "share": 0.124
+      },
+      {
+        "hex": "#01b741",
+        "share": 0.069
+      }
+    ],
+    "strongest": "#fef78f"
+  }
+}

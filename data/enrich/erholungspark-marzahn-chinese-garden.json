@@ -1,0 +1,295 @@
+{
+  "id": "erholungspark-marzahn-chinese-garden",
+  "name": "Erholungspark Marzahn — Chinese Garden",
+  "lat": 52.5386,
+  "lng": 13.5736,
+  "enrichedAt": "2026-10-11T01:21:39.985Z",
+  "place": {
+    "town": "Berlin",
+    "locality": "Marzahn",
+    "county": "Berlin",
+    "adminArea": null,
+    "region": null,
+    "country": "Germany",
+    "sovereign": "Germany",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.5386&lon=13.5736&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Marzahn, Marzahn-Hellersdorf, Berlin, Germany"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "berlin-street-chess",
+        "name": "Berlin Street Chess",
+        "km": 11.6
+      },
+      {
+        "id": "boltanski-missing-house",
+        "name": "Boltanski, The Missing House",
+        "km": 11.9
+      },
+      {
+        "id": "berlin-wall",
+        "name": "Berlin Wall",
+        "km": 12.4
+      },
+      {
+        "id": "brandenburg-gate",
+        "name": "Brandenburg Gate",
+        "km": 13.5
+      },
+      {
+        "id": "umlauftank-2-circulating-tank",
+        "name": "Umlauftank 2 (Circulating Tank)",
+        "km": 17
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Marzahn",
+      "description": "Quarter of Berlin in Germany",
+      "extract": "Marzahn is a locality within the borough of Marzahn-Hellersdorf in Berlin. Berlin's 2001 administrative reform led to the former boroughs of Marzahn and Hellersdorf fusing into a single new borough. In the north the Marzahn locality includes the neighbourhoods of Bürknersfelde and Ahrensfelde, an overbuilt strip of land which once had belonged to the Brandenburg municipality of Ahrensfelde and was incorporated into Berlin in 1990.",
+      "url": "https://en.wikipedia.org/wiki/Marzahn",
+      "coordinates": {
+        "lat": 52.55,
+        "lng": 13.55
+      },
+      "km": 2,
+      "matchedBy": "search",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Marzahn_Baerensteinstr08-2015_abandoned_retail_building.jpg/3840px-Marzahn_Baerensteinstr08-2015_abandoned_retail_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Berlin",
+      "description": "Capital and largest city of Germany",
+      "extract": "Berlin is the capital and largest city of Germany. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union (EU). The metropolis is also one of the states of Germany, being the third-smallest state in the country by area. Berlin is surrounded by the state of Brandenburg, bordering Brandenburg's capital Potsdam to the southwest. The urban area of Berlin has a population of 4.5 million, making it the second most populous in Germany after the Ruhr. The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's second-largest metropolitan region after the Rhine-Ruhr region, as well as the fifth-biggest metropolitan region by GDP in the EU. Berlin is a global city of culture, politics, media and science.",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "km": 11.6,
+      "matchedBy": "title",
+      "leadImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/3840px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": null,
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "mountain"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/erholungspark-marzahn-chinese-garden/own-erholungspark-marzahn-chinese-garden.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/erholungspark-marzahn-chinese-garden.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#424f2a",
+            "share": 0.271
+          },
+          {
+            "hex": "#82aceb",
+            "share": 0.265
+          },
+          {
+            "hex": "#80933e",
+            "share": 0.263
+          },
+          {
+            "hex": "#b8cded",
+            "share": 0.11
+          },
+          {
+            "hex": "#a09779",
+            "share": 0.092
+          }
+        ],
+        "strongest": "#82aceb"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/erholungspark-marzahn-chinese-garden/commons-1.jpg",
+      "title": "File:Marzahn Baerensteinstr08-2015 abandoned retail building.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marzahn_Baerensteinstr08-2015_abandoned_retail_building.jpg",
+      "author": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5348,
+      "height": 3008,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a38b42",
+            "share": 0.282
+          },
+          {
+            "hex": "#514d28",
+            "share": 0.211
+          },
+          {
+            "hex": "#c1c3cb",
+            "share": 0.2
+          },
+          {
+            "hex": "#7e766c",
+            "share": 0.162
+          },
+          {
+            "hex": "#9abae7",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#9abae7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/erholungspark-marzahn-chinese-garden/commons-2.jpg",
+      "title": "File:Marzahn 08-2015 windmill.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marzahn_08-2015_windmill.jpg",
+      "author": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 3509,
+      "height": 5263,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#958946",
+            "share": 0.276
+          },
+          {
+            "hex": "#3380d5",
+            "share": 0.239
+          },
+          {
+            "hex": "#5f9ae1",
+            "share": 0.2
+          },
+          {
+            "hex": "#474334",
+            "share": 0.174
+          },
+          {
+            "hex": "#8cb0db",
+            "share": 0.11
+          }
+        ],
+        "strongest": "#3380d5"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/erholungspark-marzahn-chinese-garden/commons-3.jpg",
+      "title": "File:Marzahn Baerensteinstr08-2015 abandoned retail building.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marzahn_Baerensteinstr08-2015_abandoned_retail_building.jpg",
+      "author": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5348,
+      "height": 3008,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#a38b42",
+            "share": 0.282
+          },
+          {
+            "hex": "#514d28",
+            "share": 0.211
+          },
+          {
+            "hex": "#c1c3cb",
+            "share": 0.2
+          },
+          {
+            "hex": "#7e766c",
+            "share": 0.162
+          },
+          {
+            "hex": "#9abae7",
+            "share": 0.146
+          }
+        ],
+        "strongest": "#9abae7"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/erholungspark-marzahn-chinese-garden/commons-4.jpg",
+      "title": "File:Unkenpfuhle Marzahn 04.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Unkenpfuhle_Marzahn_04.JPG",
+      "author": "Necrophorus",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 3008,
+      "height": 2000,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#736759",
+            "share": 0.306
+          },
+          {
+            "hex": "#4a4741",
+            "share": 0.265
+          },
+          {
+            "hex": "#767d7d",
+            "share": 0.169
+          },
+          {
+            "hex": "#eef4f7",
+            "share": 0.167
+          },
+          {
+            "hex": "#a3afb4",
+            "share": 0.093
+          }
+        ],
+        "strongest": null
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#424f2a",
+        "share": 0.271
+      },
+      {
+        "hex": "#82aceb",
+        "share": 0.265
+      },
+      {
+        "hex": "#80933e",
+        "share": 0.263
+      },
+      {
+        "hex": "#b8cded",
+        "share": 0.11
+      },
+      {
+        "hex": "#a09779",
+        "share": 0.092
+      }
+    ],
+    "strongest": "#82aceb"
+  }
+}

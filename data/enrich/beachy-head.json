@@ -1,0 +1,276 @@
+{
+  "id": "beachy-head",
+  "name": "Beachy Head",
+  "lat": 50.738185,
+  "lng": 0.2494669,
+  "enrichedAt": "2026-10-11T01:21:45.630Z",
+  "place": {
+    "town": "Eastbourne",
+    "locality": "Holywell",
+    "county": "East Sussex",
+    "adminArea": "East Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.738185&lon=0.2494669&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Holywell, Eastbourne, East Sussex, England, BN20 7RT, United Kingdom"
+  },
+  "nearby": {
+    "within5km": [],
+    "sameCounty": [
+      {
+        "id": "bodiam-castle",
+        "name": "Bodiam Castle",
+        "km": 35.9
+      }
+    ]
+  },
+  "facts": {
+    "pin": {
+      "title": "Beachy Head",
+      "description": "Chalk headland in East Sussex, England",
+      "extract": "Beachy Head is a chalk headland in East Sussex, England. It is situated close to Eastbourne, immediately east of the Seven Sisters.",
+      "url": "https://en.wikipedia.org/wiki/Beachy_Head",
+      "coordinates": {
+        "lat": 50.7375,
+        "lng": 0.2475
+      },
+      "km": 0.2,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/47/Beachy_Head_Lighthouse_under_the_cliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    },
+    "town": {
+      "title": "Eastbourne",
+      "description": "Town in East Sussex, England",
+      "extract": "Eastbourne is a town and seaside resort in the East Sussex county of South East England. It lies 19 miles (31 km) east of Brighton and 54 miles (87 km) south of London; it is immediately east of Beachy Head, the highest chalk sea cliff in Great Britain and part of the larger Eastbourne Downland Estate. It is also a local government district with borough status.",
+      "url": "https://en.wikipedia.org/wiki/Eastbourne",
+      "coordinates": {
+        "lat": 50.77,
+        "lng": 0.28
+      },
+      "km": 4.1,
+      "matchedBy": "title",
+      "leadImage": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Beach_huts_-_Eastbourne_-_geograph.org.uk_-_2375843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "Wikipedia"
+    }
+  },
+  "note": {
+    "text": "Dramatic chalk headland and cliffs near Eastbourne, the Sussex coast evoked in The Cure's Just Like Heaven.",
+    "by": "Dan",
+    "isFact": false
+  },
+  "category": "nature",
+  "themes": [
+    "coast",
+    "music"
+  ],
+  "images": [
+    {
+      "kind": "personal",
+      "file": "data/images/beachy-head/own-beachy-head.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/beachy-head.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a3424",
+            "share": 0.251
+          },
+          {
+            "hex": "#8d8e93",
+            "share": 0.214
+          },
+          {
+            "hex": "#b0aeb6",
+            "share": 0.201
+          },
+          {
+            "hex": "#c8ccda",
+            "share": 0.196
+          },
+          {
+            "hex": "#79726b",
+            "share": 0.137
+          }
+        ],
+        "strongest": "#4a3424"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/beachy-head/commons-1.jpg",
+      "title": "File:Beachy Head, East Sussex, England-2Oct2011 (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head,_East_Sussex,_England-2Oct2011_(1).jpg",
+      "author": "Ian Stannard from Southsea, England",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "width": 2629,
+      "height": 1760,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#425261",
+            "share": 0.298
+          },
+          {
+            "hex": "#29373e",
+            "share": 0.229
+          },
+          {
+            "hex": "#98a8c1",
+            "share": 0.181
+          },
+          {
+            "hex": "#677789",
+            "share": 0.17
+          },
+          {
+            "hex": "#d9d5d4",
+            "share": 0.122
+          }
+        ],
+        "strongest": "#98a8c1"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/beachy-head/commons-2.jpg",
+      "title": "File:Beachy Head, Eastbourne, United Kingdom (Unsplash).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head,_Eastbourne,_United_Kingdom_(Unsplash).jpg",
+      "author": "Michal Dzierza midz",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 3200,
+      "height": 2134,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#1a2429",
+            "share": 0.233
+          },
+          {
+            "hex": "#d2d5d6",
+            "share": 0.233
+          },
+          {
+            "hex": "#62808d",
+            "share": 0.202
+          },
+          {
+            "hex": "#9cafb5",
+            "share": 0.177
+          },
+          {
+            "hex": "#395968",
+            "share": 0.156
+          }
+        ],
+        "strongest": "#395968"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/beachy-head/commons-3.jpg",
+      "title": "File:Beachy Head Lighthouse under the cliff.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head_Lighthouse_under_the_cliff.jpg",
+      "author": "Arndt Helge Finkenrath",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "width": 1488,
+      "height": 1984,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4a3423",
+            "share": 0.252
+          },
+          {
+            "hex": "#8e8f95",
+            "share": 0.22
+          },
+          {
+            "hex": "#b1afb7",
+            "share": 0.195
+          },
+          {
+            "hex": "#c9ccda",
+            "share": 0.188
+          },
+          {
+            "hex": "#7a736c",
+            "share": 0.145
+          }
+        ],
+        "strongest": "#4a3423"
+      }
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/beachy-head/commons-4.jpg",
+      "title": "File:Beachy Head and Lighthouse, East Sussex, England - April 2010 crop horizon corrected.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beachy_Head_and_Lighthouse,_East_Sussex,_England_-_April_2010_crop_horizon_corrected.jpg",
+      "author": "Diliff, Papa Lima Whiskey (edit)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 2584,
+      "height": 1544,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#545b46",
+            "share": 0.28
+          },
+          {
+            "hex": "#82939d",
+            "share": 0.267
+          },
+          {
+            "hex": "#8dadc7",
+            "share": 0.248
+          },
+          {
+            "hex": "#6d7064",
+            "share": 0.13
+          },
+          {
+            "hex": "#e7e7e3",
+            "share": 0.076
+          }
+        ],
+        "strongest": "#8dadc7"
+      }
+    }
+  ],
+  "rejectedImages": [],
+  "colors": {
+    "palette": [
+      {
+        "hex": "#4a3424",
+        "share": 0.251
+      },
+      {
+        "hex": "#8d8e93",
+        "share": 0.214
+      },
+      {
+        "hex": "#b0aeb6",
+        "share": 0.201
+      },
+      {
+        "hex": "#c8ccda",
+        "share": 0.196
+      },
+      {
+        "hex": "#79726b",
+        "share": 0.137
+      }
+    ],
+    "strongest": "#4a3424"
+  }
+}
