@@ -1,0 +1,898 @@
+{
+  "id": "030-stonehenge",
+  "number": 30,
+  "pin_id": "stonehenge",
+  "created_at": "2026-10-11T03:37:12.203Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "idea": {
+    "key": "nearby",
+    "sentence": "Nothing Dan has saved lies within 5 km of the stones, so that absence becomes the poster's second headline, with the nearest company across Wiltshire listed beneath it."
+  },
+  "title": "Stonehenge",
+  "place": {
+    "town": "Amesbury",
+    "locality": "Amesbury",
+    "county": "Wiltshire",
+    "adminArea": "Wiltshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.1789&lon=-1.8262&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Amesbury, Wiltshire, England, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "accent": "#012169",
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Stonehenge"
+    },
+    {
+      "element": "county",
+      "text": "Wiltshire · England"
+    },
+    {
+      "element": "gap-statement",
+      "text": "Nothing\nwithin 5 km"
+    },
+    {
+      "element": "county-label",
+      "text": "Elsewhere in Wiltshire"
+    },
+    {
+      "element": "lead",
+      "text": "A prehistoric ring of sarsen stones on Salisbury Plain, two miles west of Amesbury."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Stonehenge"
+  ],
+  "photo": {
+    "kind": "commons",
+    "file": "data/images/stonehenge/commons-3.jpg",
+    "title": "File:Stonehenge Closeup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_Closeup.jpg",
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "width": 1280,
+    "height": 960,
+    "colors": {
+      "palette": [
+        {
+          "hex": "#c3d3e1",
+          "share": 0.279
+        },
+        {
+          "hex": "#647022",
+          "share": 0.264
+        },
+        {
+          "hex": "#313a2a",
+          "share": 0.215
+        },
+        {
+          "hex": "#4a524b",
+          "share": 0.165
+        },
+        {
+          "hex": "#82877f",
+          "share": 0.077
+        }
+      ],
+      "strongest": "#647022"
+    },
+    "credit": "Public domain"
+  },
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 2,
+      "text": "Stonehenge",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 4,
+      "row_span": 1,
+      "text": "Wiltshire · England",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 8,
+      "row": 5,
+      "row_span": 6,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 3,
+      "zoom": 1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "gap-statement",
+      "kind": "headline",
+      "col": 9,
+      "col_span": 4,
+      "row": 5,
+      "row_span": 3,
+      "text": "Nothing\nwithin 5 km",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "county-label",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 1,
+      "text": "Elsewhere in Wiltshire",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "list",
+      "kind": "list",
+      "col": 9,
+      "col_span": 4,
+      "row": 9,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": [
+        "avebury-stone-circle",
+        "king-alfreds-tower",
+        "castle-combe"
+      ],
+      "over": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 6,
+      "row": 11,
+      "row_span": 2,
+      "text": "A prehistoric ring of sarsen stones on Salisbury Plain, two miles west of Amesbury.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    },
+    {
+      "name": "pinfield",
+      "kind": "pinfield",
+      "col": 9,
+      "col_span": 4,
+      "row": 11,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The gap statement fills only the top half of its rows 5–7 slot in columns 9–12. Rows 6–7 below it are dead space that reads as leftover, not as chosen emptiness. Pull the 'Elsewhere in Wiltshire' label up to row 7 so the absence and the alternative sit as one block. Or keep the gap but move the list down to end on the photo's bottom edge at row 10, so the void is framed on purpose.",
+      "The 'Elsewhere in Wiltshire' label in row 8 floats a full module above the list in rows 9–10, which orphans it from what it introduces. Set it one baseline above the first list line, sharing the list's rows.",
+      "The list stops about a module short of the photo's bottom edge in row 10, so columns 9–12 and columns 1–8 end on different lines. Hang the last list line on the photo's bottom baseline so the two blocks close together.",
+      "'King Alfred's Tower, Stourhead' wraps to a second line inside the 4-column list and breaks the one-place-per-line rhythm. Either drop the distance column to a narrower 1-column slot and give names 3 columns, or shorten the name to 'King Alfred's Tower'.",
+      "'within 5 km' runs right up to the edge of column 12 with no air, while 'Nothing' stops near column 11. Drop the size one step so both lines sit inside columns 9–12 with a visible right margin. The headline should still clearly outrank the lead.",
+      "The pinfield is meant to show the 5 km absence, but its dots cluster in columns 10–11 and the blue Stonehenge pin is a tangle of overlapping rings. Draw a single empty 5 km circle around one clean blue dot so the empty module carries the idea. Then centre the cluster on column 10–11's midpoint, or align it to the left edge of column 9 to match the list above.",
+      "The lead spans columns 1–6 in rows 11–12, but its third line runs into column 7, leaving a ragged right edge that drifts past the 6-column measure. Rebreak the lines so all three stay inside columns 1–6, or widen the slot to a declared 7 columns.",
+      "The county label in row 4 sits alone with a large gap before the photo in row 5. That is acceptable, but align its baseline to the top of row 4 so the space under it clearly belongs to the row 4–5 break."
+    ],
+    "summary": "A clear idea with sound top-level structure: a full-width headline, then an 8+4 column split with the photo and the blue absence statement, and the eye moves in the right order. The right-hand column is loosely stacked, though. The gap statement leaves rows 6–7 half-used, the section label floats a module away from its list, and the list doesn't close on the photo's bottom edge. The pinfield is the natural place to make the 5 km emptiness visible, and right now it is a muddled cluster. Tighten the column 9–12 stack onto shared row lines and draw the empty radius, and this reaches a keeper.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "nearby",
+      "mean": 6,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "accent": "#012169"
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Stonehenge",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Wiltshire",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "30 / 30",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Stonehenge"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Wiltshire"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Public domain"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Stonehenge"
+      },
+      {
+        "id": "el-2",
+        "name": "county",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 4,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Wiltshire · England"
+      },
+      {
+        "id": "el-3",
+        "name": "photo",
+        "kind": "photo",
+        "c": 1,
+        "cs": 8,
+        "r": 5,
+        "rs": 6,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 3,
+        "src": "../data/images/stonehenge/commons-3.jpg",
+        "zoom": 1,
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-4",
+        "name": "gap-statement",
+        "kind": "headline",
+        "c": 9,
+        "cs": 4,
+        "r": 5,
+        "rs": 3,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Nothing\nwithin 5 km"
+      },
+      {
+        "id": "el-5",
+        "name": "county-label",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 8,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Elsewhere in Wiltshire"
+      },
+      {
+        "id": "el-6",
+        "name": "list",
+        "kind": "list",
+        "c": 9,
+        "cs": 4,
+        "r": 9,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "items": [
+          {
+            "id": "avebury-stone-circle",
+            "n": "01",
+            "name": "Avebury Stone Circle",
+            "km": "27.8 km"
+          },
+          {
+            "id": "king-alfreds-tower",
+            "n": "02",
+            "name": "King Alfred's Tower, Stourhead",
+            "km": "35.8 km"
+          },
+          {
+            "id": "castle-combe",
+            "n": "03",
+            "name": "Castle Combe",
+            "km": "44.6 km"
+          }
+        ]
+      },
+      {
+        "id": "el-7",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 6,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A prehistoric ring of sarsen stones on Salisbury Plain, two miles west of Amesbury.",
+        "style": "lead"
+      },
+      {
+        "id": "el-8",
+        "name": "pinfield",
+        "kind": "pinfield",
+        "c": 9,
+        "cs": 4,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            51.1789,
+            -1.8262
+          ],
+          "ring": [
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              51.4919,
+              -2.227
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "image": "posters/img/030-stonehenge.png"
+}
