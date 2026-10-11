@@ -28,10 +28,18 @@
     .btn.primary { background: var(--ink); color: #111; border-color: var(--ink); }
     .btn:disabled { opacity: .45; cursor: default; }
     .btn:focus-visible, .chip:focus-visible, .tab:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
-    .stats { display: flex; flex-wrap: wrap; gap: 28px; margin: 28px 0 18px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-    .stat b { display: block; font: 300 28px/1.1 "Inter Tight", var(--sans); }
-    .stat span { font: 500 10.5px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
-    .filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 22px; }
+    .top { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px 40px; flex-wrap: wrap; }
+    .status-bar { display: flex; align-items: baseline; gap: 18px; margin-left: auto; padding-top: 2px; }
+    .lab-link { font: 500 11px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); text-decoration: none; border: 1px solid var(--line); border-radius: 5px; padding: 3px 8px; white-space: nowrap; }
+    .lab-link:hover { color: var(--ink); border-color: #555; }
+    .lab-link:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+    .stats { margin: 0; text-align: right; font: 500 11px/1.6 var(--mono); color: var(--muted); letter-spacing: .02em; }
+    .stats b { color: var(--ink); font-weight: 500; }
+    .stats .sep { color: var(--dim); margin: 0 6px; }
+    @media (max-width: 700px) { .status-bar { margin-left: 0; } .stats { text-align: left; } }
+    .filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 26px 0 22px; padding-top: 18px; border-top: 1px solid var(--line); }
+    .chip.flag { display: inline-flex; align-items: center; gap: 8px; padding: 4px 12px 4px 6px; }
+    .chip.flag img { width: 24px; height: 16px; object-fit: cover; display: block; border-radius: 2px; box-shadow: 0 0 0 1px rgba(255,255,255,.15); }
     .filters .kicker { margin-right: 4px; }
     .chip { border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; font: 500 12px var(--mono); background: none; cursor: pointer; color: var(--muted); }
     .chip[aria-pressed="true"] { background: var(--ink); color: #111; border-color: var(--ink); }
@@ -127,19 +135,20 @@
 </head>
 <body>
   <div class="wrap">
-    <header>
-      <p class="kicker">Waypoints · work in progress</p>
-      <h1>Poster Grid</h1>
-      <p class="lede">Posters of saved places, set on one strict typographic grid. Each was designed by a model that places elements only on grid cells, checked by code, scored by a critic in grid terms, and rendered from the same grid as the lab.</p>
-      <div class="links">
-        <a class="btn primary" href="lab/">Open the grid lab</a>
-        <a class="btn" href="#" id="toAll">All posters</a>
+    <header class="top">
+      <div>
+        <p class="kicker">Waypoints · work in progress</p>
+        <h1>Poster Grid</h1>
+        <p class="lede">Posters of saved places, set on one strict typographic grid. Each was designed by a model that places elements only on grid cells, checked by code, scored by a critic in grid terms, and rendered from the same grid as the lab.</p>
+      </div>
+      <div class="status-bar">
+        <a class="lab-link" href="lab/">Grid lab</a>
+        <p class="stats" id="stats" aria-label="Collection status"></p>
       </div>
     </header>
 
     <section id="list">
-      <div class="stats" id="stats"></div>
-      <div class="filters" id="filters" role="group" aria-label="Series"></div>
+      <div class="filters" id="filters" role="group" aria-label="Show"></div>
       <div class="grid" id="grid"></div>
     </section>
 
@@ -161,39 +170,51 @@
     const county = p => p.place.borough ? `${p.place.county} · ${p.place.borough}` : p.place.county;
     const key = p => `${p.series}/${nn(p.number)}`;
     let data, filter = 'all', view = null;
-    try { filter = localStorage.getItem('pg-series') || 'all'; } catch {}
+    try { filter = localStorage.getItem('pg-filter') || 'uk'; } catch {}
 
     async function load() {
       data = await (await fetch('posters/index.json', { cache: 'no-store' })).json();
-      if (filter !== 'all' && !data.series[filter]) filter = 'all';
       renderList();
       route();
     }
     load();
     window.addEventListener('hashchange', route);
-    $('#toAll').addEventListener('click', e => { e.preventDefault(); location.hash = ''; });
+
+    // Filters: one flag per country with posters (the UK's Union Jack covers England,
+    // Scotland, Wales and Northern Ireland), plus Alternates: posters with more than one
+    // version. "All" is kept but hidden until there is a second country.
+    const SHOW_ALL = false;
+    const UK = ['England', 'Scotland', 'Wales', 'Northern Ireland'];
+    const FLAGS = { uk: { label: 'United Kingdom', img: 'assets/flags/gb.svg', match: p => UK.includes(p.place.country) } };
+    const hasAlternates = p => p.versions.length > 1 || (p.related || []).length > 0;
+    const FILTERS = { all: () => true, alternates: hasAlternates, ...Object.fromEntries(Object.entries(FLAGS).map(([k, f]) => [k, f.match])) };
 
     function renderList() {
-      const ps = data.posters.filter(p => filter === 'all' || p.series === filter);
+      const flags = Object.entries(FLAGS).filter(([, f]) => data.posters.some(f.match));
+      if (!FILTERS[filter] || (filter === 'all' && !SHOW_ALL)) filter = flags[0]?.[0] || 'all';
+      const ps = data.posters.filter(FILTERS[filter]);
       const pass = ps.filter(p => p.status === 'pass').length;
       const counties = new Set(ps.map(p => p.place.county)).size;
       const mean = ps.reduce((s, p) => s + (p.critic?.mean || 0), 0) / (ps.length || 1);
       $('#stats').innerHTML = [
-        [ps.length, 'posters'], [counties, 'counties'], [new Set(ps.map(p => p.idea.key)).size + ' of 4', 'ideas used'],
-        [mean.toFixed(1), 'mean critic score'], [`${pass} of ${ps.length}`, 'scored 7 or more'],
-      ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join('');
-      const chips = [['all', 'All', data.total], ...Object.entries(data.series).map(([k, n]) => [k, n, data.totals[k]])];
-      $('#filters').innerHTML = '<span class="kicker">Series</span>' + chips.map(([k, n, c]) =>
-        `<button class="chip" type="button" data-series="${esc(k)}" aria-pressed="${k === filter}">${esc(n)} ${c}</button>`).join('');
+        [ps.length, 'posters'], [counties, 'counties'], [new Set(ps.map(p => p.idea.key)).size + '/4', 'ideas'],
+        [mean.toFixed(1), 'mean score'], [pass, 'at 7+'],
+      ].map(([b, t]) => `<b>${b}</b> ${t}`).join('<span class="sep">·</span>');
+      const chips = [
+        ...(SHOW_ALL ? [`<button class="chip" type="button" data-f="all" aria-pressed="${filter === 'all'}">All ${data.total}</button>`] : []),
+        ...flags.map(([k, f]) => `<button class="chip flag" type="button" data-f="${k}" aria-pressed="${filter === k}" title="${esc(f.label)}"><img src="${esc(f.img)}" alt="">${esc(f.label)} ${data.posters.filter(f.match).length}</button>`),
+        `<button class="chip" type="button" data-f="alternates" aria-pressed="${filter === 'alternates'}">Alternates ${data.posters.filter(hasAlternates).length}</button>`,
+      ];
+      $('#filters').innerHTML = chips.join('');
       $('#filters').querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
-        filter = b.dataset.series;
-        try { localStorage.setItem('pg-series', filter); } catch {}
+        filter = b.dataset.f;
+        try { localStorage.setItem('pg-filter', filter); } catch {}
         renderList();
       }));
       $('#grid').innerHTML = [...ps].sort((a, b) => a.series.localeCompare(b.series) || a.number - b.number).map(p => `
         <a class="card" href="#${esc(key(p))}">
           <img src="${esc(p.image)}" alt="Poster ${nn(p.number)}: ${esc(p.title)}" loading="lazy">
-          <div class="meta"><span>${esc(data.series[p.series])} ${nn(p.number)} · ${esc(IDEA[p.idea.key])}</span>
+          <div class="meta"><span>${nn(p.number)} · ${esc(IDEA[p.idea.key])}${hasAlternates(p) ? ' · alternates' : ''}</span>
             <span class="score ${p.status === 'pass' ? 'pass' : 'below'}">${p.critic ? p.critic.mean.toFixed(1) : '—'}</span></div>
           <h3>${esc(p.title)}</h3>
           <div class="county">${esc(county(p))}</div>
@@ -222,7 +243,7 @@
     // Every version of this place: its own, then other series' posters of it.
     function choices(p) {
       const own = p.versions.map(x => ({ id: p.id, v: x.v, label: `v${x.v}`, meta: x, own: true }));
-      const other = (p.related || []).flatMap(r => r.versions.map(x => ({ id: r.id, v: x.v, label: `${r.seriesName} ${nn(r.number)} · v${x.v}`, meta: x, own: false })));
+      const other = (p.related || []).flatMap(r => r.versions.map(x => ({ id: r.id, v: x.v, label: `Alternate ${r.seriesName.toLowerCase()} v${x.v}`, meta: x, own: false })));
       return [...own, ...other];
     }
     const same = (a, b) => a.id === b.id && a.v === b.v;
@@ -236,12 +257,12 @@
     }
 
     const scoreText = c => `${c.meta.mean != null ? `critic ${c.meta.mean.toFixed(1)}` : 'no score'}${c.meta.followed != null ? ` · followed ${c.meta.followed}` : ''}`;
-    const madeFrom = c => c.meta.feedback ? `“${esc(c.meta.feedback)}”` : c.meta.from === 'redo' ? 'A remake' : c.meta.from ? `Swapped in from ${esc(c.meta.from)}` : c.v === 1 && c.own ? 'First version' : 'Made in its own series';
+    const madeFrom = c => c.meta.feedback ? `“${esc(c.meta.feedback)}”` : c.meta.from === 'redo' ? 'A remake' : c.meta.from ? `Swapped in from ${esc(c.meta.from)}` : c.v === 1 && c.own ? 'First version' : 'Made separately';
 
     // The feedback form under a version: collapsed until opened; opening it picks the
     // version that gets adjusted.
     function askForm(c) {
-      if (!c.own) return `<p class="small ask-note">From another series. Use it here first, then you can ask for changes to it.</p>`;
+      if (!c.own) return `<p class="small ask-note">Made separately. Use it here first, then you can ask for changes to it.</p>`;
       return `
         <details class="ask" data-c="${esc(cid(c))}">
           <summary>What should change on ${esc(c.label)}?</summary>
@@ -275,7 +296,7 @@
       const toggle = many ? `
         <div class="seg" role="group" aria-label="Show">
           <button type="button" data-mode="published" aria-pressed="${!tiles}">Published</button>
-          <button type="button" data-mode="all" aria-pressed="${tiles}">All versions (${all.length})</button>
+          <button type="button" data-mode="all" aria-pressed="${tiles}">Alternates (${all.length})</button>
         </div>` : '';
 
       const left = tiles ? `
@@ -292,7 +313,7 @@
           </figure>`).join('')}</div>`
         : `<div class="poster"><img src="${esc(p.image)}" alt="Poster ${nn(p.number)}: ${esc(p.title)}"></div>
            <div class="local">${askForm(pub)}</div>
-           <p class="small remote-note">Open the viewer locally (npm run lab) to make, compare and choose versions.</p>`;
+           <p class="small remote-note">Open the viewer locally (npm run lab) to make, compare and choose alternates.</p>`;
 
       $('#detail').innerHTML = `
         <div class="left">${toggle}${left}</div>
@@ -302,10 +323,10 @@
             ${prev ? `<a class="btn" href="#${esc(key(prev))}">← ${nn(prev.number)}</a>` : ''}
             ${next ? `<a class="btn" href="#${esc(key(next))}">${nn(next.number)} →</a>` : ''}
           </div>
-          <p class="kicker">${esc(data.series[p.series])} · ${nn(p.number)} / ${nn(data.totals[p.series])} · ${esc(IDEA[d.idea.key])}</p>
+          <p class="kicker">${nn(p.number)} / ${nn(data.totals[p.series])} · ${esc(IDEA[d.idea.key])}</p>
           <h2>${esc(d.title)}</h2>
           <p class="sub">${esc(county(p))} · ${esc(p.place.country)}</p>
-          ${tiles ? `<p class="focus-note">Notes for <b>${esc(fc.label)}</b>${same(fc, pub) ? ' (published)' : ''}. Click a version's image to see its notes.</p>` : ''}
+          ${tiles ? `<p class="focus-note">Notes for <b>${esc(fc.label)}</b>${same(fc, pub) ? ' (published)' : ''}. Click an alternate's image to see its notes.</p>` : ''}
           <div class="sec"><h4>Idea</h4><p>${esc(d.idea.sentence)}</p></div>
           ${c ? `<div class="sec"><h4>Critic · ${c.mean.toFixed(1)}${d.status === 'pass' ? ' · passed' : ' · below 7'}${d.attempts?.length > 1 ? ` · ${d.attempts.length} attempts` : ''}</h4>
             <div class="scores">${Object.entries(c.scores).map(([k, val]) => `<div><b>${val}</b><span>${k}</span></div>`).join('')}</div></div>
