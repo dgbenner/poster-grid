@@ -3271,7 +3271,7 @@
       "id": "025-hacienda-site",
       "number": 25,
       "series": "original",
-      "version": 1,
+      "version": 2,
       "versions": [
         {
           "v": 1,
@@ -3294,7 +3294,7 @@
       ],
       "related": [],
       "title": "Haçienda",
-      "status": "below-bar",
+      "status": "pass",
       "place": {
         "town": "Manchester",
         "county": "Greater Manchester",
@@ -3303,7 +3303,7 @@
       },
       "idea": {
         "key": "nearby",
-        "sentence": "The club itself is gone, so its name fills the top of the page and the lower half places it among Dan's other Greater Manchester pins, listed by distance."
+        "sentence": "The name fills the top, Dan's photograph of the Haçienda interior runs the full width beneath it, and the bottom band places the site among his other Greater Manchester pins, listed by distance."
       },
       "pairing": "inter",
       "paper": "light",
@@ -3316,58 +3316,36 @@
       "critic": {
         "scores": {
           "idea": 7,
-          "grid": 6,
+          "grid": 7,
           "hierarchy": 7,
           "type": 7,
-          "color": 6
+          "color": 7,
+          "followed": 9
         },
-        "mean": 6.6,
+        "mean": 7.3,
         "notes": [
-          "The headline spans 12 of 12 columns across rows 2–4, which carries the 'the name fills the top' idea well. Row 5 is left empty beneath it, and that gap reads as an accidental hole between headline and map. Either push the headline down so its baseline sits on the row 4/5 boundary, or start the pinfield and the nearby-label in row 5 so the lower half begins directly under the name.",
-          "The pinfield fills columns 1–6, but its dots cluster in columns 3–5. The empty modules at its left and right edges therefore look like slack rather than intent. Scale the pinfield so the outermost pins touch column 1 and column 6, or reduce its span to columns 2–6 and align its left edge with the header's second field.",
-          "The nearby-list occupies rows 7–8 and the body occupies rows 11–12, leaving rows 9–10 of columns 8–12 empty. That leaves a dead block in the right half while the pinfield runs on through row 10. Move the body up to rows 9–10 so the right column ends with the pinfield. Rows 11–12 then become a shared empty band above the footer.",
-          "The nearby-label in row 6 sits a full row above the list in row 7. Label and list read as two separate items. Set the label on the last baseline of row 6, directly above item 01, or move the list up into row 6 under the label.",
-          "The map-caption in row 11 floats one row below the pinfield, while the body sits on the same row in columns 8–12. Align the caption's top baseline with the body's first line, which it nearly does now, or attach the caption to the last baseline of row 10 so it clearly belongs to the map.",
-          "The red Haçienda pin sits around the row 7/8 boundary, level with the list. Its marker is a filled dot over open rings that read as smudged. Use one clean marker with a single ring. Consider drawing a thin hairline from it toward column 8 to tie the pin to the list's distances.",
-          "Red is used only for the label and the pin, which is correct, but the accent is too small to register against the warm grey paper. Set the nearby-label one size larger, or make the pin marker two modules of dot size larger, so the red reads as a pairing rather than a speck.",
-          "The body measure across columns 8–12 breaks to a one-word last line ('years.'). Rebreak the text or widen the body to columns 7–12 to avoid the widow and get a steadier rag."
+          "Followed: the interior photo is now the main image, spanning all 12 columns and 5 rows (rows 5–9), the largest element on the page. It could go one row larger. Extend it into row 4 or row 10 if the headline or bottom band can give up a row.",
+          "Headline spans 12 of 12 columns across rows 2–4, but the letterforms only fill about the top two rows. Row 4 is mostly empty air above the photo. Either set the name larger so the descender of the ç reaches the row 4 baseline, or end the headline at row 3 and start the photo in row 4.",
+          "The headline is thin-weight at large size against a dense, dark full-width photo. The photo pulls the eye first. That is acceptable for this idea, but it makes the name feel secondary. A slightly heavier weight would keep the name first in the reading order.",
+          "Nearby-list sits in rows 11–12, but its first line starts roughly a full row below the label in row 10. That leaves a dead module gap. Move the list up to start on the first baseline of row 11 directly under the label, or hang the label at the top of row 11 alongside it.",
+          "Body spans columns 4–7 and runs about 45 characters per line, with a good rag. Its top baseline should align with the nearby-label in columns 8–12; it currently sits slightly lower. Snap both to the first baseline of row 10.",
+          "Pinfield occupies columns 1–3 in rows 10–12, and some dots drift left of the column 1 edge into the margin. Clip or rescale the field so all pins sit inside columns 1–3.",
+          "Columns 4–7 in row 12 are empty under the body. That is a meaningful empty module, so keep it. Do not fill it.",
+          "The red accent is used only on the label, the list numerals and the current pin. That is disciplined. The photo's deep blue and the warm paper sit well together, so no change is needed."
         ],
-        "summary": "The name spanning all 12 columns makes a strong top half, and the pins-by-distance idea comes through. The lower half, however, leaves unplanned empty rows: row 5 across the page, and rows 9–10 in columns 8–12. The label, list and caption also float a row away from what they describe. Tighten the vertical rhythm so the right column ends with the pinfield, and strengthen the red link between pin and list."
+        "summary": "A clean, well-proportioned layout that delivers Dan's request: the interior photo runs full width and large. Two things need tightening: the slack row under the headline and the gap between the nearby-label and the list in columns 8–12. Pull the photo or the headline up to use row 4, and snap the bottom-band texts to shared baselines."
       },
       "attempts": [
         {
           "idea": "nearby",
-          "mean": 6.2,
+          "mean": 7.3,
           "scores": {
             "idea": 7,
-            "grid": 6,
-            "hierarchy": 6,
-            "type": 6,
-            "color": 6
-          },
-          "problems": 0
-        },
-        {
-          "idea": "nearby",
-          "mean": 6.4,
-          "scores": {
-            "idea": 6,
-            "grid": 6,
-            "hierarchy": 7,
-            "type": 6,
-            "color": 7
-          },
-          "problems": 0
-        },
-        {
-          "idea": "nearby",
-          "mean": 6.6,
-          "scores": {
-            "idea": 7,
-            "grid": 6,
+            "grid": 7,
             "hierarchy": 7,
             "type": 7,
-            "color": 6
+            "color": 7,
+            "followed": 9
           },
           "problems": 0
         }
@@ -3378,25 +3356,29 @@
           "text": "Haçienda"
         },
         {
-          "element": "map-caption",
-          "text": "Manchester · Greater Manchester"
+          "element": "body",
+          "text": "A nightclub and music venue in Manchester, run by Factory Records and famous during the Madchester years."
         },
         {
           "element": "nearby-label",
           "text": "Pins in Greater Manchester"
-        },
-        {
-          "element": "body",
-          "text": "A nightclub and music venue run by Factory Records, famous during the Madchester years."
         }
       ],
       "facts_used": [
-        "https://en.wikipedia.org/wiki/The_Ha%C3%A7ienda",
-        "https://en.wikipedia.org/wiki/Manchester"
+        "The Haçienda was a nightclub and music venue in Manchester, England.",
+        "It became famous during the Madchester years of the 1980s and early 1990s.",
+        "It was run by the record label Factory Records.",
+        "Manchester is at the centre of the county of Greater Manchester."
       ],
-      "photos": [],
-      "image": "posters/025-hacienda-site/v1.png",
-      "created_at": "2026-10-11T03:21:03.392Z"
+      "photos": [
+        {
+          "credit": "Supplied by Dan, personal use",
+          "source": null,
+          "kind": "upload"
+        }
+      ],
+      "image": "posters/025-hacienda-site/v2.png",
+      "created_at": "2026-10-11T23:37:49.204Z"
     },
     {
       "id": "026-hadrians-wall",
