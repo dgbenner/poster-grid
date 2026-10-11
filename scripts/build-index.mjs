@@ -7,7 +7,8 @@ import { ROOT } from './lib/http.mjs';
 export async function buildIndex() {
   const files = (await readdir(join(ROOT, 'posters'))).filter(f => f.endsWith('.json') && f !== 'index.json');
   const posters = await Promise.all(files.map(async f => JSON.parse(await readFile(join(ROOT, 'posters', f), 'utf8'))));
-  const list = posters.sort((a, b) => b.number - a.number).map(p => ({
+  // A poster with "hidden": true stays in the repo but is left out of the viewer.
+  const list = posters.filter(p => !p.hidden).sort((a, b) => b.number - a.number).map(p => ({
     id: p.id, number: p.number, title: p.title, status: p.status,
     place: { town: p.place.town, county: p.place.county, borough: p.place.borough, country: p.place.country },
     idea: p.idea, pairing: p.pairing, paper: p.paper, accent: p.accent,
