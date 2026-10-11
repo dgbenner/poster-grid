@@ -6,18 +6,33 @@ import { join } from 'node:path';
 import { ROOT } from './lib/http.mjs';
 import { listPosters, loadVersion } from './lib/store.mjs';
 
+const seriesNames = {};
+async function seriesName(slug) {
+  if (!seriesNames[slug]) {
+    try { seriesNames[slug] = JSON.parse(await readFile(join(ROOT, 'series', `${slug}.json`), 'utf8')).name; } catch { seriesNames[slug] = slug; }
+  }
+  return seriesNames[slug];
+}
+
 export async function buildIndex() {
   const series = {};
   const list = [];
-  for (const meta of await listPosters()) {
+  const everything = await listPosters();
+  for (const meta of everything) {
     if (meta.hidden || meta.published == null) continue;
     const p = await loadVersion(meta.id, meta.published);
-    if (!series[meta.series]) {
-      try { series[meta.series] = JSON.parse(await readFile(join(ROOT, 'series', `${meta.series}.json`), 'utf8')).name; } catch { series[meta.series] = meta.series; }
+    series[meta.series] = await seriesName(meta.series);
+    // The same place's posters in other series (shown or hidden), for comparing and
+    // swapping in. Versions already swapped into this poster are not repeated.
+    const swapped = new Set(meta.versions.map(x => x.from).filter(Boolean));
+    const related = [];
+    for (const o of everything.filter(o => o.pin_id === meta.pin_id && o.id !== meta.id)) {
+      const versions = o.versions.filter(x => !swapped.has(`${o.id} v${x.v}`));
+      if (versions.length) related.push({ id: o.id, series: o.series, seriesName: await seriesName(o.series), number: o.number, hidden: !!o.hidden, versions });
     }
     list.push({
       id: meta.id, number: meta.number, series: meta.series, version: meta.published,
-      versions: meta.versions,
+      versions: meta.versions, related,
       title: p.title, status: p.status,
       place: { town: p.place.town, county: p.place.county, borough: p.place.borough, country: p.place.country },
       idea: p.idea, pairing: p.pairing, paper: p.paper,

@@ -4,11 +4,14 @@
   "fonts": [
     "inter",
     "archivo",
-    "space"
+    "space",
+    "serif-garamond",
+    "serif-bodoni",
+    "serif-newsreader"
   ],
   "maxColors": 3,
   "ideas": [
     "all"
   ],
-  "note": "The first series: sans titles. Posters 1-30 were made before colour roles existed and use one accent."
+  "note": "The one collection: one poster per place. Sans and serif title pairings both allowed since 2026-10-11 (Dan chose serif for 5 of 6 compared places). Posters 1-30 were made before colour roles existed."
 }

@@ -1,0 +1,705 @@
+{
+  "pin_id": "tintagel-castle",
+  "number": 32,
+  "series": "original",
+  "created_at": "2026-10-11T23:20:44.353Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "Tintagel lies near the narrow south-western tip of England, so its photo is a small point in the lowest left-hand cells, with the open left side standing for the sea around Cornwall."
+  },
+  "title": "Tintagel Castle",
+  "place": {
+    "town": "Tintagel",
+    "locality": null,
+    "county": "Cornwall",
+    "adminArea": "Cornwall",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.6686663&lon=-4.762152&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Tintagel, Cornwall, England, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#012169",
+      "role": "headline"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#6E6D4C",
+      "source": "photo 3",
+      "light": 4.4,
+      "dark": 3.4
+    },
+    {
+      "hex": "#AFC2DD",
+      "source": "photo 3",
+      "light": 1.5,
+      "dark": 10
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Tintagel\nCastle"
+    },
+    {
+      "element": "lead",
+      "text": "A medieval fortification on Tintagel Island, beside the village of Tintagel on the Atlantic coast of North Cornwall."
+    },
+    {
+      "element": "body-history",
+      "text": "Richard, 1st Earl of Cornwall, built a castle here in the 13th century. It later fell into disrepair and ruin."
+    },
+    {
+      "element": "body-legend",
+      "text": "The castle is associated with the legends of King Arthur. Geoffrey of Monmouth claimed it as the place of Arthur's conception."
+    },
+    {
+      "element": "photo-label",
+      "text": "Cornwall"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Tintagel_Castle",
+    "https://en.wikipedia.org/wiki/Tintagel"
+  ],
+  "photos": [
+    {
+      "kind": "personal",
+      "file": "data/images/tintagel-castle/own-tintagel-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/tintagel-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#6a6c53",
+            "share": 0.286
+          },
+          {
+            "hex": "#8e8e70",
+            "share": 0.238
+          },
+          {
+            "hex": "#1b1f24",
+            "share": 0.215
+          },
+          {
+            "hex": "#45473e",
+            "share": 0.21
+          },
+          {
+            "hex": "#c0bbb4",
+            "share": 0.051
+          }
+        ],
+        "strongest": null
+      },
+      "credit": "Waypoints photo, personal use"
+    }
+  ],
+  "images_used": [
+    "data/images/tintagel-castle/own-tintagel-castle.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 5,
+      "col_span": 8,
+      "row": 2,
+      "row_span": 4,
+      "text": "Tintagel\nCastle",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 5,
+      "col_span": 8,
+      "row": 6,
+      "row_span": 2,
+      "text": "A medieval fortification on Tintagel Island, beside the village of Tintagel on the Atlantic coast of North Cornwall.",
+      "style": "lead",
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body-history",
+      "kind": "text",
+      "col": 5,
+      "col_span": 4,
+      "row": 11,
+      "row_span": 2,
+      "text": "Richard, 1st Earl of Cornwall, built a castle here in the 13th century. It later fell into disrepair and ruin.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body-legend",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 11,
+      "row_span": 2,
+      "text": "The castle is associated with the legends of King Arthur. Geoffrey of Monmouth claimed it as the place of Arthur's conception.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "photo-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 2,
+      "row": 10,
+      "row_span": 1,
+      "text": "Cornwall",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "photo-ruins",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 2,
+      "row": 11,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.6,
+      "focus_x": 0.6,
+      "focus_y": 0.45,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 6
+    },
+    "notes": [
+      "Idea: the small photo in columns 1–2, rows 11–12 does read as a point at the lower left, but columns 1–4 are empty from row 2 to row 9 with nothing to say 'sea'. Either let the photo be the only thing in columns 1–4 and move the 'Cornwall' label into row 12 under it, or shift the photo one column further left by bleeding it to the margin so it reads as the tip of the land, not a stray thumbnail.",
+      "Grid: the headline and lead both hang from column 5 and the body splits 5–8 / 9–12, which is clean. Rows 8–10 are empty across columns 5–12. That gap is three full rows, so the lead floats. Move the lead down to rows 7–8 so the empty band shrinks to rows 9–10 and the page reads as two blocks, top and bottom.",
+      "Grid: the 'Cornwall' label sits in row 10 while the photo starts in row 11, leaving almost a full row between label and image. Move the label to the last baseline of row 10, or into the top of row 11 with the photo dropped one baseline, so the caption touches its picture.",
+      "Grid: the photo spans columns 1–2 and stops at the bottom of row 12, but the body text in columns 5–12 sets only three to four lines from the top of row 11. Align the first body baseline with the photo's top edge and let the body columns hang from the same line. They already nearly do, so lock them to the row 11 top baseline.",
+      "Hierarchy: headline, then lead, then body reads correctly. The photo at 2 of 12 columns is so small it drops below the body in weight. That suits the idea, but give it a clearer edge. Either crop it tighter to the bridge or lift its contrast so the point is legible at that size.",
+      "Type: the lead at roughly 3 baselines per line over 8 columns runs about 45 characters, which is fine. Its line 'Island, beside the village of Tintagel on' ends on 'on' and makes a weak rag. Rebreak so 'on' moves to line 3. The body in 4-column measures is good. Tighten the headline's line gap by one baseline so 'Castle' sits closer to 'Tintagel'.",
+      "Type: the lead is set in the same blue and a heavy-ish weight close to the headline, so it competes. Drop it to regular weight, or set it in black at the same size, so the headline alone owns the blue.",
+      "Color: #012169 is used on both headline and lead, and nothing ties it to the photo. Since the idea is the sea, use the blue once more as a thin rule or field in the empty columns 1–4 near rows 10–12, or keep it only on the headline. Right now the accent spreads over 8 columns at the top and never reaches the left-hand 'sea'."
+    ],
+    "summary": "A tidy, correctly hung layout with a sensible headline–lead–body order. The stated idea of a tiny point at the lower left with open sea around it is only half-delivered: the empty columns 1–4 read as unused rather than as sea. The three-row dead band in rows 8–10 and the loose label above the photo weaken the grid. Close the vertical gaps, fix the lead's rag and weight, and make the blue or the photo carry the sea idea.",
+    "mean": 6.2
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.8,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 5
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 5.8,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 5
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#012169",
+      "accent": "#1D1D1B",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Tintagel Castle",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Cornwall",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "32 / 35",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Tintagel Castle"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Cornwall"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 5,
+        "cs": 8,
+        "r": 2,
+        "rs": 4,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Tintagel\nCastle"
+      },
+      {
+        "id": "el-2",
+        "name": "lead",
+        "kind": "text",
+        "c": 5,
+        "cs": 8,
+        "r": 6,
+        "rs": 2,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "A medieval fortification on Tintagel Island, beside the village of Tintagel on the Atlantic coast of North Cornwall.",
+        "style": "lead"
+      },
+      {
+        "id": "el-3",
+        "name": "body-history",
+        "kind": "text",
+        "c": 5,
+        "cs": 4,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Richard, 1st Earl of Cornwall, built a castle here in the 13th century. It later fell into disrepair and ruin.",
+        "style": "body"
+      },
+      {
+        "id": "el-4",
+        "name": "body-legend",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "The castle is associated with the legends of King Arthur. Geoffrey of Monmouth claimed it as the place of Arthur's conception.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "photo-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 2,
+        "r": 10,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Cornwall"
+      },
+      {
+        "id": "el-6",
+        "name": "photo-ruins",
+        "kind": "photo",
+        "c": 1,
+        "cs": 2,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/tintagel-castle/own-tintagel-castle.jpg",
+        "zoom": 1.6,
+        "focus": [
+          0.6,
+          0.45
+        ]
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/032-tintagel-castle/v1.png"
+}

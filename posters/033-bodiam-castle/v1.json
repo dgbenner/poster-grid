@@ -1,0 +1,638 @@
+{
+  "pin_id": "bodiam-castle",
+  "number": 33,
+  "series": "original",
+  "created_at": "2026-10-11T23:22:02.016Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "The castle is small in its moat and the county around it is large, so East Sussex fills the page and Bodiam sits small below it, with open land between."
+  },
+  "title": "East Sussex — Bodiam Castle",
+  "place": {
+    "town": "Rother",
+    "locality": null,
+    "county": "East Sussex",
+    "adminArea": "East Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.0022632&lon=0.5432201&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Bodiam, Ewhurst Green, Rother, East Sussex, England, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#012169",
+      "role": "headline"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#ACCD56",
+      "source": "photo 4",
+      "light": 1.5,
+      "dark": 10
+    },
+    {
+      "hex": "#89B8EA",
+      "source": "photo 3",
+      "light": 1.7,
+      "dark": 8.7
+    },
+    {
+      "hex": "#746E52",
+      "source": "photo 0",
+      "light": 4.3,
+      "dark": 3.5
+    },
+    {
+      "hex": "#E1D3A5",
+      "source": "photo 4",
+      "light": 1.2,
+      "dark": 12.1
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "county",
+      "text": "EAST\nSUSSEX"
+    },
+    {
+      "element": "place-label",
+      "text": "Bodiam Castle · Rother"
+    },
+    {
+      "element": "lead",
+      "text": "A moated castle near Robertsbridge, built in 1385 by Sir Edward Dalyngrigge."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Bodiam_Castle"
+  ],
+  "photos": [
+    {
+      "kind": "personal",
+      "file": "data/images/bodiam-castle/own-bodiam-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bodiam-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#746e52",
+            "share": 0.29
+          },
+          {
+            "hex": "#a4a4aa",
+            "share": 0.286
+          },
+          {
+            "hex": "#8b8c7a",
+            "share": 0.155
+          },
+          {
+            "hex": "#4a4d3a",
+            "share": 0.146
+          },
+          {
+            "hex": "#ddc1af",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#ddc1af"
+      },
+      "credit": "Waypoints photo, personal use"
+    }
+  ],
+  "images_used": [
+    "data/images/bodiam-castle/own-bodiam-castle.jpg"
+  ],
+  "elements": [
+    {
+      "name": "county",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 5,
+      "text": "EAST\nSUSSEX",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "castle-photo",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1.3,
+      "focus_x": 0.48,
+      "focus_y": 0.55,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "place-label",
+      "kind": "label",
+      "col": 7,
+      "col_span": 6,
+      "row": 10,
+      "row_span": 1,
+      "text": "Bodiam Castle · Rother",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 7,
+      "col_span": 5,
+      "row": 11,
+      "row_span": 2,
+      "text": "A moated castle near Robertsbridge, built in 1385 by Sir Edward Dalyngrigge.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 7,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The idea reads: the headline spans 12 of 12 columns across rows 2–6, the photo holds 4 columns in rows 10–12, and rows 7–9 stay empty as the 'open land'. Keep that empty band. To make the castle feel smaller in its moat, cut the photo to columns 1–3 and rows 11–12 so it is lighter against the 12-column county.",
+      "The lead runs columns 7–11 and splits 'Robertsbridge,' / '1385 by Sir Edward' unevenly, leaving a ragged right edge. Widen it to columns 7–12, or step the size down one notch so it sets in 3 lines within rows 11–12 and its last baseline lands on the photo's bottom edge in row 12.",
+      "The place-label sits at the top of row 10 while the lead starts low in row 11, leaving a loose gap of about one row between them. Move the label to the last baseline of row 10, or start the lead on the first baseline of row 11, so the label and lead read as one unit.",
+      "Columns 5–6 between the photo and the text block are an empty gutter module. That gap separates two halves that belong to the same castle. Either start the label and lead at column 6 to close it, or keep it and align the label's cap height exactly with the photo's top edge in row 10, so the two blocks are tied across the gap.",
+      "The headline's 'EAST' ends near column 8 and 'SUSSEX' fills to column 12. That is fine, but the S of 'SUSSEX' optically overhangs the column 1 edge. Nudge it so the stems of E and S align on column 1.",
+      "Colour: the navy #012169 appears only in the headline and the label. The photo's warm stone and pink sky sit apart from it. Consider keeping the label black so the navy belongs only to the county, which strengthens the county-versus-castle contrast."
+    ],
+    "summary": "This poster is a clear, honest take on the idea: a full-width county, an empty band across rows 7–9, and a small castle below. The lower zone needs tightening. Shrink the photo to 3 columns, set the lead cleanly across columns 7–12 aligned to the photo base, and close the gap between the label and the lead.",
+    "mean": 6.8
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.2,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.4,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.8,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#012169",
+      "accent": "#1D1D1B",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "East Sussex — Bodiam Castle",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "East Sussex",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "33 / 35",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Bodiam Castle"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "East Sussex"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "county",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 5,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "EAST\nSUSSEX"
+      },
+      {
+        "id": "el-2",
+        "name": "castle-photo",
+        "kind": "photo",
+        "c": 1,
+        "cs": 4,
+        "r": 10,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/bodiam-castle/own-bodiam-castle.jpg",
+        "zoom": 1.3,
+        "focus": [
+          0.48,
+          0.55
+        ]
+      },
+      {
+        "id": "el-3",
+        "name": "place-label",
+        "kind": "label",
+        "c": 7,
+        "cs": 6,
+        "r": 10,
+        "rs": 1,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Bodiam Castle · Rother"
+      },
+      {
+        "id": "el-4",
+        "name": "lead",
+        "kind": "text",
+        "c": 7,
+        "cs": 5,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A moated castle near Robertsbridge, built in 1385 by Sir Edward Dalyngrigge.",
+        "style": "lead"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/033-bodiam-castle/v1.png"
+}

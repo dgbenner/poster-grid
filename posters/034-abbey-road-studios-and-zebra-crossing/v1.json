@@ -1,0 +1,1031 @@
+{
+  "pin_id": "abbey-road-studios-and-zebra-crossing",
+  "number": 34,
+  "series": "original",
+  "created_at": "2026-10-11T23:24:00.012Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "nearby",
+    "sentence": "Abbey Road is one stop on a short London walk, so the studio sits above a list of its nearest pins and a map dot showing where it falls in Greater London."
+  },
+  "title": "Abbey Road",
+  "place": {
+    "town": "London",
+    "locality": "St. John's Wood",
+    "county": "Greater London",
+    "adminArea": null,
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": "Westminster",
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.531988&lon=-0.178226&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "St. John's Wood, City of Westminster, Greater London, England, NW8 9JG, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#C8102E",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#93713E",
+      "source": "photo 3",
+      "light": 3.7,
+      "dark": 4
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Abbey Road"
+    },
+    {
+      "element": "place-label",
+      "text": "St John's Wood · City of Westminster"
+    },
+    {
+      "element": "lead",
+      "text": "A music recording studio at 3 Abbey Road, established in November 1931 by the Gramophone Company."
+    },
+    {
+      "element": "nearby-label",
+      "text": "Nearby pins"
+    },
+    {
+      "element": "county-label",
+      "text": "Greater London"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Abbey_Road_Studios",
+    "https://en.wikipedia.org/wiki/City_of_Westminster"
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/abbey-road-studios-and-zebra-crossing/commons-3.jpg",
+      "title": "File:Abbey road studios.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Abbey_road_studios.jpg",
+      "author": "portum",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "width": 1512,
+      "height": 1134,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5b5d61",
+            "share": 0.235
+          },
+          {
+            "hex": "#f0f2f6",
+            "share": 0.227
+          },
+          {
+            "hex": "#c1c5cb",
+            "share": 0.212
+          },
+          {
+            "hex": "#858b91",
+            "share": 0.205
+          },
+          {
+            "hex": "#161517",
+            "share": 0.121
+          }
+        ],
+        "strongest": null
+      },
+      "credit": "portum, CC BY-SA 3.0"
+    }
+  ],
+  "images_used": [
+    "data/images/abbey-road-studios-and-zebra-crossing/commons-3.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 3,
+      "text": "Abbey Road",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "studio-photo",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 7,
+      "row": 5,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 2,
+      "zoom": 1.1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "place-label",
+      "kind": "label",
+      "col": 8,
+      "col_span": 5,
+      "row": 5,
+      "row_span": 1,
+      "text": "St John's Wood · City of Westminster",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 8,
+      "col_span": 5,
+      "row": 6,
+      "row_span": 3,
+      "text": "A music recording studio at 3 Abbey Road, established in November 1931 by the Gramophone Company.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "nearby-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 7,
+      "row": 10,
+      "row_span": 1,
+      "text": "Nearby pins",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "nearby-list",
+      "kind": "list",
+      "col": 1,
+      "col_span": 7,
+      "row": 11,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": [
+        "camden",
+        "ziggy-stardust-plaque",
+        "british-museum"
+      ],
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county-label",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 1,
+      "text": "Greater London",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "pinfield",
+      "kind": "pinfield",
+      "col": 9,
+      "col_span": 4,
+      "row": 11,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": "accent",
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 7
+    },
+    "notes": [
+      "The headline is set across all 12 columns, but its glyphs end around the top third of row 4. The rest of row 4 is a dead strip above the photo. Either scale the headline so its descenders sit on the row 4 baseline, or end the headline at row 3 and start the photo and lead at row 4. That moves the whole middle band up one module and frees row 9 for breathing room.",
+      "The nearby-list is allotted rows 11–12, but its three lines sit at the very bottom of row 11. That leaves an empty module between the 'Nearby pins' label in row 10 and the list. Hang the list from the top of row 11 so the label and list read as one unit, and let the leftover space fall to row 12.",
+      "The distances are right-aligned at the edge of column 7, while the names end around column 4. That leaves a 3-column gap the eye has to jump across. Narrow the list to columns 1–5, with names in columns 1–4 and km right-aligned in column 5. Columns 6–7 become an intentional empty module under the photo's right edge.",
+      "The 'Greater London' label starts at column 9, but the pin cloud floats in columns 10–11 and is centred vertically in rows 11–12. Left-align the pinfield's bounding box to column 9 and top-align it to row 11 so map and label share an edge. Then scale the field to fill columns 9–12: at the current size the dots are specks and the red Abbey Road dot reads as a blot.",
+      "Column 8 is empty in rows 10–12 but filled by the lead in rows 5–8. That shifts the lower band's right-hand start from column 8 to column 9 for no reason. Start the county-label and pinfield at column 8 to match the lead above (columns 8–12), so the right side keeps one vertical edge from row 5 to row 12.",
+      "The lead runs about 28 pt across 5 columns, giving 5 lines that fill rows 6–8. The rag is decent, but 'Road,' pushes almost to the column 12 edge while 'established in' leaves a deep hole. Drop the lead one size so it sits in rows 6–7 at roughly 4 lines, with a smoother rag. Row 8 then becomes the empty module that separates it from the photo's bottom.",
+      "The place-label in row 5 aligns to the top of the photo, which is good. But the lead starts a full module lower, so the label floats. Either set the lead on the row 5 baseline directly under the label, with one baseline between them, or move the label down to sit on the lead.",
+      "The small red numbered square in the bottom-left corner of the photo (column 1, row 9) is a fifth use of the accent. It reads as a stray mark on the car. Remove it, or tie it explicitly to the '01–03' numbering system. Keep red to the place-label, list numerals and the map dot.",
+      "The idea is 'one stop on a walk', but nothing shows sequence or route. The list is just three distances and the map is a scatter. Give the list a 'previous / next stop' framing, or draw the walk line in the pinfield across columns 8–12. That way the lower band, rows 10–12, earns the walk concept instead of reading as generic metadata."
+    ],
+    "summary": "This is a clean, mostly well-ordered poster with a strong 12-column headline and a solid photo-and-lead pair in rows 5–9. The lower band (rows 10–12) is the weak part. The list sits a module low and is spread too wide across 7 columns. The pinfield is undersized and off the column 9 edge, and column 8 breaks the right-hand alignment set by the lead. Tighten those spans and pull the headline gap out of row 4, and this reaches a keepable 7 across the board.",
+    "mean": 6.4
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "nearby",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#1D1D1B",
+      "accent": "#C8102E",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Abbey Road",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater London · Westminster",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "34 / 35",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Abbey Road Studios and Zebra Crossing"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater London · Westminster"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Personal"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "portum, CC BY-SA 3.0"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Abbey Road"
+      },
+      {
+        "id": "el-2",
+        "name": "studio-photo",
+        "kind": "photo",
+        "c": 1,
+        "cs": 7,
+        "r": 5,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 2,
+        "src": "../data/images/abbey-road-studios-and-zebra-crossing/commons-3.jpg",
+        "zoom": 1.1,
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-3",
+        "name": "place-label",
+        "kind": "label",
+        "c": 8,
+        "cs": 5,
+        "r": 5,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "St John's Wood · City of Westminster"
+      },
+      {
+        "id": "el-4",
+        "name": "lead",
+        "kind": "text",
+        "c": 8,
+        "cs": 5,
+        "r": 6,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A music recording studio at 3 Abbey Road, established in November 1931 by the Gramophone Company.",
+        "style": "lead"
+      },
+      {
+        "id": "el-5",
+        "name": "nearby-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 7,
+        "r": 10,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Nearby pins"
+      },
+      {
+        "id": "el-6",
+        "name": "nearby-list",
+        "kind": "list",
+        "c": 1,
+        "cs": 7,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "items": [
+          {
+            "id": "camden",
+            "n": "01",
+            "name": "Camden",
+            "km": "2.6 km"
+          },
+          {
+            "id": "ziggy-stardust-plaque",
+            "n": "02",
+            "name": "Ziggy Stardust Plaque",
+            "km": "3.6 km"
+          },
+          {
+            "id": "british-museum",
+            "n": "03",
+            "name": "British Museum",
+            "km": "3.8 km"
+          }
+        ]
+      },
+      {
+        "id": "el-7",
+        "name": "county-label",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 10,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Greater London"
+      },
+      {
+        "id": "el-8",
+        "name": "pinfield",
+        "kind": "pinfield",
+        "c": 9,
+        "cs": 4,
+        "r": 11,
+        "rs": 2,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            51.531988,
+            -0.178226
+          ],
+          "ring": [
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.4769,
+              -0.0005
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/034-abbey-road-studios-and-zebra-crossing/v1.png"
+}

@@ -2,6 +2,7 @@
 // PUT /grid/grid.json from the lab, and runs the two local-only poster actions:
 //   POST /api/revise   { id, version, feedback }  makes a new version; streams progress
 //   POST /api/publish  { id, version }            chooses the version the site shows
+//   POST /api/swap     { id, source, version }    puts another series' version in this slot
 // Those need the Anthropic key in .env.local, so they exist only here, never on Pages.
 import { createServer } from 'node:http';
 import { readFile, writeFile } from 'node:fs/promises';
@@ -40,6 +41,28 @@ async function api(req, res, path) {
     } catch (err) { return send(400, { error: err.message }); }
   }
 
+  if (path === '/api/swap') {
+    if (!/^[a-z0-9-]+$/.test(body.source || '')) return send(400, { error: 'Bad source id' });
+    if (revising) return send(409, { error: `Busy with ${revising}` });
+    revising = body.id;
+    try {
+      const { swapIn } = await import('./lib/swap.mjs');
+      const { openRenderer } = await import('./lib/renderer.mjs');
+      const renderer = await openRenderer();
+      try {
+        const version = await swapIn({ source: body.source, version: body.version, target: body.id, renderer });
+        await buildIndex();
+        return send(200, { ok: true, version });
+      } finally {
+        await renderer.close();
+      }
+    } catch (err) {
+      return send(400, { error: err.message });
+    } finally {
+      revising = null;
+    }
+  }
+
   if (path === '/api/revise') {
     const feedback = String(body.feedback || '').trim();
     if (!feedback) return send(400, { error: 'Say what should change' });
@@ -51,7 +74,8 @@ async function api(req, res, path) {
     revising = body.id;
     try {
       const { revise } = await import('./lib/revise.mjs');
-      const out = await revise({ id: body.id, version: body.version ? Number(body.version) : null, feedback, onProgress: line });
+      const uploads = Array.isArray(body.images) ? body.images.filter(x => typeof x?.data === 'string').slice(0, 4) : [];
+      const out = await revise({ id: body.id, version: body.version ? Number(body.version) : null, feedback, uploads, onProgress: line });
       await buildIndex();
       line({ done: true, ...out });
     } catch (err) {

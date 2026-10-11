@@ -1,0 +1,18 @@
+{
+  "id": "031-arundel-castle",
+  "number": 31,
+  "series": "original",
+  "pin_id": "arundel-castle",
+  "published": 1,
+  "versions": [
+    {
+      "v": 1,
+      "created_at": "2026-10-11T23:19:13.538Z",
+      "feedback": null,
+      "from": null,
+      "mean": 6.8,
+      "followed": null,
+      "status": "below-bar"
+    }
+  ]
+}

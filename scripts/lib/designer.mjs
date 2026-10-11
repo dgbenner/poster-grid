@@ -137,7 +137,7 @@ export async function designBrief({ enrich, gridCfg, allowedIdeas, candidates, s
     `Colour candidates (contrast on light paper / dark paper): ${candidates.map(c => `${c.hex} from ${c.source} (${c.light} / ${c.dark})`).join('; ')}`,
     '',
     `Images (attached below in this order; index, kind, size, whether a poster of this place has used it):`,
-    ...imgs.map((im, i) => `${i}: ${im.kind === 'personal' ? "Dan's own Waypoints photo" : `Commons, ${im.title?.replace(/^File:/, '')}`}${im.width ? `, ${im.width}×${im.height}` : ''}, ${usedImages.has(im.file) ? 'used before' : 'not used yet'}`),
+    ...imgs.map((im, i) => `${i}: ${im.kind === 'upload' ? 'uploaded by Dan with his feedback' : im.kind === 'personal' ? "Dan's own Waypoints photo" : `Commons, ${im.title?.replace(/^File:/, '')}`}${im.width ? `, ${im.width}×${im.height}` : ''}, ${usedImages.has(im.file) ? 'used before' : 'not used yet'}`),
   ];
   content.push({ type: 'text', text: lines.filter(l => l !== '').join('\n').replace(/\n{3,}/g, '\n\n') });
   for (const [i, im] of imgs.entries()) {
@@ -150,7 +150,7 @@ export async function designBrief({ enrich, gridCfg, allowedIdeas, candidates, s
 
 // A new version from Dan's words: the same brief, plus the current version as data and
 // as an image, the critic's notes on it, and the feedback.
-export async function reviseBrief({ brief, current, png, feedback }) {
+export async function reviseBrief({ brief, current, png, feedback, uploads = [] }) {
   const data = (await sharp(png).resize(1000, 1414, { fit: 'inside' }).png().toBuffer()).toString('base64');
   const { idea, title, pairing, paper, colors, elements } = current;
   return [
@@ -159,7 +159,7 @@ export async function reviseBrief({ brief, current, png, feedback }) {
     { type: 'text', text: 'The current version, rendered:' },
     { type: 'image', source: { type: 'base64', media_type: 'image/png', data } },
     { type: 'text', text: `The critic's notes on it:\n${(current.critic?.notes || []).map(n => `- ${n}`).join('\n') || '(none)'}` },
-    { type: 'text', text: `Dan's feedback, which this version must follow:\n"${feedback}"\n\nMake a new version that does what Dan asks. Keep what he did not ask to change unless it must move to make room. Facts, image licences and grid rules are unchanged. Return the whole design.` },
+    { type: 'text', text: `Dan's feedback, which this version must follow:\n"${feedback}"${uploads.length ? `\n\nDan attached ${uploads.length} image${uploads.length > 1 ? 's' : ''} with it: image${uploads.length > 1 ? 's' : ''} ${uploads.join(', ')} in the list above. Use them as his words say: as a photo on the poster, or as a reference for the look.` : ''}\n\nMake a new version that does what Dan asks. Keep what he did not ask to change unless it must move to make room. Facts, image licences and grid rules are unchanged. Return the whole design.` },
   ];
 }
 

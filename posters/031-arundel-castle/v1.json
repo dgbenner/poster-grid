@@ -1,0 +1,1105 @@
+{
+  "pin_id": "arundel-castle",
+  "number": 31,
+  "series": "original",
+  "created_at": "2026-10-11T23:19:13.530Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "closer",
+    "sentence": "The castle sits inside a storybook town, so three views step down and across the grid, each larger and closer: the town from the air, then the quadrangle and its walls, then the keep on its motte."
+  },
+  "title": "Arundel Castle",
+  "place": {
+    "town": "Arun",
+    "locality": "Arundel",
+    "county": "West Sussex",
+    "adminArea": "West Sussex",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=50.856&lon=-0.554&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Arundel, Arun, West Sussex, England, United Kingdom"
+  },
+  "pairing": "archivo",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#344618",
+      "role": "headline"
+    },
+    {
+      "hex": "#C8102E",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#4D6308",
+      "source": "photo 4",
+      "light": 5.6,
+      "dark": 2.7
+    },
+    {
+      "hex": "#83C1F6",
+      "source": "photo 3",
+      "light": 1.6,
+      "dark": 9.4
+    },
+    {
+      "hex": "#344618",
+      "source": "photo 1",
+      "light": 8.6,
+      "dark": 1.8
+    },
+    {
+      "hex": "#808266",
+      "source": "photo 1",
+      "light": 3.3,
+      "dark": 4.6
+    },
+    {
+      "hex": "#CAAF83",
+      "source": "photo 4",
+      "light": 1.7,
+      "dark": 8.6
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Arundel"
+    },
+    {
+      "element": "category-label",
+      "text": "Heritage · Castle"
+    },
+    {
+      "element": "lead",
+      "text": "A medieval castle, established by Roger de Montgomery in the 11th century."
+    },
+    {
+      "element": "body",
+      "text": "Damaged in the English Civil War, it was restored by the 11th Duke of Norfolk."
+    },
+    {
+      "element": "county-label",
+      "text": "West Sussex · England"
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Arundel_Castle"
+  ],
+  "photos": [
+    {
+      "kind": "personal",
+      "file": "data/images/arundel-castle/own-arundel-castle.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/arundel-castle.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#546129",
+            "share": 0.23
+          },
+          {
+            "hex": "#9e998e",
+            "share": 0.209
+          },
+          {
+            "hex": "#314218",
+            "share": 0.207
+          },
+          {
+            "hex": "#7a7e5d",
+            "share": 0.205
+          },
+          {
+            "hex": "#dfe2ec",
+            "share": 0.149
+          }
+        ],
+        "strongest": "#314218"
+      },
+      "credit": "Waypoints photo, personal use"
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/arundel-castle/commons-4.jpg",
+      "title": "File:Arundel Castle - motte and quadrangle, England (18 April 2006).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arundel_Castle_-_motte_and_quadrangle,_England_(18_April_2006).jpg",
+      "author": "The original uploader was 98octane at English Wikipedia.",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "width": 1200,
+      "height": 900,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#4d6308",
+            "share": 0.253
+          },
+          {
+            "hex": "#e2e8e8",
+            "share": 0.25
+          },
+          {
+            "hex": "#242711",
+            "share": 0.245
+          },
+          {
+            "hex": "#caaf83",
+            "share": 0.147
+          },
+          {
+            "hex": "#6c6240",
+            "share": 0.106
+          }
+        ],
+        "strongest": "#4d6308"
+      },
+      "credit": "The original uploader was 98octane at English Wikipedia., CC BY 2.5"
+    }
+  ],
+  "images_used": [
+    "data/images/arundel-castle/own-arundel-castle.jpg",
+    "data/images/arundel-castle/commons-4.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 9,
+      "row": 2,
+      "row_span": 2,
+      "text": "Arundel",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "category-label",
+      "kind": "label",
+      "col": 10,
+      "col_span": 3,
+      "row": 3,
+      "row_span": 1,
+      "text": "Heritage · Castle",
+      "style": null,
+      "color": "accent",
+      "align": "right",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-1-town",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 4,
+      "row": 4,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": "1",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 6,
+      "col_span": 6,
+      "row": 4,
+      "row_span": 2,
+      "text": "A medieval castle, established by Roger de Montgomery in the 11th century.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-2-quadrangle",
+      "kind": "photo",
+      "col": 3,
+      "col_span": 6,
+      "row": 6,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 4,
+      "zoom": 1,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "tag": "2",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 1,
+      "text": "Damaged in the English Civil War, it was restored by the 11th Duke of Norfolk.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "pinfield",
+      "kind": "pinfield",
+      "col": 1,
+      "col_span": 4,
+      "row": 9,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": "accent",
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "view-3-keep",
+      "kind": "photo",
+      "col": 5,
+      "col_span": 8,
+      "row": 9,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 4,
+      "zoom": 2.2,
+      "focus_x": 0.5,
+      "focus_y": 0.3,
+      "tag": "3",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county-label",
+      "kind": "label",
+      "col": 1,
+      "col_span": 4,
+      "row": 12,
+      "row_span": 1,
+      "text": "West Sussex · England",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 7,
+      "hierarchy": 6,
+      "type": 7,
+      "color": 7
+    },
+    "notes": [
+      "The staircase works: view 1 spans 4 columns over 2 rows, view 2 spans 6 columns over 3 rows, view 3 spans 8 columns over 4 rows. The left edges step 1, 3, 5, so each image moves two columns right as it grows. Keep this progression. To make it read as one diagonal, end view 2 at column 8 so its right edge touches the column view 3 starts at (5). Better still, move view 2 to columns 3–8 and view 3 to 7–12 so all three steps are equal.",
+      "View 3 is image 4 cropped at 2.2×, the same source as view 2. The idea promises three distinct views, but the keep shot repeats the quadrangle photo, enlarged. Either use a separate keep photograph in columns 5–12, rows 9–12, or crop tighter on the motte so the zoom reads as intended rather than duplicated.",
+      "The headline spans 9 of 12 columns across rows 2–3, and the category label floats at columns 10–12 on row 3. Drop the label to sit on the headline's baseline at the bottom of row 3 rather than mid-cap-height, so the two share a line.",
+      "The lead in columns 6–11, rows 4–5 sets at 3 lines and leaves column 12 and part of row 5 empty. Start it at column 6 to align with view 3's start at column 5 instead, or move it to columns 5–10. Then the text column and the large photo share one vertical edge and the right side is not a sixth unrelated axis.",
+      "The body sits in columns 9–12 on row 8, hanging off view 2's bottom right. Align its last baseline to view 2's bottom edge, which it nearly does. Also widen it to start at column 9's left edge exactly, since it currently reads indented a few points.",
+      "The pinfield fills columns 1–4, rows 9–11, but its dots cluster in columns 2–3, leaving column 1 and the top of row 9 visually empty. Either scale the field to the full 4-column width or give it a frame so it reads as a module and not scatter. The county label on row 12 is correctly placed under it.",
+      "Hierarchy runs headline, then the large keep, then the lead, so the eye jumps from the top straight to the bottom right. Step the lead up a size or tighten the top block so the aerial view and lead read as one unit before the descent begins.",
+      "Colour is sound: the olive #344618 headline echoes the lawns in all three photos, and the red #C8102E is held to the label, the number boxes and the pin. Keep the red that sparse; the number boxes could drop their dark fill for paper so the red outline carries alone."
+    ],
+    "summary": "A clear, worthwhile idea: three photos stepping down and across the grid, each two columns wider. The grid largely delivers it. To make it publishable, fix the repeated source image in view 3, align the lead's left edge to the photo columns, and make the right edges of the staircase step evenly so the diagonal is exact.",
+    "mean": 6.8
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "closer",
+      "mean": 6.4,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.8,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "archivo",
+      "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+      "headline": {
+        "family": "Archivo Narrow",
+        "weight": 500
+      },
+      "text": {
+        "family": "Source Serif 4",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Archivo+Narrow:wght@400;500;600",
+        "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#344618",
+      "accent": "#C8102E",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Arundel Castle",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "West Sussex",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "31 / 35",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Arundel Castle"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "West Sussex"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Credits below"
+      },
+      {
+        "id": "credits",
+        "name": "Footer: credits",
+        "kind": "credits",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1,
+        "text": "\n\n\nPhotos: Waypoints photo, personal use; The original uploader was 98octane at English Wikipedia., CC BY 2.5"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 9,
+        "r": 2,
+        "rs": 2,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "Arundel"
+      },
+      {
+        "id": "el-2",
+        "name": "category-label",
+        "kind": "label",
+        "c": 10,
+        "cs": 3,
+        "r": 3,
+        "rs": 1,
+        "color": "accent",
+        "align": "right",
+        "over": false,
+        "text": "Heritage · Castle"
+      },
+      {
+        "id": "el-3",
+        "name": "view-1-town",
+        "kind": "photo",
+        "c": 1,
+        "cs": 4,
+        "r": 4,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/arundel-castle/own-arundel-castle.jpg",
+        "zoom": 1,
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-4",
+        "name": "lead",
+        "kind": "text",
+        "c": 6,
+        "cs": 6,
+        "r": 4,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A medieval castle, established by Roger de Montgomery in the 11th century.",
+        "style": "lead"
+      },
+      {
+        "id": "el-5",
+        "name": "view-2-quadrangle",
+        "kind": "photo",
+        "c": 3,
+        "cs": 6,
+        "r": 6,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 4,
+        "src": "../data/images/arundel-castle/commons-4.jpg",
+        "zoom": 1,
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "tag": "2"
+      },
+      {
+        "id": "el-6",
+        "name": "body",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 8,
+        "rs": 1,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Damaged in the English Civil War, it was restored by the 11th Duke of Norfolk.",
+        "style": "body"
+      },
+      {
+        "id": "el-7",
+        "name": "pinfield",
+        "kind": "pinfield",
+        "c": 1,
+        "cs": 4,
+        "r": 9,
+        "rs": 3,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            50.856,
+            -0.554
+          ],
+          "ring": [
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              51.1091,
+              -0.1872
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-8",
+        "name": "view-3-keep",
+        "kind": "photo",
+        "c": 5,
+        "cs": 8,
+        "r": 9,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 4,
+        "src": "../data/images/arundel-castle/commons-4.jpg",
+        "zoom": 2.2,
+        "focus": [
+          0.5,
+          0.3
+        ],
+        "tag": "3"
+      },
+      {
+        "id": "el-9",
+        "name": "county-label",
+        "kind": "label",
+        "c": 1,
+        "cs": 4,
+        "r": 12,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "West Sussex · England"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/031-arundel-castle/v1.png"
+}

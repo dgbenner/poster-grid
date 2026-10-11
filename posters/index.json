@@ -1,10 +1,10 @@
 {
-  "total": 30,
+  "total": 35,
   "series": {
     "original": "Original"
   },
   "totals": {
-    "original": 30
+    "original": 35
   },
   "posters": [
     {
@@ -32,6 +32,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Salford Lads Club",
       "status": "below-bar",
       "place": {
@@ -176,6 +177,26 @@
           "status": "below-bar"
         }
       ],
+      "related": [
+        {
+          "id": "serif-003-macclesfield-ian-curtis",
+          "series": "serif",
+          "seriesName": "Serif",
+          "number": 3,
+          "hidden": true,
+          "versions": [
+            {
+              "v": 1,
+              "created_at": "2026-10-11T23:03:06.549Z",
+              "feedback": null,
+              "from": null,
+              "mean": 6.6,
+              "followed": null,
+              "status": "below-bar"
+            }
+          ]
+        }
+      ],
       "title": "Macclesfield — Ian Curtis",
       "status": "below-bar",
       "place": {
@@ -316,6 +337,26 @@
           "status": "pass"
         }
       ],
+      "related": [
+        {
+          "id": "serif-001-battersea-power-station",
+          "series": "serif",
+          "seriesName": "Serif",
+          "number": 1,
+          "hidden": true,
+          "versions": [
+            {
+              "v": 1,
+              "created_at": "2026-10-11T22:44:25.278Z",
+              "feedback": null,
+              "from": null,
+              "mean": 6.6,
+              "followed": null,
+              "status": "below-bar"
+            }
+          ]
+        }
+      ],
       "title": "Battersea Power Station",
       "status": "pass",
       "place": {
@@ -429,6 +470,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Bamburgh",
       "status": "below-bar",
       "place": {
@@ -561,6 +603,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Beachy Head",
       "status": "below-bar",
       "place": {
@@ -698,6 +741,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "The Black Friar, City of London",
       "status": "below-bar",
       "place": {
@@ -833,6 +877,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Bletchley Park",
       "status": "below-bar",
       "place": {
@@ -982,6 +1027,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Castle Combe, Wiltshire",
       "status": "below-bar",
       "place": {
@@ -1117,6 +1163,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "British Museum",
       "status": "below-bar",
       "place": {
@@ -1249,6 +1296,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Cerne Abbas Giant",
       "status": "below-bar",
       "place": {
@@ -1381,6 +1429,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Crawley",
       "status": "below-bar",
       "place": {
@@ -1514,6 +1563,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Goonhilly",
       "status": "below-bar",
       "place": {
@@ -1644,6 +1694,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Duxford",
       "status": "below-bar",
       "place": {
@@ -1775,6 +1826,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Kelvedon Hatch Secret Nuclear Bunker",
       "status": "below-bar",
       "place": {
@@ -1906,6 +1958,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Lake District",
       "status": "below-bar",
       "place": {
@@ -2045,6 +2098,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Little Solsbury Hill, Somerset",
       "status": "below-bar",
       "place": {
@@ -2171,6 +2225,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Liverpool",
       "status": "below-bar",
       "place": {
@@ -2308,6 +2363,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Merstham phone-box graveyard",
       "status": "below-bar",
       "place": {
@@ -2440,6 +2496,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Newcastle upon Tyne",
       "status": "below-bar",
       "place": {
@@ -2566,6 +2623,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Oxfordshire",
       "status": "below-bar",
       "place": {
@@ -2696,6 +2754,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Warwick Castle",
       "status": "below-bar",
       "place": {
@@ -2826,6 +2885,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Herefordshire, at the border",
       "status": "below-bar",
       "place": {
@@ -2956,6 +3016,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "The Shambles, York",
       "status": "below-bar",
       "place": {
@@ -3086,6 +3147,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Crooked House of Windsor",
       "status": "below-bar",
       "place": {
@@ -3216,6 +3278,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Haçienda",
       "status": "below-bar",
       "place": {
@@ -3337,6 +3400,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Hadrian's Wall, Northumberland",
       "status": "below-bar",
       "place": {
@@ -3464,6 +3528,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Jodrell Bank",
       "status": "below-bar",
       "place": {
@@ -3590,6 +3655,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "King's College Chapel, Cambridge",
       "status": "below-bar",
       "place": {
@@ -3720,6 +3786,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Museum of Witchcraft and Magic",
       "status": "below-bar",
       "place": {
@@ -3856,6 +3923,7 @@
           "status": "below-bar"
         }
       ],
+      "related": [],
       "title": "Stonehenge",
       "status": "below-bar",
       "place": {
@@ -3969,6 +4037,664 @@
       ],
       "image": "posters/030-stonehenge/v1.png",
       "created_at": "2026-10-11T03:37:12.203Z"
+    },
+    {
+      "id": "031-arundel-castle",
+      "number": 31,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-11T23:19:13.538Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.8,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "related": [],
+      "title": "Arundel Castle",
+      "status": "below-bar",
+      "place": {
+        "town": "Arun",
+        "county": "West Sussex",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "closer",
+        "sentence": "The castle sits inside a storybook town, so three views step down and across the grid, each larger and closer: the town from the air, then the quadrangle and its walls, then the keep on its motte."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#344618",
+          "role": "headline"
+        },
+        {
+          "hex": "#C8102E",
+          "role": "accent"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 7,
+          "hierarchy": 6,
+          "type": 7,
+          "color": 7
+        },
+        "mean": 6.8,
+        "notes": [
+          "The staircase works: view 1 spans 4 columns over 2 rows, view 2 spans 6 columns over 3 rows, view 3 spans 8 columns over 4 rows. The left edges step 1, 3, 5, so each image moves two columns right as it grows. Keep this progression. To make it read as one diagonal, end view 2 at column 8 so its right edge touches the column view 3 starts at (5). Better still, move view 2 to columns 3–8 and view 3 to 7–12 so all three steps are equal.",
+          "View 3 is image 4 cropped at 2.2×, the same source as view 2. The idea promises three distinct views, but the keep shot repeats the quadrangle photo, enlarged. Either use a separate keep photograph in columns 5–12, rows 9–12, or crop tighter on the motte so the zoom reads as intended rather than duplicated.",
+          "The headline spans 9 of 12 columns across rows 2–3, and the category label floats at columns 10–12 on row 3. Drop the label to sit on the headline's baseline at the bottom of row 3 rather than mid-cap-height, so the two share a line.",
+          "The lead in columns 6–11, rows 4–5 sets at 3 lines and leaves column 12 and part of row 5 empty. Start it at column 6 to align with view 3's start at column 5 instead, or move it to columns 5–10. Then the text column and the large photo share one vertical edge and the right side is not a sixth unrelated axis.",
+          "The body sits in columns 9–12 on row 8, hanging off view 2's bottom right. Align its last baseline to view 2's bottom edge, which it nearly does. Also widen it to start at column 9's left edge exactly, since it currently reads indented a few points.",
+          "The pinfield fills columns 1–4, rows 9–11, but its dots cluster in columns 2–3, leaving column 1 and the top of row 9 visually empty. Either scale the field to the full 4-column width or give it a frame so it reads as a module and not scatter. The county label on row 12 is correctly placed under it.",
+          "Hierarchy runs headline, then the large keep, then the lead, so the eye jumps from the top straight to the bottom right. Step the lead up a size or tighten the top block so the aerial view and lead read as one unit before the descent begins.",
+          "Colour is sound: the olive #344618 headline echoes the lawns in all three photos, and the red #C8102E is held to the label, the number boxes and the pin. Keep the red that sparse; the number boxes could drop their dark fill for paper so the red outline carries alone."
+        ],
+        "summary": "A clear, worthwhile idea: three photos stepping down and across the grid, each two columns wider. The grid largely delivers it. To make it publishable, fix the repeated source image in view 3, align the lead's left edge to the photo columns, and make the right edges of the staircase step evenly so the diagonal is exact."
+      },
+      "attempts": [
+        {
+          "idea": "closer",
+          "mean": 6.4,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.8,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 6,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.6,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Arundel"
+        },
+        {
+          "element": "category-label",
+          "text": "Heritage · Castle"
+        },
+        {
+          "element": "lead",
+          "text": "A medieval castle, established by Roger de Montgomery in the 11th century."
+        },
+        {
+          "element": "body",
+          "text": "Damaged in the English Civil War, it was restored by the 11th Duke of Norfolk."
+        },
+        {
+          "element": "county-label",
+          "text": "West Sussex · England"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Arundel_Castle"
+      ],
+      "photos": [
+        {
+          "credit": "Waypoints photo, personal use",
+          "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/arundel-castle.jpg",
+          "kind": "personal"
+        },
+        {
+          "credit": "The original uploader was 98octane at English Wikipedia., CC BY 2.5",
+          "source": "https://commons.wikimedia.org/wiki/File:Arundel_Castle_-_motte_and_quadrangle,_England_(18_April_2006).jpg",
+          "kind": "commons"
+        }
+      ],
+      "image": "posters/031-arundel-castle/v1.png",
+      "created_at": "2026-10-11T23:19:13.530Z"
+    },
+    {
+      "id": "032-tintagel-castle",
+      "number": 32,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-11T23:20:44.356Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.2,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "related": [],
+      "title": "Tintagel Castle",
+      "status": "below-bar",
+      "place": {
+        "town": "Tintagel",
+        "county": "Cornwall",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "location-decides-layout",
+        "sentence": "Tintagel lies near the narrow south-western tip of England, so its photo is a small point in the lowest left-hand cells, with the open left side standing for the sea around Cornwall."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#012169",
+          "role": "headline"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 6,
+          "color": 6
+        },
+        "mean": 6.2,
+        "notes": [
+          "Idea: the small photo in columns 1–2, rows 11–12 does read as a point at the lower left, but columns 1–4 are empty from row 2 to row 9 with nothing to say 'sea'. Either let the photo be the only thing in columns 1–4 and move the 'Cornwall' label into row 12 under it, or shift the photo one column further left by bleeding it to the margin so it reads as the tip of the land, not a stray thumbnail.",
+          "Grid: the headline and lead both hang from column 5 and the body splits 5–8 / 9–12, which is clean. Rows 8–10 are empty across columns 5–12. That gap is three full rows, so the lead floats. Move the lead down to rows 7–8 so the empty band shrinks to rows 9–10 and the page reads as two blocks, top and bottom.",
+          "Grid: the 'Cornwall' label sits in row 10 while the photo starts in row 11, leaving almost a full row between label and image. Move the label to the last baseline of row 10, or into the top of row 11 with the photo dropped one baseline, so the caption touches its picture.",
+          "Grid: the photo spans columns 1–2 and stops at the bottom of row 12, but the body text in columns 5–12 sets only three to four lines from the top of row 11. Align the first body baseline with the photo's top edge and let the body columns hang from the same line. They already nearly do, so lock them to the row 11 top baseline.",
+          "Hierarchy: headline, then lead, then body reads correctly. The photo at 2 of 12 columns is so small it drops below the body in weight. That suits the idea, but give it a clearer edge. Either crop it tighter to the bridge or lift its contrast so the point is legible at that size.",
+          "Type: the lead at roughly 3 baselines per line over 8 columns runs about 45 characters, which is fine. Its line 'Island, beside the village of Tintagel on' ends on 'on' and makes a weak rag. Rebreak so 'on' moves to line 3. The body in 4-column measures is good. Tighten the headline's line gap by one baseline so 'Castle' sits closer to 'Tintagel'.",
+          "Type: the lead is set in the same blue and a heavy-ish weight close to the headline, so it competes. Drop it to regular weight, or set it in black at the same size, so the headline alone owns the blue.",
+          "Color: #012169 is used on both headline and lead, and nothing ties it to the photo. Since the idea is the sea, use the blue once more as a thin rule or field in the empty columns 1–4 near rows 10–12, or keep it only on the headline. Right now the accent spreads over 8 columns at the top and never reaches the left-hand 'sea'."
+        ],
+        "summary": "A tidy, correctly hung layout with a sensible headline–lead–body order. The stated idea of a tiny point at the lower left with open sea around it is only half-delivered: the empty columns 1–4 read as unused rather than as sea. The three-row dead band in rows 8–10 and the loose label above the photo weaken the grid. Close the vertical gaps, fix the lead's rag and weight, and make the blue or the photo carry the sea idea."
+      },
+      "attempts": [
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.8,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.8,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Tintagel\nCastle"
+        },
+        {
+          "element": "lead",
+          "text": "A medieval fortification on Tintagel Island, beside the village of Tintagel on the Atlantic coast of North Cornwall."
+        },
+        {
+          "element": "body-history",
+          "text": "Richard, 1st Earl of Cornwall, built a castle here in the 13th century. It later fell into disrepair and ruin."
+        },
+        {
+          "element": "body-legend",
+          "text": "The castle is associated with the legends of King Arthur. Geoffrey of Monmouth claimed it as the place of Arthur's conception."
+        },
+        {
+          "element": "photo-label",
+          "text": "Cornwall"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Tintagel_Castle",
+        "https://en.wikipedia.org/wiki/Tintagel"
+      ],
+      "photos": [
+        {
+          "credit": "Waypoints photo, personal use",
+          "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/tintagel-castle.jpg",
+          "kind": "personal"
+        }
+      ],
+      "image": "posters/032-tintagel-castle/v1.png",
+      "created_at": "2026-10-11T23:20:44.353Z"
+    },
+    {
+      "id": "033-bodiam-castle",
+      "number": 33,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-11T23:22:02.020Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.8,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "related": [],
+      "title": "East Sussex — Bodiam Castle",
+      "status": "below-bar",
+      "place": {
+        "town": "Rother",
+        "county": "East Sussex",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "place-name-at-scale",
+        "sentence": "The castle is small in its moat and the county around it is large, so East Sussex fills the page and Bodiam sits small below it, with open land between."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#012169",
+          "role": "headline"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 7,
+          "hierarchy": 7,
+          "type": 6,
+          "color": 7
+        },
+        "mean": 6.8,
+        "notes": [
+          "The idea reads: the headline spans 12 of 12 columns across rows 2–6, the photo holds 4 columns in rows 10–12, and rows 7–9 stay empty as the 'open land'. Keep that empty band. To make the castle feel smaller in its moat, cut the photo to columns 1–3 and rows 11–12 so it is lighter against the 12-column county.",
+          "The lead runs columns 7–11 and splits 'Robertsbridge,' / '1385 by Sir Edward' unevenly, leaving a ragged right edge. Widen it to columns 7–12, or step the size down one notch so it sets in 3 lines within rows 11–12 and its last baseline lands on the photo's bottom edge in row 12.",
+          "The place-label sits at the top of row 10 while the lead starts low in row 11, leaving a loose gap of about one row between them. Move the label to the last baseline of row 10, or start the lead on the first baseline of row 11, so the label and lead read as one unit.",
+          "Columns 5–6 between the photo and the text block are an empty gutter module. That gap separates two halves that belong to the same castle. Either start the label and lead at column 6 to close it, or keep it and align the label's cap height exactly with the photo's top edge in row 10, so the two blocks are tied across the gap.",
+          "The headline's 'EAST' ends near column 8 and 'SUSSEX' fills to column 12. That is fine, but the S of 'SUSSEX' optically overhangs the column 1 edge. Nudge it so the stems of E and S align on column 1.",
+          "Colour: the navy #012169 appears only in the headline and the label. The photo's warm stone and pink sky sit apart from it. Consider keeping the label black so the navy belongs only to the county, which strengthens the county-versus-castle contrast."
+        ],
+        "summary": "This poster is a clear, honest take on the idea: a full-width county, an empty band across rows 7–9, and a small castle below. The lower zone needs tightening. Shrink the photo to 3 columns, set the lead cleanly across columns 7–12 aligned to the photo base, and close the gap between the label and the lead."
+      },
+      "attempts": [
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.2,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.4,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.8,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "county",
+          "text": "EAST\nSUSSEX"
+        },
+        {
+          "element": "place-label",
+          "text": "Bodiam Castle · Rother"
+        },
+        {
+          "element": "lead",
+          "text": "A moated castle near Robertsbridge, built in 1385 by Sir Edward Dalyngrigge."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Bodiam_Castle"
+      ],
+      "photos": [
+        {
+          "credit": "Waypoints photo, personal use",
+          "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/bodiam-castle.jpg",
+          "kind": "personal"
+        }
+      ],
+      "image": "posters/033-bodiam-castle/v1.png",
+      "created_at": "2026-10-11T23:22:02.016Z"
+    },
+    {
+      "id": "034-abbey-road-studios-and-zebra-crossing",
+      "number": 34,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-11T23:24:00.015Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.4,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "related": [],
+      "title": "Abbey Road",
+      "status": "below-bar",
+      "place": {
+        "town": "London",
+        "county": "Greater London",
+        "borough": "Westminster",
+        "country": "England"
+      },
+      "idea": {
+        "key": "nearby",
+        "sentence": "Abbey Road is one stop on a short London walk, so the studio sits above a list of its nearest pins and a map dot showing where it falls in Greater London."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#C8102E",
+          "role": "accent"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 6,
+          "color": 7
+        },
+        "mean": 6.4,
+        "notes": [
+          "The headline is set across all 12 columns, but its glyphs end around the top third of row 4. The rest of row 4 is a dead strip above the photo. Either scale the headline so its descenders sit on the row 4 baseline, or end the headline at row 3 and start the photo and lead at row 4. That moves the whole middle band up one module and frees row 9 for breathing room.",
+          "The nearby-list is allotted rows 11–12, but its three lines sit at the very bottom of row 11. That leaves an empty module between the 'Nearby pins' label in row 10 and the list. Hang the list from the top of row 11 so the label and list read as one unit, and let the leftover space fall to row 12.",
+          "The distances are right-aligned at the edge of column 7, while the names end around column 4. That leaves a 3-column gap the eye has to jump across. Narrow the list to columns 1–5, with names in columns 1–4 and km right-aligned in column 5. Columns 6–7 become an intentional empty module under the photo's right edge.",
+          "The 'Greater London' label starts at column 9, but the pin cloud floats in columns 10–11 and is centred vertically in rows 11–12. Left-align the pinfield's bounding box to column 9 and top-align it to row 11 so map and label share an edge. Then scale the field to fill columns 9–12: at the current size the dots are specks and the red Abbey Road dot reads as a blot.",
+          "Column 8 is empty in rows 10–12 but filled by the lead in rows 5–8. That shifts the lower band's right-hand start from column 8 to column 9 for no reason. Start the county-label and pinfield at column 8 to match the lead above (columns 8–12), so the right side keeps one vertical edge from row 5 to row 12.",
+          "The lead runs about 28 pt across 5 columns, giving 5 lines that fill rows 6–8. The rag is decent, but 'Road,' pushes almost to the column 12 edge while 'established in' leaves a deep hole. Drop the lead one size so it sits in rows 6–7 at roughly 4 lines, with a smoother rag. Row 8 then becomes the empty module that separates it from the photo's bottom.",
+          "The place-label in row 5 aligns to the top of the photo, which is good. But the lead starts a full module lower, so the label floats. Either set the lead on the row 5 baseline directly under the label, with one baseline between them, or move the label down to sit on the lead.",
+          "The small red numbered square in the bottom-left corner of the photo (column 1, row 9) is a fifth use of the accent. It reads as a stray mark on the car. Remove it, or tie it explicitly to the '01–03' numbering system. Keep red to the place-label, list numerals and the map dot.",
+          "The idea is 'one stop on a walk', but nothing shows sequence or route. The list is just three distances and the map is a scatter. Give the list a 'previous / next stop' framing, or draw the walk line in the pinfield across columns 8–12. That way the lower band, rows 10–12, earns the walk concept instead of reading as generic metadata."
+        ],
+        "summary": "This is a clean, mostly well-ordered poster with a strong 12-column headline and a solid photo-and-lead pair in rows 5–9. The lower band (rows 10–12) is the weak part. The list sits a module low and is spread too wide across 7 columns. The pinfield is undersized and off the column 9 edge, and column 8 breaks the right-hand alignment set by the lead. Tighten those spans and pull the headline gap out of row 4, and this reaches a keepable 7 across the board."
+      },
+      "attempts": [
+        {
+          "idea": "nearby",
+          "mean": 6.4,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "nearby",
+          "mean": 6,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "nearby",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Abbey Road"
+        },
+        {
+          "element": "place-label",
+          "text": "St John's Wood · City of Westminster"
+        },
+        {
+          "element": "lead",
+          "text": "A music recording studio at 3 Abbey Road, established in November 1931 by the Gramophone Company."
+        },
+        {
+          "element": "nearby-label",
+          "text": "Nearby pins"
+        },
+        {
+          "element": "county-label",
+          "text": "Greater London"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Abbey_Road_Studios",
+        "https://en.wikipedia.org/wiki/City_of_Westminster"
+      ],
+      "photos": [
+        {
+          "credit": "portum, CC BY-SA 3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Abbey_road_studios.jpg",
+          "kind": "commons"
+        }
+      ],
+      "image": "posters/034-abbey-road-studios-and-zebra-crossing/v1.png",
+      "created_at": "2026-10-11T23:24:00.012Z"
+    },
+    {
+      "id": "035-lindisfarne-castle",
+      "number": 35,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-11T23:26:01.462Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.6,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "related": [],
+      "title": "Lindisfarne Castle",
+      "status": "below-bar",
+      "place": {
+        "town": "Holy Island",
+        "county": "Northumberland",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "location-decides-layout",
+        "sentence": "Holy Island lies at the very top of England, so the castle hangs from the top row of the page, on the same line as its pin on the map."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#495516",
+          "role": "accent"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 7,
+          "color": 7
+        },
+        "mean": 6.6,
+        "notes": [
+          "Idea: the Holy Island pin sits roughly on the photo's top edge in row 2, so the link is there, but it reads as coincidence. Snap the pin's centre exactly to the photo's top edge at the top of row 2. Then run a hairline in #495516 from the pin across columns 4–6 to the photo, so the 'hanging' is visible rather than implied.",
+          "Pinfield: the dots only occupy roughly columns 2–5 of the 6-column span, and the lowest stray dot falls into row 6 beside the label. Scale the map so the field fills columns 1–6 edge to edge and ends at the bottom of row 5 with the photo. Row 6 then belongs to the label alone.",
+          "Highlighted pin: the accent pin is barely larger than the grey dots, so a reader cannot find the point the idea rests on. Enlarge it to about twice the size of the other pins, or keep the other pins at a lighter grey, so it reads first within columns 1–6.",
+          "Row 7: this row is fully empty and splits the page into two unrelated halves. Keep it empty, but push the headline up so its cap height starts at the top of row 8 exactly. At present the descender-free word floats with uneven space above (row 7) and below (before row 10).",
+          "Lead and causeway: both start in row 10, but their first baselines differ by about one baseline. Hang both first lines on the same baseline at the top of row 10.",
+          "Causeway text: this block ends on the single word 'causeway.' Narrow it to columns 7–10, or rewrap it to two full lines, to remove the widow and give a firmer rag.",
+          "Row 12: the 'Also in Northumberland' label in columns 1–3 sits one baseline above the first list item in columns 4–12. Align the label's baseline with item 01. Also pull the distances in from column 12 to column 9, so the eye does not cross five empty columns to read '8.2 km'.",
+          "Type pairing: the condensed grotesk headline, the serif text and the mono labels work well together. Keep the lead at three lines across 6 columns; its measure is good.",
+          "Colour: the olive accent picks up the grass in the photo and ties the place label, the pin and the list numbers together. Keep it, but use it only on those three so it stays a signal."
+        ],
+        "summary": "A clean, well-proportioned poster with a strong full-width headline and a coherent palette. The stated idea, though, depends on a pin that is too small and an alignment to the photo top that is only approximate. Make the pin-to-photo relationship exact and visible, tighten the pinfield to its 6-column span, and fix the baseline mismatches in rows 10 and 12, and it is ready to keep."
+      },
+      "attempts": [
+        {
+          "idea": "location-decides-layout",
+          "mean": 5.6,
+          "scores": {
+            "idea": 4,
+            "grid": 5,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.6,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.2,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "place label",
+          "text": "Holy Island · Northumberland"
+        },
+        {
+          "element": "headline",
+          "text": "Lindisfarne"
+        },
+        {
+          "element": "lead",
+          "text": "A 16th-century castle on Holy Island, much altered by Sir Edwin Lutyens in 1901."
+        },
+        {
+          "element": "causeway",
+          "text": "Near Berwick-upon-Tweed. The island is reached from the mainland at low tide by a causeway."
+        },
+        {
+          "element": "county label",
+          "text": "Also in Northumberland"
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Lindisfarne_Castle"
+      ],
+      "photos": [
+        {
+          "credit": "Waypoints photo, personal use",
+          "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/lindisfarne-castle.jpg",
+          "kind": "personal"
+        }
+      ],
+      "image": "posters/035-lindisfarne-castle/v1.png",
+      "created_at": "2026-10-11T23:26:01.458Z"
     }
   ]
 }
