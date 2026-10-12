@@ -55,7 +55,7 @@ Hard rules:
 - Elements must not overlap, except text over a photo when you set over=true for that text.
 - State only facts found in the saved facts you are given. Never add a date, number, name or claim that is not in them. Dan's note is his own words, not a fact source.
 - Copy is short: a headline, then one or two sentences. Plain, precise British English. No exclamation marks.
-- Big place names and county names help Dan learn English geography; use them where the idea allows.
+- Big place names and county names help Dan learn British geography (English counties, Scottish and Welsh council areas); use them where the idea allows.
 - Colour: paper, ink and grey are the neutral base. On top of it choose 0 to 3 colours from the candidates given, each with one role: background (replaces the paper; ink flips to suit it), headline (the headline's colour), accent (rules, list numbers, index tags, the pin marker) or panel (a block of colour behind a photo, with the photo inset by one baseline; set panel=true on that photo). Restraint is fine: one colour, or none, is often strongest. Text needs 4.5:1 contrast, or 3:1 when set at 24 pt or more.
 
 Element kinds:
@@ -93,9 +93,10 @@ function gridBrief(gridCfg) {
   };
 }
 
-// Where the place sits in England, as a cell in the middle rows, for "location decides layout".
+// Where the place sits in Great Britain, as a cell in the middle rows, for "location decides
+// layout". England-only posters made before Scotland and Wales used a box around England.
 function locationCell(enrich, g, first, last) {
-  const box = { n: 55.81, s: 49.95, w: -5.72, e: 1.76 };
+  const box = { n: 58.7, s: 49.95, w: -6.4, e: 1.8 };
   const C = g.columns.length;
   const x = (enrich.lng - box.w) / (box.e - box.w), y = (box.n - enrich.lat) / (box.n - box.s);
   return { col: Math.min(C, Math.max(1, Math.ceil(x * C))), row: Math.min(last, Math.max(first, first + Math.floor(y * (last - first + 1)))) };
@@ -120,7 +121,7 @@ export async function designBrief({ enrich, gridCfg, allowedIdeas, candidates, s
     `Series: ${series.name}. Font pairings for this series (pick one): ${pairings.map(x => `${x.id} = ${x.name}`).join('; ')}. At most ${series.maxColors} colours beyond the neutral base.`,
     '',
     `Ideas you may use for this poster (pick one): ${allowedIdeas.map(k => `\n- ${k}: ${IDEAS[k]}`).join('')}`,
-    allowedIdeas.includes('location-decides-layout') ? `For location-decides-layout, this place's position in England falls at about column ${loc.col}, row ${loc.row}.` : '',
+    allowedIdeas.includes('location-decides-layout') ? `For location-decides-layout, this place's position in Great Britain falls at about column ${loc.col}, row ${loc.row}.` : '',
     '',
     `Place: ${enrich.name}`,
     `Town: ${p.town || '—'} · County: ${p.county}${p.borough ? ` · Borough: ${p.borough}` : ''} · Country: ${p.country}`,

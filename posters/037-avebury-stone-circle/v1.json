@@ -1,0 +1,686 @@
+{
+  "pin_id": "avebury-stone-circle",
+  "number": 37,
+  "series": "original",
+  "created_at": "2026-10-12T00:12:30.015Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "place-name-at-scale",
+    "sentence": "Avebury holds the largest megalithic stone circle in the world, so its name spans the full width of the page and the stones sit directly beneath it."
+  },
+  "title": "Avebury",
+  "place": {
+    "town": "Beckhampton",
+    "locality": null,
+    "county": "Wiltshire",
+    "adminArea": "Wiltshire",
+    "region": null,
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=51.4286099&lon=-1.8517053&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Silbury Cottages, West Kennett, Beckhampton, Avebury, Wiltshire, England, SN8 1QH, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#464819",
+      "role": "headline"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#95A251",
+      "source": "photo 3",
+      "light": 2.3,
+      "dark": 6.5
+    },
+    {
+      "hex": "#464819",
+      "source": "photo 4",
+      "light": 7.9,
+      "dark": 1.9
+    },
+    {
+      "hex": "#917E58",
+      "source": "photo 0",
+      "light": 3.3,
+      "dark": 4.6
+    },
+    {
+      "hex": "#93C6EB",
+      "source": "photo 4",
+      "light": 1.5,
+      "dark": 9.9
+    },
+    {
+      "hex": "#C1BD8A",
+      "source": "photo 2",
+      "light": 1.6,
+      "dark": 9.4
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "name",
+      "text": "AVEBURY"
+    },
+    {
+      "element": "county",
+      "text": "Wiltshire · South-west England"
+    },
+    {
+      "element": "lead",
+      "text": "A Neolithic henge containing three stone circles, among them the largest megalithic stone circle in the world."
+    },
+    {
+      "element": "body",
+      "text": "One of the best-known prehistoric sites in Britain. It is a tourist attraction and a place of religious importance to contemporary pagans."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Avebury"
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/avebury-stone-circle/commons-3.jpg",
+      "title": "File:Avebury (South Inner Circle), Wiltshire, UK - Diliff.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Avebury_(South_Inner_Circle),_Wiltshire,_UK_-_Diliff.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 5760,
+      "height": 3840,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#95a251",
+            "share": 0.254
+          },
+          {
+            "hex": "#79873a",
+            "share": 0.231
+          },
+          {
+            "hex": "#dce0e5",
+            "share": 0.199
+          },
+          {
+            "hex": "#454a2d",
+            "share": 0.193
+          },
+          {
+            "hex": "#a7bed0",
+            "share": 0.124
+          }
+        ],
+        "strongest": "#79873a"
+      },
+      "credit": "Diliff, CC BY-SA 3.0"
+    }
+  ],
+  "images_used": [
+    "data/images/avebury-stone-circle/commons-3.jpg"
+  ],
+  "elements": [
+    {
+      "name": "name",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 2,
+      "text": "AVEBURY",
+      "style": null,
+      "color": "headline",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 1,
+      "col_span": 6,
+      "row": 4,
+      "row_span": 1,
+      "text": "Wiltshire · South-west England",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "stones",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 12,
+      "row": 5,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 3,
+      "zoom": 1.1,
+      "focus_x": 0.55,
+      "focus_y": 0.55,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 8,
+      "row": 10,
+      "row_span": 2,
+      "text": "A Neolithic henge containing three stone circles, among them the largest megalithic stone circle in the world.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 3,
+      "text": "One of the best-known prehistoric sites in Britain. It is a tourist attraction and a place of religious importance to contemporary pagans.",
+      "style": "body",
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 6
+    },
+    "notes": [
+      "The name spans all 12 of 12 columns across rows 2–3, and the stones span 12 columns in rows 5–9. The idea reads on first glance. To push 'largest' further, extend the photo into row 10 so the stones fill 6 rows rather than 5, making the image as dominant as the name.",
+      "The county label sits alone in row 4 across columns 1–6, leaving most of that row empty. It currently floats halfway between the name and the photo. Choose one: move it up to the first baseline under the name in row 3, or drop it to the last baseline of row 4 so it hangs on the photo's top edge.",
+      "Rows 10–12 under the lead are only partly used, and row 12 is mostly empty air above the footer rule. Either let the lead and body finish in row 11 and pull the photo down one row (rows 5–10), or hang both text blocks from the top of row 11 so the empty band reads as deliberate.",
+      "The lead in columns 1–8 and the body in columns 9–12 do not share a first baseline; the body's first line sits roughly half a baseline above the lead's. Set both first baselines on the same 12 pt line at the top of row 10.",
+      "The body in columns 9–12 is light grey and close to caption size, so it looks fainter than the footer data. Darken it to the lead's ink at about 70% and set it on the 12 pt baseline with 18 pt leading, two baselines per line.",
+      "The body rag ends on the single word 'pagans.' as a short last line. Rebreak the text or run the body column one module wider (columns 8–12, with the lead in 1–7) for an even rag.",
+      "The lead runs about 35 characters across 8 columns, which is a good length. Keep that span, but tighten its leading to sit exactly on 3 baselines per line so its three lines land within rows 10–11.",
+      "The olive #464819 in the name picks up the tree canopy in columns 4–6 of the photo, which is good. Nothing else on the page carries it, though. Use it once more, for example on the 'Wiltshire · South-west England' label in row 4, to tie the name to the content below."
+    ],
+    "summary": "A clear, literal idea: a full-width name over a full-width image of the stones. The structure holds, with a 12-column name, a 12-column photo, and an 8+4 text split. It loses points on the details: the county label floats in row 4, the lead and body first baselines are misaligned in row 10, the grey body is weak, and row 12 is left as dead space. Align the text to one baseline, settle the label's position, and either extend the photo or close the gap at the bottom.",
+    "mean": 6.4
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.4,
+      "scores": {
+        "idea": 7,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.4,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "place-name-at-scale",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#464819",
+      "accent": "#1D1D1B",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Avebury",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Wiltshire",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "37 / 40",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Avebury Stone Circle"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Wiltshire"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Diliff, CC BY-SA 3.0"
+      },
+      {
+        "id": "el-1",
+        "name": "name",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 2,
+        "color": "headline",
+        "align": "left",
+        "over": false,
+        "text": "AVEBURY"
+      },
+      {
+        "id": "el-2",
+        "name": "county",
+        "kind": "label",
+        "c": 1,
+        "cs": 6,
+        "r": 4,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "Wiltshire · South-west England"
+      },
+      {
+        "id": "el-3",
+        "name": "stones",
+        "kind": "photo",
+        "c": 1,
+        "cs": 12,
+        "r": 5,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 3,
+        "src": "../data/images/avebury-stone-circle/commons-3.jpg",
+        "zoom": 1.1,
+        "focus": [
+          0.55,
+          0.55
+        ]
+      },
+      {
+        "id": "el-4",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 8,
+        "r": 10,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A Neolithic henge containing three stone circles, among them the largest megalithic stone circle in the world.",
+        "style": "lead"
+      },
+      {
+        "id": "el-5",
+        "name": "body",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 10,
+        "rs": 3,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "One of the best-known prehistoric sites in Britain. It is a tourist attraction and a place of religious importance to contemporary pagans.",
+        "style": "body"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/037-avebury-stone-circle/v1.png"
+}

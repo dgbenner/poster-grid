@@ -1,0 +1,849 @@
+{
+  "pin_id": "edinburgh-castle",
+  "number": 36,
+  "series": "original",
+  "created_at": "2026-10-12T00:11:03.609Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "closer",
+    "sentence": "Edinburgh Castle is reached in three steps, from the whole rock to the gatehouse to a single tower, so each image grows larger and closer as it moves across the grid."
+  },
+  "title": "Edinburgh Castle",
+  "place": {
+    "town": "Edinburgh",
+    "locality": "Old Town",
+    "county": "City of Edinburgh",
+    "adminArea": null,
+    "region": null,
+    "country": "Scotland",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=55.9486&lon=-3.1999&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Old Town, City of Edinburgh, Scotland, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#C8102E",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#A9A972",
+      "source": "photo 1",
+      "light": 2,
+      "dark": 7.4
+    },
+    {
+      "hex": "#726F4A",
+      "source": "photo 1",
+      "light": 4.3,
+      "dark": 3.5
+    },
+    {
+      "hex": "#C8A752",
+      "source": "photo 2",
+      "light": 1.9,
+      "dark": 7.9
+    },
+    {
+      "hex": "#413E23",
+      "source": "photo 2",
+      "light": 9,
+      "dark": 1.7
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Edinburgh\nCastle"
+    },
+    {
+      "element": "county",
+      "text": "City of Edinburgh · Scotland"
+    },
+    {
+      "element": "lead",
+      "text": "A royal castle has stood on Castle Rock since the reign of Malcolm III in the 11th century."
+    },
+    {
+      "element": "body",
+      "text": "The rock has been occupied since at least the Iron Age. The castle remained a royal residence until 1633."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Edinburgh_Castle"
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-castle/commons-1.jpg",
+      "title": "File:Braun & Hogenberg 'Castrum Puellarum' (Edinburgh Castle) c.1581.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Braun_%26_Hogenberg_%27Castrum_Puellarum%27_(Edinburgh_Castle)_c.1581.jpg",
+      "author": "Braun &amp; Hogenberg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "width": 1147,
+      "height": 925,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#726f4a",
+            "share": 0.246
+          },
+          {
+            "hex": "#8e8d5c",
+            "share": 0.21
+          },
+          {
+            "hex": "#58533b",
+            "share": 0.208
+          },
+          {
+            "hex": "#a9a972",
+            "share": 0.204
+          },
+          {
+            "hex": "#c6c796",
+            "share": 0.133
+          }
+        ],
+        "strongest": "#c6c796"
+      },
+      "credit": "Braun &amp; Hogenberg, Public domain"
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-castle/commons-2.jpg",
+      "title": "File:City of Edinburgh - Edinburgh Castle - 20140421004403.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2816,
+      "height": 1816,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#595859",
+            "share": 0.399
+          },
+          {
+            "hex": "#111312",
+            "share": 0.281
+          },
+          {
+            "hex": "#413e23",
+            "share": 0.134
+          },
+          {
+            "hex": "#7b682e",
+            "share": 0.101
+          },
+          {
+            "hex": "#c8a752",
+            "share": 0.085
+          }
+        ],
+        "strongest": "#c8a752"
+      },
+      "credit": "Enric, CC BY-SA 4.0"
+    },
+    {
+      "kind": "commons",
+      "file": "data/images/edinburgh-castle/commons-3.jpg",
+      "title": "File:Edinburgh-Castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh-Castle.jpg",
+      "author": "Christian Bickel",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "width": 2362,
+      "height": 1772,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#584a41",
+            "share": 0.32
+          },
+          {
+            "hex": "#fcfbfa",
+            "share": 0.307
+          },
+          {
+            "hex": "#372d2b",
+            "share": 0.207
+          },
+          {
+            "hex": "#937f6a",
+            "share": 0.152
+          },
+          {
+            "hex": "#c0bbb7",
+            "share": 0.014
+          }
+        ],
+        "strongest": null
+      },
+      "credit": "Christian Bickel, CC BY-SA 2.0 de"
+    }
+  ],
+  "images_used": [
+    "data/images/edinburgh-castle/commons-1.jpg",
+    "data/images/edinburgh-castle/commons-2.jpg",
+    "data/images/edinburgh-castle/commons-3.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 8,
+      "row": 2,
+      "row_span": 3,
+      "text": "Edinburgh\nCastle",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 2,
+      "row_span": 1,
+      "text": "City of Edinburgh · Scotland",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 6,
+      "row": 5,
+      "row_span": 2,
+      "text": "A royal castle has stood on Castle Rock since the reign of Malcolm III in the 11th century.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 1,
+      "col_span": 3,
+      "row": 7,
+      "row_span": 3,
+      "text": "The rock has been occupied since at least the Iron Age. The castle remained a royal residence until 1633.",
+      "style": "body",
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "step1",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 3,
+      "row": 10,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 1,
+      "zoom": 1.4,
+      "focus_x": 0.45,
+      "focus_y": 0.35,
+      "tag": "1",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "step2",
+      "kind": "photo",
+      "col": 4,
+      "col_span": 4,
+      "row": 8,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 2,
+      "zoom": 1.3,
+      "focus_x": 0.6,
+      "focus_y": 0.6,
+      "tag": "2",
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "step3",
+      "kind": "photo",
+      "col": 8,
+      "col_span": 5,
+      "row": 5,
+      "row_span": 8,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 3,
+      "zoom": 1.2,
+      "focus_x": 0.4,
+      "focus_y": 0.4,
+      "tag": "3",
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 7,
+      "grid": 7,
+      "hierarchy": 7,
+      "type": 6,
+      "color": 6
+    },
+    "notes": [
+      "The staircase works: step1 is 3 columns × 3 rows, step2 is 4 × 5, step3 is 5 × 8, and all three bottom-align on row 12. That progression is the poster's argument, so keep it exactly as it is.",
+      "The county label starts at column 9, but step3 and the right edge of the composition start at column 8. Shift the label one column left to columns 8–11 so it shares a vertical edge with the tower photo below it.",
+      "The body text is set in columns 1–3 of rows 7–9, but it only fills about the top half of row 7. That leaves rows 8–9 above step1 as an accidental hole rather than a chosen empty module. Either drop the body so its last line sits on the bottom of row 9, one row above step1, or keep it at row 7 and let step1 grow up into rows 9–12 (3 × 4) so the gap is closed on purpose.",
+      "At 3 columns the body measure is about 22 characters, which produces a choppy rag ('remained a royal / residence'). Widen it to columns 1–4 (it can't go further, because step2 occupies column 4 only from row 8 down), or cut the copy so it sets in 3 clean lines.",
+      "The lead spans columns 1–6 over rows 5–6, but its fourth line, 'century.', is a one-word widow that spills toward row 7. Either tighten the size by one step so it sets in 3 lines inside rows 5–6, or rebreak it so the last line carries at least two words.",
+      "The step numbers inside the red boxes are set in a serif face that appears nowhere else on the poster. Set them in the same mono used for the label and footer, and align each box to the first column and the bottom baseline of its photo's module (the box on step3 currently sits on people in the image).",
+      "The accent red appears only on the 1-column-high label at the top right and on three tiny boxes at the bottom. Nothing in rows 5–9 ties them together. Either drop the red from the boxes, or make the numbers a clear 1-baseline caption row under each photo in row 12 so the red reads as a deliberate sequence of 1, 2, 3.",
+      "Step1 is enlarged 1.4× and step2 1.3×, and both look soft next to the sharp step3. The green cast of the map (step1) and the green floodlight (step2) also clash with the warm grey paper. Use higher-resolution sources, or warm and neutralise both images so all three steps read as one tonal family.",
+      "The empty modules in column 7, rows 5–7 and columns 4–7, row 7 are good breathing room between the lead and step2. Leave them empty and don't let the lead creep wider than column 6."
+    ],
+    "summary": "A clear, worthwhile idea, executed with a genuinely good diagonal staircase of images that bottom-align on row 12. The weaknesses are at the detail level. The county label is one column off from step3. The body text strands rows 8–9 as dead space above step1. The body measure is too narrow. The serif step numbers break the type system. The red accent and the green-tinted, upscaled photos don't yet work as a palette. Fix the alignments and the image quality and this is a keeper.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "closer",
+      "mean": 6.6,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.4,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 5
+      },
+      "problems": 0
+    },
+    {
+      "idea": "closer",
+      "mean": 6.2,
+      "scores": {
+        "idea": 7,
+        "grid": 7,
+        "hierarchy": 6,
+        "type": 6,
+        "color": 5
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#1D1D1B",
+      "accent": "#C8102E",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Edinburgh Castle",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "City of Edinburgh",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "36 / 40",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Edinburgh Castle"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "City of Edinburgh"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "Scotland"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Credits below"
+      },
+      {
+        "id": "credits",
+        "name": "Footer: credits",
+        "kind": "credits",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1,
+        "text": "\n\n\nPhotos: Braun &amp; Hogenberg, Public domain; Enric, CC BY-SA 4.0; Christian Bickel, CC BY-SA 2.0 de"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 8,
+        "r": 2,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Edinburgh\nCastle"
+      },
+      {
+        "id": "el-2",
+        "name": "county",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 2,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "City of Edinburgh · Scotland"
+      },
+      {
+        "id": "el-3",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 6,
+        "r": 5,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A royal castle has stood on Castle Rock since the reign of Malcolm III in the 11th century.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "body",
+        "kind": "text",
+        "c": 1,
+        "cs": 3,
+        "r": 7,
+        "rs": 3,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "The rock has been occupied since at least the Iron Age. The castle remained a royal residence until 1633.",
+        "style": "body"
+      },
+      {
+        "id": "el-5",
+        "name": "step1",
+        "kind": "photo",
+        "c": 1,
+        "cs": 3,
+        "r": 10,
+        "rs": 3,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 1,
+        "src": "../data/images/edinburgh-castle/commons-1.jpg",
+        "zoom": 1.4,
+        "focus": [
+          0.45,
+          0.35
+        ],
+        "tag": "1"
+      },
+      {
+        "id": "el-6",
+        "name": "step2",
+        "kind": "photo",
+        "c": 4,
+        "cs": 4,
+        "r": 8,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 2,
+        "src": "../data/images/edinburgh-castle/commons-2.jpg",
+        "zoom": 1.3,
+        "focus": [
+          0.6,
+          0.6
+        ],
+        "tag": "2"
+      },
+      {
+        "id": "el-7",
+        "name": "step3",
+        "kind": "photo",
+        "c": 8,
+        "cs": 5,
+        "r": 5,
+        "rs": 8,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 3,
+        "src": "../data/images/edinburgh-castle/commons-3.jpg",
+        "zoom": 1.2,
+        "focus": [
+          0.4,
+          0.4
+        ],
+        "tag": "3"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/036-edinburgh-castle/v1.png"
+}

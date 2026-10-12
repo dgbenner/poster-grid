@@ -1,10 +1,10 @@
 {
-  "total": 35,
+  "total": 40,
   "series": {
     "original": "Original"
   },
   "totals": {
-    "original": 35
+    "original": 40
   },
   "posters": [
     {
@@ -4688,6 +4688,672 @@
       ],
       "image": "posters/035-lindisfarne-castle/v1.png",
       "created_at": "2026-10-11T23:26:01.458Z"
+    },
+    {
+      "id": "036-edinburgh-castle",
+      "number": 36,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-12T00:11:03.626Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.6,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "pending": [],
+      "related": [],
+      "title": "Edinburgh Castle",
+      "status": "below-bar",
+      "place": {
+        "town": "Edinburgh",
+        "county": "City of Edinburgh",
+        "borough": null,
+        "country": "Scotland"
+      },
+      "idea": {
+        "key": "closer",
+        "sentence": "Edinburgh Castle is reached in three steps, from the whole rock to the gatehouse to a single tower, so each image grows larger and closer as it moves across the grid."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#C8102E",
+          "role": "accent"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 7,
+          "hierarchy": 7,
+          "type": 6,
+          "color": 6
+        },
+        "mean": 6.6,
+        "notes": [
+          "The staircase works: step1 is 3 columns × 3 rows, step2 is 4 × 5, step3 is 5 × 8, and all three bottom-align on row 12. That progression is the poster's argument, so keep it exactly as it is.",
+          "The county label starts at column 9, but step3 and the right edge of the composition start at column 8. Shift the label one column left to columns 8–11 so it shares a vertical edge with the tower photo below it.",
+          "The body text is set in columns 1–3 of rows 7–9, but it only fills about the top half of row 7. That leaves rows 8–9 above step1 as an accidental hole rather than a chosen empty module. Either drop the body so its last line sits on the bottom of row 9, one row above step1, or keep it at row 7 and let step1 grow up into rows 9–12 (3 × 4) so the gap is closed on purpose.",
+          "At 3 columns the body measure is about 22 characters, which produces a choppy rag ('remained a royal / residence'). Widen it to columns 1–4 (it can't go further, because step2 occupies column 4 only from row 8 down), or cut the copy so it sets in 3 clean lines.",
+          "The lead spans columns 1–6 over rows 5–6, but its fourth line, 'century.', is a one-word widow that spills toward row 7. Either tighten the size by one step so it sets in 3 lines inside rows 5–6, or rebreak it so the last line carries at least two words.",
+          "The step numbers inside the red boxes are set in a serif face that appears nowhere else on the poster. Set them in the same mono used for the label and footer, and align each box to the first column and the bottom baseline of its photo's module (the box on step3 currently sits on people in the image).",
+          "The accent red appears only on the 1-column-high label at the top right and on three tiny boxes at the bottom. Nothing in rows 5–9 ties them together. Either drop the red from the boxes, or make the numbers a clear 1-baseline caption row under each photo in row 12 so the red reads as a deliberate sequence of 1, 2, 3.",
+          "Step1 is enlarged 1.4× and step2 1.3×, and both look soft next to the sharp step3. The green cast of the map (step1) and the green floodlight (step2) also clash with the warm grey paper. Use higher-resolution sources, or warm and neutralise both images so all three steps read as one tonal family.",
+          "The empty modules in column 7, rows 5–7 and columns 4–7, row 7 are good breathing room between the lead and step2. Leave them empty and don't let the lead creep wider than column 6."
+        ],
+        "summary": "A clear, worthwhile idea, executed with a genuinely good diagonal staircase of images that bottom-align on row 12. The weaknesses are at the detail level. The county label is one column off from step3. The body text strands rows 8–9 as dead space above step1. The body measure is too narrow. The serif step numbers break the type system. The red accent and the green-tinted, upscaled photos don't yet work as a palette. Fix the alignments and the image quality and this is a keeper."
+      },
+      "attempts": [
+        {
+          "idea": "closer",
+          "mean": 6.6,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.4,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.2,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Edinburgh\nCastle"
+        },
+        {
+          "element": "county",
+          "text": "City of Edinburgh · Scotland"
+        },
+        {
+          "element": "lead",
+          "text": "A royal castle has stood on Castle Rock since the reign of Malcolm III in the 11th century."
+        },
+        {
+          "element": "body",
+          "text": "The rock has been occupied since at least the Iron Age. The castle remained a royal residence until 1633."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Edinburgh_Castle"
+      ],
+      "photos": [
+        {
+          "credit": "Braun &amp; Hogenberg, Public domain",
+          "source": "https://commons.wikimedia.org/wiki/File:Braun_%26_Hogenberg_%27Castrum_Puellarum%27_(Edinburgh_Castle)_c.1581.jpg",
+          "kind": "commons"
+        },
+        {
+          "credit": "Enric, CC BY-SA 4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg",
+          "kind": "commons"
+        },
+        {
+          "credit": "Christian Bickel, CC BY-SA 2.0 de",
+          "source": "https://commons.wikimedia.org/wiki/File:Edinburgh-Castle.jpg",
+          "kind": "commons"
+        }
+      ],
+      "image": "posters/036-edinburgh-castle/v1.png",
+      "created_at": "2026-10-12T00:11:03.609Z"
+    },
+    {
+      "id": "037-avebury-stone-circle",
+      "number": 37,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-12T00:12:30.023Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.4,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "pending": [],
+      "related": [],
+      "title": "Avebury",
+      "status": "below-bar",
+      "place": {
+        "town": "Beckhampton",
+        "county": "Wiltshire",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "place-name-at-scale",
+        "sentence": "Avebury holds the largest megalithic stone circle in the world, so its name spans the full width of the page and the stones sit directly beneath it."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#464819",
+          "role": "headline"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 6,
+          "color": 6
+        },
+        "mean": 6.4,
+        "notes": [
+          "The name spans all 12 of 12 columns across rows 2–3, and the stones span 12 columns in rows 5–9. The idea reads on first glance. To push 'largest' further, extend the photo into row 10 so the stones fill 6 rows rather than 5, making the image as dominant as the name.",
+          "The county label sits alone in row 4 across columns 1–6, leaving most of that row empty. It currently floats halfway between the name and the photo. Choose one: move it up to the first baseline under the name in row 3, or drop it to the last baseline of row 4 so it hangs on the photo's top edge.",
+          "Rows 10–12 under the lead are only partly used, and row 12 is mostly empty air above the footer rule. Either let the lead and body finish in row 11 and pull the photo down one row (rows 5–10), or hang both text blocks from the top of row 11 so the empty band reads as deliberate.",
+          "The lead in columns 1–8 and the body in columns 9–12 do not share a first baseline; the body's first line sits roughly half a baseline above the lead's. Set both first baselines on the same 12 pt line at the top of row 10.",
+          "The body in columns 9–12 is light grey and close to caption size, so it looks fainter than the footer data. Darken it to the lead's ink at about 70% and set it on the 12 pt baseline with 18 pt leading, two baselines per line.",
+          "The body rag ends on the single word 'pagans.' as a short last line. Rebreak the text or run the body column one module wider (columns 8–12, with the lead in 1–7) for an even rag.",
+          "The lead runs about 35 characters across 8 columns, which is a good length. Keep that span, but tighten its leading to sit exactly on 3 baselines per line so its three lines land within rows 10–11.",
+          "The olive #464819 in the name picks up the tree canopy in columns 4–6 of the photo, which is good. Nothing else on the page carries it, though. Use it once more, for example on the 'Wiltshire · South-west England' label in row 4, to tie the name to the content below."
+        ],
+        "summary": "A clear, literal idea: a full-width name over a full-width image of the stones. The structure holds, with a 12-column name, a 12-column photo, and an 8+4 text split. It loses points on the details: the county label floats in row 4, the lead and body first baselines are misaligned in row 10, the grey body is weak, and row 12 is left as dead space. Align the text to one baseline, settle the label's position, and either extend the photo or close the gap at the bottom."
+      },
+      "attempts": [
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.4,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.4,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "place-name-at-scale",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "name",
+          "text": "AVEBURY"
+        },
+        {
+          "element": "county",
+          "text": "Wiltshire · South-west England"
+        },
+        {
+          "element": "lead",
+          "text": "A Neolithic henge containing three stone circles, among them the largest megalithic stone circle in the world."
+        },
+        {
+          "element": "body",
+          "text": "One of the best-known prehistoric sites in Britain. It is a tourist attraction and a place of religious importance to contemporary pagans."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Avebury"
+      ],
+      "photos": [
+        {
+          "credit": "Diliff, CC BY-SA 3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Avebury_(South_Inner_Circle),_Wiltshire,_UK_-_Diliff.jpg",
+          "kind": "commons"
+        }
+      ],
+      "image": "posters/037-avebury-stone-circle/v1.png",
+      "created_at": "2026-10-12T00:12:30.015Z"
+    },
+    {
+      "id": "038-portmeirion",
+      "number": 38,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-12T00:15:28.703Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.2,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "pending": [],
+      "related": [],
+      "title": "Portmeirion",
+      "status": "below-bar",
+      "place": {
+        "town": "Penrhyndeudraeth",
+        "county": "Gwynedd",
+        "borough": null,
+        "country": "Wales"
+      },
+      "idea": {
+        "key": "location-decides-layout",
+        "sentence": "Portmeirion lies in the north-west of Wales, so the photo's top-left corner is pinned to column 4, row 9, the cell where the village falls on Great Britain, with a small pin map beside it as the key."
+      },
+      "pairing": "serif-bodoni",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#646744",
+          "role": "accent"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 5,
+          "grid": 6,
+          "hierarchy": 6,
+          "type": 7,
+          "color": 7
+        },
+        "mean": 6.2,
+        "notes": [
+          "Idea: the pin map in columns 1–3, rows 6–8 is five loose dots with no coastline, so nobody reads it as Great Britain and nobody can check that column 4, row 9 is Portmeirion. Draw a simplified outline of Britain across columns 1–3, rows 5–8, about one module per cell. Place the pin in the cell that matches the photo's corner so the key actually works.",
+          "Idea: the coordinate label in columns 4–8, row 8 explains the concept in words because the map doesn't show it. Once the map reads, cut this line to a short key such as 'Photo corner = village position' and keep it to columns 4–6.",
+          "Grid: the two stray dots at column 1, rows 8–9 sit outside the map field and align with nothing. Either delete them or fold them into the map outline inside columns 1–3, rows 5–8.",
+          "Grid: the photo's bottom edge runs to the end of row 12 and touches the footer rule, so it has no air. Keep the corner at column 4, row 9 and end the photo at row 11, or start it at row 8. Leave one empty row above the footer.",
+          "Grid: rows 6–7 across columns 4–12 are empty, and the map is too faint to balance them. Either extend the map into column 4 up to row 6 or move the photo field up a row. The empty modules should look intended, not left over.",
+          "Hierarchy: the eye goes headline, lead, then drifts, because the photo (5 of 12 columns, 4 rows) is the second-strongest mass but the map that explains it is the weakest. Give the map visible weight, with the outline in the accent at full strength, so the path runs headline → map → photo → body.",
+          "Hierarchy: the community label 'Penrhyndeudraeth' in row 9 hangs a full row above the body in rows 10–11. Put label and body in consecutive rows (label row 9, body starting row 9 one baseline down), or move both down to rows 10–11. Then the caption block lines up with the photo's middle, not its top.",
+          "Type: the lead in columns 4–12 runs about 50 characters per line, which is good. But its size is only about 1.5× the body in columns 9–12, so the two text levels feel close. Either enlarge the lead slightly or set the body one step smaller, so there are three clear sizes: headline, lead, body.",
+          "Type: the body in columns 9–12 (4 of 12) rags well at about 30 characters. Check that its first baseline sits on the row 10 hanging line and not floating mid-row.",
+          "Color: the olive #646744 on the warm grey paper suits the photo's greens. But the accent is used only on the headline and labels. Put it on the map outline and the pin as well, so the accent carries the idea and isn't just decoration."
+        ],
+        "summary": "A strong 12-column headline and a well-measured lead give the poster a solid top half. The concept fails in the lower left: the pin map in columns 1–3, rows 6–8 is too sparse to read as Britain, so the photo's placement at column 4, row 9 has to be explained by a caption instead of being seen. Draw a real outline map, tighten the photo to stop above the footer, and pair the community label directly with the body. Type and colour are close to keepable."
+      },
+      "attempts": [
+        {
+          "idea": "location-decides-layout",
+          "mean": 6,
+          "scores": {
+            "idea": 5,
+            "grid": 5,
+            "hierarchy": 6,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.2,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        },
+        {
+          "idea": "location-decides-layout",
+          "mean": 6.2,
+          "scores": {
+            "idea": 5,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Portmeirion"
+        },
+        {
+          "element": "county",
+          "text": "Gwynedd · Wales"
+        },
+        {
+          "element": "lead",
+          "text": "A folly Italianate style tourist village on the estuary of the River Dwyryd in Gwynedd, North Wales."
+        },
+        {
+          "element": "coordinate",
+          "text": "The photo sits where the village sits in Great Britain"
+        },
+        {
+          "element": "community",
+          "text": "Penrhyndeudraeth"
+        },
+        {
+          "element": "body",
+          "text": "It lies in the community of Penrhyndeudraeth, 2 miles from Porthmadog and 1 mile from Minffordd railway station."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Portmeirion"
+      ],
+      "photos": [
+        {
+          "credit": "Waypoints photo, personal use",
+          "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/portmeirion.jpg",
+          "kind": "personal"
+        }
+      ],
+      "image": "posters/038-portmeirion/v1.png",
+      "created_at": "2026-10-12T00:15:28.700Z"
+    },
+    {
+      "id": "039-dunnottar-castle",
+      "number": 39,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-12T00:17:44.641Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.6,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "pending": [],
+      "related": [],
+      "title": "Dunnottar",
+      "status": "below-bar",
+      "place": {
+        "town": "Stonehaven",
+        "county": "Aberdeenshire",
+        "borough": null,
+        "country": "Scotland"
+      },
+      "idea": {
+        "key": "closer",
+        "sentence": "Dunnottar is reached by approach, from the clifftop path to the foot of the keep, so the castle appears three times, each view one row lower, one block further right and growing from two rows to four to six."
+      },
+      "pairing": "archivo",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#60684F",
+          "role": "accent"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 7,
+          "grid": 7,
+          "hierarchy": 7,
+          "type": 7,
+          "color": 5
+        },
+        "mean": 6.6,
+        "notes": [
+          "The staircase is legible. Far view sits at columns 1–3, rows 5–6. Middle view sits at columns 4–7, rows 6–9. Near view sits at columns 8–12, rows 7–12. Each step drops one row, shifts one block right and grows 2→4→6 rows. Keep this structure.",
+          "The idea is weakened by the middle view, which is image 1 at 2×. It is a crop of the far view, not a new point on the path. Replace columns 4–7, rows 6–9 with a genuine mid-path photograph so the three modules read as three positions on the approach.",
+          "The widths grow 3→4→5 columns but the heights grow 2→4→6 rows, so the frames change aspect as well as size. That is fine, but match the crops so the keep's horizon line steps down consistently. In the far view the horizon sits high in rows 5–6. In the near view it falls near the top of row 10. Keep that drop, but set the middle view's horizon around row 7 so it lands midway.",
+          "Row 4 is fully empty under the headline across columns 1–12. Columns 8–12, rows 4–6 are empty above the near view. Together this is the intended negative space of the staircase. Leave both empty. Do not fill them.",
+          "The 'Aberdeenshire' label in columns 1–3, row 7 floats alone above three empty modules (columns 1–3, rows 8–9). It also repeats the header text. Either remove it, or replace it with a step caption such as 'clifftop path', and add matching captions under the middle view (columns 4–7, top of row 10) and the near view. That would make the approach explicit.",
+          "The lead spans columns 1–6, rows 10–11. Its longest line, ending 'about', reaches into column 6, so it sits close to the near view's left edge at column 8. Narrow the lead to columns 1–5 so the rag clears the gutter, or keep it at 6 columns and tighten to a 2-line break.",
+          "The body in columns 1–4, row 12 hangs one baseline short of the footer rule. Align its last baseline to the bottom of row 12, matching the near view's bottom edge, so both elements finish on the same line.",
+          "Hierarchy runs headline (rows 2–3) → near view (rows 7–12) → lead (rows 10–11), which is correct. The step from lead to body is large. Consider giving the body a 5-column measure so it reads as a deliberate tier rather than a footnote.",
+          "The accent #60684F appears only in the tiny label at columns 1–3, row 7, where it is nearly invisible. Carry it into the step captions, or into a thin rule tracing the staircase edges. That would let it echo the clifftop green in the photos.",
+          "The near view's warm evening light (columns 8–12) clashes with the cool daylight of the two left frames. Colour-grade all three to one light, or order them so the warmth increases with each step as a deliberate time-of-day progression."
+        ],
+        "summary": "A clear, well-executed staircase of three frames: each steps one row lower and one block right, growing 2→4→6 rows. The grid logic is sound and the negative space is intentional. The idea is undercut because the middle frame is a crop of the far frame rather than a new viewpoint, and the three photographs don't share light. The accent is barely used, and the lone county label wastes an opportunity to name the steps of the approach. Fix the middle image, add step captions in the accent, and align the body and lead to the photo edges."
+      },
+      "attempts": [
+        {
+          "idea": "closer",
+          "mean": 5.6,
+          "scores": {
+            "idea": 6,
+            "grid": 5,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.2,
+          "scores": {
+            "idea": 7,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "closer",
+          "mean": 6.6,
+          "scores": {
+            "idea": 7,
+            "grid": 7,
+            "hierarchy": 7,
+            "type": 7,
+            "color": 5
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Dunnottar"
+        },
+        {
+          "element": "county label",
+          "text": "Aberdeenshire"
+        },
+        {
+          "element": "lead",
+          "text": "A ruined medieval fortress upon a rocky headland, about 2 miles south of Stonehaven."
+        },
+        {
+          "element": "body",
+          "text": "Stonehaven is a coastal town 15 miles south of Aberdeen, with 11,177 people at the 2022 Census."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Dunnottar_Castle",
+        "https://en.wikipedia.org/wiki/Stonehaven"
+      ],
+      "photos": [
+        {
+          "credit": "Andrewmckie, CC BY-SA 4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle,_ruin.jpg",
+          "kind": "commons"
+        },
+        {
+          "credit": "Waypoints photo, personal use",
+          "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/dunnottar-castle.jpg",
+          "kind": "personal"
+        }
+      ],
+      "image": "posters/039-dunnottar-castle/v1.png",
+      "created_at": "2026-10-12T00:17:44.637Z"
+    },
+    {
+      "id": "040-strawberry-studios",
+      "number": 40,
+      "series": "original",
+      "version": 1,
+      "versions": [
+        {
+          "v": 1,
+          "created_at": "2026-10-12T00:19:30.236Z",
+          "feedback": null,
+          "from": null,
+          "mean": 6.6,
+          "followed": null,
+          "status": "below-bar"
+        }
+      ],
+      "pending": [],
+      "related": [],
+      "title": "Strawberry Studios",
+      "status": "below-bar",
+      "place": {
+        "town": "Stockport",
+        "county": "Greater Manchester",
+        "borough": null,
+        "country": "England"
+      },
+      "idea": {
+        "key": "nearby",
+        "sentence": "The studio stands alone in Stockport, 6 miles from Manchester, so its facade faces a right-hand stack of distance: a plain statement of the gap, Dan's Greater Manchester pins by distance, and a pinfield that runs the full height of the page."
+      },
+      "pairing": "inter",
+      "paper": "light",
+      "colors": [
+        {
+          "hex": "#3E5680",
+          "role": "accent"
+        }
+      ],
+      "critic": {
+        "scores": {
+          "idea": 6,
+          "grid": 6,
+          "hierarchy": 7,
+          "type": 7,
+          "color": 7
+        },
+        "mean": 6.6,
+        "notes": [
+          "Idea: the stated idea promises a pinfield that runs the full height of the page, but it only occupies rows 9–12 of columns 9–12. Either start the pinfield at row 6 behind the gap statement and list, or rewrite the idea as 'a right-hand stack ending in a pinfield'. As it stands, the drawing does not deliver the sentence.",
+          "Grid: the nearby-list is assigned rows 7–8, but its five lines fill only row 7, leaving row 8 of columns 9–12 as a dead module. Assign it to row 7 only and start the pinfield at row 8. That gives the pins five rows and makes the right column read as one continuous stack.",
+          "Grid: the pinfield's dots drift out of their area. The lowest pin falls at the bottom edge of row 12, near the footer rule, and the upper dots float loosely in row 9. Fit the pin extent to the top of row 8 and the bottom of row 12, so the field reads as a defined block aligned with the photo top and the lead baseline.",
+          "Grid: the empty column 8 between the facade (columns 1–7) and the right stack (columns 9–12) works well as a deliberate gutter column. Keep it. Also check that the cap height of the gap text aligns with the photo's top edge at row 6; it currently sits about a quarter-module low. Pull it up to the row line.",
+          "Hierarchy: the order is headline (rows 2–5), then facade, then lead, then gap. That works. However, the blue gap statement in columns 9–12 is set at almost the same size as the lead in columns 1–7, so the two compete. Set the gap one step larger than the lead, or the lead one step smaller, so the 6-mile gap clearly takes second place after the headline.",
+          "Hierarchy: the highlighted accent pin around row 10 is the key 'you are here' mark, but it carries no label. Add a small mono label beside it (e.g. 'Stockport') aligned to column 10. That way the eye can connect the pinfield back to the gap statement in row 6.",
+          "Type: the two-line headline across all 12 columns is strong, and 'Strawberry' fills the measure well. The lead's three lines across 7 columns have a good measure and an even rag. In the list, the mono index numbers and right-aligned mono distances on column 12 are well paired with the sans names. Keep all of this.",
+          "Color: the #3E5680 accent is used in three places: the gap text, the list indices, and the one highlighted pin. It ties the right-hand stack together and echoes the blue sky in the facade photo. Keep the accent limited to these three uses; do not extend it to the lead."
+        ],
+        "summary": "This is a clean, well-proportioned poster. The full-width headline, the 7-column facade, the deliberate empty column 8, and the restrained blue accent all work. Its weakness is the right-hand stack. The pinfield claims full height in the stated idea but sits loosely in rows 9–12, the list wastes row 8, and the key pin has no label. Tighten the list to row 7, fit the pinfield to rows 8–12 with a label on the accent pin, and separate the sizes of the gap statement and the lead. With those changes it would be a keeper."
+      },
+      "attempts": [
+        {
+          "idea": "nearby",
+          "mean": 6.2,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 6,
+            "color": 6
+          },
+          "problems": 0
+        },
+        {
+          "idea": "nearby",
+          "mean": 6,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 6,
+            "type": 7,
+            "color": 5
+          },
+          "problems": 0
+        },
+        {
+          "idea": "nearby",
+          "mean": 6.6,
+          "scores": {
+            "idea": 6,
+            "grid": 6,
+            "hierarchy": 7,
+            "type": 7,
+            "color": 7
+          },
+          "problems": 0
+        }
+      ],
+      "copy": [
+        {
+          "element": "headline",
+          "text": "Strawberry\nStudios"
+        },
+        {
+          "element": "gap",
+          "text": "6 miles south-east of Manchester."
+        },
+        {
+          "element": "lead",
+          "text": "A Stockport studio founded in 1968, used by Joy Division, 10cc, the Smiths and the Stone Roses."
+        }
+      ],
+      "facts_used": [
+        "https://en.wikipedia.org/wiki/Strawberry_Studios",
+        "https://en.wikipedia.org/wiki/Stockport"
+      ],
+      "photos": [
+        {
+          "credit": "Ridiculopathy, CC0",
+          "source": "https://commons.wikimedia.org/wiki/File:Strawberry_Studios,_Stockport,_Manchester,_UK_in_the_sun_02.jpg",
+          "kind": "commons"
+        }
+      ],
+      "image": "posters/040-strawberry-studios/v1.png",
+      "created_at": "2026-10-12T00:19:30.232Z"
     }
   ]
 }

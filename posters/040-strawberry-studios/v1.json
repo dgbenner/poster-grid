@@ -1,0 +1,970 @@
+{
+  "pin_id": "strawberry-studios",
+  "number": 40,
+  "series": "original",
+  "created_at": "2026-10-12T00:19:30.232Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "nearby",
+    "sentence": "The studio stands alone in Stockport, 6 miles from Manchester, so its facade faces a right-hand stack of distance: a plain statement of the gap, Dan's Greater Manchester pins by distance, and a pinfield that runs the full height of the page."
+  },
+  "title": "Strawberry Studios",
+  "place": {
+    "town": "Stockport",
+    "locality": "Davenport",
+    "county": "Greater Manchester",
+    "adminArea": "Greater Manchester",
+    "region": "Greater Manchester",
+    "country": "England",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=53.4070168&lon=-2.1542789&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Heaviley, Davenport, Stockport, Greater Manchester, England, SK2 6PH, United Kingdom"
+  },
+  "pairing": "inter",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#3E5680",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#669AE0",
+      "source": "photo 2",
+      "light": 2.4,
+      "dark": 6.3
+    },
+    {
+      "hex": "#A58670",
+      "source": "photo 2",
+      "light": 2.8,
+      "dark": 5.4
+    },
+    {
+      "hex": "#3E5680",
+      "source": "photo 1",
+      "light": 6.1,
+      "dark": 2.5
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Strawberry\nStudios"
+    },
+    {
+      "element": "gap",
+      "text": "6 miles south-east of Manchester."
+    },
+    {
+      "element": "lead",
+      "text": "A Stockport studio founded in 1968, used by Joy Division, 10cc, the Smiths and the Stone Roses."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Strawberry_Studios",
+    "https://en.wikipedia.org/wiki/Stockport"
+  ],
+  "photos": [
+    {
+      "kind": "commons",
+      "file": "data/images/strawberry-studios/commons-2.jpg",
+      "title": "File:Strawberry Studios, Stockport, Manchester, UK in the sun 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Strawberry_Studios,_Stockport,_Manchester,_UK_in_the_sun_02.jpg",
+      "author": "Ridiculopathy",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "width": 4160,
+      "height": 3120,
+      "colors": {
+        "palette": [
+          {
+            "hex": "#5a5754",
+            "share": 0.301
+          },
+          {
+            "hex": "#a58670",
+            "share": 0.271
+          },
+          {
+            "hex": "#669ae0",
+            "share": 0.171
+          },
+          {
+            "hex": "#2c252a",
+            "share": 0.149
+          },
+          {
+            "hex": "#c3baab",
+            "share": 0.107
+          }
+        ],
+        "strongest": "#669ae0"
+      },
+      "credit": "Ridiculopathy, CC0"
+    }
+  ],
+  "images_used": [
+    "data/images/strawberry-studios/commons-2.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 4,
+      "text": "Strawberry\nStudios",
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "facade",
+      "kind": "photo",
+      "col": 1,
+      "col_span": 7,
+      "row": 6,
+      "row_span": 5,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 2,
+      "zoom": 1.3,
+      "focus_x": 0.5,
+      "focus_y": 0.55,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "gap",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 6,
+      "row_span": 1,
+      "text": "6 miles south-east of Manchester.",
+      "style": "lead",
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "nearby-list",
+      "kind": "list",
+      "col": 9,
+      "col_span": 4,
+      "row": 7,
+      "row_span": 2,
+      "text": null,
+      "style": null,
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": [
+        "southern-cemetery",
+        "manchester-bridge",
+        "hacienda-site",
+        "salford-lads-club",
+        "salford-lads-club-2"
+      ],
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "pinfield",
+      "kind": "pinfield",
+      "col": 9,
+      "col_span": 4,
+      "row": 9,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 1,
+      "col_span": 7,
+      "row": 11,
+      "row_span": 2,
+      "text": "A Stockport studio founded in 1968, used by Joy Division, 10cc, the Smiths and the Stone Roses.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 6,
+      "grid": 6,
+      "hierarchy": 7,
+      "type": 7,
+      "color": 7
+    },
+    "notes": [
+      "Idea: the stated idea promises a pinfield that runs the full height of the page, but it only occupies rows 9–12 of columns 9–12. Either start the pinfield at row 6 behind the gap statement and list, or rewrite the idea as 'a right-hand stack ending in a pinfield'. As it stands, the drawing does not deliver the sentence.",
+      "Grid: the nearby-list is assigned rows 7–8, but its five lines fill only row 7, leaving row 8 of columns 9–12 as a dead module. Assign it to row 7 only and start the pinfield at row 8. That gives the pins five rows and makes the right column read as one continuous stack.",
+      "Grid: the pinfield's dots drift out of their area. The lowest pin falls at the bottom edge of row 12, near the footer rule, and the upper dots float loosely in row 9. Fit the pin extent to the top of row 8 and the bottom of row 12, so the field reads as a defined block aligned with the photo top and the lead baseline.",
+      "Grid: the empty column 8 between the facade (columns 1–7) and the right stack (columns 9–12) works well as a deliberate gutter column. Keep it. Also check that the cap height of the gap text aligns with the photo's top edge at row 6; it currently sits about a quarter-module low. Pull it up to the row line.",
+      "Hierarchy: the order is headline (rows 2–5), then facade, then lead, then gap. That works. However, the blue gap statement in columns 9–12 is set at almost the same size as the lead in columns 1–7, so the two compete. Set the gap one step larger than the lead, or the lead one step smaller, so the 6-mile gap clearly takes second place after the headline.",
+      "Hierarchy: the highlighted accent pin around row 10 is the key 'you are here' mark, but it carries no label. Add a small mono label beside it (e.g. 'Stockport') aligned to column 10. That way the eye can connect the pinfield back to the gap statement in row 6.",
+      "Type: the two-line headline across all 12 columns is strong, and 'Strawberry' fills the measure well. The lead's three lines across 7 columns have a good measure and an even rag. In the list, the mono index numbers and right-aligned mono distances on column 12 are well paired with the sans names. Keep all of this.",
+      "Color: the #3E5680 accent is used in three places: the gap text, the list indices, and the one highlighted pin. It ties the right-hand stack together and echoes the blue sky in the facade photo. Keep the accent limited to these three uses; do not extend it to the lead."
+    ],
+    "summary": "This is a clean, well-proportioned poster. The full-width headline, the 7-column facade, the deliberate empty column 8, and the restrained blue accent all work. Its weakness is the right-hand stack. The pinfield claims full height in the stated idea but sits loosely in rows 9–12, the list wastes row 8, and the key pin has no label. Tighten the list to row 7, fit the pinfield to rows 8–12 with a label on the accent pin, and separate the sizes of the gap statement and the lead. With those changes it would be a keeper.",
+    "mean": 6.6
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "nearby",
+      "mean": 6.2,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 6,
+        "color": 6
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 5
+      },
+      "problems": 0
+    },
+    {
+      "idea": "nearby",
+      "mean": 6.6,
+      "scores": {
+        "idea": 6,
+        "grid": 6,
+        "hierarchy": 7,
+        "type": 7,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "inter",
+      "name": "Inter Tight / Inter / IBM Plex Mono",
+      "headline": {
+        "family": "Inter Tight",
+        "weight": 300
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "IBM Plex Mono",
+        "weight": 400
+      },
+      "google": [
+        "Inter+Tight:wght@300;400;500;600",
+        "Inter:wght@400;500;600",
+        "IBM+Plex+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#1D1D1B",
+      "accent": "#3E5680",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Strawberry Studios",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Greater Manchester",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "40 / 40",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Strawberry Studios"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Greater Manchester"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "England"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Personal"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Ridiculopathy, CC0"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "Strawberry\nStudios"
+      },
+      {
+        "id": "el-2",
+        "name": "facade",
+        "kind": "photo",
+        "c": 1,
+        "cs": 7,
+        "r": 6,
+        "rs": 5,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 2,
+        "src": "../data/images/strawberry-studios/commons-2.jpg",
+        "zoom": 1.3,
+        "focus": [
+          0.5,
+          0.55
+        ]
+      },
+      {
+        "id": "el-3",
+        "name": "gap",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 6,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "6 miles south-east of Manchester.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "nearby-list",
+        "kind": "list",
+        "c": 9,
+        "cs": 4,
+        "r": 7,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "items": [
+          {
+            "id": "southern-cemetery",
+            "n": "01",
+            "name": "Southern Cemetery",
+            "km": "7.4 km"
+          },
+          {
+            "id": "manchester-bridge",
+            "n": "02",
+            "name": "Manchester Bridge",
+            "km": "9.3 km"
+          },
+          {
+            "id": "hacienda-site",
+            "n": "03",
+            "name": "Haçienda site",
+            "km": "10 km"
+          },
+          {
+            "id": "salford-lads-club",
+            "n": "04",
+            "name": "Salford Lads Club",
+            "km": "10.9 km"
+          },
+          {
+            "id": "salford-lads-club-2",
+            "n": "05",
+            "name": "Salford Lads' Club",
+            "km": "11.1 km"
+          }
+        ]
+      },
+      {
+        "id": "el-5",
+        "name": "pinfield",
+        "kind": "pinfield",
+        "c": 9,
+        "cs": 4,
+        "r": 9,
+        "rs": 4,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              51.531988,
+              -0.178226
+            ],
+            [
+              50.856,
+              -0.554
+            ],
+            [
+              51.4286099,
+              -1.8517053
+            ],
+            [
+              55.6089,
+              -1.7096
+            ],
+            [
+              51.4817738,
+              -0.1445821
+            ],
+            [
+              50.738185,
+              0.2494669
+            ],
+            [
+              51.5121,
+              -0.1037
+            ],
+            [
+              51.9974936,
+              -0.7410593
+            ],
+            [
+              51.0022632,
+              0.5432201
+            ],
+            [
+              51.5194,
+              -0.127
+            ],
+            [
+              51.539,
+              -0.1426
+            ],
+            [
+              51.4919,
+              -2.227
+            ],
+            [
+              50.8136679,
+              -2.4748234
+            ],
+            [
+              51.1091,
+              -0.1872
+            ],
+            [
+              51.4837,
+              -0.609
+            ],
+            [
+              50.9469,
+              0.9419
+            ],
+            [
+              50.0490966,
+              -5.183317
+            ],
+            [
+              51.4769,
+              -0.0005
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              55.0123,
+              -2.3312
+            ],
+            [
+              50.8738,
+              -0.7147
+            ],
+            [
+              53.2663542,
+              -2.137922
+            ],
+            [
+              52.0894,
+              0.1319
+            ],
+            [
+              53.2366504,
+              -2.3082382
+            ],
+            [
+              51.6725,
+              0.2611
+            ],
+            [
+              51.4781974,
+              -0.2968861
+            ],
+            [
+              51.1147,
+              -2.3289
+            ],
+            [
+              52.2047796,
+              0.116544
+            ],
+            [
+              54.6013,
+              -3.1347
+            ],
+            [
+              55.6690608,
+              -1.7848547
+            ],
+            [
+              51.4061,
+              -2.3289
+            ],
+            [
+              53.4084,
+              -2.9916
+            ],
+            [
+              53.2587,
+              -2.125
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              51.27,
+              -0.149
+            ],
+            [
+              50.6905948,
+              -4.6949915
+            ],
+            [
+              54.9697,
+              -1.6113
+            ],
+            [
+              51.752,
+              -1.2577
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              51.1789,
+              -1.8262
+            ],
+            [
+              53.4070168,
+              -2.1542789
+            ],
+            [
+              51.4911,
+              -0.1278
+            ],
+            [
+              54.1357335,
+              -0.7995485
+            ],
+            [
+              50.6686663,
+              -4.762152
+            ],
+            [
+              52.2799,
+              -1.585
+            ],
+            [
+              52.1167,
+              -2.3833
+            ],
+            [
+              53.959,
+              -1.0815
+            ],
+            [
+              51.5108635,
+              -0.1394041
+            ]
+          ],
+          "here": [
+            53.4070168,
+            -2.1542789
+          ],
+          "ring": [
+            [
+              53.4291789,
+              -2.2590361
+            ],
+            [
+              53.4709,
+              -2.2459
+            ],
+            [
+              53.4753,
+              -2.2531
+            ],
+            [
+              53.4793,
+              -2.2649
+            ],
+            [
+              53.4767766,
+              -2.2743137
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-6",
+        "name": "lead",
+        "kind": "text",
+        "c": 1,
+        "cs": 7,
+        "r": 11,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A Stockport studio founded in 1968, used by Joy Division, 10cc, the Smiths and the Stone Roses.",
+        "style": "lead"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/040-strawberry-studios/v1.png"
+}

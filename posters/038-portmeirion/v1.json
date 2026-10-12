@@ -1,0 +1,808 @@
+{
+  "pin_id": "portmeirion",
+  "number": 38,
+  "series": "original",
+  "created_at": "2026-10-12T00:15:28.700Z",
+  "model": "claude-opus-5-5",
+  "status": "below-bar",
+  "feedback": null,
+  "idea": {
+    "key": "location-decides-layout",
+    "sentence": "Portmeirion lies in the north-west of Wales, so the photo's top-left corner is pinned to column 4, row 9, the cell where the village falls on Great Britain, with a small pin map beside it as the key."
+  },
+  "title": "Portmeirion",
+  "place": {
+    "town": "Penrhyndeudraeth",
+    "locality": "Penrhyndeudraeth",
+    "county": "Gwynedd",
+    "adminArea": "Gwynedd",
+    "region": null,
+    "country": "Wales",
+    "sovereign": "United Kingdom",
+    "borough": null,
+    "source": "OpenStreetMap Nominatim",
+    "sourceUrl": "https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=52.9134519&lon=-4.0993545&zoom=14&addressdetails=1&accept-language=en",
+    "displayName": "Penrhyndeudraeth, Gwynedd, Wales, United Kingdom"
+  },
+  "pairing": "serif-bodoni",
+  "paper": "light",
+  "colors": [
+    {
+      "hex": "#646744",
+      "role": "accent"
+    }
+  ],
+  "color_candidates": [
+    {
+      "hex": "#646744",
+      "source": "photo 0",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#C8102E",
+      "source": "Union Jack red",
+      "light": 4.9,
+      "dark": 3.1
+    },
+    {
+      "hex": "#012169",
+      "source": "Union Jack blue",
+      "light": 12.3,
+      "dark": 1.2
+    }
+  ],
+  "copy": [
+    {
+      "element": "headline",
+      "text": "Portmeirion"
+    },
+    {
+      "element": "county",
+      "text": "Gwynedd · Wales"
+    },
+    {
+      "element": "lead",
+      "text": "A folly Italianate style tourist village on the estuary of the River Dwyryd in Gwynedd, North Wales."
+    },
+    {
+      "element": "coordinate",
+      "text": "The photo sits where the village sits in Great Britain"
+    },
+    {
+      "element": "community",
+      "text": "Penrhyndeudraeth"
+    },
+    {
+      "element": "body",
+      "text": "It lies in the community of Penrhyndeudraeth, 2 miles from Porthmadog and 1 mile from Minffordd railway station."
+    }
+  ],
+  "facts_used": [
+    "https://en.wikipedia.org/wiki/Portmeirion"
+  ],
+  "photos": [
+    {
+      "kind": "personal",
+      "file": "data/images/portmeirion/own-portmeirion.jpg",
+      "source": "https://raw.githubusercontent.com/dgbenner/waypoints/main/images/portmeirion.jpg",
+      "author": null,
+      "license": "personal",
+      "licenseUrl": null,
+      "note": "From Dan’s Waypoints pin. Original source and licence unknown; private use only.",
+      "colors": {
+        "palette": [
+          {
+            "hex": "#646744",
+            "share": 0.289
+          },
+          {
+            "hex": "#8e9066",
+            "share": 0.22
+          },
+          {
+            "hex": "#e0ebf3",
+            "share": 0.202
+          },
+          {
+            "hex": "#383f24",
+            "share": 0.157
+          },
+          {
+            "hex": "#acafa0",
+            "share": 0.131
+          }
+        ],
+        "strongest": "#646744"
+      },
+      "credit": "Waypoints photo, personal use"
+    }
+  ],
+  "images_used": [
+    "data/images/portmeirion/own-portmeirion.jpg"
+  ],
+  "elements": [
+    {
+      "name": "headline",
+      "kind": "headline",
+      "col": 1,
+      "col_span": 12,
+      "row": 2,
+      "row_span": 2,
+      "text": "Portmeirion",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "county",
+      "kind": "label",
+      "col": 1,
+      "col_span": 3,
+      "row": 4,
+      "row_span": 1,
+      "text": "Gwynedd · Wales",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "lead",
+      "kind": "text",
+      "col": 4,
+      "col_span": 9,
+      "row": 4,
+      "row_span": 2,
+      "text": "A folly Italianate style tourist village on the estuary of the River Dwyryd in Gwynedd, North Wales.",
+      "style": "lead",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "map",
+      "kind": "pinfield",
+      "col": 1,
+      "col_span": 3,
+      "row": 6,
+      "row_span": 3,
+      "text": null,
+      "style": null,
+      "color": "accent",
+      "align": null,
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "coordinate",
+      "kind": "label",
+      "col": 4,
+      "col_span": 5,
+      "row": 8,
+      "row_span": 1,
+      "text": "The photo sits where the village sits in Great Britain",
+      "style": null,
+      "color": "muted",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "photo",
+      "kind": "photo",
+      "col": 4,
+      "col_span": 5,
+      "row": 9,
+      "row_span": 4,
+      "text": null,
+      "style": null,
+      "color": null,
+      "align": null,
+      "image": 0,
+      "zoom": 1,
+      "focus_x": 0.45,
+      "focus_y": 0.5,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "community",
+      "kind": "label",
+      "col": 9,
+      "col_span": 4,
+      "row": 9,
+      "row_span": 1,
+      "text": "Penrhyndeudraeth",
+      "style": null,
+      "color": "accent",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    },
+    {
+      "name": "body",
+      "kind": "text",
+      "col": 9,
+      "col_span": 4,
+      "row": 10,
+      "row_span": 2,
+      "text": "It lies in the community of Penrhyndeudraeth, 2 miles from Porthmadog and 1 mile from Minffordd railway station.",
+      "style": "body",
+      "color": "ink",
+      "align": "left",
+      "image": null,
+      "zoom": null,
+      "focus_x": null,
+      "focus_y": null,
+      "tag": null,
+      "items": null,
+      "over": false,
+      "panel": false
+    }
+  ],
+  "critic": {
+    "scores": {
+      "idea": 5,
+      "grid": 6,
+      "hierarchy": 6,
+      "type": 7,
+      "color": 7
+    },
+    "notes": [
+      "Idea: the pin map in columns 1–3, rows 6–8 is five loose dots with no coastline, so nobody reads it as Great Britain and nobody can check that column 4, row 9 is Portmeirion. Draw a simplified outline of Britain across columns 1–3, rows 5–8, about one module per cell. Place the pin in the cell that matches the photo's corner so the key actually works.",
+      "Idea: the coordinate label in columns 4–8, row 8 explains the concept in words because the map doesn't show it. Once the map reads, cut this line to a short key such as 'Photo corner = village position' and keep it to columns 4–6.",
+      "Grid: the two stray dots at column 1, rows 8–9 sit outside the map field and align with nothing. Either delete them or fold them into the map outline inside columns 1–3, rows 5–8.",
+      "Grid: the photo's bottom edge runs to the end of row 12 and touches the footer rule, so it has no air. Keep the corner at column 4, row 9 and end the photo at row 11, or start it at row 8. Leave one empty row above the footer.",
+      "Grid: rows 6–7 across columns 4–12 are empty, and the map is too faint to balance them. Either extend the map into column 4 up to row 6 or move the photo field up a row. The empty modules should look intended, not left over.",
+      "Hierarchy: the eye goes headline, lead, then drifts, because the photo (5 of 12 columns, 4 rows) is the second-strongest mass but the map that explains it is the weakest. Give the map visible weight, with the outline in the accent at full strength, so the path runs headline → map → photo → body.",
+      "Hierarchy: the community label 'Penrhyndeudraeth' in row 9 hangs a full row above the body in rows 10–11. Put label and body in consecutive rows (label row 9, body starting row 9 one baseline down), or move both down to rows 10–11. Then the caption block lines up with the photo's middle, not its top.",
+      "Type: the lead in columns 4–12 runs about 50 characters per line, which is good. But its size is only about 1.5× the body in columns 9–12, so the two text levels feel close. Either enlarge the lead slightly or set the body one step smaller, so there are three clear sizes: headline, lead, body.",
+      "Type: the body in columns 9–12 (4 of 12) rags well at about 30 characters. Check that its first baseline sits on the row 10 hanging line and not floating mid-row.",
+      "Color: the olive #646744 on the warm grey paper suits the photo's greens. But the accent is used only on the headline and labels. Put it on the map outline and the pin as well, so the accent carries the idea and isn't just decoration."
+    ],
+    "summary": "A strong 12-column headline and a well-measured lead give the poster a solid top half. The concept fails in the lower left: the pin map in columns 1–3, rows 6–8 is too sparse to read as Britain, so the photo's placement at column 4, row 9 has to be explained by a caption instead of being seen. Draw a real outline map, tighten the photo to stop above the footer, and pair the community label directly with the body. Type and colour are close to keepable.",
+    "mean": 6.2
+  },
+  "checks": [],
+  "attempts": [
+    {
+      "idea": "location-decides-layout",
+      "mean": 6,
+      "scores": {
+        "idea": 5,
+        "grid": 5,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.2,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 7
+      },
+      "problems": 0
+    },
+    {
+      "idea": "location-decides-layout",
+      "mean": 6.2,
+      "scores": {
+        "idea": 5,
+        "grid": 6,
+        "hierarchy": 6,
+        "type": 7,
+        "color": 7
+      },
+      "problems": 0
+    }
+  ],
+  "render": {
+    "grid": {
+      "page": {
+        "name": "A4 portrait",
+        "width": 595.28,
+        "height": 841.89,
+        "unit": "pt"
+      },
+      "margin": 36,
+      "columns": 12,
+      "gutter": 12,
+      "baseline": 12,
+      "linesPerModule": 4,
+      "rowGutterLines": 1,
+      "fonts": {
+        "active": "inter",
+        "pairings": [
+          {
+            "id": "inter",
+            "name": "Inter Tight / Inter / IBM Plex Mono",
+            "headline": {
+              "family": "Inter Tight",
+              "weight": 300
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Inter+Tight:wght@300;400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "archivo",
+            "name": "Archivo Narrow / Source Serif 4 / JetBrains Mono",
+            "headline": {
+              "family": "Archivo Narrow",
+              "weight": 500
+            },
+            "text": {
+              "family": "Source Serif 4",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Archivo+Narrow:wght@400;500;600",
+              "Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "space",
+            "name": "Space Grotesk / IBM Plex Sans / Space Mono",
+            "headline": {
+              "family": "Space Grotesk",
+              "weight": 400
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "Space Mono",
+              "weight": 400
+            },
+            "google": [
+              "Space+Grotesk:wght@300;400;500;600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "Space+Mono:wght@400;700"
+            ]
+          },
+          {
+            "id": "serif-garamond",
+            "name": "EB Garamond / Inter / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "EB Garamond",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "EB+Garamond:wght@400;500;600",
+              "Inter:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-bodoni",
+            "name": "Bodoni Moda / Inter / JetBrains Mono",
+            "serif": true,
+            "headline": {
+              "family": "Bodoni Moda",
+              "weight": 400,
+              "tracking": -0.01
+            },
+            "text": {
+              "family": "Inter",
+              "weight": 400
+            },
+            "label": {
+              "family": "JetBrains Mono",
+              "weight": 400
+            },
+            "google": [
+              "Bodoni+Moda:opsz,wght@6..96,400..700",
+              "Inter:wght@400;500;600",
+              "JetBrains+Mono:wght@400;500"
+            ]
+          },
+          {
+            "id": "serif-newsreader",
+            "name": "Newsreader / IBM Plex Sans / IBM Plex Mono",
+            "serif": true,
+            "headline": {
+              "family": "Newsreader",
+              "weight": 400,
+              "tracking": -0.015
+            },
+            "text": {
+              "family": "IBM Plex Sans",
+              "weight": 400
+            },
+            "label": {
+              "family": "IBM Plex Mono",
+              "weight": 400
+            },
+            "google": [
+              "Newsreader:opsz,wght@6..72,300..600",
+              "IBM+Plex+Sans:wght@400;500;600",
+              "IBM+Plex+Mono:wght@400;500"
+            ]
+          }
+        ]
+      }
+    },
+    "pairing": {
+      "id": "serif-bodoni",
+      "name": "Bodoni Moda / Inter / JetBrains Mono",
+      "serif": true,
+      "headline": {
+        "family": "Bodoni Moda",
+        "weight": 400,
+        "tracking": -0.01
+      },
+      "text": {
+        "family": "Inter",
+        "weight": 400
+      },
+      "label": {
+        "family": "JetBrains Mono",
+        "weight": 400
+      },
+      "google": [
+        "Bodoni+Moda:opsz,wght@6..96,400..700",
+        "Inter:wght@400;500;600",
+        "JetBrains+Mono:wght@400;500"
+      ]
+    },
+    "theme": {
+      "paper": "#EBEAE5",
+      "ink": "#1D1D1B",
+      "muted": "#5F5E58",
+      "rule": "#B9B8B1",
+      "headline": "#1D1D1B",
+      "accent": "#646744",
+      "panel": null
+    },
+    "elements": [
+      {
+        "id": "header-1",
+        "name": "Header: series",
+        "kind": "label",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "WAYPOINTS",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-2",
+        "name": "Header: title",
+        "kind": "label",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Portmeirion",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-3",
+        "name": "Header: county",
+        "kind": "label",
+        "frame": true,
+        "c": 7,
+        "cs": 4,
+        "r": 1,
+        "rs": 1,
+        "text": "Gwynedd",
+        "align": "left",
+        "color": "ink"
+      },
+      {
+        "id": "header-4",
+        "name": "Header: number",
+        "kind": "label",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 1,
+        "rs": 1,
+        "text": "38 / 40",
+        "align": "right",
+        "color": "ink"
+      },
+      {
+        "id": "footer-rule",
+        "name": "Footer: rule",
+        "kind": "rule",
+        "frame": true,
+        "c": 1,
+        "cs": 12,
+        "r": 13,
+        "rs": 1
+      },
+      {
+        "id": "footer-1",
+        "name": "Footer: place",
+        "kind": "foot",
+        "frame": true,
+        "c": 1,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Place",
+        "value": "Portmeirion"
+      },
+      {
+        "id": "footer-2",
+        "name": "Footer: county",
+        "kind": "foot",
+        "frame": true,
+        "c": 3,
+        "cs": 4,
+        "r": 13,
+        "rs": 1,
+        "label": "County",
+        "value": "Gwynedd"
+      },
+      {
+        "id": "footer-3",
+        "name": "Footer: country",
+        "kind": "foot",
+        "frame": true,
+        "c": 7,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Country",
+        "value": "Wales"
+      },
+      {
+        "id": "footer-4",
+        "name": "Footer: category",
+        "kind": "foot",
+        "frame": true,
+        "c": 9,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Category",
+        "value": "Heritage"
+      },
+      {
+        "id": "footer-5",
+        "name": "Footer: photo",
+        "kind": "foot",
+        "frame": true,
+        "c": 11,
+        "cs": 2,
+        "r": 13,
+        "rs": 1,
+        "label": "Photo",
+        "value": "Waypoints photo, personal use"
+      },
+      {
+        "id": "el-1",
+        "name": "headline",
+        "kind": "headline",
+        "c": 1,
+        "cs": 12,
+        "r": 2,
+        "rs": 2,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Portmeirion"
+      },
+      {
+        "id": "el-2",
+        "name": "county",
+        "kind": "label",
+        "c": 1,
+        "cs": 3,
+        "r": 4,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Gwynedd · Wales"
+      },
+      {
+        "id": "el-3",
+        "name": "lead",
+        "kind": "text",
+        "c": 4,
+        "cs": 9,
+        "r": 4,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "A folly Italianate style tourist village on the estuary of the River Dwyryd in Gwynedd, North Wales.",
+        "style": "lead"
+      },
+      {
+        "id": "el-4",
+        "name": "map",
+        "kind": "pinfield",
+        "c": 1,
+        "cs": 3,
+        "r": 6,
+        "rs": 3,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "dots": {
+          "points": [
+            [
+              53.19,
+              -3.43
+            ],
+            [
+              52.6333,
+              -3.85
+            ],
+            [
+              52.5906,
+              -3.8517
+            ],
+            [
+              52.9134519,
+              -4.0993545
+            ],
+            [
+              51.735,
+              -5.295
+            ],
+            [
+              51.9075,
+              -5.3
+            ]
+          ],
+          "here": [
+            52.9134519,
+            -4.0993545
+          ],
+          "ring": [
+            [
+              52.6333,
+              -3.85
+            ]
+          ]
+        }
+      },
+      {
+        "id": "el-5",
+        "name": "coordinate",
+        "kind": "label",
+        "c": 4,
+        "cs": 5,
+        "r": 8,
+        "rs": 1,
+        "color": "muted",
+        "align": "left",
+        "over": false,
+        "text": "The photo sits where the village sits in Great Britain"
+      },
+      {
+        "id": "el-6",
+        "name": "photo",
+        "kind": "photo",
+        "c": 4,
+        "cs": 5,
+        "r": 9,
+        "rs": 4,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "image": 0,
+        "src": "../data/images/portmeirion/own-portmeirion.jpg",
+        "zoom": 1,
+        "focus": [
+          0.45,
+          0.5
+        ]
+      },
+      {
+        "id": "el-7",
+        "name": "community",
+        "kind": "label",
+        "c": 9,
+        "cs": 4,
+        "r": 9,
+        "rs": 1,
+        "color": "accent",
+        "align": "left",
+        "over": false,
+        "text": "Penrhyndeudraeth"
+      },
+      {
+        "id": "el-8",
+        "name": "body",
+        "kind": "text",
+        "c": 9,
+        "cs": 4,
+        "r": 10,
+        "rs": 2,
+        "color": "ink",
+        "align": "left",
+        "over": false,
+        "text": "It lies in the community of Penrhyndeudraeth, 2 miles from Porthmadog and 1 mile from Minffordd railway station.",
+        "style": "body"
+      }
+    ]
+  },
+  "version": 1,
+  "image": "posters/038-portmeirion/v1.png"
+}
