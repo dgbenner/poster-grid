@@ -3,6 +3,7 @@
 //   POST /api/revise   { id, version, feedback }  makes a new version; streams progress
 //   POST /api/publish  { id, version }            chooses the version the site shows
 //   POST /api/swap     { id, source, version }    puts another series' version in this slot
+//   POST /api/keep     { id }                     keeps the published version, settling alternates
 // Those need the Anthropic key in .env.local, so they exist only here, never on Pages.
 import { createServer } from 'node:http';
 import { readFile, writeFile } from 'node:fs/promises';
@@ -38,6 +39,15 @@ async function api(req, res, path) {
       await publish(body.id, Number(body.version));
       await buildIndex();
       return send(200, { ok: true, published: Number(body.version) });
+    } catch (err) { return send(400, { error: err.message }); }
+  }
+
+  if (path === '/api/keep') {
+    try {
+      const { markReviewed } = await import('./lib/store.mjs');
+      await markReviewed(body.id);
+      await buildIndex();
+      return send(200, { ok: true });
     } catch (err) { return send(400, { error: err.message }); }
   }
 

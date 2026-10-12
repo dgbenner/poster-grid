@@ -3,6 +3,10 @@
 //   posters/<id>/v<n>.json     one version: idea, design, critic, checks, render spec
 //   posters/<id>/v<n>.png      that version rendered
 // Versions are only ever added, never overwritten.
+//
+// Review: "reviewed" is the newest version Dan has decided on. Versions newer than it are
+// alternates waiting for review. Publishing any version, or keeping the published one,
+// settles them all.
 import { mkdir, readFile, readdir, stat, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { ROOT } from './http.mjs';
@@ -27,7 +31,7 @@ export const savePoster = meta => write(join(DIR, meta.id, 'poster.json'), meta)
 
 export async function createPoster({ id, number, series, pin_id }) {
   await mkdir(join(DIR, id), { recursive: true });
-  const meta = { id, number, series, pin_id, published: null, versions: [] };
+  const meta = { id, number, series, pin_id, published: null, reviewed: 0, versions: [] };
   await savePoster(meta);
   return meta;
 }
@@ -44,15 +48,29 @@ export async function addVersion(id, record, png, { feedback = null, from = null
     v, created_at: new Date().toISOString(), feedback, from,
     mean: record.critic?.mean ?? null, followed: record.critic?.scores?.followed ?? null, status: record.status,
   });
-  if (publish || meta.published == null) meta.published = v;
+  // A first version, a remake or a swap is a decision in itself; a version from feedback
+  // waits for review.
+  if (publish || meta.published == null) { meta.published = v; meta.reviewed = v; }
   await savePoster(meta);
   return v;
+}
+
+export const latest = meta => Math.max(0, ...meta.versions.map(x => x.v));
+export const pending = meta => meta.versions.filter(x => x.v > (meta.reviewed ?? latest(meta)));
+
+// Keeps the published version and settles every alternate.
+export async function markReviewed(id) {
+  const meta = await loadPoster(id);
+  meta.reviewed = latest(meta);
+  await savePoster(meta);
+  return meta;
 }
 
 export async function publish(id, v) {
   const meta = await loadPoster(id);
   if (!meta.versions.some(x => x.v === v)) throw new Error(`poster ${id} has no version ${v}`);
   meta.published = v;
+  meta.reviewed = latest(meta);
   await savePoster(meta);
   return meta;
 }

@@ -4,7 +4,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { ROOT } from './lib/http.mjs';
-import { listPosters, loadVersion } from './lib/store.mjs';
+import { listPosters, loadVersion, pending } from './lib/store.mjs';
 
 const seriesNames = {};
 async function seriesName(slug) {
@@ -24,15 +24,17 @@ export async function buildIndex() {
     series[meta.series] = await seriesName(meta.series);
     // The same place's posters in other series (shown or hidden), for comparing and
     // swapping in. Versions already swapped into this poster are not repeated.
+    // Alternates are versions waiting for Dan's review: this poster's versions newer than
+    // the one he last decided on, and the same for the place's posters in other series.
     const swapped = new Set(meta.versions.map(x => x.from).filter(Boolean));
     const related = [];
     for (const o of everything.filter(o => o.pin_id === meta.pin_id && o.id !== meta.id)) {
-      const versions = o.versions.filter(x => !swapped.has(`${o.id} v${x.v}`));
+      const versions = pending(o).filter(x => !swapped.has(`${o.id} v${x.v}`));
       if (versions.length) related.push({ id: o.id, series: o.series, seriesName: await seriesName(o.series), number: o.number, hidden: !!o.hidden, versions });
     }
     list.push({
       id: meta.id, number: meta.number, series: meta.series, version: meta.published,
-      versions: meta.versions, related,
+      versions: meta.versions, pending: pending(meta).map(x => x.v), related,
       title: p.title, status: p.status,
       place: { town: p.place.town, county: p.place.county, borough: p.place.borough, country: p.place.country },
       idea: p.idea, pairing: p.pairing, paper: p.paper,

@@ -32,6 +32,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Salford Lads Club",
       "status": "below-bar",
@@ -186,26 +187,8 @@
           "status": "below-bar"
         }
       ],
-      "related": [
-        {
-          "id": "serif-003-macclesfield-ian-curtis",
-          "series": "serif",
-          "seriesName": "Serif",
-          "number": 3,
-          "hidden": true,
-          "versions": [
-            {
-              "v": 1,
-              "created_at": "2026-10-11T23:03:06.549Z",
-              "feedback": null,
-              "from": null,
-              "mean": 6.6,
-              "followed": null,
-              "status": "below-bar"
-            }
-          ]
-        }
-      ],
+      "pending": [],
+      "related": [],
       "title": "Macclesfield — Ian Curtis",
       "status": "below-bar",
       "place": {
@@ -342,26 +325,8 @@
           "status": "pass"
         }
       ],
-      "related": [
-        {
-          "id": "serif-001-battersea-power-station",
-          "series": "serif",
-          "seriesName": "Serif",
-          "number": 1,
-          "hidden": true,
-          "versions": [
-            {
-              "v": 1,
-              "created_at": "2026-10-11T22:44:25.278Z",
-              "feedback": null,
-              "from": null,
-              "mean": 6.6,
-              "followed": null,
-              "status": "below-bar"
-            }
-          ]
-        }
-      ],
+      "pending": [],
+      "related": [],
       "title": "Battersea Power Station",
       "status": "pass",
       "place": {
@@ -475,6 +440,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Bamburgh",
       "status": "below-bar",
@@ -608,6 +574,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Beachy Head",
       "status": "below-bar",
@@ -746,6 +713,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "The Black Friar, City of London",
       "status": "below-bar",
@@ -882,6 +850,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Bletchley Park",
       "status": "below-bar",
@@ -1032,6 +1001,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Castle Combe, Wiltshire",
       "status": "below-bar",
@@ -1168,6 +1138,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "British Museum",
       "status": "below-bar",
@@ -1301,6 +1272,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Cerne Abbas Giant",
       "status": "below-bar",
@@ -1434,6 +1406,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Crawley",
       "status": "below-bar",
@@ -1568,6 +1541,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Goonhilly",
       "status": "below-bar",
@@ -1699,6 +1673,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Duxford",
       "status": "below-bar",
@@ -1831,6 +1806,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Kelvedon Hatch Secret Nuclear Bunker",
       "status": "below-bar",
@@ -1963,6 +1939,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Lake District",
       "status": "below-bar",
@@ -2103,6 +2080,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Little Solsbury Hill, Somerset",
       "status": "below-bar",
@@ -2230,6 +2208,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Liverpool",
       "status": "below-bar",
@@ -2368,6 +2347,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Merstham phone-box graveyard",
       "status": "below-bar",
@@ -2501,6 +2481,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Newcastle upon Tyne",
       "status": "below-bar",
@@ -2628,6 +2609,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Oxfordshire",
       "status": "below-bar",
@@ -2759,6 +2741,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Warwick Castle",
       "status": "below-bar",
@@ -2890,6 +2873,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Herefordshire, at the border",
       "status": "below-bar",
@@ -3021,6 +3005,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "The Shambles, York",
       "status": "below-bar",
@@ -3152,6 +3137,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Crooked House of Windsor",
       "status": "below-bar",
@@ -3292,6 +3278,7 @@
           "status": "pass"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Haçienda",
       "status": "pass",
@@ -3396,6 +3383,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Hadrian's Wall, Northumberland",
       "status": "below-bar",
@@ -3524,6 +3512,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Jodrell Bank",
       "status": "below-bar",
@@ -3651,6 +3640,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "King's College Chapel, Cambridge",
       "status": "below-bar",
@@ -3782,6 +3772,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Museum of Witchcraft and Magic",
       "status": "below-bar",
@@ -3919,6 +3910,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Stonehenge",
       "status": "below-bar",
@@ -4050,6 +4042,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Arundel Castle",
       "status": "below-bar",
@@ -4190,6 +4183,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Tintagel Castle",
       "status": "below-bar",
@@ -4322,6 +4316,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "East Sussex — Bodiam Castle",
       "status": "below-bar",
@@ -4443,6 +4438,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Abbey Road",
       "status": "below-bar",
@@ -4576,6 +4572,7 @@
           "status": "below-bar"
         }
       ],
+      "pending": [],
       "related": [],
       "title": "Lindisfarne Castle",
       "status": "below-bar",

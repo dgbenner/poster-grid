@@ -20,7 +20,7 @@
     button { font: inherit; color: inherit; }
     .wrap { max-width: 1240px; margin: 0 auto; padding: 32px 16px 64px; }
     .kicker { font: 500 10.5px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0; }
-    h1 { font: 300 44px/1.05 "Inter Tight", var(--sans); letter-spacing: -.03em; margin: 10px 0 12px; }
+    h1 { font: 300 44px/1.05 "Inter Tight", var(--sans); letter-spacing: -.03em; margin: 0 0 10px; }
     .lede { color: var(--muted); max-width: 640px; margin: 0; }
     .links { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 8px; }
     .btn { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 7px; text-decoration: none; font-weight: 500; font-size: 13px; background: none; cursor: pointer; }
@@ -43,6 +43,7 @@
     .filters .kicker { margin-right: 4px; }
     .chip { border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; font: 500 12px var(--mono); background: none; cursor: pointer; color: var(--muted); }
     .chip[aria-pressed="true"] { background: var(--ink); color: #111; border-color: var(--ink); }
+    .chip:disabled { opacity: .3; cursor: default; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 24px 18px; }
     .card { text-decoration: none; display: block; }
     .card img { width: 100%; aspect-ratio: 595 / 842; object-fit: cover; display: block; border-radius: 2px; background: #222; box-shadow: 0 10px 30px rgba(0,0,0,.4); transition: transform .15s; }
@@ -137,9 +138,8 @@
   <div class="wrap">
     <header class="top">
       <div>
-        <p class="kicker">Waypoints · work in progress</p>
         <h1>Poster Grid</h1>
-        <p class="lede">Posters of saved places, set on one strict typographic grid. Each was designed by a model that places elements only on grid cells, checked by code, scored by a critic in grid terms, and rendered from the same grid as the lab.</p>
+        <p class="lede">Posters of saved places from Waypoints, set on one strict typographic grid.</p>
       </div>
       <div class="status-bar">
         <a class="lab-link" href="lab/">Grid lab</a>
@@ -181,17 +181,19 @@
     window.addEventListener('hashchange', route);
 
     // Filters: one flag per country with posters (the UK's Union Jack covers England,
-    // Scotland, Wales and Northern Ireland), plus Alternates: posters with more than one
-    // version. "All" is kept but hidden until there is a second country.
-    const SHOW_ALL = false;
+    // Scotland, Wales and Northern Ireland), plus Alternates: posters with new versions
+    // waiting for review. All and Alternates stay on screen but ghosted when they would
+    // show nothing new (All until there is a second country).
+    const ALL_READY = false;
     const UK = ['England', 'Scotland', 'Wales', 'Northern Ireland'];
     const FLAGS = { uk: { label: 'United Kingdom', img: 'assets/flags/gb.svg', match: p => UK.includes(p.place.country) } };
-    const hasAlternates = p => p.versions.length > 1 || (p.related || []).length > 0;
+    const hasAlternates = p => (p.pending || []).length > 0 || (p.related || []).length > 0;
     const FILTERS = { all: () => true, alternates: hasAlternates, ...Object.fromEntries(Object.entries(FLAGS).map(([k, f]) => [k, f.match])) };
 
     function renderList() {
       const flags = Object.entries(FLAGS).filter(([, f]) => data.posters.some(f.match));
-      if (!FILTERS[filter] || (filter === 'all' && !SHOW_ALL)) filter = flags[0]?.[0] || 'all';
+      const altCount = data.posters.filter(hasAlternates).length;
+      if (!FILTERS[filter] || (filter === 'all' && !ALL_READY) || (filter === 'alternates' && !altCount)) filter = flags[0]?.[0] || 'all';
       const ps = data.posters.filter(FILTERS[filter]);
       const pass = ps.filter(p => p.status === 'pass').length;
       const counties = new Set(ps.map(p => p.place.county)).size;
@@ -201,9 +203,9 @@
         [mean.toFixed(1), 'mean score'], [pass, 'at 7+'],
       ].map(([b, t]) => `<b>${b}</b> ${t}`).join('<span class="sep">·</span>');
       const chips = [
-        ...(SHOW_ALL ? [`<button class="chip" type="button" data-f="all" aria-pressed="${filter === 'all'}">All ${data.total}</button>`] : []),
+        `<button class="chip" type="button" data-f="all" aria-pressed="${filter === 'all'}" ${ALL_READY ? '' : 'disabled title="Comes into use with a second country"'}>All</button>`,
         ...flags.map(([k, f]) => `<button class="chip flag" type="button" data-f="${k}" aria-pressed="${filter === k}" title="${esc(f.label)}"><img src="${esc(f.img)}" alt="">${esc(f.label)} ${data.posters.filter(f.match).length}</button>`),
-        `<button class="chip" type="button" data-f="alternates" aria-pressed="${filter === 'alternates'}">Alternates ${data.posters.filter(hasAlternates).length}</button>`,
+        `<button class="chip" type="button" data-f="alternates" aria-pressed="${filter === 'alternates'}" ${altCount ? '' : 'disabled title="No alternates waiting for review"'}>Alternates${altCount ? ` ${altCount}` : ''}</button>`,
       ];
       $('#filters').innerHTML = chips.join('');
       $('#filters').querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
@@ -214,7 +216,7 @@
       $('#grid').innerHTML = [...ps].sort((a, b) => a.series.localeCompare(b.series) || a.number - b.number).map(p => `
         <a class="card" href="#${esc(key(p))}">
           <img src="${esc(p.image)}" alt="Poster ${nn(p.number)}: ${esc(p.title)}" loading="lazy">
-          <div class="meta"><span>${nn(p.number)} · ${esc(IDEA[p.idea.key])}${hasAlternates(p) ? ' · alternates' : ''}</span>
+          <div class="meta"><span>${nn(p.number)} · ${esc(IDEA[p.idea.key])}${hasAlternates(p) ? ' · to review' : ''}</span>
             <span class="score ${p.status === 'pass' ? 'pass' : 'below'}">${p.critic ? p.critic.mean.toFixed(1) : '—'}</span></div>
           <h3>${esc(p.title)}</h3>
           <div class="county">${esc(county(p))}</div>
@@ -234,15 +236,18 @@
       const p = findPoster();
       $('#list').style.display = p ? 'none' : '';
       $('#detail').classList.toggle('open', !!p);
-      if (!p) return;
+      // Back on the list: redraw it, since a review in the detail view may have changed it.
+      if (!p) { renderList(); return; }
       view = { p, mode: 'published', focus: { id: p.id, v: p.version } };
       await showVersion();
       window.scrollTo(0, 0);
     }
 
-    // Every version of this place: its own, then other series' posters of it.
+    // The published version, then the alternates waiting for review: this poster's newer
+    // versions and new versions of the place made separately.
     function choices(p) {
-      const own = p.versions.map(x => ({ id: p.id, v: x.v, label: `v${x.v}`, meta: x, own: true }));
+      const keep = new Set([p.version, ...(p.pending || [])]);
+      const own = p.versions.filter(x => keep.has(x.v)).map(x => ({ id: p.id, v: x.v, label: `v${x.v}`, meta: x, own: true }));
       const other = (p.related || []).flatMap(r => r.versions.map(x => ({ id: r.id, v: x.v, label: `Alternate ${r.seriesName.toLowerCase()} v${x.v}`, meta: x, own: false })));
       return [...own, ...other];
     }
@@ -296,7 +301,7 @@
       const toggle = many ? `
         <div class="seg" role="group" aria-label="Show">
           <button type="button" data-mode="published" aria-pressed="${!tiles}">Published</button>
-          <button type="button" data-mode="all" aria-pressed="${tiles}">Alternates (${all.length})</button>
+          <button type="button" data-mode="all" aria-pressed="${tiles}">Alternates (${all.length - 1})</button>
         </div>` : '';
 
       const left = tiles ? `
@@ -307,7 +312,9 @@
               <div class="tl"><b>${esc(x.label)}</b>${same(x, pub) ? '<span class="pub">Published</span>' : ''}</div>
               <div class="small">${scoreText(x)}</div>
               <div class="small made">${madeFrom(x)}</div>
-              ${same(x, pub) ? '' : `<button class="btn use" type="button" data-use="${esc(cid(x))}">${x.own ? 'Use this version' : 'Use this version here'}</button><span class="status" data-status="${esc(cid(x))}"></span>`}
+              ${same(x, pub)
+                ? `<button class="btn use" type="button" data-keep="1">Keep published</button><span class="status" data-status="keep"></span>`
+                : `<button class="btn use" type="button" data-use="${esc(cid(x))}">${x.own ? 'Use this version' : 'Use this version here'}</button><span class="status" data-status="${esc(cid(x))}"></span>`}
               ${askForm(x)}
             </figcaption>
           </figure>`).join('')}</div>`
@@ -326,7 +333,7 @@
           <p class="kicker">${nn(p.number)} / ${nn(data.totals[p.series])} · ${esc(IDEA[d.idea.key])}</p>
           <h2>${esc(d.title)}</h2>
           <p class="sub">${esc(county(p))} · ${esc(p.place.country)}</p>
-          ${tiles ? `<p class="focus-note">Notes for <b>${esc(fc.label)}</b>${same(fc, pub) ? ' (published)' : ''}. Click an alternate's image to see its notes.</p>` : ''}
+          ${tiles ? `<p class="focus-note">Notes for <b>${esc(fc.label)}</b>${same(fc, pub) ? ' (published)' : ''}. Pick one with Use this version, or Keep published. Click an image to see its notes.</p>` : ''}
           <div class="sec"><h4>Idea</h4><p>${esc(d.idea.sentence)}</p></div>
           ${c ? `<div class="sec"><h4>Critic · ${c.mean.toFixed(1)}${d.status === 'pass' ? ' · passed' : ' · below 7'}${d.attempts?.length > 1 ? ` · ${d.attempts.length} attempts` : ''}</h4>
             <div class="scores">${Object.entries(c.scores).map(([k, val]) => `<div><b>${val}</b><span>${k}</span></div>`).join('')}</div></div>
@@ -348,6 +355,7 @@
       $('#detail').querySelectorAll('[data-mode]').forEach(b => b.addEventListener('click', () => { view.mode = b.dataset.mode; showVersion(); }));
       $('#detail').querySelectorAll('[data-focus]').forEach(b => b.addEventListener('click', () => { view.focus = byId(b.dataset.focus); showVersion(); }));
       $('#detail').querySelectorAll('[data-use]').forEach(b => b.addEventListener('click', () => useVersion(byId(b.dataset.use), b)));
+      $('#detail').querySelector('[data-keep]')?.addEventListener('click', e => keepPublished(e.target));
       $('#detail').querySelectorAll('details.ask').forEach(form => wireAsk(form, byId(form.dataset.c)));
     }
 
@@ -406,7 +414,22 @@
       try {
         const out = c.own ? await post('api/publish', { id: p.id, version: c.v }) : await post('api/swap', { id: p.id, source: c.id, version: c.v });
         const v = c.own ? c.v : out.version;
-        await reload(p.id, 'all', { id: p.id, v });
+        await reload(p.id, 'published', { id: p.id, v });
+      } catch (err) {
+        status.textContent = err.message;
+        status.classList.add('err');
+        btn.disabled = false;
+      }
+    }
+
+    // Keeps the published version; the alternates are settled and leave the review list.
+    async function keepPublished(btn) {
+      const { p } = view;
+      const status = $('#detail').querySelector('[data-status="keep"]');
+      btn.disabled = true;
+      try {
+        await post('api/keep', { id: p.id });
+        await reload(p.id, 'published', { id: p.id, v: p.version });
       } catch (err) {
         status.textContent = err.message;
         status.classList.add('err');
